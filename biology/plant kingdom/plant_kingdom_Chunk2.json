@@ -1,0 +1,2411 @@
+{
+  "chapter_name": "Plant Kingdom",
+  "chapter_number": 3,
+  "subject": "Biology",
+  "class": 11,
+  "source": "NCERT Biology Class 11",
+  "chunk": 2,
+  "topic_covered": "Bryophytes - General Introduction, Liverworts (Hepaticopsida), Mosses (Bryopsida)",
+  "questions": [
+    {
+      "id": "PKQ_301",
+      "question": "Bryophytes are commonly called:",
+      "options": {
+        "A": "Vascular plants",
+        "B": "Amphibians of the plant kingdom",
+        "C": "Seed plants",
+        "D": "Thallophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are called 'amphibians of the plant kingdom' because they can live in soil but are dependent on water for sexual reproduction."
+    },
+    {
+      "id": "PKQ_302",
+      "question": "Why are bryophytes called amphibians of the plant kingdom?",
+      "options": {
+        "A": "They live only in water",
+        "B": "They live only on land",
+        "C": "They can live in soil but are dependent on water for sexual reproduction",
+        "D": "They have both aquatic and terrestrial reproductive structures"
+      },
+      "correct_option": "C",
+      "explanation": "Bryophytes are called amphibians of the plant kingdom because they can live in soil but are dependent on water for sexual reproduction (like amphibians in animals)."
+    },
+    {
+      "id": "PKQ_303",
+      "question": "Bryophytes are found in which habitats?",
+      "options": {
+        "A": "Only aquatic habitats",
+        "B": "Moist, shaded areas — rocks, soil, tree bark in moist, humid areas",
+        "C": "Only dry desert areas",
+        "D": "Only marine habitats"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are found in moist, shaded areas in the hills. They grow on rocks, soil and bark of trees in moist and humid areas."
+    },
+    {
+      "id": "PKQ_304",
+      "question": "What type of plant body do bryophytes have?",
+      "options": {
+        "A": "Differentiated into true roots, stems and leaves",
+        "B": "More differentiated than algae — thallus-like, prostrate or erect, with root-like, leaf-like and stem-like structures",
+        "C": "Unicellular",
+        "D": "Vascular with xylem and phloem"
+      },
+      "correct_option": "B",
+      "explanation": "The plant body of bryophytes is more differentiated than that of algae — it is thallus-like, prostrate or erect, and attached to the substratum by root-like, multicellular and branched rhizoids. They have leaf-like and stem-like structures but lack true vascular tissue."
+    },
+    {
+      "id": "PKQ_305",
+      "question": "What are rhizoids in bryophytes?",
+      "options": {
+        "A": "True roots with xylem and phloem",
+        "B": "Root-like, unicellular or multicellular branched structures that attach the plant to substratum",
+        "C": "Leaf-like photosynthetic structures",
+        "D": "Reproductive structures"
+      },
+      "correct_option": "B",
+      "explanation": "Rhizoids are root-like structures in bryophytes that attach the plant body to the substratum. They are unicellular in liverworts and multicellular and branched in mosses."
+    },
+    {
+      "id": "PKQ_306",
+      "question": "Do bryophytes have true vascular tissue?",
+      "options": {
+        "A": "Yes, they have well-developed xylem and phloem",
+        "B": "No, they do not have specialized vascular tissue",
+        "C": "Yes, but only xylem, no phloem",
+        "D": "Yes, but only phloem, no xylem"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes do NOT have specialized vascular tissue (xylem and phloem). They lack true vascular tissue, which is why they are called 'non-vascular plants' or placed below pteridophytes in plant evolution."
+    },
+    {
+      "id": "PKQ_307",
+      "question": "The main plant body of a bryophyte is:",
+      "options": {
+        "A": "Diploid sporophyte",
+        "B": "Haploid gametophyte",
+        "C": "Both equally dominant",
+        "D": "Triploid"
+      },
+      "correct_option": "B",
+      "explanation": "The main plant body of a bryophyte is the haploid gametophyte. The sporophyte is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_308",
+      "question": "The sex organs in bryophytes are:",
+      "options": {
+        "A": "Unicellular and non-jacketed",
+        "B": "Multicellular and jacketed",
+        "C": "Absent",
+        "D": "Only male organs present"
+      },
+      "correct_option": "B",
+      "explanation": "The sex organs in bryophytes are multicellular and jacketed (surrounded by a layer of sterile cells)."
+    },
+    {
+      "id": "PKQ_309",
+      "question": "The male sex organ in bryophytes is called:",
+      "options": {
+        "A": "Archegonium",
+        "B": "Antheridium",
+        "C": "Sporangium",
+        "D": "Oogonium"
+      },
+      "correct_option": "B",
+      "explanation": "The male sex organ in bryophytes is called antheridium (plural: antheridia). It produces biflagellate antherozoids (male gametes)."
+    },
+    {
+      "id": "PKQ_310",
+      "question": "The female sex organ in bryophytes is called:",
+      "options": {
+        "A": "Antheridium",
+        "B": "Oogonium",
+        "C": "Archegonium",
+        "D": "Sporangium"
+      },
+      "correct_option": "C",
+      "explanation": "The female sex organ in bryophytes is called archegonium (plural: archegonia). It is flask-shaped and produces the egg cell."
+    },
+    {
+      "id": "PKQ_311",
+      "question": "The male gametes produced by antheridia in bryophytes are:",
+      "options": {
+        "A": "Non-motile",
+        "B": "Biflagellate antherozoids",
+        "C": "Non-flagellated spores",
+        "D": "Uniflagellate"
+      },
+      "correct_option": "B",
+      "explanation": "The antheridia in bryophytes produce biflagellate antherozoids (male gametes) that are motile and require water for fertilisation."
+    },
+    {
+      "id": "PKQ_312",
+      "question": "Why is water essential for sexual reproduction in bryophytes?",
+      "options": {
+        "A": "Water dissolves nutrients for gametes",
+        "B": "The biflagellate antherozoids need water as a medium to swim to the archegonium for fertilisation",
+        "C": "Water provides energy for reproduction",
+        "D": "Water is needed for spore germination only"
+      },
+      "correct_option": "B",
+      "explanation": "Water is essential for sexual reproduction in bryophytes because the biflagellate antherozoids (male gametes) are motile and need water as a medium to swim to the archegonium where the egg is present."
+    },
+    {
+      "id": "PKQ_313",
+      "question": "Fertilisation in bryophytes results in the formation of:",
+      "options": {
+        "A": "A seed",
+        "B": "A zygote which develops into a sporophyte",
+        "C": "A gametophyte directly",
+        "D": "A spore"
+      },
+      "correct_option": "B",
+      "explanation": "Fertilisation (fusion of antherozoid with egg) in bryophytes results in the formation of a zygote which develops into a sporophyte."
+    },
+    {
+      "id": "PKQ_314",
+      "question": "The sporophyte in bryophytes is:",
+      "options": {
+        "A": "Independent and free-living",
+        "B": "Partially or wholly dependent on the photosynthetic gametophyte",
+        "C": "Larger than the gametophyte",
+        "D": "Haploid"
+      },
+      "correct_option": "B",
+      "explanation": "The sporophyte in bryophytes is not free-living — it is partially or wholly dependent on the photosynthetic gametophyte for nutrition."
+    },
+    {
+      "id": "PKQ_315",
+      "question": "The sporophyte of bryophytes is differentiated into:",
+      "options": {
+        "A": "Root, stem and leaf",
+        "B": "Foot, seta and capsule",
+        "C": "Rhizome, frond and sorus",
+        "D": "Stipe, frond and holdfast"
+      },
+      "correct_option": "B",
+      "explanation": "The sporophyte of bryophytes is differentiated into foot (embedded in gametophyte), seta (stalk) and capsule (which produces spores by meiosis)."
+    },
+    {
+      "id": "PKQ_316",
+      "question": "In the bryophyte sporophyte, the foot is:",
+      "options": {
+        "A": "The spore-producing structure",
+        "B": "The stalk",
+        "C": "The embedded part that absorbs nutrients from gametophyte",
+        "D": "The photosynthetic part"
+      },
+      "correct_option": "C",
+      "explanation": "In the bryophyte sporophyte, the foot is the embedded part that absorbs nutrients from the gametophyte."
+    },
+    {
+      "id": "PKQ_317",
+      "question": "The seta in bryophyte sporophyte is:",
+      "options": {
+        "A": "The spore-producing capsule",
+        "B": "The foot embedded in gametophyte",
+        "C": "The stalk connecting foot to capsule",
+        "D": "The protective layer"
+      },
+      "correct_option": "C",
+      "explanation": "The seta in the bryophyte sporophyte is the stalk that connects the foot (embedded in gametophyte) to the capsule (spore-producing structure)."
+    },
+    {
+      "id": "PKQ_318",
+      "question": "Spores in the capsule of bryophyte sporophyte are produced by:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Budding",
+        "D": "Fragmentation"
+      },
+      "correct_option": "B",
+      "explanation": "The capsule of the bryophyte sporophyte produces spores by meiosis (meiotic division), so the spores are haploid."
+    },
+    {
+      "id": "PKQ_319",
+      "question": "The spores produced in the bryophyte capsule germinate to produce:",
+      "options": {
+        "A": "Another sporophyte",
+        "B": "A protonema and then free-living gametophyte",
+        "C": "Seeds",
+        "D": "Zygote"
+      },
+      "correct_option": "B",
+      "explanation": "Spores produced in the capsule by meiosis germinate to produce a protonema (free-living, green, filamentous, branched structure) which then develops into a free-living gametophyte."
+    },
+    {
+      "id": "PKQ_320",
+      "question": "The life cycle of bryophytes shows alternation of generations. The two phases are:",
+      "options": {
+        "A": "Two diploid phases",
+        "B": "Haploid gametophyte (dominant) and diploid sporophyte (dependent)",
+        "C": "Diploid gametophyte and haploid sporophyte",
+        "D": "Two haploid phases"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes show alternation of generations with a dominant haploid gametophyte and a diploid sporophyte that is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_321",
+      "question": "In bryophytes, which generation is dominant?",
+      "options": {
+        "A": "Sporophyte (diploid)",
+        "B": "Gametophyte (haploid)",
+        "C": "Both are equally dominant",
+        "D": "Neither is dominant"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes, the gametophyte (haploid) is the dominant phase. The sporophyte (diploid) is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_322",
+      "question": "Bryophytes include which of the following groups?",
+      "options": {
+        "A": "Liverworts, mosses and ferns",
+        "B": "Liverworts, hornworts and mosses",
+        "C": "Mosses, ferns and lycopsids",
+        "D": "Algae, liverworts and mosses"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes include liverworts (Hepaticopsida), hornworts (Anthocerotopsida) and mosses (Bryopsida)."
+    },
+    {
+      "id": "PKQ_323",
+      "question": "Liverworts belong to which class of Bryophyta?",
+      "options": {
+        "A": "Bryopsida",
+        "B": "Anthocerotopsida",
+        "C": "Hepaticopsida",
+        "D": "Pteropsida"
+      },
+      "correct_option": "C",
+      "explanation": "Liverworts belong to class Hepaticopsida of Bryophyta. The name 'liverwort' refers to their liver-shaped thallus."
+    },
+    {
+      "id": "PKQ_324",
+      "question": "Mosses belong to which class of Bryophyta?",
+      "options": {
+        "A": "Hepaticopsida",
+        "B": "Anthocerotopsida",
+        "C": "Bryopsida",
+        "D": "Lycopodiopsida"
+      },
+      "correct_option": "C",
+      "explanation": "Mosses belong to class Bryopsida of Bryophyta."
+    },
+    {
+      "id": "PKQ_325",
+      "question": "The habitat of liverworts is:",
+      "options": {
+        "A": "Desert regions",
+        "B": "Moist, shaded and humid localities",
+        "C": "Deep marine habitats",
+        "D": "High altitude snow-covered regions"
+      },
+      "correct_option": "B",
+      "explanation": "Liverworts are found in moist, shaded and humid localities — rocks, soil and bark of trees in moist and humid areas."
+    },
+    {
+      "id": "PKQ_326",
+      "question": "The plant body of liverworts is:",
+      "options": {
+        "A": "Erect with stem and leaves",
+        "B": "Thalloid — dorsiventrally flattened, lobed and closely appressed to the substratum",
+        "C": "Filamentous",
+        "D": "Cylindrical"
+      },
+      "correct_option": "B",
+      "explanation": "The plant body of a liverwort is thalloid — dorsiventrally flattened, lobed and closely appressed to the substrate."
+    },
+    {
+      "id": "PKQ_327",
+      "question": "Which is a well-known example of a liverwort?",
+      "options": {
+        "A": "Funaria",
+        "B": "Polytrichum",
+        "C": "Sphagnum",
+        "D": "Marchantia"
+      },
+      "correct_option": "D",
+      "explanation": "Marchantia is a well-known example of a liverwort (Hepaticopsida). Funaria, Polytrichum and Sphagnum are mosses."
+    },
+    {
+      "id": "PKQ_328",
+      "question": "Vegetative reproduction in liverworts occurs by:",
+      "options": {
+        "A": "Only fragmentation",
+        "B": "Fragmentation and through gemmae",
+        "C": "Zoospores",
+        "D": "Binary fission"
+      },
+      "correct_option": "B",
+      "explanation": "Vegetative reproduction in liverworts takes place by fragmentation of thalli and by formation of gemmae."
+    },
+    {
+      "id": "PKQ_329",
+      "question": "Gemmae are:",
+      "options": {
+        "A": "Sexual reproductive structures",
+        "B": "Green, multicellular, asexual buds developed in small receptacles called gemma cups",
+        "C": "Spores produced by meiosis",
+        "D": "Male gametes"
+      },
+      "correct_option": "B",
+      "explanation": "Gemmae are green, multicellular, asexual buds which develop in small receptacles called gemma cups located on the thalli. They are a means of vegetative reproduction."
+    },
+    {
+      "id": "PKQ_330",
+      "question": "Gemma cups are found in:",
+      "options": {
+        "A": "The roots",
+        "B": "On the thalli of liverworts like Marchantia",
+        "C": "In the antheridia",
+        "D": "In the capsule"
+      },
+      "correct_option": "B",
+      "explanation": "Gemma cups are small receptacles located on the thalli of liverworts (like Marchantia). Gemmae develop within these cups."
+    },
+    {
+      "id": "PKQ_331",
+      "question": "What happens to gemmae after they are detached from the parent plant?",
+      "options": {
+        "A": "They form spores",
+        "B": "They get dispersed and germinate to form new, genetically identical individuals",
+        "C": "They produce gametes",
+        "D": "They die"
+      },
+      "correct_option": "B",
+      "explanation": "Gemmae get detached from the parent plant and germinate to form new and genetically identical individuals — they are a means of asexual vegetative reproduction."
+    },
+    {
+      "id": "PKQ_332",
+      "question": "Sexual reproduction in liverworts involves formation of:",
+      "options": {
+        "A": "Only antheridia",
+        "B": "Only archegonia",
+        "C": "Antheridia (male) and archegonia (female)",
+        "D": "Zoospores"
+      },
+      "correct_option": "C",
+      "explanation": "Sexual reproduction in liverworts involves the formation of antheridia (male sex organs) and archegonia (female sex organs)."
+    },
+    {
+      "id": "PKQ_333",
+      "question": "After fertilisation in liverworts, the zygote develops into:",
+      "options": {
+        "A": "A free-living sporophyte",
+        "B": "A sporophyte differentiated into foot, seta and capsule",
+        "C": "Another gametophyte",
+        "D": "A seed"
+      },
+      "correct_option": "B",
+      "explanation": "After fertilisation, the zygote develops into a sporophyte which is differentiated into foot (embedded in gametophyte), seta and capsule."
+    },
+    {
+      "id": "PKQ_334",
+      "question": "Spores from the liverwort capsule germinate to produce:",
+      "options": {
+        "A": "A sporophyte",
+        "B": "A free-living gametophyte",
+        "C": "A seed",
+        "D": "A protonema and then gametophyte"
+      },
+      "correct_option": "B",
+      "explanation": "Spores from the liverwort capsule germinate to produce free-living gametophytes (thalli)."
+    },
+    {
+      "id": "PKQ_335",
+      "question": "Marchantia is an example of a liverwort that shows:",
+      "options": {
+        "A": "Only vegetative reproduction",
+        "B": "Both vegetative (fragmentation and gemmae) and sexual reproduction",
+        "C": "Only sexual reproduction",
+        "D": "Only asexual reproduction by spores"
+      },
+      "correct_option": "B",
+      "explanation": "Marchantia shows both vegetative reproduction (fragmentation and gemmae) and sexual reproduction (through antheridia and archegonia)."
+    },
+    {
+      "id": "PKQ_336",
+      "question": "Riccia is a common example of which group?",
+      "options": {
+        "A": "Moss",
+        "B": "Liverwort",
+        "C": "Pteridophyte",
+        "D": "Gymnosperm"
+      },
+      "correct_option": "B",
+      "explanation": "Riccia is a common example of a liverwort (Hepaticopsida) with a simple thalloid plant body."
+    },
+    {
+      "id": "PKQ_337",
+      "question": "Pellia is classified as a:",
+      "options": {
+        "A": "Moss",
+        "B": "Liverwort",
+        "C": "Fern",
+        "D": "Hornwort"
+      },
+      "correct_option": "B",
+      "explanation": "Pellia is a liverwort (Hepaticopsida) with a simple thalloid body."
+    },
+    {
+      "id": "PKQ_338",
+      "question": "Porella is classified as a:",
+      "options": {
+        "A": "Moss",
+        "B": "Liverwort",
+        "C": "Hornwort",
+        "D": "Fern"
+      },
+      "correct_option": "B",
+      "explanation": "Porella is a liverwort (Hepaticopsida). It is a leafy liverwort with more differentiated structure."
+    },
+    {
+      "id": "PKQ_339",
+      "question": "In liverworts, are the sex organs produced on the same plant or different plants?",
+      "options": {
+        "A": "Always on the same plant",
+        "B": "May be on the same plant or different plants depending on the species",
+        "C": "Always on different plants",
+        "D": "Sex organs are absent"
+      },
+      "correct_option": "B",
+      "explanation": "In liverworts, the sex organs may be on the same plant (monoecious) or different plants (dioecious) depending on the species. Marchantia is dioecious."
+    },
+    {
+      "id": "PKQ_340",
+      "question": "The dominant free-living phase in liverworts is:",
+      "options": {
+        "A": "Diploid sporophyte",
+        "B": "Haploid gametophyte (the thallus)",
+        "C": "Both equally dominant",
+        "D": "Protonema"
+      },
+      "correct_option": "B",
+      "explanation": "The dominant free-living phase in liverworts is the haploid gametophyte (the thalloid plant body we see). The sporophyte is dependent on it."
+    },
+    {
+      "id": "PKQ_341",
+      "question": "Which of the following structures is unique to liverworts as a vegetative reproductive structure?",
+      "options": {
+        "A": "Rhizoids",
+        "B": "Gemmae in gemma cups",
+        "C": "Antheridia",
+        "D": "Protonema"
+      },
+      "correct_option": "B",
+      "explanation": "Gemmae in gemma cups are structures unique to liverworts for vegetative reproduction. They are green, multicellular, asexual buds that detach and form new individuals."
+    },
+    {
+      "id": "PKQ_342",
+      "question": "Liverworts are considered more advanced than algae because:",
+      "options": {
+        "A": "They have vascular tissue",
+        "B": "They have a more complex plant body and multicellular jacketed sex organs",
+        "C": "They produce seeds",
+        "D": "They have true roots"
+      },
+      "correct_option": "B",
+      "explanation": "Liverworts are more advanced than algae because they have a more differentiated plant body, multicellular jacketed sex organs (antheridia and archegonia), and show an alternation of generations."
+    },
+    {
+      "id": "PKQ_343",
+      "question": "The rhizoids of liverworts are:",
+      "options": {
+        "A": "Multicellular and branched",
+        "B": "Unicellular",
+        "C": "Absent",
+        "D": "True roots with xylem"
+      },
+      "correct_option": "B",
+      "explanation": "The rhizoids of liverworts are unicellular, unlike the multicellular branched rhizoids of mosses."
+    },
+    {
+      "id": "PKQ_344",
+      "question": "In which part of the liverwort plant body are the rhizoids found?",
+      "options": {
+        "A": "On the dorsal surface",
+        "B": "On the ventral surface of the thallus",
+        "C": "At the tips of the thallus",
+        "D": "Inside the thallus"
+      },
+      "correct_option": "B",
+      "explanation": "Rhizoids are found on the ventral (lower) surface of the liverwort thallus. They anchor the thallus to the substrate."
+    },
+    {
+      "id": "PKQ_345",
+      "question": "The thallus of Marchantia is described as:",
+      "options": {
+        "A": "Erect and cylindrical",
+        "B": "Dorsiventrally flattened, lobed, closely appressed to substrate",
+        "C": "Upright with leaves",
+        "D": "Filamentous"
+      },
+      "correct_option": "B",
+      "explanation": "The thallus of Marchantia (and other liverworts) is dorsiventrally flattened, lobed and closely appressed to the substrate."
+    },
+    {
+      "id": "PKQ_346",
+      "question": "What is 'dorsiventrally flattened' as described for liverwort thallus?",
+      "options": {
+        "A": "The thallus is shaped like a sphere",
+        "B": "The thallus has distinct upper (dorsal) and lower (ventral) surfaces and is flat",
+        "C": "The thallus has radial symmetry",
+        "D": "The thallus is cylindrical"
+      },
+      "correct_option": "B",
+      "explanation": "Dorsiventrally flattened means the thallus has a distinct upper (dorsal) surface and lower (ventral) surface and is flattened — like a ribbon lying flat on the substrate."
+    },
+    {
+      "id": "PKQ_347",
+      "question": "In the life cycle of liverworts, what is the correct sequence?",
+      "options": {
+        "A": "Spore → Gametophyte → Gametes → Zygote → Sporophyte → Spore",
+        "B": "Gametophyte → Spore → Sporophyte → Gametes → Zygote",
+        "C": "Zygote → Spore → Gametophyte → Gametes",
+        "D": "Spore → Sporophyte → Gametes → Zygote → Gametophyte"
+      },
+      "correct_option": "A",
+      "explanation": "Correct sequence in liverwort life cycle: Haploid spore → germinate → free-living haploid gametophyte → produce gametes (antherozoids + egg) → fertilisation → zygote → diploid sporophyte (foot + seta + capsule) → meiosis in capsule → spores → cycle repeats."
+    },
+    {
+      "id": "PKQ_348",
+      "question": "Which type of plant body organization do liverworts show?",
+      "options": {
+        "A": "Thalloid plant body (no differentiation into root, stem, leaf)",
+        "B": "Body with true root, stem and leaves",
+        "C": "Body with vascular tissue",
+        "D": "Body with seeds"
+      },
+      "correct_option": "A",
+      "explanation": "Liverworts have a thalloid plant body — it is not differentiated into true root, stem and leaves. They represent an intermediate stage between algae and higher plants."
+    },
+    {
+      "id": "PKQ_349",
+      "question": "Mosses are more complex than liverworts because:",
+      "options": {
+        "A": "Mosses have vascular tissue",
+        "B": "Mosses have a protonema stage and an upright leafy gametophyte with stem-like and leaf-like structures",
+        "C": "Mosses produce seeds",
+        "D": "Mosses have true roots"
+      },
+      "correct_option": "B",
+      "explanation": "Mosses are more complex than liverworts because they have a protonema stage (filamentous) and an upright leafy gametophyte bearing stem-like axis and leaf-like appendages."
+    },
+    {
+      "id": "PKQ_350",
+      "question": "The gametophyte of mosses has which stages?",
+      "options": {
+        "A": "Only protonema",
+        "B": "Only leafy gametophore",
+        "C": "Two stages: protonema (filamentous) and leafy gametophore",
+        "D": "Three stages: spore, protonema, gametophore"
+      },
+      "correct_option": "C",
+      "explanation": "The gametophyte of mosses has two stages: (1) first stage is protonema — a creeping, green, branched filamentous structure; (2) second stage is the leafy stage — an upright, slender, gametophore bearing stem-like axis with leaf-like appendages."
+    },
+    {
+      "id": "PKQ_351",
+      "question": "What is a protonema in mosses?",
+      "options": {
+        "A": "The spore-producing structure",
+        "B": "A creeping, green, branched, filamentous structure that develops from spore germination",
+        "C": "The male sex organ",
+        "D": "The female sex organ"
+      },
+      "correct_option": "B",
+      "explanation": "The protonema is the first stage of the moss gametophyte. It is a creeping, green, branched, filamentous stage that develops directly from the germination of spores."
+    },
+    {
+      "id": "PKQ_352",
+      "question": "From the protonema, what develops in mosses?",
+      "options": {
+        "A": "Sporophyte",
+        "B": "Leafy gametophore (the upright, leafy gametophyte)",
+        "C": "Archegonium",
+        "D": "Another protonema"
+      },
+      "correct_option": "B",
+      "explanation": "From the protonema, numerous buds are formed. These buds give rise to the leafy gametophore — the upright, slender gametophyte bearing stem-like axis with leaf-like appendages."
+    },
+    {
+      "id": "PKQ_353",
+      "question": "The rhizoids of mosses are:",
+      "options": {
+        "A": "Unicellular",
+        "B": "Multicellular and branched",
+        "C": "Absent",
+        "D": "True roots"
+      },
+      "correct_option": "B",
+      "explanation": "The rhizoids of mosses are multicellular and branched, unlike the unicellular rhizoids of liverworts."
+    },
+    {
+      "id": "PKQ_354",
+      "question": "Examples of mosses mentioned in NCERT include:",
+      "options": {
+        "A": "Marchantia and Riccia",
+        "B": "Funaria, Polytrichum and Sphagnum",
+        "C": "Selaginella and Salvinia",
+        "D": "Cycas and Pinus"
+      },
+      "correct_option": "B",
+      "explanation": "Examples of mosses (Bryopsida) include Funaria (common moss), Polytrichum and Sphagnum (peat moss)."
+    },
+    {
+      "id": "PKQ_355",
+      "question": "Funaria is an example of a:",
+      "options": {
+        "A": "Liverwort",
+        "B": "Moss",
+        "C": "Fern",
+        "D": "Hornwort"
+      },
+      "correct_option": "B",
+      "explanation": "Funaria (commonly called cord moss or water moss) is a common example of a moss (Bryopsida/Musci)."
+    },
+    {
+      "id": "PKQ_356",
+      "question": "Polytrichum is a:",
+      "options": {
+        "A": "Liverwort",
+        "B": "Fern",
+        "C": "Moss",
+        "D": "Gymnosperm"
+      },
+      "correct_option": "C",
+      "explanation": "Polytrichum is a moss (Bryopsida), commonly known as hair cap moss."
+    },
+    {
+      "id": "PKQ_357",
+      "question": "Sphagnum is economically important because:",
+      "options": {
+        "A": "It provides food for animals",
+        "B": "It provides peat used as fuel and packing material, and absorbs pollutants",
+        "C": "It is used to make medicines",
+        "D": "It fixes nitrogen"
+      },
+      "correct_option": "B",
+      "explanation": "Sphagnum (peat moss) is economically important as: (1) it provides peat used as fuel in cold regions, (2) its antiseptic property makes it useful as packing material for trans-shipment of living material, (3) it forms peat in boggy areas."
+    },
+    {
+      "id": "PKQ_358",
+      "question": "What gives Sphagnum its antiseptic property?",
+      "options": {
+        "A": "It contains high levels of phenols",
+        "B": "It has large water-holding capacity and absorbs pathogenic fungi and bacteria",
+        "C": "It releases antibiotics",
+        "D": "It is highly acidic"
+      },
+      "correct_option": "B",
+      "explanation": "Sphagnum has hygroscopic (large water-holding) property, large surface area and ability to absorb pathogenic fungi and bacteria, giving it antiseptic properties useful for packing living material."
+    },
+    {
+      "id": "PKQ_359",
+      "question": "Sphagnum peat is used in cold regions as:",
+      "options": {
+        "A": "Food",
+        "B": "Fuel",
+        "C": "Building material",
+        "D": "Fertilizer"
+      },
+      "correct_option": "B",
+      "explanation": "Dead and compressed Sphagnum plants form peat which is used as fuel in cold regions where other fuels are scarce."
+    },
+    {
+      "id": "PKQ_360",
+      "question": "Sphagnum is used as packing material for trans-shipment of living material because:",
+      "options": {
+        "A": "It is lightweight and cheap",
+        "B": "It has capacity to hold water and has antiseptic property",
+        "C": "It is non-biodegradable",
+        "D": "It is heat resistant"
+      },
+      "correct_option": "B",
+      "explanation": "Sphagnum is used as packing material for trans-shipment of living material (plants, bulbs, etc.) because of its large water-holding capacity and antiseptic properties, keeping material moist and free from pathogens."
+    },
+    {
+      "id": "PKQ_361",
+      "question": "The sex organs in mosses are produced at:",
+      "options": {
+        "A": "The base of the leafy gametophore",
+        "B": "The apex of the leafy gametophore",
+        "C": "On the protonema",
+        "D": "On the sporophyte"
+      },
+      "correct_option": "B",
+      "explanation": "In mosses, the sex organs (antheridia and archegonia) are produced at the apex of the leafy gametophore."
+    },
+    {
+      "id": "PKQ_362",
+      "question": "After fertilisation in mosses, the zygote develops into:",
+      "options": {
+        "A": "A free-living sporophyte",
+        "B": "A sporophyte differentiated into foot, seta and capsule",
+        "C": "A new gametophyte",
+        "D": "A protonema"
+      },
+      "correct_option": "B",
+      "explanation": "After fertilisation in mosses, the zygote develops into a sporophyte differentiated into foot, seta and capsule."
+    },
+    {
+      "id": "PKQ_363",
+      "question": "The sporophyte of mosses is more elaborate than that of liverworts because:",
+      "options": {
+        "A": "It is smaller",
+        "B": "It has a more developed capsule with complex structure for spore dispersal",
+        "C": "It is free-living",
+        "D": "It has vascular tissue"
+      },
+      "correct_option": "B",
+      "explanation": "The sporophyte of mosses is more elaborate than that of liverworts. The capsule in mosses is more complex with a peristome (teeth-like structures) that regulate spore dispersal."
+    },
+    {
+      "id": "PKQ_364",
+      "question": "Spores from moss capsule germinate to produce:",
+      "options": {
+        "A": "A sporophyte directly",
+        "B": "A seed",
+        "C": "A protonema (first stage of gametophyte)",
+        "D": "An archegonium"
+      },
+      "correct_option": "C",
+      "explanation": "Spores from the moss capsule germinate to produce a protonema — the first stage of the gametophyte, which is a creeping, green, branched, filamentous structure."
+    },
+    {
+      "id": "PKQ_365",
+      "question": "What is the key difference between liverwort and moss gametophytes?",
+      "options": {
+        "A": "Liverworts have protonema; mosses do not",
+        "B": "Mosses have protonema + leafy gametophore (2 stages); liverworts have only thalloid gametophyte",
+        "C": "Both have identical gametophytes",
+        "D": "Mosses have thalloid gametophyte; liverworts have leafy gametophyte"
+      },
+      "correct_option": "B",
+      "explanation": "Key difference: Moss gametophyte has 2 stages (protonema + leafy gametophore). Liverwort gametophyte is primarily thalloid (prostrate, lobed thallus)."
+    },
+    {
+      "id": "PKQ_366",
+      "question": "Bryophytes play an important ecological role in which habitat?",
+      "options": {
+        "A": "Only in marine habitats",
+        "B": "In moist and humid areas, rocky terrain and as pioneer plants in ecological succession",
+        "C": "Only in deserts",
+        "D": "Only in tropical forests"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes play important ecological roles in moist and humid areas, on rocky terrain (as pioneer plants in ecological succession), in preventing soil erosion, and in water retention."
+    },
+    {
+      "id": "PKQ_367",
+      "question": "Bryophytes along with lichens are important as:",
+      "options": {
+        "A": "Primary consumers",
+        "B": "Pioneer organisms in ecological succession on bare rocks",
+        "C": "Decomposers",
+        "D": "Nitrogen fixers"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes along with lichens are pioneer organisms in ecological succession — they colonize bare rocks first, breaking them down to form soil for other plants to grow."
+    },
+    {
+      "id": "PKQ_368",
+      "question": "Which economic use is associated with Sphagnum in horticulture?",
+      "options": {
+        "A": "As fertilizer",
+        "B": "As compost material",
+        "C": "As a soil additive for better water retention and as packing for plants",
+        "D": "As a pesticide"
+      },
+      "correct_option": "C",
+      "explanation": "Sphagnum is used in horticulture as a soil conditioner to improve water retention and as packing material for plants during transport."
+    },
+    {
+      "id": "PKQ_369",
+      "question": "Some mosses provide food for:",
+      "options": {
+        "A": "Humans directly",
+        "B": "Reindeer and other herbivores in cold regions (Sphagnum, Polytrichum)",
+        "C": "Only insects",
+        "D": "Carnivorous animals"
+      },
+      "correct_option": "B",
+      "explanation": "Mosses like Sphagnum and Polytrichum provide food for herbivores like reindeer and other animals in cold regions (tundra and taiga)."
+    },
+    {
+      "id": "PKQ_370",
+      "question": "The capsule of the bryophyte sporophyte produces spores by:",
+      "options": {
+        "A": "Mitosis, producing diploid spores",
+        "B": "Meiosis, producing haploid spores",
+        "C": "Budding",
+        "D": "Fragmentation"
+      },
+      "correct_option": "B",
+      "explanation": "The capsule (sporangium) of the bryophyte sporophyte produces haploid spores by meiosis."
+    },
+    {
+      "id": "PKQ_371",
+      "question": "The ploidy of the bryophyte gametophyte is:",
+      "options": {
+        "A": "Diploid (2n)",
+        "B": "Triploid (3n)",
+        "C": "Haploid (n)",
+        "D": "Tetraploid (4n)"
+      },
+      "correct_option": "C",
+      "explanation": "The bryophyte gametophyte is haploid (n). It produces gametes (antherozoids and eggs) by mitosis."
+    },
+    {
+      "id": "PKQ_372",
+      "question": "The ploidy of the bryophyte sporophyte is:",
+      "options": {
+        "A": "Haploid (n)",
+        "B": "Diploid (2n)",
+        "C": "Triploid (3n)",
+        "D": "Tetraploid (4n)"
+      },
+      "correct_option": "B",
+      "explanation": "The bryophyte sporophyte is diploid (2n). It develops from the zygote (formed by fertilisation) and produces haploid spores by meiosis."
+    },
+    {
+      "id": "PKQ_373",
+      "question": "The gametes produced by the bryophyte gametophyte are formed by:",
+      "options": {
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correct_option": "B",
+      "explanation": "The gametes (antherozoids and eggs) in bryophytes are produced by mitosis from the haploid gametophyte."
+    },
+    {
+      "id": "PKQ_374",
+      "question": "Which of the following statements about bryophyte reproduction is CORRECT?",
+      "options": {
+        "A": "The sporophyte produces gametes",
+        "B": "The gametophyte produces gametes by mitosis; the sporophyte produces spores by meiosis",
+        "C": "The gametophyte produces spores",
+        "D": "Both gametophyte and sporophyte produce spores"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes: the haploid gametophyte produces gametes by mitosis. The diploid sporophyte produces haploid spores by meiosis."
+    },
+    {
+      "id": "PKQ_375",
+      "question": "Why is the bryophyte sporophyte described as partially or wholly dependent on the gametophyte?",
+      "options": {
+        "A": "Because it cannot photosynthesize",
+        "B": "Because it grows embedded in the gametophyte and gets nutrition from it",
+        "C": "Because it is smaller than the gametophyte",
+        "D": "Because it lacks a seta"
+      },
+      "correct_option": "B",
+      "explanation": "The bryophyte sporophyte is dependent on the gametophyte because the foot is embedded in the gametophyte tissue, absorbing water and nutrients from it."
+    },
+    {
+      "id": "PKQ_376",
+      "question": "In the life cycle of bryophytes, meiosis occurs in the:",
+      "options": {
+        "A": "Gametophyte",
+        "B": "Antheridia and archegonia",
+        "C": "Capsule of the sporophyte",
+        "D": "Protonema"
+      },
+      "correct_option": "C",
+      "explanation": "In bryophytes, meiosis occurs in the capsule (sporangium) of the sporophyte to produce haploid spores."
+    },
+    {
+      "id": "PKQ_377",
+      "question": "In the life cycle of bryophytes, fertilisation occurs between:",
+      "options": {
+        "A": "Two spores",
+        "B": "Biflagellate antherozoid and egg cell",
+        "C": "Two haploid gametophytes",
+        "D": "Two diploid cells"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes, fertilisation occurs between the biflagellate antherozoid (male gamete from antheridium) and the egg cell (from archegonium) to form a diploid zygote."
+    },
+    {
+      "id": "PKQ_378",
+      "question": "What is the ecological importance of bryophytes in preventing soil erosion?",
+      "options": {
+        "A": "They have no role in preventing soil erosion",
+        "B": "Their dense mat-like growth covers and holds the soil, preventing erosion by wind and water",
+        "C": "They actively fix soil particles",
+        "D": "They produce chemicals that bind soil"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes form dense mat-like growth on soil surfaces, which helps hold the soil particles together and prevent erosion by wind and water."
+    },
+    {
+      "id": "PKQ_379",
+      "question": "Which of the following correctly describes the structure of liverwort sporophyte?",
+      "options": {
+        "A": "It is large and photosynthetically independent",
+        "B": "It is small and differentiated into foot, seta and capsule; dependent on gametophyte",
+        "C": "It has complex vascular tissue",
+        "D": "It has leaf-like structures"
+      },
+      "correct_option": "B",
+      "explanation": "The liverwort sporophyte is small and differentiated into foot (embedded in gametophyte), seta (short stalk) and capsule (spore-producing structure). It is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_380",
+      "question": "The seta in liverwort sporophyte is typically described as:",
+      "options": {
+        "A": "Long and well-developed",
+        "B": "Short or absent in many liverworts",
+        "C": "Present as a complex structure",
+        "D": "The largest part of the sporophyte"
+      },
+      "correct_option": "B",
+      "explanation": "In many liverworts, the seta is short or relatively reduced. The capsule sits on a short seta."
+    },
+    {
+      "id": "PKQ_381",
+      "question": "The archegonium is described as:",
+      "options": {
+        "A": "A round structure producing many eggs",
+        "B": "A flask-shaped female sex organ containing a single egg",
+        "C": "A branched structure producing male gametes",
+        "D": "A spore-producing structure"
+      },
+      "correct_option": "B",
+      "explanation": "The archegonium is a flask-shaped female sex organ found in bryophytes, pteridophytes and gymnosperms. It contains a single egg cell in its venter (base)."
+    },
+    {
+      "id": "PKQ_382",
+      "question": "The antheridium produces:",
+      "options": {
+        "A": "Eggs",
+        "B": "Spores",
+        "C": "Biflagellate antherozoids (male gametes)",
+        "D": "Gemmae"
+      },
+      "correct_option": "C",
+      "explanation": "The antheridium (male sex organ) in bryophytes produces biflagellate antherozoids (male gametes)."
+    },
+    {
+      "id": "PKQ_383",
+      "question": "Both antheridia and archegonia in bryophytes are described as 'jacketed'. This means:",
+      "options": {
+        "A": "They are covered by a hard shell",
+        "B": "They are surrounded by a layer of sterile (non-reproductive) cells",
+        "C": "They have no outer covering",
+        "D": "They are covered by a leaf-like structure"
+      },
+      "correct_option": "B",
+      "explanation": "Both antheridia and archegonia in bryophytes are jacketed — they are surrounded by a layer of sterile (non-reproductive) cells that protect the gametes."
+    },
+    {
+      "id": "PKQ_384",
+      "question": "Why are bryophytes important in carbon sequestration and climate regulation?",
+      "options": {
+        "A": "They emit CO₂",
+        "B": "Sphagnum peat bogs store enormous amounts of carbon sequestered from atmosphere",
+        "C": "They absorb CO₂ faster than any other plant",
+        "D": "They have no role in carbon sequestration"
+      },
+      "correct_option": "B",
+      "explanation": "Sphagnum peat bogs are important carbon sinks — dead and partially decomposed Sphagnum accumulates as peat over thousands of years, storing large amounts of carbon from the atmosphere."
+    },
+    {
+      "id": "PKQ_385",
+      "question": "In bryophytes, what initiates the alternation of generations cycle?",
+      "options": {
+        "A": "Meiosis in the gametophyte",
+        "B": "Germination of haploid spores to form gametophyte",
+        "C": "Budding of sporophyte",
+        "D": "Fragmentation of gametophyte"
+      },
+      "correct_option": "B",
+      "explanation": "The alternation of generations cycle in bryophytes begins with germination of haploid spores (produced by meiosis in capsule) to form the free-living haploid gametophyte."
+    },
+    {
+      "id": "PKQ_386",
+      "question": "What is the correct ploidy sequence in bryophyte life cycle?",
+      "options": {
+        "A": "Spore(n) → Gametophyte(n) → Gametes(n) → Zygote(2n) → Sporophyte(2n) → Spore(n)",
+        "B": "Spore(2n) → Gametophyte(2n) → Gametes(n) → Zygote(n) → Sporophyte(n)",
+        "C": "Spore(n) → Gametophyte(2n) → Gametes(n) → Zygote(2n)",
+        "D": "Spore(2n) → Gametophyte(n) → Gametes(2n) → Zygote(2n)"
+      },
+      "correct_option": "A",
+      "explanation": "Correct ploidy: Haploid spore(n) → haploid gametophyte(n) → gametes(n, by mitosis) → zygote(2n, after fertilisation) → diploid sporophyte(2n) → meiosis in capsule → haploid spore(n)."
+    },
+    {
+      "id": "PKQ_387",
+      "question": "Which of the following correctly identifies the DEPENDENT generation in bryophytes?",
+      "options": {
+        "A": "Gametophyte is dependent on sporophyte",
+        "B": "Sporophyte is dependent on gametophyte",
+        "C": "Neither is dependent",
+        "D": "Both are mutually dependent"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes, the sporophyte is dependent on (partially or wholly) the gametophyte for nutrition and water. The gametophyte is the free-living, dominant generation."
+    },
+    {
+      "id": "PKQ_388",
+      "question": "Which process during bryophyte reproduction requires a film of water?",
+      "options": {
+        "A": "Meiosis in capsule",
+        "B": "Spore germination",
+        "C": "Antherozoid swimming from antheridium to archegonium",
+        "D": "Gemmae dispersal"
+      },
+      "correct_option": "C",
+      "explanation": "The biflagellate antherozoids require a film of water to swim from the antheridium to the archegonium. This is why bryophytes need water for sexual reproduction."
+    },
+    {
+      "id": "PKQ_389",
+      "question": "Vegetative reproduction in mosses occurs by:",
+      "options": {
+        "A": "Gemmae in gemma cups",
+        "B": "Fragmentation of protonema and secondary protonema",
+        "C": "Binary fission",
+        "D": "Budding from archegonium"
+      },
+      "correct_option": "B",
+      "explanation": "Vegetative reproduction in mosses occurs by fragmentation of the protonema, formation of secondary protonema from fragments, and from underground stem-like structures (rhizomes)."
+    },
+    {
+      "id": "PKQ_390",
+      "question": "In which of the following does the protonema stage occur?",
+      "options": {
+        "A": "Liverworts only",
+        "B": "Mosses only",
+        "C": "Both liverworts and mosses",
+        "D": "Algae only"
+      },
+      "correct_option": "B",
+      "explanation": "The protonema stage is characteristic of mosses. Liverworts also have a brief protonema-like stage, but it is most prominent and characteristic in mosses."
+    },
+    {
+      "id": "PKQ_391",
+      "question": "The leafy gametophore of moss is:",
+      "options": {
+        "A": "The first stage of the gametophyte",
+        "B": "The second stage of the gametophyte — an upright structure with stem-like axis and leaf-like appendages",
+        "C": "The sporophyte",
+        "D": "The protonema"
+      },
+      "correct_option": "B",
+      "explanation": "The leafy gametophore is the second stage of the moss gametophyte — an upright, slender structure bearing stem-like axis with leaf-like appendages."
+    },
+    {
+      "id": "PKQ_392",
+      "question": "Which of the following correctly describes the difference between rhizoids of liverworts and mosses?",
+      "options": {
+        "A": "Both have unicellular rhizoids",
+        "B": "Both have multicellular branched rhizoids",
+        "C": "Liverworts: unicellular rhizoids; Mosses: multicellular branched rhizoids",
+        "D": "Liverworts: multicellular branched; Mosses: unicellular"
+      },
+      "correct_option": "C",
+      "explanation": "Liverworts have unicellular rhizoids, while mosses have multicellular, branched rhizoids. This is one distinction between the two groups."
+    },
+    {
+      "id": "PKQ_393",
+      "question": "In which group of bryophytes does vegetative reproduction by gemmae in gemma cups occur?",
+      "options": {
+        "A": "Mosses only",
+        "B": "Liverworts (like Marchantia)",
+        "C": "Both liverworts and mosses equally",
+        "D": "Hornworts only"
+      },
+      "correct_option": "B",
+      "explanation": "Gemmae in gemma cups are characteristic vegetative reproductive structures of liverworts (like Marchantia). Mosses primarily reproduce vegetatively by fragmentation."
+    },
+    {
+      "id": "PKQ_394",
+      "question": "What is the significance of bryophytes as pioneer organisms?",
+      "options": {
+        "A": "They directly produce soil from minerals",
+        "B": "They colonize bare rocks along with lichens, and their remains contribute to soil formation, enabling establishment of other plants",
+        "C": "They compete with other plants for resources",
+        "D": "They only grow after other plants establish"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes (along with lichens) are pioneer organisms that colonize bare rocks first. Their remains contribute to soil formation, enabling the establishment of other plants in ecological succession."
+    },
+    {
+      "id": "PKQ_395",
+      "question": "The moss Funaria is commonly found in which environment?",
+      "options": {
+        "A": "Dry deserts",
+        "B": "Moist, shady places — on wet soil, rocks and walls near water",
+        "C": "Deep oceans",
+        "D": "High altitude snow fields"
+      },
+      "correct_option": "B",
+      "explanation": "Funaria (common cord moss) is found in moist, shady places — on wet soil, rocks, walls near water, and in forests in humid areas."
+    },
+    {
+      "id": "PKQ_396",
+      "question": "What happens to the sporophyte after spores are dispersed in bryophytes?",
+      "options": {
+        "A": "It continues to grow",
+        "B": "It typically degenerates after spore dispersal",
+        "C": "It produces new gametophytes",
+        "D": "It forms new sporophytes"
+      },
+      "correct_option": "B",
+      "explanation": "After spore dispersal, the bryophyte sporophyte typically degenerates — it has completed its function of spore production."
+    },
+    {
+      "id": "PKQ_397",
+      "question": "Which character of bryophytes is most similar to algae?",
+      "options": {
+        "A": "Vascular tissue",
+        "B": "Production of seeds",
+        "C": "Requirement of water for fertilization",
+        "D": "Jacketed sex organs"
+      },
+      "correct_option": "C",
+      "explanation": "Like algae, bryophytes require water for fertilisation because their male gametes (antherozoids) are flagellated and motile, needing water to swim to the egg. This is the primary character linking them to algae."
+    },
+    {
+      "id": "PKQ_398",
+      "question": "Which character of bryophytes is more advanced than algae?",
+      "options": {
+        "A": "Unicellular sex organs",
+        "B": "Multicellular jacketed sex organs and embryo development on the mother plant",
+        "C": "Requirement of water for fertilisation",
+        "D": "Haploid dominant phase"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are more advanced than algae in having: (1) multicellular jacketed sex organs (not present in most algae), (2) embryo development on the mother plant (the zygote develops into sporophyte while attached to gametophyte)."
+    },
+    {
+      "id": "PKQ_399",
+      "question": "The bryophyte body plan is described as 'thalloid' or 'leafy'. What is the difference?",
+      "options": {
+        "A": "Both are identical",
+        "B": "Thalloid: flat, undifferentiated body (liverworts); Leafy: upright with stem-like axis and leaf-like structures (mosses)",
+        "C": "Thalloid: has vascular tissue; Leafy: no vascular tissue",
+        "D": "Thalloid: produces seeds; Leafy: produces spores"
+      },
+      "correct_option": "B",
+      "explanation": "Thalloid bryophytes (liverworts) have a flat, undifferentiated body appressed to substrate. Leafy bryophytes (mosses) have an upright stem-like axis with leaf-like appendages."
+    },
+    {
+      "id": "PKQ_400",
+      "question": "The term 'Bryophyta' is derived from which language?",
+      "options": {
+        "A": "Latin",
+        "B": "Greek — 'bryon' (moss) and 'phyton' (plant)",
+        "C": "German",
+        "D": "Sanskrit"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophyta is derived from Greek: 'bryon' meaning moss and 'phyton' meaning plant."
+    },
+    {
+      "id": "PKQ_401",
+      "question": "In the bryophyte alternation of generations, the two types of nuclei division are:",
+      "options": {
+        "A": "Both meiosis",
+        "B": "Both mitosis",
+        "C": "Mitosis in gametophyte (for gamete production) and meiosis in sporophyte capsule (for spore production)",
+        "D": "Meiosis in gametophyte and mitosis in sporophyte"
+      },
+      "correct_option": "C",
+      "explanation": "In bryophytes: the haploid gametophyte produces gametes by mitosis. The diploid sporophyte capsule produces haploid spores by meiosis. Fertilization (gamete fusion) connects the two phases."
+    },
+    {
+      "id": "PKQ_402",
+      "question": "Which of the following is an INCORRECT statement about bryophytes?",
+      "options": {
+        "A": "They are the amphibians of the plant kingdom",
+        "B": "They have vascular tissue like pteridophytes",
+        "C": "They are found in moist, shaded areas",
+        "D": "The sporophyte is dependent on the gametophyte"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes do NOT have vascular tissue (xylem and phloem). The absence of vascular tissue is a key feature distinguishing them from pteridophytes."
+    },
+    {
+      "id": "PKQ_403",
+      "question": "Which of the following is the CORRECT sequence showing increasing complexity in plant groups?",
+      "options": {
+        "A": "Bryophytes → Algae → Pteridophytes → Gymnosperms",
+        "B": "Algae → Bryophytes → Pteridophytes → Gymnosperms → Angiosperms",
+        "C": "Algae → Pteridophytes → Bryophytes → Gymnosperms",
+        "D": "Bryophytes → Algae → Gymnosperms → Angiosperms"
+      },
+      "correct_option": "B",
+      "explanation": "The correct sequence of increasing complexity: Algae (simplest) → Bryophytes → Pteridophytes → Gymnosperms → Angiosperms (most complex)."
+    },
+    {
+      "id": "PKQ_404",
+      "question": "How do bryophytes differ from pteridophytes?",
+      "options": {
+        "A": "Bryophytes have vascular tissue; pteridophytes do not",
+        "B": "Bryophytes lack vascular tissue and have gametophyte-dominant life cycle; pteridophytes have vascular tissue and sporophyte-dominant life cycle",
+        "C": "Bryophytes produce seeds; pteridophytes do not",
+        "D": "Both are identical"
+      },
+      "correct_option": "B",
+      "explanation": "Key differences: Bryophytes lack vascular tissue, gametophyte is dominant. Pteridophytes have well-developed vascular tissue, sporophyte is dominant and independent."
+    },
+    {
+      "id": "PKQ_405",
+      "question": "Why is the bryophyte considered an evolutionary link between algae and pteridophytes?",
+      "options": {
+        "A": "They have seeds like pteridophytes",
+        "B": "They share characters with both: need water for fertilisation (like algae) but have land adaptation and jacketed sex organs (unlike algae)",
+        "C": "They have vascular tissue like pteridophytes",
+        "D": "They are completely aquatic like algae"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are evolutionary links between algae and pteridophytes: they need water for fertilisation (like algae) but are primarily terrestrial with multicellular jacketed sex organs, embryo development on mother plant (features leading toward pteridophytes)."
+    },
+    {
+      "id": "PKQ_406",
+      "question": "Which bryophytes are found in wetlands and peat bogs?",
+      "options": {
+        "A": "Funaria",
+        "B": "Marchantia",
+        "C": "Sphagnum",
+        "D": "Riccia"
+      },
+      "correct_option": "C",
+      "explanation": "Sphagnum is found in wetlands and peat bogs. Its dead remains accumulate as peat, forming peat bogs in cold regions."
+    },
+    {
+      "id": "PKQ_407",
+      "question": "What is a peat bog and why is it ecologically significant?",
+      "options": {
+        "A": "A type of forest dominated by pine trees",
+        "B": "A wetland habitat dominated by Sphagnum that stores large amounts of carbon and provides unique biodiversity",
+        "C": "A type of desert",
+        "D": "A marine habitat"
+      },
+      "correct_option": "B",
+      "explanation": "A peat bog is a wetland habitat dominated by Sphagnum moss. Dead Sphagnum accumulates as peat, storing huge amounts of carbon (carbon sink). Peat bogs are ecologically significant for carbon sequestration, water storage, and unique biodiversity."
+    },
+    {
+      "id": "PKQ_408",
+      "question": "Which of the following is NOT a member of Bryophyta?",
+      "options": {
+        "A": "Funaria",
+        "B": "Marchantia",
+        "C": "Sphagnum",
+        "D": "Selaginella"
+      },
+      "correct_option": "D",
+      "explanation": "Selaginella is a pteridophyte (vascular plant), not a bryophyte. Funaria, Marchantia and Sphagnum are bryophytes."
+    },
+    {
+      "id": "PKQ_409",
+      "question": "What is the function of the foot in the bryophyte sporophyte?",
+      "options": {
+        "A": "Producing spores",
+        "B": "Absorbing water and nutrients from the gametophyte tissue",
+        "C": "Photosynthesis",
+        "D": "Anchoring to the substrate"
+      },
+      "correct_option": "B",
+      "explanation": "The foot in the bryophyte sporophyte is the embedded portion that absorbs water and nutrients from the surrounding gametophyte tissue, as the sporophyte is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_410",
+      "question": "In mosses, the sporophyte is:",
+      "options": {
+        "A": "Completely free-living and independent",
+        "B": "Partially dependent on gametophyte — foot embedded in gametophyte, capsule may photosynthesize",
+        "C": "Completely dependent, with no photosynthetic ability",
+        "D": "Absent"
+      },
+      "correct_option": "B",
+      "explanation": "The moss sporophyte is partially dependent on the gametophyte — the foot is embedded in gametophyte tissue. However, the capsule (and sometimes the seta) contains chlorophyll and can photosynthesize partially."
+    },
+    {
+      "id": "PKQ_411",
+      "question": "Which structure in mosses is green and photosynthetic in the sporophyte?",
+      "options": {
+        "A": "The foot only",
+        "B": "The seta and capsule",
+        "C": "The entire sporophyte",
+        "D": "None — sporophyte cannot photosynthesize"
+      },
+      "correct_option": "B",
+      "explanation": "In mosses, the seta and capsule may contain chlorophyll and can photosynthesize partially. However, the sporophyte still depends on the gametophyte."
+    },
+    {
+      "id": "PKQ_412",
+      "question": "Which of the following correctly describes alternation of generations?",
+      "options": {
+        "A": "Alternation between asexual and sexual generations",
+        "B": "Alternation between haploid gametophyte and diploid sporophyte generations",
+        "C": "Alternation between two diploid generations",
+        "D": "Alternation between vegetative and reproductive phases"
+      },
+      "correct_option": "B",
+      "explanation": "Alternation of generations refers to the alternation between haploid gametophyte (producing gametes) and diploid sporophyte (producing spores) phases in the life cycle."
+    },
+    {
+      "id": "PKQ_413",
+      "question": "In bryophytes, does the sporophyte generation ever become free-living and dominant?",
+      "options": {
+        "A": "Yes, in all bryophytes",
+        "B": "Yes, in mosses only",
+        "C": "No, sporophyte is always dependent on gametophyte in bryophytes",
+        "D": "Yes, in liverworts only"
+      },
+      "correct_option": "C",
+      "explanation": "In bryophytes, the sporophyte never becomes free-living and dominant — it is always at least partially dependent on the gametophyte. This is in contrast to pteridophytes where the sporophyte is dominant and free-living."
+    },
+    {
+      "id": "PKQ_414",
+      "question": "Protonema is:",
+      "options": {
+        "A": "The sporophyte of mosses",
+        "B": "The first, filamentous stage of the moss gametophyte developed from spore germination",
+        "C": "The spore itself",
+        "D": "The archegonium"
+      },
+      "correct_option": "B",
+      "explanation": "Protonema is the first stage of the moss gametophyte — a creeping, green, branched, filamentous structure that develops from the germination of a haploid spore."
+    },
+    {
+      "id": "PKQ_415",
+      "question": "What is the key feature that distinguishes bryophytes from all algae?",
+      "options": {
+        "A": "Bryophytes are autotrophic; algae are heterotrophic",
+        "B": "Bryophytes have multicellular jacketed sex organs and embryo development on parent plant; algae have unicellular or non-jacketed sex organs",
+        "C": "Bryophytes are always terrestrial; algae are always aquatic",
+        "D": "Bryophytes have chlorophyll; algae do not"
+      },
+      "correct_option": "B",
+      "explanation": "The key features distinguishing bryophytes from algae are: (1) multicellular jacketed sex organs (antheridia and archegonia), (2) embryo development on the parent (gametophyte) plant — the embryophyte condition."
+    },
+    {
+      "id": "PKQ_416",
+      "question": "The sporophyte produces spores by meiosis. These spores are:",
+      "options": {
+        "A": "Diploid",
+        "B": "Haploid",
+        "C": "Triploid",
+        "D": "Tetraploid"
+      },
+      "correct_option": "B",
+      "explanation": "The sporophyte (2n) produces haploid (n) spores by meiosis. These spores germinate to produce the haploid gametophyte."
+    },
+    {
+      "id": "PKQ_417",
+      "question": "Which of the following is an example of the entire plant body of a liverwort?",
+      "options": {
+        "A": "A large leafy tree",
+        "B": "A small, flat, lobed, ribbon-like thallus lying on moist substrate",
+        "C": "An upright plant with well-developed leaves",
+        "D": "A filamentous body in water"
+      },
+      "correct_option": "B",
+      "explanation": "A liverwort is a small, flat, lobed, ribbon-like thallus (like Marchantia) lying closely on the moist substrate. This describes its thalloid plant body."
+    },
+    {
+      "id": "PKQ_418",
+      "question": "Which of the following correctly pairs a bryophyte with its class?",
+      "options": {
+        "A": "Funaria - Hepaticopsida",
+        "B": "Marchantia - Bryopsida",
+        "C": "Sphagnum - Bryopsida",
+        "D": "Riccia - Bryopsida"
+      },
+      "correct_option": "C",
+      "explanation": "Sphagnum belongs to Bryopsida (mosses). Funaria also belongs to Bryopsida. Marchantia and Riccia belong to Hepaticopsida (liverworts)."
+    },
+    {
+      "id": "PKQ_419",
+      "question": "Which two groups are included in bryophytes as mentioned in NCERT Chapter 3?",
+      "options": {
+        "A": "Only liverworts and hornworts",
+        "B": "Liverworts and mosses",
+        "C": "Only mosses",
+        "D": "Ferns and mosses"
+      },
+      "correct_option": "B",
+      "explanation": "In NCERT Chapter 3, bryophytes are divided into liverworts and mosses (the two groups discussed in detail). Hornworts are also mentioned but not discussed in detail."
+    },
+    {
+      "id": "PKQ_420",
+      "question": "Which economic product obtained from Sphagnum is used in cold regions as fuel?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Peat",
+        "D": "Natural gas"
+      },
+      "correct_option": "C",
+      "explanation": "Peat, formed from dead and compressed Sphagnum plants, is used as fuel in cold regions like Ireland, Scotland, and parts of Russia where other fuels are scarce."
+    },
+    {
+      "id": "PKQ_421",
+      "question": "The ecological succession process in which bryophytes are involved as pioneer organisms primarily occurs on:",
+      "options": {
+        "A": "Aquatic habitats",
+        "B": "Bare rocks — bryophytes contribute to soil formation for succession",
+        "C": "Agricultural land",
+        "D": "Sandy beaches"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes act as pioneer organisms in ecological succession on bare rocks. They break down rocks, trap organic matter, and their remains contribute to soil formation, enabling succession of other plant communities."
+    },
+    {
+      "id": "PKQ_422",
+      "question": "Which of the following is TRUE about the life span of the bryophyte sporophyte?",
+      "options": {
+        "A": "It is perennial and lives for many years",
+        "B": "It is relatively short-lived, functioning only to produce and disperse spores",
+        "C": "It outlives the gametophyte",
+        "D": "It produces new sporophytes by vegetative reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "The bryophyte sporophyte is relatively short-lived — it exists primarily to produce spores by meiosis and disperse them. After spore dispersal, it typically degenerates."
+    },
+    {
+      "id": "PKQ_423",
+      "question": "Gemmae (gemma cups) are MOST characteristic of which bryophytes?",
+      "options": {
+        "A": "Mosses",
+        "B": "Liverworts (especially Marchantia)",
+        "C": "Hornworts",
+        "D": "All bryophytes equally"
+      },
+      "correct_option": "B",
+      "explanation": "Gemmae in gemma cups are most characteristic of liverworts, especially Marchantia. They are a vegetative reproductive structure unique to this group."
+    },
+    {
+      "id": "PKQ_424",
+      "question": "Which bryophyte group is named for the liver-like shape of the plant body?",
+      "options": {
+        "A": "Mosses",
+        "B": "Liverworts",
+        "C": "Hornworts",
+        "D": "Peat mosses"
+      },
+      "correct_option": "B",
+      "explanation": "Liverworts are named for the liver-like lobed shape of the plant body (thallus). The class name Hepaticopsida comes from 'hepat' meaning liver."
+    },
+    {
+      "id": "PKQ_425",
+      "question": "The protonema stage in the moss life cycle is characterized by:",
+      "options": {
+        "A": "Being diploid and producing spores",
+        "B": "Being haploid, filamentous, green, branched — develops from spore germination",
+        "C": "Being the sporophyte stage",
+        "D": "Producing gametes directly"
+      },
+      "correct_option": "B",
+      "explanation": "The protonema is the first haploid stage of the moss gametophyte. It is a creeping, green, branched, filamentous structure that develops from germination of a haploid spore."
+    },
+    {
+      "id": "PKQ_426",
+      "question": "What is the significance of multicellular jacketed sex organs in bryophytes?",
+      "options": {
+        "A": "They increase the size of gametes",
+        "B": "They protect the gametes from desiccation and mechanical injury",
+        "C": "They facilitate dispersal of gametes",
+        "D": "They have no significance"
+      },
+      "correct_option": "B",
+      "explanation": "Multicellular jacketed sex organs in bryophytes protect the gametes from desiccation (drying out) and mechanical injury — an adaptation to the terrestrial environment."
+    },
+    {
+      "id": "PKQ_427",
+      "question": "Compared to algae, what is the additional feature in bryophytes regarding embryo development?",
+      "options": {
+        "A": "No embryo in bryophytes",
+        "B": "The embryo (young sporophyte/zygote) remains attached to and develops within the gametophyte (mother plant)",
+        "C": "Embryo develops freely in water",
+        "D": "Embryo is enclosed in a seed"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes, the embryo (zygote developing into young sporophyte) remains attached to the gametophyte (mother plant) and develops on it — this is the embryophyte condition, not seen in algae."
+    },
+    {
+      "id": "PKQ_428",
+      "question": "Asexual reproduction in liverworts by gemmae is advantageous because:",
+      "options": {
+        "A": "It produces genetically diverse offspring",
+        "B": "It allows rapid multiplication of genetically identical individuals without water requirement",
+        "C": "It requires water for dispersal",
+        "D": "It produces seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Gemmae allow rapid vegetative multiplication producing genetically identical individuals without requiring water (unlike sexual reproduction which needs water for antherozoid swimming)."
+    },
+    {
+      "id": "PKQ_429",
+      "question": "Which of the following shows vegetative reproduction in liverworts?",
+      "options": {
+        "A": "Zoospore formation",
+        "B": "Production of antheridia and archegonia",
+        "C": "Fragmentation and gemmae formation",
+        "D": "Production of biflagellate antherozoids"
+      },
+      "correct_option": "C",
+      "explanation": "Vegetative reproduction in liverworts occurs by fragmentation of thalli and through formation of gemmae in gemma cups."
+    },
+    {
+      "id": "PKQ_430",
+      "question": "In bryophytes, the archegonium produces:",
+      "options": {
+        "A": "Many eggs",
+        "B": "A single egg cell",
+        "C": "Biflagellate antherozoids",
+        "D": "Spores by meiosis"
+      },
+      "correct_option": "B",
+      "explanation": "The archegonium in bryophytes is a flask-shaped female sex organ that produces a single egg cell in its venter (base)."
+    },
+    {
+      "id": "PKQ_431",
+      "question": "What would happen if there were no water during the bryophyte reproductive season?",
+      "options": {
+        "A": "Sexual reproduction would not be affected",
+        "B": "Sexual reproduction would fail as antherozoids cannot swim to archegonium",
+        "C": "Only vegetative reproduction would fail",
+        "D": "Spore production would fail"
+      },
+      "correct_option": "B",
+      "explanation": "If there were no water, sexual reproduction in bryophytes would fail because the biflagellate antherozoids (male gametes) need water as a medium to swim to the archegonium for fertilisation."
+    },
+    {
+      "id": "PKQ_432",
+      "question": "Which of the following is the most economically significant moss?",
+      "options": {
+        "A": "Funaria",
+        "B": "Polytrichum",
+        "C": "Sphagnum",
+        "D": "Marchantia"
+      },
+      "correct_option": "C",
+      "explanation": "Sphagnum (peat moss) is the most economically significant moss — used as fuel, packing material, soil conditioner, and is ecologically important as a carbon sink."
+    },
+    {
+      "id": "PKQ_433",
+      "question": "The capsule of the bryophyte sporophyte is equivalent to which structure in algae?",
+      "options": {
+        "A": "Zoosporangium (asexual reproductive structure)",
+        "B": "Archegonium",
+        "C": "Antheridium",
+        "D": "Pyrenoid"
+      },
+      "correct_option": "A",
+      "explanation": "The capsule (sporangium) of the bryophyte sporophyte is equivalent to the zoosporangium of algae — both are structures that produce spores by meiosis (in bryophytes) or mitosis (zoospores in algae)."
+    },
+    {
+      "id": "PKQ_434",
+      "question": "The green, photosynthetic, free-living generation in bryophytes is the:",
+      "options": {
+        "A": "Sporophyte",
+        "B": "Gametophyte",
+        "C": "Protonema only",
+        "D": "Capsule"
+      },
+      "correct_option": "B",
+      "explanation": "The green, photosynthetic, free-living generation in bryophytes is the gametophyte (haploid) — this is the dominant phase."
+    },
+    {
+      "id": "PKQ_435",
+      "question": "Compared to the sporophyte, the gametophyte of bryophytes is:",
+      "options": {
+        "A": "Less prominent and dependent",
+        "B": "More prominent, free-living and dominant",
+        "C": "Always smaller",
+        "D": "Diploid"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes, the gametophyte is more prominent, free-living, and dominant compared to the sporophyte which is smaller and dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_436",
+      "question": "Which of the following is the correct description of the bryophyte plant body?",
+      "options": {
+        "A": "Attached to substrate by true roots, possessing xylem and phloem",
+        "B": "Attached to substrate by rhizoids, lacking true vascular tissue, more differentiated than algae",
+        "C": "Unicellular or filamentous like algae",
+        "D": "Produces seeds for reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "The bryophyte plant body is: attached to substrate by rhizoids (not true roots), lacks true vascular tissue (xylem/phloem), and is more differentiated than algae with leaf-like, stem-like structures (in mosses)."
+    },
+    {
+      "id": "PKQ_437",
+      "question": "Which of the following correctly identifies where the bryophyte sporophyte develops?",
+      "options": {
+        "A": "Independently in the soil",
+        "B": "On or within the gametophyte, remaining attached",
+        "C": "In the water",
+        "D": "As a free-floating structure"
+      },
+      "correct_option": "B",
+      "explanation": "The bryophyte sporophyte develops on or within the gametophyte, remaining attached to it. The foot is embedded in the gametophyte tissue."
+    },
+    {
+      "id": "PKQ_438",
+      "question": "Bryophytes are found in high humidity areas. What happens to them in dry conditions?",
+      "options": {
+        "A": "They thrive better",
+        "B": "They can become dormant and survive dehydration, reviving when moisture returns",
+        "C": "They die immediately",
+        "D": "They shift to underwater growth"
+      },
+      "correct_option": "B",
+      "explanation": "Many bryophytes are poikilohydric — they can lose water and become dormant (dried up), then revive (revival of dried specimens) when moisture becomes available again."
+    },
+    {
+      "id": "PKQ_439",
+      "question": "What is the difference between a 'thalloid' liverwort and a 'leafy' liverwort?",
+      "options": {
+        "A": "Thalloid: no differentiation at all; Leafy: has leaf-like appendages but still no true stem",
+        "B": "Thalloid: has vascular tissue; Leafy: no vascular tissue",
+        "C": "Thalloid: produces seeds; Leafy: produces spores",
+        "D": "No difference, both are identical"
+      },
+      "correct_option": "A",
+      "explanation": "Thalloid liverworts (e.g., Marchantia) have a flat, undifferentiated thalloid body. Leafy liverworts (e.g., Porella) have leaf-like appendages arranged on a stem-like axis, but still lack true vascular tissue."
+    },
+    {
+      "id": "PKQ_440",
+      "question": "Porella is a leafy liverwort. What does this mean?",
+      "options": {
+        "A": "It is a moss",
+        "B": "It has leaf-like appendages on a stem-like axis but is still classified as a liverwort (no true vascular tissue)",
+        "C": "It has true leaves with vascular bundles",
+        "D": "It produces seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Porella is a leafy liverwort — it has leaf-like appendages on a stem-like axis, making it look like a tiny leafy plant, but it is still classified as a liverwort and lacks true vascular tissue."
+    },
+    {
+      "id": "PKQ_441",
+      "question": "Which of the following statements about Marchantia is CORRECT?",
+      "options": {
+        "A": "It is a moss (Bryopsida)",
+        "B": "It is a liverwort (Hepaticopsida) with thalloid gametophyte, gemma cups for vegetative reproduction and separate male/female reproductive plants",
+        "C": "It has true vascular tissue",
+        "D": "It produces seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Marchantia is a liverwort (Hepaticopsida) with a thalloid gametophyte that reproduces vegetatively by gemmae in gemma cups and sexually by antheridia and archegonia on separate male and female plants (dioecious)."
+    },
+    {
+      "id": "PKQ_442",
+      "question": "The antherozoids of bryophytes swim to the archegonium attracted by:",
+      "options": {
+        "A": "Light",
+        "B": "Chemical substances (chemotropism) secreted by the archegonium",
+        "C": "Gravity",
+        "D": "Temperature differences"
+      },
+      "correct_option": "B",
+      "explanation": "The biflagellate antherozoids are attracted to the archegonium by chemical substances (chemotaxis) secreted by the archegonium, guiding them to the egg cell."
+    },
+    {
+      "id": "PKQ_443",
+      "question": "Which characteristic feature proves that bryophytes are 'embryophytes' (land plants)?",
+      "options": {
+        "A": "They have vascular tissue",
+        "B": "Their embryo (young sporophyte) is retained and develops on the mother gametophyte",
+        "C": "They produce seeds",
+        "D": "They have true roots"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are embryophytes because their embryo (young sporophyte developing from zygote) is retained on and dependent on the mother gametophyte plant. This embryo retention is a key land plant characteristic."
+    },
+    {
+      "id": "PKQ_444",
+      "question": "The leafy stage of the moss gametophyte is called:",
+      "options": {
+        "A": "Protonema",
+        "B": "Gametophore",
+        "C": "Sporophyte",
+        "D": "Prothallus"
+      },
+      "correct_option": "B",
+      "explanation": "The second stage of the moss gametophyte — the upright, slender, leafy structure bearing stem-like axis with leaf-like appendages — is called the gametophore."
+    },
+    {
+      "id": "PKQ_445",
+      "question": "Buds from the protonema give rise to:",
+      "options": {
+        "A": "Spores",
+        "B": "Leafy gametophores",
+        "C": "Sporophytes",
+        "D": "Archegonia"
+      },
+      "correct_option": "B",
+      "explanation": "Numerous buds are formed on the protonema. These buds give rise to the leafy gametophore — the second stage of the moss gametophyte."
+    },
+    {
+      "id": "PKQ_446",
+      "question": "Why are bryophytes NOT considered as fully terrestrial plants?",
+      "options": {
+        "A": "Because they grow on land",
+        "B": "Because they are completely dependent on water for sexual reproduction (antherozoids need water to swim)",
+        "C": "Because they have vascular tissue",
+        "D": "Because they produce seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are not fully terrestrial because they are still dependent on water for sexual reproduction — the biflagellate antherozoids need water to swim to the archegonium. This is why they are called 'amphibians of the plant kingdom'."
+    },
+    {
+      "id": "PKQ_447",
+      "question": "What is the significance of the 'rhizoid' in bryophytes?",
+      "options": {
+        "A": "It conducts water and minerals like xylem",
+        "B": "It anchors the plant to the substrate and absorbs water",
+        "C": "It produces gametes",
+        "D": "It produces spores"
+      },
+      "correct_option": "B",
+      "explanation": "Rhizoids in bryophytes anchor the plant to the substrate and absorb water. However, they are not true roots and lack vascular tissue."
+    },
+    {
+      "id": "PKQ_448",
+      "question": "Which of the following is correctly described as the 'first land plants'?",
+      "options": {
+        "A": "Algae",
+        "B": "Bryophytes (earliest known land plants)",
+        "C": "Gymnosperms",
+        "D": "Angiosperms"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes are considered among the earliest land plants. They represent the transition from aquatic (algae) to terrestrial life."
+    },
+    {
+      "id": "PKQ_449",
+      "question": "In the bryophyte life cycle, the gametes fuse to form a:",
+      "options": {
+        "A": "Haploid zygote",
+        "B": "Diploid zygote (2n)",
+        "C": "Triploid cell",
+        "D": "Spore"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes, the fusion of haploid (n) male antherozoid with haploid (n) egg produces a diploid (2n) zygote."
+    },
+    {
+      "id": "PKQ_450",
+      "question": "The zygote in bryophytes is the first cell of which generation?",
+      "options": {
+        "A": "Gametophyte",
+        "B": "Sporophyte",
+        "C": "Protonema",
+        "D": "Prothallus"
+      },
+      "correct_option": "B",
+      "explanation": "The zygote (2n) in bryophytes is the first cell of the sporophyte generation. It develops into the sporophyte (foot, seta, capsule)."
+    },
+    {
+      "id": "PKQ_451",
+      "question": "The spore of bryophytes is the first cell of which generation?",
+      "options": {
+        "A": "Sporophyte",
+        "B": "Gametophyte",
+        "C": "Protonema (which is part of gametophyte)",
+        "D": "None"
+      },
+      "correct_option": "B",
+      "explanation": "The haploid spore of bryophytes is the first cell of the gametophyte generation. It germinates to produce the protonema (in mosses) or directly the thalloid gametophyte (in liverworts)."
+    },
+    {
+      "id": "PKQ_452",
+      "question": "Which correctly describes the evolutionary significance of bryophytes?",
+      "options": {
+        "A": "They represent a dead end in plant evolution",
+        "B": "They show the transition from aquatic algae to terrestrial vascular plants, serving as an evolutionary link",
+        "C": "They evolved from pteridophytes",
+        "D": "They have no evolutionary significance"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes show the transition from aquatic (algae) to terrestrial life. They have terrestrial adaptations (land habitat, rhizoids, jacketed sex organs) but retain aquatic characters (need water for fertilisation), making them evolutionary links."
+    },
+    {
+      "id": "PKQ_453",
+      "question": "Which of the following is found in bryophytes but NOT in algae?",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Multicellular jacketed sex organs (antheridia and archegonia)",
+        "C": "Autotrophic nutrition",
+        "D": "Sexual reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "Multicellular jacketed sex organs (antheridia and archegonia) are found in bryophytes but not in algae (algae have unicellular or non-jacketed sex organs). This is a key advancement of bryophytes over algae."
+    },
+    {
+      "id": "PKQ_454",
+      "question": "Which of the following correctly compares liverworts and mosses?",
+      "options": {
+        "A": "Liverworts: unicellular rhizoids, thalloid body, gemmae cups; Mosses: multicellular branched rhizoids, leafy gametophore with protonema stage",
+        "B": "Liverworts: multicellular rhizoids; Mosses: unicellular rhizoids",
+        "C": "Both have identical structure",
+        "D": "Mosses: thalloid gametophyte; Liverworts: leafy gametophyte with protonema"
+      },
+      "correct_option": "A",
+      "explanation": "Key comparison: Liverworts have unicellular rhizoids, thalloid body, and gemmae in gemma cups. Mosses have multicellular branched rhizoids, leafy gametophore, and a protonema stage."
+    },
+    {
+      "id": "PKQ_455",
+      "question": "Sphagnum has large water-holding capacity because:",
+      "options": {
+        "A": "It has true roots that absorb water",
+        "B": "It has large dead hyaline cells that store water",
+        "C": "It has thick cuticle",
+        "D": "It has vascular tissue"
+      },
+      "correct_option": "B",
+      "explanation": "Sphagnum has large dead hyaline (transparent, empty) cells interspersed with living cells. These dead hyaline cells absorb and store large amounts of water, giving Sphagnum its remarkable water-holding capacity."
+    },
+    {
+      "id": "PKQ_456",
+      "question": "Which of the following correctly describes the sequence of development of the moss gametophyte?",
+      "options": {
+        "A": "Spore → Leafy gametophore → Protonema",
+        "B": "Spore → Protonema → Buds → Leafy gametophore",
+        "C": "Spore → Sporophyte → Gametophyte",
+        "D": "Protonema → Spore → Gametophore"
+      },
+      "correct_option": "B",
+      "explanation": "Development of moss gametophyte: Haploid spore → germinates → Protonema (creeping, filamentous) → forms buds → Leafy gametophore (upright, with stem-like axis and leaf-like appendages)."
+    },
+    {
+      "id": "PKQ_457",
+      "question": "The sex organs in bryophytes are 'multicellular' — what is the significance of this?",
+      "options": {
+        "A": "It makes them easier to disperse",
+        "B": "It provides protection and nutrition to developing gametes (unlike unicellular sex organs in algae)",
+        "C": "It increases the number of gametes produced",
+        "D": "It has no significance"
+      },
+      "correct_option": "B",
+      "explanation": "Multicellular sex organs in bryophytes are significant because they provide protection (the jacket of sterile cells) and nutrition to developing gametes, which is an advancement over unicellular sex organs in algae."
+    },
+    {
+      "id": "PKQ_458",
+      "question": "In which of the following does a 'protonema' stage NOT occur?",
+      "options": {
+        "A": "Funaria",
+        "B": "Polytrichum",
+        "C": "Marchantia",
+        "D": "Sphagnum"
+      },
+      "correct_option": "C",
+      "explanation": "Marchantia is a liverwort — it does not have a prominent protonema stage. The protonema is characteristic of mosses (Funaria, Polytrichum, Sphagnum)."
+    },
+    {
+      "id": "PKQ_459",
+      "question": "Which of the following is a correct statement about the bryophyte sporophyte?",
+      "options": {
+        "A": "It is free-living and dominant",
+        "B": "It is diploid, dependent on gametophyte, differentiated into foot, seta and capsule",
+        "C": "It is haploid and photosynthetic",
+        "D": "It produces gametes"
+      },
+      "correct_option": "B",
+      "explanation": "The bryophyte sporophyte is diploid (2n), at least partially dependent on the haploid gametophyte, and differentiated into foot (anchor/absorption), seta (stalk) and capsule (spore production by meiosis)."
+    },
+    {
+      "id": "PKQ_460",
+      "question": "Which of the following is INCORRECT about the ecological role of bryophytes?",
+      "options": {
+        "A": "They act as pioneer plants in ecological succession",
+        "B": "They prevent soil erosion",
+        "C": "They fix atmospheric nitrogen like Rhizobium",
+        "D": "Sphagnum peat bogs serve as carbon sinks"
+      },
+      "correct_option": "C",
+      "explanation": "Bryophytes do NOT fix atmospheric nitrogen like Rhizobium. Their ecological roles include: pioneer plant in succession, preventing soil erosion, and Sphagnum peat bogs as carbon sinks."
+    },
+    {
+      "id": "PKQ_461",
+      "question": "The process by which the liverwort sporophyte produces spores is:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis inside the capsule",
+        "C": "Fertilisation",
+        "D": "Fragmentation"
+      },
+      "correct_option": "B",
+      "explanation": "The liverwort sporophyte produces haploid spores by meiosis inside the capsule."
+    },
+    {
+      "id": "PKQ_462",
+      "question": "Marchantia is described as dioecious. What does this mean?",
+      "options": {
+        "A": "Both sex organs on same plant",
+        "B": "Male and female reproductive structures on separate plants",
+        "C": "It reproduces only asexually",
+        "D": "It has two reproductive cycles"
+      },
+      "correct_option": "B",
+      "explanation": "Marchantia is dioecious — male (antheridiophores with antheridia) and female (archegoniophores with archegonia) reproductive structures are borne on separate plants."
+    },
+    {
+      "id": "PKQ_463",
+      "question": "The gemma cups on Marchantia contain:",
+      "options": {
+        "A": "Spores",
+        "B": "Green, multicellular, asexual gemmae",
+        "C": "Male gametes",
+        "D": "Female gametes"
+      },
+      "correct_option": "B",
+      "explanation": "Gemma cups on Marchantia contain green, multicellular, asexual gemmae. When detached, these germinate to form new, genetically identical gametophytes."
+    },
+    {
+      "id": "PKQ_464",
+      "question": "After fertilisation in Marchantia, where does the sporophyte develop?",
+      "options": {
+        "A": "Freely in soil",
+        "B": "Within the archegonium on the female thallus",
+        "C": "On the protonema",
+        "D": "Inside the gemma cup"
+      },
+      "correct_option": "B",
+      "explanation": "After fertilisation in Marchantia, the sporophyte develops within the archegonium on the female thallus (archegoniophore), remaining attached to and dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_465",
+      "question": "Which of the following is a correct match?",
+      "options": {
+        "A": "Marchantia - Bryopsida",
+        "B": "Funaria - Hepaticopsida",
+        "C": "Sphagnum - Bryopsida",
+        "D": "Polytrichum - Hepaticopsida"
+      },
+      "correct_option": "C",
+      "explanation": "Sphagnum belongs to Bryopsida (mosses). Marchantia belongs to Hepaticopsida (liverworts). Funaria and Polytrichum belong to Bryopsida."
+    },
+    {
+      "id": "PKQ_466",
+      "question": "The fact that bryophytes need water for sexual reproduction limits their distribution to:",
+      "options": {
+        "A": "Only aquatic habitats",
+        "B": "Moist and humid areas where water is available during reproductive season",
+        "C": "Only marine habitats",
+        "D": "Only tropical rainforests"
+      },
+      "correct_option": "B",
+      "explanation": "The dependence on water for sexual reproduction limits bryophyte distribution to moist and humid areas where water is available during the reproductive season."
+    },
+    {
+      "id": "PKQ_467",
+      "question": "Which of the following is a FALSE statement about bryophytes?",
+      "options": {
+        "A": "They lack true vascular tissue",
+        "B": "The gametophyte is the dominant phase",
+        "C": "They produce seeds for reproduction",
+        "D": "They are found in moist habitats"
+      },
+      "correct_option": "C",
+      "explanation": "Bryophytes do NOT produce seeds — they reproduce by spores. Seed production is a feature of seed plants (gymnosperms and angiosperms)."
+    },
+    {
+      "id": "PKQ_468",
+      "question": "In the bryophyte life cycle, which event marks the beginning of the sporophyte generation?",
+      "options": {
+        "A": "Meiosis in capsule",
+        "B": "Germination of spore",
+        "C": "Fertilisation (formation of diploid zygote)",
+        "D": "Formation of gametes"
+      },
+      "correct_option": "C",
+      "explanation": "Fertilisation (fusion of antherozoid and egg to form diploid zygote) marks the beginning of the sporophyte generation in bryophytes."
+    },
+    {
+      "id": "PKQ_469",
+      "question": "In the bryophyte life cycle, which event marks the beginning of the gametophyte generation?",
+      "options": {
+        "A": "Fertilisation",
+        "B": "Germination of haploid spore",
+        "C": "Meiosis",
+        "D": "Formation of archegonium"
+      },
+      "correct_option": "B",
+      "explanation": "Germination of the haploid spore marks the beginning of the gametophyte generation in bryophytes."
+    },
+    {
+      "id": "PKQ_470",
+      "question": "The ecological term for Sphagnum's role in maintaining ecosystem water levels is:",
+      "options": {
+        "A": "Carbon fixation",
+        "B": "Water table regulation — Sphagnum peat bogs hold enormous amounts of water",
+        "C": "Nitrogen cycling",
+        "D": "Oxygen depletion"
+      },
+      "correct_option": "B",
+      "explanation": "Sphagnum peat bogs hold enormous amounts of water (up to 20 times their own weight), helping regulate local water tables and maintaining ecosystem water levels."
+    },
+    {
+      "id": "PKQ_471",
+      "question": "Which of the following is TRUE about bryophyte sex organs?",
+      "options": {
+        "A": "Male organ: archegonium; Female organ: antheridium",
+        "B": "Male organ: antheridium (produces antherozoids); Female organ: archegonium (produces egg)",
+        "C": "Both organs produce spores",
+        "D": "Sex organs are unicellular"
+      },
+      "correct_option": "B",
+      "explanation": "In bryophytes: Antheridium is the male sex organ (produces biflagellate antherozoids). Archegonium is the female sex organ (flask-shaped, produces a single egg)."
+    },
+    {
+      "id": "PKQ_472",
+      "question": "How does the bryophyte sporophyte compare to the algal thallus in terms of complexity?",
+      "options": {
+        "A": "Sporophyte is simpler than algal thallus",
+        "B": "Both are equally simple",
+        "C": "Sporophyte is differentiated into distinct parts (foot, seta, capsule) unlike most algal thalli",
+        "D": "Sporophyte is identical to algal thallus"
+      },
+      "correct_option": "C",
+      "explanation": "The bryophyte sporophyte is differentiated into distinct parts (foot, seta, capsule) showing more organization than most algal thalli which are undifferentiated."
+    },
+    {
+      "id": "PKQ_473",
+      "question": "Which of the following correctly describes the economic importance of mosses?",
+      "options": {
+        "A": "They are used as food for humans",
+        "B": "Sphagnum provides peat (fuel), packing material, and absorbs oil spills",
+        "C": "They are used to make medicines for treating cancer",
+        "D": "They are used as biofuel for automobiles"
+      },
+      "correct_option": "B",
+      "explanation": "Mosses are economically important in several ways: Sphagnum provides peat used as fuel; its water-holding capacity makes it useful as packing material; it has been used to absorb oil spills due to its large water/liquid holding capacity."
+    },
+    {
+      "id": "PKQ_474",
+      "question": "Which is NOT found in bryophytes?",
+      "options": {
+        "A": "Rhizoids",
+        "B": "Antheridia",
+        "C": "Archegonia",
+        "D": "Vascular tissue (xylem and phloem)"
+      },
+      "correct_option": "D",
+      "explanation": "Bryophytes lack vascular tissue (xylem and phloem). They have rhizoids, antheridia and archegonia, but are non-vascular plants."
+    },
+    {
+      "id": "PKQ_475",
+      "question": "The correct relationship between moss protonema and gametophore is:",
+      "options": {
+        "A": "Both are sporophyte stages",
+        "B": "Protonema is first gametophyte stage; gametophore is second gametophyte stage",
+        "C": "Protonema is sporophyte; gametophore is gametophyte",
+        "D": "Both are identical"
+      },
+      "correct_option": "B",
+      "explanation": "Both protonema and gametophore are stages of the same haploid gametophyte generation. Protonema (filamentous) is the first stage; the leafy gametophore is the second, more complex stage."
+    },
+    {
+      "id": "PKQ_476",
+      "question": "In Marchantia, where are antheridia found?",
+      "options": {
+        "A": "On the underside of the thallus",
+        "B": "On special structures called antheridiophores on the male thallus",
+        "C": "Inside the archegonium",
+        "D": "On the gemma cups"
+      },
+      "correct_option": "B",
+      "explanation": "In Marchantia, antheridia are borne on special umbrella-like structures called antheridiophores on the male plant."
+    },
+    {
+      "id": "PKQ_477",
+      "question": "In Marchantia, where are archegonia found?",
+      "options": {
+        "A": "On special structures called archegoniophores on the female thallus",
+        "B": "On the gemma cups",
+        "C": "On the male thallus",
+        "D": "Underground"
+      },
+      "correct_option": "A",
+      "explanation": "In Marchantia, archegonia are borne on special umbrella-like structures called archegoniophores on the female plant."
+    },
+    {
+      "id": "PKQ_478",
+      "question": "Which of the following is a correct statement about vegetative reproduction in mosses?",
+      "options": {
+        "A": "Mosses reproduce vegetatively by gemmae in gemma cups",
+        "B": "Mosses reproduce vegetatively by fragmentation and secondary protonema formation",
+        "C": "Mosses cannot reproduce vegetatively",
+        "D": "Mosses reproduce vegetatively by binary fission"
+      },
+      "correct_option": "B",
+      "explanation": "Mosses reproduce vegetatively by fragmentation — fragments of protonema or leafy gametophore can give rise to secondary protonema, which then forms new gametophores."
+    },
+    {
+      "id": "PKQ_479",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "Liverworts - protonema - multicellular branched rhizoids",
+        "B": "Mosses - protonema - multicellular branched rhizoids",
+        "C": "Liverworts - no protonema - multicellular branched rhizoids",
+        "D": "Mosses - no protonema - unicellular rhizoids"
+      },
+      "correct_option": "B",
+      "explanation": "Mosses: have a protonema stage AND multicellular branched rhizoids. Liverworts: do not have a prominent protonema stage AND have unicellular rhizoids."
+    },
+    {
+      "id": "PKQ_480",
+      "question": "Which is the CORRECT summary of economic importance of bryophytes?",
+      "options": {
+        "A": "Bryophytes have no economic importance",
+        "B": "Sphagnum as fuel, packing material and soil conditioner; ecological role as pioneer plants and carbon sinks; food for herbivores",
+        "C": "Only used as food for humans",
+        "D": "Only used for medicinal purposes"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophyte economic importance: (1) Sphagnum peat as fuel, (2) Sphagnum as packing material (water holding, antiseptic), (3) soil conditioner, (4) ecological pioneer plants, (5) carbon sinks (peat bogs), (6) food for reindeer and other herbivores."
+    },
+    {
+      "id": "PKQ_481",
+      "question": "In an examination, a student says 'bryophytes are photosynthetic amphibians that can live on land but need water for reproduction.' Is this statement correct?",
+      "options": {
+        "A": "Completely incorrect",
+        "B": "Mostly correct — bryophytes are photosynthetic plants (not animals) that live on land but need water for sexual reproduction",
+        "C": "Incorrect because bryophytes are heterotrophic",
+        "D": "Incorrect because bryophytes don't need water for reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "The statement is mostly correct — bryophytes ARE photosynthetic (not heterotrophic), they DO live on land, and they DO need water for sexual reproduction. The only issue is calling them 'amphibians' (they are plants, not animals, but are metaphorically called 'amphibians of the plant kingdom')."
+    },
+    {
+      "id": "PKQ_482",
+      "question": "Which character shows that bryophytes are more adapted to land than algae?",
+      "options": {
+        "A": "Need water for fertilisation",
+        "B": "Have multicellular jacketed sex organs protecting gametes from desiccation, and rhizoids for anchorage",
+        "C": "Are autotrophic",
+        "D": "Have chlorophyll"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes show better land adaptation than algae through: (1) multicellular jacketed sex organs (protect gametes from desiccation), (2) rhizoids (anchorage to substrate), (3) protection of developing embryo within the mother plant."
+    },
+    {
+      "id": "PKQ_483",
+      "question": "The capsule (sporangium) in bryophytes produces spores. These spores are:",
+      "options": {
+        "A": "Diploid and produce gametophyte directly",
+        "B": "Haploid and produce protonema (mosses) or thalloid gametophyte (liverworts) on germination",
+        "C": "Triploid and non-viable",
+        "D": "Diploid and produce sporophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Capsule produces haploid spores by meiosis. On germination: in mosses, spores produce protonema → gametophore; in liverworts, spores produce thalloid gametophyte."
+    },
+    {
+      "id": "PKQ_484",
+      "question": "Why can't bryophytes grow as tall as vascular plants (pteridophytes, gymnosperms, angiosperms)?",
+      "options": {
+        "A": "They don't have enough sunlight",
+        "B": "They lack vascular tissue (xylem and phloem) to efficiently transport water and nutrients to great heights",
+        "C": "They lack roots",
+        "D": "They reproduce too slowly"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes cannot grow tall because they lack vascular tissue (xylem and phloem) which in higher plants efficiently transports water and nutrients to great heights. Water in bryophytes moves slowly by capillarity and osmosis."
+    },
+    {
+      "id": "PKQ_485",
+      "question": "What does 'haploid generation' mean in the context of bryophyte alternation of generations?",
+      "options": {
+        "A": "The generation with 2n chromosomes",
+        "B": "The generation with n chromosomes — the gametophyte that produces gametes",
+        "C": "The generation with 4n chromosomes",
+        "D": "The non-photosynthetic generation"
+      },
+      "correct_option": "B",
+      "explanation": "Haploid generation means the generation with n (haploid) chromosomes — in bryophytes this is the gametophyte, which produces gametes by mitosis."
+    },
+    {
+      "id": "PKQ_486",
+      "question": "A student observes a plant in a moist, shaded area. It has a flat, lobed, ribbon-like thallus closely appressed to wet rock, with small cup-shaped structures on top. This plant is most likely:",
+      "options": {
+        "A": "A fern",
+        "B": "A liverwort (like Marchantia)",
+        "C": "A moss",
+        "D": "An alga"
+      },
+      "correct_option": "B",
+      "explanation": "The description — flat, lobed, ribbon-like thallus on wet rock with small cup-shaped structures (gemma cups) — perfectly describes a liverwort like Marchantia."
+    },
+    {
+      "id": "PKQ_487",
+      "question": "A student observes a plant with an upright, tiny structure bearing miniature leaf-like structures arranged around a central axis, attached to the soil by multicellular branched structures, and a long capsule on a stalk at the top. This is most likely a:",
+      "options": {
+        "A": "Liverwort",
+        "B": "Fern",
+        "C": "Moss (like Funaria)",
+        "D": "Alga"
+      },
+      "correct_option": "C",
+      "explanation": "The description — upright structure with leaf-like appendages, multicellular branched rhizoids, capsule on seta — describes a moss like Funaria."
+    },
+    {
+      "id": "PKQ_488",
+      "question": "Which group of plants was most dominant on land before the evolution of vascular plants?",
+      "options": {
+        "A": "Gymnosperms",
+        "B": "Angiosperms",
+        "C": "Bryophytes",
+        "D": "Algae"
+      },
+      "correct_option": "C",
+      "explanation": "Bryophytes were among the first and most dominant land plants before the evolution of vascular plants (pteridophytes). They colonized terrestrial habitats before vascular plants evolved."
+    },
+    {
+      "id": "PKQ_489",
+      "question": "Which of the following is a 'warp and weft' pattern of alternation of generations described in bryophytes?",
+      "options": {
+        "A": "Alternating between sporophyte and gametophyte, with gametophyte dominant",
+        "B": "No alternation — only one phase",
+        "C": "Sporophyte is dominant",
+        "D": "Both phases are always equal"
+      },
+      "correct_option": "A",
+      "explanation": "In bryophytes, there is a clear alternation between sporophyte (diploid, dependent) and gametophyte (haploid, dominant) generations. The gametophyte is dominant."
+    },
+    {
+      "id": "PKQ_490",
+      "question": "Select the CORRECT set of characteristics of Bryophyta:",
+      "options": {
+        "A": "Vascular tissue present, gametophyte dominant, seeds produced",
+        "B": "No vascular tissue, gametophyte dominant, water needed for fertilization, sporophyte dependent",
+        "C": "Vascular tissue present, sporophyte dominant, seeds produced",
+        "D": "No vascular tissue, sporophyte dominant, no water needed for fertilization"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophyta characteristics: No vascular tissue, gametophyte is dominant phase, water is needed for fertilization (biflagellate antherozoids), sporophyte is dependent on gametophyte."
+    },
+    {
+      "id": "PKQ_491",
+      "question": "What is the 'calyptra' in bryophytes?",
+      "options": {
+        "A": "The capsule itself",
+        "B": "A protective covering (derived from archegonium wall) over the developing capsule",
+        "C": "The foot",
+        "D": "The seta"
+      },
+      "correct_option": "B",
+      "explanation": "The calyptra is a protective cap or covering derived from the archegonium wall that covers the developing capsule of the sporophyte in many bryophytes."
+    },
+    {
+      "id": "PKQ_492",
+      "question": "The sporophyte of liverworts is LEAST developed compared to mosses because:",
+      "options": {
+        "A": "Liverworts are more primitive, with a simpler sporophyte (short or absent seta, simple capsule)",
+        "B": "Liverworts are more advanced",
+        "C": "The liverwort sporophyte has more complex capsule",
+        "D": "Both have identical sporophytes"
+      },
+      "correct_option": "A",
+      "explanation": "Liverwort sporophyte is simpler (less developed) — the seta is often short or absent, and the capsule structure is simpler. Moss sporophyte is more elaborate with a longer seta and more complex capsule with peristome."
+    },
+    {
+      "id": "PKQ_493",
+      "question": "Which group of bryophytes provides the highest ecological services globally?",
+      "options": {
+        "A": "Liverworts",
+        "B": "Hornworts",
+        "C": "Sphagnum mosses (peat mosses)",
+        "D": "Funaria"
+      },
+      "correct_option": "C",
+      "explanation": "Sphagnum mosses (peat mosses) provide the highest global ecological services — storing enormous amounts of carbon in peat bogs, regulating water tables, providing unique biodiversity habitat."
+    },
+    {
+      "id": "PKQ_494",
+      "question": "In the NCERT chapter, bryophytes are described in terms of which two main groups?",
+      "options": {
+        "A": "Liverworts and ferns",
+        "B": "Liverworts and mosses",
+        "C": "Mosses and pteridophytes",
+        "D": "Algae and mosses"
+      },
+      "correct_option": "B",
+      "explanation": "In NCERT Chapter 3, bryophytes are discussed in terms of two main groups: liverworts and mosses."
+    },
+    {
+      "id": "PKQ_495",
+      "question": "Mosses form dense mats on rocks and soil. What is the ecological significance of this?",
+      "options": {
+        "A": "They block sunlight for other plants",
+        "B": "They bind soil, prevent erosion, retain moisture, and contribute to soil formation through accumulation of organic matter",
+        "C": "They compete with other plants for nutrients",
+        "D": "They have no ecological significance"
+      },
+      "correct_option": "B",
+      "explanation": "Moss mats on rocks and soil: bind soil (prevent erosion), retain moisture, and through accumulation of dead organic matter contribute to soil formation, creating habitat for other organisms."
+    },
+    {
+      "id": "PKQ_496",
+      "question": "What is the main difference between spores and seeds?",
+      "options": {
+        "A": "Spores are multicellular; seeds are unicellular",
+        "B": "Spores are haploid, single-celled, no food reserve; seeds are diploid, multicellular, have food reserve",
+        "C": "Both are identical",
+        "D": "Seeds are produced by meiosis; spores are not"
+      },
+      "correct_option": "B",
+      "explanation": "Key differences: Spores (in bryophytes) are haploid, single-celled, have no stored food reserve. Seeds (in gymnosperms/angiosperms) are diploid, multicellular (contain embryo + food reserve/endosperm + seed coat)."
+    },
+    {
+      "id": "PKQ_497",
+      "question": "A student observes that a plant cannot grow without a moist environment and dies in dry conditions. Its reproductive success depends on rainfall. This is most likely a:",
+      "options": {
+        "A": "Gymnosperm",
+        "B": "Angiosperm",
+        "C": "Bryophyte",
+        "D": "Pteridophyte"
+      },
+      "correct_option": "C",
+      "explanation": "Bryophytes are most dependent on moist environments — they grow in moist habitats and require water (rainfall) for sexual reproduction. Their biflagellate antherozoids must swim to the archegonium."
+    },
+    {
+      "id": "PKQ_498",
+      "question": "Which bryophyte group is considered most primitive?",
+      "options": {
+        "A": "Mosses (Bryopsida) — most complex",
+        "B": "Liverworts (Hepaticopsida) — generally considered more primitive",
+        "C": "Hornworts (Anthocerotopsida)",
+        "D": "All are equally primitive"
+      },
+      "correct_option": "B",
+      "explanation": "Liverworts are generally considered more primitive among bryophytes — they have simpler thalloid bodies, simpler sporophytes (shorter seta, simpler capsule), and unicellular rhizoids. Mosses are more advanced with protonema stage, leafy gametophore, multicellular rhizoids, and more complex sporophyte."
+    },
+    {
+      "id": "PKQ_499",
+      "question": "If a bryophyte's capsule is removed, what would happen to reproduction?",
+      "options": {
+        "A": "Only sexual reproduction would be affected",
+        "B": "Asexual spore production would be eliminated, affecting colonization of new habitats",
+        "C": "Nothing would happen",
+        "D": "Only vegetative reproduction would be affected"
+      },
+      "correct_option": "B",
+      "explanation": "If the capsule is removed, no spores would be produced. This would eliminate asexual (spore) reproduction, significantly affecting the plant's ability to colonize new habitats, as spores are the main dispersal unit."
+    },
+    {
+      "id": "PKQ_500",
+      "question": "The complete description of bryophytes includes which of the following features?",
+      "options": {
+        "A": "Vascular tissue, true roots, stem and leaves, produce seeds",
+        "B": "Non-vascular, rhizoids, thalloid or leafy gametophyte dominant, sporophyte dependent, need water for fertilization",
+        "C": "Vascular, no seeds, dominant sporophyte, independent gametophyte",
+        "D": "Non-vascular, seeds present, sporophyte dominant"
+      },
+      "correct_option": "B",
+      "explanation": "Complete description of bryophytes: Non-vascular (no xylem/phloem), anchored by rhizoids, thalloid (liverworts) or leafy (mosses) gametophyte is dominant and free-living, sporophyte is dependent on gametophyte, water needed for fertilisation (biflagellate antherozoids)."
+    }
+  ]
+}

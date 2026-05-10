@@ -1,0 +1,2411 @@
+{
+  "chapter_name": "Plant Kingdom",
+  "chapter_number": 3,
+  "subject": "Biology",
+  "class": 11,
+  "source": "NCERT Biology Class 11",
+  "chunk": 3,
+  "topic_covered": "Pteridophytes - General Introduction, Classification, Life Cycle, Significance",
+  "questions": [
+    {
+      "id": "PKQ_501",
+      "question": "Pteridophytes are the first land plants to have:",
+      "options": {
+        "A": "Seeds",
+        "B": "Vascular tissue (xylem and phloem)",
+        "C": "Flowers",
+        "D": "True roots, stem and leaves without vascular tissue"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are the first land plants to have vascular tissue (xylem and phloem). This is their most important evolutionary advancement over bryophytes."
+    },
+    {
+      "id": "PKQ_502",
+      "question": "Pteridophytes include which of the following groups?",
+      "options": {
+        "A": "Mosses, liverworts and ferns",
+        "B": "Ferns, horsetails, clubmosses (Lycopodium, Selaginella, Equisetum, Pteris)",
+        "C": "Cycas, Pinus, Ginkgo",
+        "D": "Only ferns"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes include ferns and their allies — Lycopodium, Selaginella, Equisetum (horsetails), Pteris, Adiantum and other ferns."
+    },
+    {
+      "id": "PKQ_503",
+      "question": "The habitat of pteridophytes is:",
+      "options": {
+        "A": "Only aquatic habitats",
+        "B": "Cool, damp, shady places — some in dry and xeric habitats",
+        "C": "Only desert regions",
+        "D": "Only marine habitats"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are found in cool, damp, shady places. Some are found in deep shade like forest floors, some on walls, some in water. A few grow in open dry rocky habitats."
+    },
+    {
+      "id": "PKQ_504",
+      "question": "The main plant body of pteridophytes is:",
+      "options": {
+        "A": "Haploid gametophyte",
+        "B": "Diploid sporophyte",
+        "C": "Both equally dominant",
+        "D": "Triploid"
+      },
+      "correct_option": "B",
+      "explanation": "In pteridophytes, the main plant body is the diploid sporophyte (unlike bryophytes where gametophyte is dominant). The sporophyte is free-living and independent."
+    },
+    {
+      "id": "PKQ_505",
+      "question": "The sporophyte in pteridophytes is differentiated into:",
+      "options": {
+        "A": "Foot, seta and capsule",
+        "B": "True roots, stem and leaves",
+        "C": "Rhizoids, thallus and capsule",
+        "D": "Holdfast, stipe and frond"
+      },
+      "correct_option": "B",
+      "explanation": "The sporophyte of pteridophytes is well differentiated into true roots, stem and leaves, unlike bryophytes where there are only rhizoids, stem-like and leaf-like structures."
+    },
+    {
+      "id": "PKQ_506",
+      "question": "The vascular tissue in pteridophytes consists of:",
+      "options": {
+        "A": "Only xylem",
+        "B": "Only phloem",
+        "C": "Both xylem and phloem",
+        "D": "No vascular tissue"
+      },
+      "correct_option": "C",
+      "explanation": "Pteridophytes have vascular tissue consisting of both xylem (water and mineral conduction) and phloem (food conduction), making them the first true vascular plants."
+    },
+    {
+      "id": "PKQ_507",
+      "question": "Leaves in ferns are also called:",
+      "options": {
+        "A": "Fronds",
+        "B": "Thalli",
+        "C": "Prothalli",
+        "D": "Phylloids"
+      },
+      "correct_option": "A",
+      "explanation": "The leaves of ferns are commonly called fronds. They are often large and pinnately compound."
+    },
+    {
+      "id": "PKQ_508",
+      "question": "Sporangia in pteridophytes are borne on:",
+      "options": {
+        "A": "Roots only",
+        "B": "Stems only",
+        "C": "Leaves (sporophylls) — in groups called sori",
+        "D": "Underground rhizomes"
+      },
+      "correct_option": "C",
+      "explanation": "In pteridophytes, sporangia are borne on the lower surface of leaves (called sporophylls). They are often grouped into clusters called sori (singular: sorus)."
+    },
+    {
+      "id": "PKQ_509",
+      "question": "Sporophylls are:",
+      "options": {
+        "A": "Leaves that bear sporangia",
+        "B": "Asexual reproductive organs",
+        "C": "Root structures",
+        "D": "Stem structures"
+      },
+      "correct_option": "A",
+      "explanation": "Sporophylls are leaves that bear sporangia (spore-producing structures). They may be the same as vegetative leaves or may be modified."
+    },
+    {
+      "id": "PKQ_510",
+      "question": "Sori in ferns are:",
+      "options": {
+        "A": "Groups of archegonia",
+        "B": "Groups of sporangia on the underside of fronds",
+        "C": "Root nodules",
+        "D": "Vegetative buds"
+      },
+      "correct_option": "B",
+      "explanation": "Sori (singular: sorus) are clusters of sporangia found on the underside (abaxial surface) of fern fronds."
+    },
+    {
+      "id": "PKQ_511",
+      "question": "In pteridophytes, spores are produced by:",
+      "options": {
+        "A": "Mitosis in the gametophyte",
+        "B": "Meiosis in sporangia of the sporophyte",
+        "C": "Fertilisation",
+        "D": "Budding"
+      },
+      "correct_option": "B",
+      "explanation": "In pteridophytes, spores are produced by meiosis inside the sporangia of the sporophyte. The spores are haploid."
+    },
+    {
+      "id": "PKQ_512",
+      "question": "The gametophyte of pteridophytes is called:",
+      "options": {
+        "A": "Protonema",
+        "B": "Prothallus",
+        "C": "Thallus",
+        "D": "Sporophyte"
+      },
+      "correct_option": "B",
+      "explanation": "The gametophyte of pteridophytes is called prothallus. It is a small, heart-shaped, photosynthetic, free-living structure."
+    },
+    {
+      "id": "PKQ_513",
+      "question": "The prothallus (gametophyte) of pteridophytes is:",
+      "options": {
+        "A": "Dependent on the sporophyte",
+        "B": "Free-living, green, photosynthetic and autotrophic",
+        "C": "Large and dominant",
+        "D": "Found only in water"
+      },
+      "correct_option": "B",
+      "explanation": "The prothallus (gametophyte) of pteridophytes is free-living, green, photosynthetic and autotrophic — small but independent."
+    },
+    {
+      "id": "PKQ_514",
+      "question": "What shape is the prothallus (gametophyte) of most pteridophytes?",
+      "options": {
+        "A": "Cylindrical",
+        "B": "Heart-shaped (cordate) or kidney-shaped",
+        "C": "Filamentous",
+        "D": "Spherical"
+      },
+      "correct_option": "B",
+      "explanation": "The prothallus of most pteridophytes is heart-shaped (cordate) or kidney-shaped, small and flat."
+    },
+    {
+      "id": "PKQ_515",
+      "question": "Sex organs on the prothallus of pteridophytes are:",
+      "options": {
+        "A": "Only antheridia",
+        "B": "Only archegonia",
+        "C": "Both antheridia and archegonia",
+        "D": "No sex organs"
+      },
+      "correct_option": "C",
+      "explanation": "The prothallus (gametophyte) of pteridophytes bears both antheridia (male sex organs) and archegonia (female sex organs)."
+    },
+    {
+      "id": "PKQ_516",
+      "question": "Do pteridophytes require water for fertilisation?",
+      "options": {
+        "A": "No, fertilisation occurs in air",
+        "B": "Yes, the motile antherozoids need water to swim to archegonium",
+        "C": "Water is not involved in pteridophyte reproduction",
+        "D": "Only some pteridophytes need water"
+      },
+      "correct_option": "B",
+      "explanation": "Yes, pteridophytes require water for fertilisation — the antherozoids (male gametes) are motile and need water to swim to the archegonium. This limits pteridophytes to moist habitats."
+    },
+    {
+      "id": "PKQ_517",
+      "question": "The zygote in pteridophytes develops into:",
+      "options": {
+        "A": "A seed",
+        "B": "A free-living, independent diploid sporophyte",
+        "C": "Another prothallus",
+        "D": "A dependent sporophyte"
+      },
+      "correct_option": "B",
+      "explanation": "In pteridophytes, the zygote develops into a free-living, independent diploid sporophyte. This is a key advancement over bryophytes where the sporophyte is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_518",
+      "question": "Which generation is dominant in pteridophytes?",
+      "options": {
+        "A": "Gametophyte (haploid)",
+        "B": "Sporophyte (diploid)",
+        "C": "Both are equally dominant",
+        "D": "Neither"
+      },
+      "correct_option": "B",
+      "explanation": "In pteridophytes, the sporophyte (diploid) is the dominant generation — the large, free-living plant we see is the sporophyte. The gametophyte (prothallus) is small and inconspicuous."
+    },
+    {
+      "id": "PKQ_519",
+      "question": "Comparing bryophytes and pteridophytes, which is the correct statement?",
+      "options": {
+        "A": "In both, gametophyte is dominant",
+        "B": "In bryophytes gametophyte is dominant; in pteridophytes sporophyte is dominant",
+        "C": "In both, sporophyte is dominant",
+        "D": "In bryophytes sporophyte is dominant; in pteridophytes gametophyte is dominant"
+      },
+      "correct_option": "B",
+      "explanation": "Key difference: Bryophytes — gametophyte (haploid) is dominant and free-living, sporophyte is dependent. Pteridophytes — sporophyte (diploid) is dominant and free-living, gametophyte (prothallus) is small and short-lived."
+    },
+    {
+      "id": "PKQ_520",
+      "question": "Pteridophytes are sometimes called 'vascular cryptogams'. What does this mean?",
+      "options": {
+        "A": "Vascular plants with hidden seeds",
+        "B": "Vascular plants with hidden reproductive organs (spores, not seeds) — non-flowering",
+        "C": "Non-vascular plants",
+        "D": "Plants that reproduce by seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are called vascular cryptogams — 'vascular' because they have xylem and phloem, 'cryptogams' because their reproductive organs are hidden (they reproduce by spores, not seeds)."
+    },
+    {
+      "id": "PKQ_521",
+      "question": "Pteridophytes were more dominant during which geological era?",
+      "options": {
+        "A": "Precambrian",
+        "B": "Carboniferous period (Coal Age) — they formed huge forests",
+        "C": "Jurassic period",
+        "D": "Modern era"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes were dominant during the Carboniferous period (Coal Age) when they formed huge forests. Their compressed remains over millions of years formed coal deposits."
+    },
+    {
+      "id": "PKQ_522",
+      "question": "Coal deposits were formed from:",
+      "options": {
+        "A": "Ancient marine organisms",
+        "B": "Compressed remains of ancient pteridophytes (giant tree ferns and horsetails)",
+        "C": "Ancient gymnosperms",
+        "D": "Ancient algae"
+      },
+      "correct_option": "B",
+      "explanation": "Coal deposits were formed from the compressed remains of ancient pteridophytes — giant tree ferns, horsetails and lycopsids that formed massive forests during the Carboniferous period."
+    },
+    {
+      "id": "PKQ_523",
+      "question": "Pteridophytes are classified based on which characteristics?",
+      "options": {
+        "A": "Only reproductive features",
+        "B": "Morphological, anatomical characters and types of stele (vascular arrangement)",
+        "C": "Only habitat",
+        "D": "Only chromosome number"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are classified based on morphological characters, anatomical features, particularly the arrangement of vascular tissue (type of stele), and reproductive features."
+    },
+    {
+      "id": "PKQ_524",
+      "question": "Which of the following is classified as a pteridophyte?",
+      "options": {
+        "A": "Funaria",
+        "B": "Marchantia",
+        "C": "Selaginella",
+        "D": "Cycas"
+      },
+      "correct_option": "C",
+      "explanation": "Selaginella is a pteridophyte (lycopsid). Funaria and Marchantia are bryophytes. Cycas is a gymnosperm."
+    },
+    {
+      "id": "PKQ_525",
+      "question": "Which of the following is a fern (pteridophyte)?",
+      "options": {
+        "A": "Sphagnum",
+        "B": "Adiantum",
+        "C": "Cycas",
+        "D": "Marchantia"
+      },
+      "correct_option": "B",
+      "explanation": "Adiantum (maidenhair fern) is a pteridophyte (true fern). Sphagnum and Marchantia are bryophytes. Cycas is a gymnosperm."
+    },
+    {
+      "id": "PKQ_526",
+      "question": "Equisetum is commonly known as:",
+      "options": {
+        "A": "Clubmoss",
+        "B": "Horsetail",
+        "C": "Fern",
+        "D": "Tree fern"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum is commonly known as horsetail. It has jointed, ribbed stems with whorled leaves and belongs to Sphenopsida."
+    },
+    {
+      "id": "PKQ_527",
+      "question": "Lycopodium is commonly known as:",
+      "options": {
+        "A": "Horsetail",
+        "B": "Tree fern",
+        "C": "Clubmoss",
+        "D": "Maidenhair fern"
+      },
+      "correct_option": "C",
+      "explanation": "Lycopodium is commonly known as clubmoss (ground pine). It belongs to Lycopsida."
+    },
+    {
+      "id": "PKQ_528",
+      "question": "Adiantum is commonly known as:",
+      "options": {
+        "A": "Horsetail",
+        "B": "Clubmoss",
+        "C": "Maidenhair fern",
+        "D": "Tree fern"
+      },
+      "correct_option": "C",
+      "explanation": "Adiantum capillus-veneris is commonly known as maidenhair fern. It has delicate, fan-shaped leaflets."
+    },
+    {
+      "id": "PKQ_529",
+      "question": "The pteridophytes are divided into four main classes. Which of the following is NOT one of them?",
+      "options": {
+        "A": "Lycopsida",
+        "B": "Sphenopsida",
+        "C": "Bryopsida",
+        "D": "Pteropsida"
+      },
+      "correct_option": "C",
+      "explanation": "Bryopsida is the class of mosses (Bryophyta), not pteridophytes. The four classes of pteridophytes are: Psilopsida, Lycopsida, Sphenopsida and Pteropsida."
+    },
+    {
+      "id": "PKQ_530",
+      "question": "Selaginella belongs to which class of pteridophytes?",
+      "options": {
+        "A": "Pteropsida",
+        "B": "Sphenopsida",
+        "C": "Lycopsida",
+        "D": "Psilopsida"
+      },
+      "correct_option": "C",
+      "explanation": "Selaginella belongs to class Lycopsida of pteridophytes."
+    },
+    {
+      "id": "PKQ_531",
+      "question": "Equisetum belongs to which class of pteridophytes?",
+      "options": {
+        "A": "Lycopsida",
+        "B": "Sphenopsida",
+        "C": "Pteropsida",
+        "D": "Psilopsida"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum (horsetail) belongs to class Sphenopsida of pteridophytes."
+    },
+    {
+      "id": "PKQ_532",
+      "question": "Ferns (like Adiantum, Pteris) belong to which class of pteridophytes?",
+      "options": {
+        "A": "Lycopsida",
+        "B": "Sphenopsida",
+        "C": "Pteropsida",
+        "D": "Psilopsida"
+      },
+      "correct_option": "C",
+      "explanation": "True ferns (Adiantum, Pteris, Dryopteris, etc.) belong to class Pteropsida of pteridophytes."
+    },
+    {
+      "id": "PKQ_533",
+      "question": "Psilotum belongs to which class of pteridophytes?",
+      "options": {
+        "A": "Lycopsida",
+        "B": "Sphenopsida",
+        "C": "Pteropsida",
+        "D": "Psilopsida"
+      },
+      "correct_option": "D",
+      "explanation": "Psilotum belongs to class Psilopsida — the most primitive pteridophytes."
+    },
+    {
+      "id": "PKQ_534",
+      "question": "Homosporous pteridophytes produce:",
+      "options": {
+        "A": "Two types of spores (microspores and megaspores)",
+        "B": "Only one type of spore (all spores are similar in size)",
+        "C": "No spores",
+        "D": "Seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Homosporous pteridophytes produce only one type of spore — all spores are morphologically similar in size. Most ferns (Adiantum, Pteris) and Lycopodium are homosporous."
+    },
+    {
+      "id": "PKQ_535",
+      "question": "Heterosporous pteridophytes produce:",
+      "options": {
+        "A": "Only one type of spore",
+        "B": "Two types of spores — smaller microspores and larger megaspores",
+        "C": "Seeds instead of spores",
+        "D": "No spores"
+      },
+      "correct_option": "B",
+      "explanation": "Heterosporous pteridophytes produce two morphologically distinct types of spores: smaller microspores (develop into male gametophyte) and larger megaspores (develop into female gametophyte)."
+    },
+    {
+      "id": "PKQ_536",
+      "question": "Which pteridophytes are heterosporous?",
+      "options": {
+        "A": "Lycopodium and Adiantum",
+        "B": "Selaginella and Salvinia",
+        "C": "Equisetum and Pteris",
+        "D": "All pteridophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Selaginella and Salvinia are heterosporous pteridophytes — they produce microspores and megaspores."
+    },
+    {
+      "id": "PKQ_537",
+      "question": "Heterospory is significant because it is a precursor to:",
+      "options": {
+        "A": "Algae evolution",
+        "B": "Seed formation in seed plants",
+        "C": "Vascular tissue evolution",
+        "D": "Flower evolution"
+      },
+      "correct_option": "B",
+      "explanation": "Heterospory is evolutionarily significant as it is a precursor (forerunner) to seed formation. In seed plants, the megaspore is retained within the megasporangium (like seed), representing an advanced form of heterospory."
+    },
+    {
+      "id": "PKQ_538",
+      "question": "In heterosporous pteridophytes, microspores develop into:",
+      "options": {
+        "A": "Female gametophyte",
+        "B": "Male gametophyte",
+        "C": "Sporophyte",
+        "D": "New sporangia"
+      },
+      "correct_option": "B",
+      "explanation": "In heterosporous pteridophytes, microspores develop into male gametophyte (prothallus) that bears antheridia."
+    },
+    {
+      "id": "PKQ_539",
+      "question": "In heterosporous pteridophytes, megaspores develop into:",
+      "options": {
+        "A": "Male gametophyte",
+        "B": "Female gametophyte",
+        "C": "Sporophyte",
+        "D": "New sporangia"
+      },
+      "correct_option": "B",
+      "explanation": "In heterosporous pteridophytes, megaspores develop into female gametophyte (prothallus) that bears archegonia."
+    },
+    {
+      "id": "PKQ_540",
+      "question": "The sporangia producing microspores are called:",
+      "options": {
+        "A": "Megasporangia",
+        "B": "Microsporangia",
+        "C": "Macrosporangia",
+        "D": "Synangium"
+      },
+      "correct_option": "B",
+      "explanation": "The sporangia producing microspores are called microsporangia. The sporangia producing megaspores are called megasporangia."
+    },
+    {
+      "id": "PKQ_541",
+      "question": "The sporangia producing megaspores are called:",
+      "options": {
+        "A": "Microsporangia",
+        "B": "Megasporangia",
+        "C": "Eusporangia",
+        "D": "Leptosporangia"
+      },
+      "correct_option": "B",
+      "explanation": "The sporangia producing megaspores are called megasporangia. In heterosporous pteridophytes, megasporangia and microsporangia are separate structures."
+    },
+    {
+      "id": "PKQ_542",
+      "question": "The leaves bearing microsporangia are called:",
+      "options": {
+        "A": "Megasporophylls",
+        "B": "Microsporophylls",
+        "C": "Sporophylls",
+        "D": "Trophophylls"
+      },
+      "correct_option": "B",
+      "explanation": "Leaves bearing microsporangia are called microsporophylls. Leaves bearing megasporangia are called megasporophylls."
+    },
+    {
+      "id": "PKQ_543",
+      "question": "In Selaginella, the strobilus (cone) contains:",
+      "options": {
+        "A": "Only microsporophylls",
+        "B": "Only megasporophylls",
+        "C": "Both microsporophylls and megasporophylls",
+        "D": "Neither"
+      },
+      "correct_option": "C",
+      "explanation": "In Selaginella, the strobilus (cone) contains both microsporophylls (bearing microsporangia with microspores) and megasporophylls (bearing megasporangia with megaspores)."
+    },
+    {
+      "id": "PKQ_544",
+      "question": "The strobili (cones) in pteridophytes are:",
+      "options": {
+        "A": "Vegetative structures",
+        "B": "Compact groups of sporophylls",
+        "C": "Root structures",
+        "D": "Female sex organs"
+      },
+      "correct_option": "B",
+      "explanation": "Strobili (singular: strobilus) are compact groups of sporophylls arranged in a cone-like structure for spore production."
+    },
+    {
+      "id": "PKQ_545",
+      "question": "Which pteridophytes form strobili?",
+      "options": {
+        "A": "All pteridophytes",
+        "B": "Lycopodium, Selaginella, and Equisetum",
+        "C": "Only ferns",
+        "D": "No pteridophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Lycopodium, Selaginella and Equisetum form strobili (cones) where sporophylls are compactly arranged. True ferns have sori on their fronds instead."
+    },
+    {
+      "id": "PKQ_546",
+      "question": "Indusium in ferns is:",
+      "options": {
+        "A": "The leaf stalk",
+        "B": "A protective covering over the sorus",
+        "C": "The spore",
+        "D": "The underground stem"
+      },
+      "correct_option": "B",
+      "explanation": "Indusium is a protective covering (flap of tissue) over the sorus in ferns. It protects the developing sporangia."
+    },
+    {
+      "id": "PKQ_547",
+      "question": "Rhizome in ferns is:",
+      "options": {
+        "A": "An underground stem from which fronds arise",
+        "B": "A root structure",
+        "C": "An aerial stem",
+        "D": "A reproductive structure"
+      },
+      "correct_option": "A",
+      "explanation": "Rhizome in ferns is a horizontal underground stem from which roots grow downward and fronds (leaves) grow upward."
+    },
+    {
+      "id": "PKQ_548",
+      "question": "The young coiled frond of a fern before unrolling is called:",
+      "options": {
+        "A": "Strobilus",
+        "B": "Crozier or fiddlehead",
+        "C": "Prothallus",
+        "D": "Indusium"
+      },
+      "correct_option": "B",
+      "explanation": "The young, coiled frond of a fern before it unrolls is called a crozier (because it resembles a bishop's crook) or fiddlehead."
+    },
+    {
+      "id": "PKQ_549",
+      "question": "The circinate vernation in ferns refers to:",
+      "options": {
+        "A": "Circular arrangement of leaves",
+        "B": "Coiled (circinate) rolling of young leaf/frond in bud",
+        "C": "Ring-like arrangement of vascular tissue",
+        "D": "Circular shape of prothallus"
+      },
+      "correct_option": "B",
+      "explanation": "Circinate vernation is the coiled, rolled-up arrangement of young leaves (fronds) in bud. The young frond is coiled at the tip, unrolling as it matures."
+    },
+    {
+      "id": "PKQ_550",
+      "question": "Which pteridophytes show circinate vernation?",
+      "options": {
+        "A": "Equisetum",
+        "B": "Selaginella",
+        "C": "True ferns (like Adiantum)",
+        "D": "Lycopodium"
+      },
+      "correct_option": "C",
+      "explanation": "Circinate vernation (coiled young fronds) is characteristic of true ferns (like Adiantum, Pteris, Dryopteris)."
+    },
+    {
+      "id": "PKQ_551",
+      "question": "The life cycle of pteridophytes shows alternation of generations. What is the dominant generation?",
+      "options": {
+        "A": "Haploid gametophyte (prothallus)",
+        "B": "Diploid sporophyte (the fern plant)",
+        "C": "Both are equally dominant",
+        "D": "Neither"
+      },
+      "correct_option": "B",
+      "explanation": "In pteridophytes, the dominant generation is the diploid sporophyte — the large fern plant we see. The gametophyte (prothallus) is small, inconspicuous, and short-lived."
+    },
+    {
+      "id": "PKQ_552",
+      "question": "In the pteridophyte life cycle, what does the prothallus (gametophyte) produce?",
+      "options": {
+        "A": "Spores",
+        "B": "Gametes (antherozoids and eggs) in antheridia and archegonia",
+        "C": "Seeds",
+        "D": "Sporophyte directly"
+      },
+      "correct_option": "B",
+      "explanation": "The prothallus (gametophyte) of pteridophytes produces gametes in sex organs — antherozoids (male gametes) in antheridia and eggs in archegonia."
+    },
+    {
+      "id": "PKQ_553",
+      "question": "What is the correct sequence in pteridophyte life cycle?",
+      "options": {
+        "A": "Spore→Prothallus→Gametes→Zygote→Young sporophyte→Adult sporophyte→Spore",
+        "B": "Spore→Adult sporophyte→Prothallus→Gametes→Zygote",
+        "C": "Zygote→Prothallus→Gametes→Spore→Sporophyte",
+        "D": "Sporophyte→Prothallus→Spore→Gametes"
+      },
+      "correct_option": "A",
+      "explanation": "Pteridophyte life cycle: Haploid spore → germinate → prothallus (gametophyte) → antheridia + archegonia → gametes → fertilization → zygote → young sporophyte (embryo) → adult sporophyte → meiosis in sporangia → spores → cycle repeats."
+    },
+    {
+      "id": "PKQ_554",
+      "question": "After fertilisation in pteridophytes, the young sporophyte initially:",
+      "options": {
+        "A": "Is free-living immediately",
+        "B": "Remains attached to and dependent on the prothallus briefly before becoming independent",
+        "C": "Remains permanently dependent on prothallus",
+        "D": "Is formed from spores directly"
+      },
+      "correct_option": "B",
+      "explanation": "After fertilisation in pteridophytes, the young sporophyte (embryo) remains briefly attached to and dependent on the prothallus, then grows and becomes an independent free-living plant."
+    },
+    {
+      "id": "PKQ_555",
+      "question": "The prothallus of pteridophytes produces spores or gametes?",
+      "options": {
+        "A": "Spores",
+        "B": "Gametes (antherozoids and eggs)",
+        "C": "Both",
+        "D": "Neither"
+      },
+      "correct_option": "B",
+      "explanation": "The prothallus (haploid gametophyte) produces gametes — antherozoids in antheridia and eggs in archegonia. Spores are produced by the diploid sporophyte."
+    },
+    {
+      "id": "PKQ_556",
+      "question": "Which organ absorbs nutrients for the early sporophyte in pteridophytes from the prothallus?",
+      "options": {
+        "A": "Rhizome",
+        "B": "Foot (haustorial structure)",
+        "C": "Young roots",
+        "D": "First leaf"
+      },
+      "correct_option": "B",
+      "explanation": "In the early sporophyte of pteridophytes, a foot (haustorial structure) absorbs nutrients from the prothallus during the brief period of attachment."
+    },
+    {
+      "id": "PKQ_557",
+      "question": "Which of the following is an example of a water fern (aquatic pteridophyte)?",
+      "options": {
+        "A": "Adiantum",
+        "B": "Salvinia",
+        "C": "Lycopodium",
+        "D": "Equisetum"
+      },
+      "correct_option": "B",
+      "explanation": "Salvinia is a water fern — an aquatic floating pteridophyte. It is also heterosporous."
+    },
+    {
+      "id": "PKQ_558",
+      "question": "Marsilea is a:",
+      "options": {
+        "A": "Moss",
+        "B": "Aquatic fern (pteridophyte)",
+        "C": "Liverwort",
+        "D": "Gymnosperm"
+      },
+      "correct_option": "B",
+      "explanation": "Marsilea (four-leaf water clover) is an aquatic/semi-aquatic heterosporous pteridophyte (fern)."
+    },
+    {
+      "id": "PKQ_559",
+      "question": "Azolla is a:",
+      "options": {
+        "A": "Alga",
+        "B": "Moss",
+        "C": "Aquatic fern used as biofertilizer",
+        "D": "Liverwort"
+      },
+      "correct_option": "C",
+      "explanation": "Azolla is a small aquatic fern (pteridophyte) that harbors the nitrogen-fixing cyanobacterium Anabaena azollae in symbiosis. It is used as a biofertilizer in rice paddies."
+    },
+    {
+      "id": "PKQ_560",
+      "question": "Azolla is used as biofertilizer because:",
+      "options": {
+        "A": "It decomposes dead matter",
+        "B": "It harbors nitrogen-fixing Anabaena (cyanobacterium) in symbiosis, enriching the soil",
+        "C": "It produces high amounts of organic matter",
+        "D": "It kills harmful insects"
+      },
+      "correct_option": "B",
+      "explanation": "Azolla is used as biofertilizer because it harbors the nitrogen-fixing cyanobacterium Anabaena azollae in its leaf cavities. Anabaena fixes atmospheric nitrogen, enriching the soil when Azolla decomposes."
+    },
+    {
+      "id": "PKQ_561",
+      "question": "Dryopteris is a commonly studied fern because:",
+      "options": {
+        "A": "It is used as food",
+        "B": "It has well-visible sori on its fronds and represents a typical fern life cycle",
+        "C": "It produces seeds",
+        "D": "It is a water fern"
+      },
+      "correct_option": "B",
+      "explanation": "Dryopteris (male fern) is commonly used in laboratory studies because it has well-visible sori on its fronds and represents a typical fern life cycle for teaching purposes."
+    },
+    {
+      "id": "PKQ_562",
+      "question": "Pteris is classified as a:",
+      "options": {
+        "A": "Lycopsid",
+        "B": "Sphenopsid",
+        "C": "True fern (Pteropsid)",
+        "D": "Psilopsid"
+      },
+      "correct_option": "C",
+      "explanation": "Pteris is a true fern belonging to class Pteropsida. It is one of the examples of pteridophytes mentioned in NCERT."
+    },
+    {
+      "id": "PKQ_563",
+      "question": "Which pteridophyte is used medicinally?",
+      "options": {
+        "A": "Equisetum — used for kidney stones and as abrasive",
+        "B": "Lycopodium — used in treatment of skin diseases and homeopathy",
+        "C": "Adiantum — used for hair and lung conditions",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Multiple pteridophytes have medicinal uses: Equisetum (silica content, used as abrasive, for kidney), Lycopodium spores (used in homeopathy, skin diseases), Adiantum (hair conditions in traditional medicine)."
+    },
+    {
+      "id": "PKQ_564",
+      "question": "The economic importance of pteridophytes includes:",
+      "options": {
+        "A": "Only food sources",
+        "B": "Ornamental plants, medicinal uses, coal formation, food, Azolla as biofertilizer",
+        "C": "Only fuel production",
+        "D": "No economic importance"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes have various economic uses: ornamental plants (ferns), medicinal uses (Equisetum, Lycopodium), coal formation (ancient pteridophytes), edible fiddleheads, and Azolla as biofertilizer."
+    },
+    {
+      "id": "PKQ_565",
+      "question": "Fern fronds commonly used as ornamental plants include:",
+      "options": {
+        "A": "Adiantum (maidenhair fern) and Nephrolepis (Boston fern)",
+        "B": "Equisetum and Lycopodium only",
+        "C": "Selaginella only",
+        "D": "None are used ornamentally"
+      },
+      "correct_option": "A",
+      "explanation": "Adiantum (maidenhair fern) and Nephrolepis (Boston fern) are commonly used as ornamental plants. Many ferns are popular houseplants."
+    },
+    {
+      "id": "PKQ_566",
+      "question": "Lycopodium spores are used in:",
+      "options": {
+        "A": "Making paper",
+        "B": "Homeopathy and as a coating on pills",
+        "C": "Food preparation",
+        "D": "Making explosives"
+      },
+      "correct_option": "B",
+      "explanation": "Lycopodium spores (clubmoss spores) are used in homeopathy (lycopodium is an important homeopathic remedy) and historically as a coating on pills due to their fine, dry, water-repellent powder."
+    },
+    {
+      "id": "PKQ_567",
+      "question": "Equisetum (horsetail) is used as:",
+      "options": {
+        "A": "A source of agar",
+        "B": "An abrasive for cleaning metal due to high silica content in stems",
+        "C": "Fuel",
+        "D": "Building material"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum stems contain high amounts of silica, making them useful as an abrasive for scouring and polishing metal pots (historically known as 'scouring rush')."
+    },
+    {
+      "id": "PKQ_568",
+      "question": "Fiddleheads (young fern fronds) are used as:",
+      "options": {
+        "A": "Medicinal drugs",
+        "B": "Edible vegetables in some cultures",
+        "C": "Biofertilizer",
+        "D": "Fuel"
+      },
+      "correct_option": "B",
+      "explanation": "Fiddleheads — the young, coiled fronds of certain ferns — are used as edible vegetables in some cultures, particularly in East Asia and North America."
+    },
+    {
+      "id": "PKQ_569",
+      "question": "The indusium in ferns is a:",
+      "options": {
+        "A": "Structure that produces spores",
+        "B": "Protective flap of tissue covering the sorus",
+        "C": "Male reproductive structure",
+        "D": "Underground stem"
+      },
+      "correct_option": "B",
+      "explanation": "The indusium is a protective flap or covering of tissue that covers the sorus (cluster of sporangia) in many ferns."
+    },
+    {
+      "id": "PKQ_570",
+      "question": "The annulus in fern sporangia is:",
+      "options": {
+        "A": "A spore",
+        "B": "A ring of specialized cells that help in spore dispersal by snapping",
+        "C": "The protective covering over sorus",
+        "D": "The stalk of sporangium"
+      },
+      "correct_option": "B",
+      "explanation": "The annulus in fern sporangia is a ring of specialized hygroscopic cells that helps in spore dispersal — when they dry out, they snap, launching spores out of the sporangium."
+    },
+    {
+      "id": "PKQ_571",
+      "question": "What is the stele in pteridophytes?",
+      "options": {
+        "A": "The leaf structure",
+        "B": "The central cylinder of vascular tissue in the stem",
+        "C": "The root tip",
+        "D": "The reproductive structure"
+      },
+      "correct_option": "B",
+      "explanation": "The stele is the central cylinder of vascular tissue (xylem and phloem) in the stem of pteridophytes. Different arrangements of stele (protostele, siphonostele, dictyostele) are used in classification."
+    },
+    {
+      "id": "PKQ_572",
+      "question": "What is a protostele?",
+      "options": {
+        "A": "A stele with pith at the center surrounded by vascular tissue",
+        "B": "The most primitive type of stele — a solid central core of xylem surrounded by phloem",
+        "C": "A stele with many vascular bundles",
+        "D": "A stele found only in roots"
+      },
+      "correct_option": "B",
+      "explanation": "A protostele is the most primitive type of stele — it has a solid central core of xylem surrounded by phloem, with no pith. Found in Lycopodium and some ferns."
+    },
+    {
+      "id": "PKQ_573",
+      "question": "Which of the following pteridophytes is homosporous?",
+      "options": {
+        "A": "Selaginella",
+        "B": "Salvinia",
+        "C": "Lycopodium",
+        "D": "Marsilea"
+      },
+      "correct_option": "C",
+      "explanation": "Lycopodium (clubmoss) is homosporous — it produces only one type of spore. Selaginella, Salvinia and Marsilea are heterosporous."
+    },
+    {
+      "id": "PKQ_574",
+      "question": "In Selaginella, where are microsporangia and megasporangia located?",
+      "options": {
+        "A": "On separate plants",
+        "B": "In the strobilus — typically megasporophylls at the base and microsporophylls at the top",
+        "C": "On the prothallus",
+        "D": "Underground in rhizomes"
+      },
+      "correct_option": "B",
+      "explanation": "In Selaginella, the strobilus contains both types — typically megasporophylls (bearing megasporangia) are at the base and microsporophylls (bearing microsporangia) are at the top of the cone."
+    },
+    {
+      "id": "PKQ_575",
+      "question": "The male gametophyte in Selaginella (heterosporous pteridophyte) is:",
+      "options": {
+        "A": "A large, free-living prothallus",
+        "B": "Highly reduced — develops inside the microspore wall",
+        "C": "Identical to the female gametophyte",
+        "D": "Completely absent"
+      },
+      "correct_option": "B",
+      "explanation": "In Selaginella, the male gametophyte is highly reduced — it develops endosporically (inside the microspore wall) and is not free-living. This is a step toward the pollen grain of seed plants."
+    },
+    {
+      "id": "PKQ_576",
+      "question": "The female gametophyte in Selaginella:",
+      "options": {
+        "A": "Is large and free-living",
+        "B": "Develops within the megaspore wall (endosporically)",
+        "C": "Produces antherozoids",
+        "D": "Is identical to the male gametophyte"
+      },
+      "correct_option": "B",
+      "explanation": "In Selaginella, the female gametophyte also develops endosporically within the megaspore wall. This is analogous to the female gametophyte developing inside the ovule in seed plants."
+    },
+    {
+      "id": "PKQ_577",
+      "question": "What is the evolutionary significance of endosporic development in Selaginella?",
+      "options": {
+        "A": "No significance",
+        "B": "It is a forerunner to the pollen grain (male) and embryo sac (female) development in seed plants",
+        "C": "It shows regression in evolution",
+        "D": "It is unique to Selaginella with no parallel in seed plants"
+      },
+      "correct_option": "B",
+      "explanation": "Endosporic development in Selaginella is evolutionarily significant: the male gametophyte developing inside the microspore is a forerunner to the pollen grain of seed plants, and the female gametophyte inside the megaspore is a forerunner to the embryo sac."
+    },
+    {
+      "id": "PKQ_578",
+      "question": "The retention of megaspore within the megasporangium in some heterosporous pteridophytes is similar to:",
+      "options": {
+        "A": "Homospory in other pteridophytes",
+        "B": "The ovule condition in seed plants",
+        "C": "Gametophyte dominance in bryophytes",
+        "D": "Thallus formation in liverworts"
+      },
+      "correct_option": "B",
+      "explanation": "In some heterosporous pteridophytes (like Selaginella), the megaspore may be retained within the megasporangium — this is similar to the ovule condition in seed plants, representing a major evolutionary step."
+    },
+    {
+      "id": "PKQ_579",
+      "question": "Which of the following is the correct sequence of evolutionary advancement in plant groups regarding dominant generation?",
+      "options": {
+        "A": "Gametophyte dominant in all",
+        "B": "Algae: no alternation → Bryophytes: gametophyte dominant → Pteridophytes: sporophyte dominant",
+        "C": "Sporophyte dominant in all",
+        "D": "Pteridophytes: gametophyte dominant → Bryophytes: sporophyte dominant"
+      },
+      "correct_option": "B",
+      "explanation": "Evolutionary trend in dominant generation: Algae (some have no alternation or gametophyte dominant) → Bryophytes (gametophyte dominant) → Pteridophytes (sporophyte becomes dominant) → Seed plants (sporophyte dominant, gametophyte extremely reduced)."
+    },
+    {
+      "id": "PKQ_580",
+      "question": "Equisetum has which type of stem?",
+      "options": {
+        "A": "Solid, with no joints",
+        "B": "Jointed, ribbed, hollow, with whorled branches and leaves at each node",
+        "C": "Flat and thalloid",
+        "D": "Underground only"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum (horsetail) has jointed, ribbed, hollow aerial stems with whorled branches and scale-like leaves at each node — a very distinctive morphology."
+    },
+    {
+      "id": "PKQ_581",
+      "question": "The leaves of Equisetum are:",
+      "options": {
+        "A": "Large, pinnately compound",
+        "B": "Small, scale-like, whorled at each node",
+        "C": "Filamentous",
+        "D": "Absent"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum has small, scale-like, brownish leaves arranged in whorls at each node of the jointed stem. The photosynthesis is carried out mainly by the green stems."
+    },
+    {
+      "id": "PKQ_582",
+      "question": "Selaginella is commonly known as:",
+      "options": {
+        "A": "Horsetail",
+        "B": "Spike moss or lesser clubmoss",
+        "C": "Tree fern",
+        "D": "Maidenhair fern"
+      },
+      "correct_option": "B",
+      "explanation": "Selaginella is commonly known as spike moss or lesser clubmoss. It belongs to class Lycopsida."
+    },
+    {
+      "id": "PKQ_583",
+      "question": "In pteridophytes, the vascular tissue helps in:",
+      "options": {
+        "A": "Reproduction only",
+        "B": "Efficient transport of water, minerals and food over longer distances",
+        "C": "Photosynthesis",
+        "D": "Spore production"
+      },
+      "correct_option": "B",
+      "explanation": "Vascular tissue (xylem for water/minerals, phloem for food) enables efficient transport over longer distances, allowing pteridophytes to grow much taller than bryophytes."
+    },
+    {
+      "id": "PKQ_584",
+      "question": "What key feature distinguishes pteridophytes from bryophytes?",
+      "options": {
+        "A": "Pteridophytes require water for fertilization; bryophytes do not",
+        "B": "Pteridophytes have vascular tissue and dominant sporophyte; bryophytes lack vascular tissue and have dominant gametophyte",
+        "C": "Pteridophytes are aquatic; bryophytes are terrestrial",
+        "D": "Both are identical in structure"
+      },
+      "correct_option": "B",
+      "explanation": "Key distinctions: Pteridophytes have vascular tissue (xylem and phloem) — bryophytes do not. In pteridophytes, the sporophyte is dominant and free-living — in bryophytes, the gametophyte is dominant and the sporophyte is dependent."
+    },
+    {
+      "id": "PKQ_585",
+      "question": "What feature of pteridophytes is shared with bryophytes but NOT with gymnosperms?",
+      "options": {
+        "A": "Vascular tissue",
+        "B": "Seeds",
+        "C": "Dependence on water for fertilization (motile antherozoids)",
+        "D": "Dominant sporophyte"
+      },
+      "correct_option": "C",
+      "explanation": "Both pteridophytes and bryophytes require water for fertilization (their antherozoids are motile and swim). Gymnosperms (and angiosperms) have non-motile male gametes (pollen) that do not need water."
+    },
+    {
+      "id": "PKQ_586",
+      "question": "The evolutionary advancement of pteridophytes over bryophytes in terms of reproduction is:",
+      "options": {
+        "A": "Less advanced than bryophytes",
+        "B": "Sporophyte becomes independent — gametophyte no longer supports sporophyte",
+        "C": "No advancement",
+        "D": "Both are identical reproductively"
+      },
+      "correct_option": "B",
+      "explanation": "Key reproductive advancement: In pteridophytes, the sporophyte becomes free-living and independent (unlike bryophytes where it is dependent on gametophyte). The sporophyte is now the dominant, prominent generation."
+    },
+    {
+      "id": "PKQ_587",
+      "question": "Which of the following pteridophyte groups is considered the most primitive?",
+      "options": {
+        "A": "Pteropsida (ferns)",
+        "B": "Lycopsida (clubmosses)",
+        "C": "Psilopsida (Psilotum)",
+        "D": "Sphenopsida (horsetails)"
+      },
+      "correct_option": "C",
+      "explanation": "Psilopsida (represented by Psilotum) is considered the most primitive class of pteridophytes — they lack true roots, have minimal leaf-like structures, and are the simplest in organization."
+    },
+    {
+      "id": "PKQ_588",
+      "question": "Psilotum lacks:",
+      "options": {
+        "A": "Leaves",
+        "B": "True roots",
+        "C": "Both true roots and true leaves",
+        "D": "Stems"
+      },
+      "correct_option": "C",
+      "explanation": "Psilotum lacks both true roots and true leaves. It is anchored by rhizoids and has tiny scale-like enations instead of true leaves — making it the most primitive pteridophyte."
+    },
+    {
+      "id": "PKQ_589",
+      "question": "The rhizophore in Selaginella is:",
+      "options": {
+        "A": "A modified root",
+        "B": "A leafless branch that grows down from stem nodes and produces roots at its tip",
+        "C": "An underground stem",
+        "D": "A reproductive structure"
+      },
+      "correct_option": "B",
+      "explanation": "The rhizophore in Selaginella is a unique structure — a leafless branch that grows downward from the stem nodes and produces adventitious roots at its tip."
+    },
+    {
+      "id": "PKQ_590",
+      "question": "Lycopodium differs from Selaginella in that Lycopodium is:",
+      "options": {
+        "A": "Heterosporous",
+        "B": "Homosporous",
+        "C": "Produces seeds",
+        "D": "Has no strobili"
+      },
+      "correct_option": "B",
+      "explanation": "Lycopodium is homosporous (produces only one type of spore) whereas Selaginella is heterosporous (produces microspores and megaspores)."
+    },
+    {
+      "id": "PKQ_591",
+      "question": "Salvinia is different from most ferns because it is:",
+      "options": {
+        "A": "Homosporous and terrestrial",
+        "B": "Heterosporous and aquatic",
+        "C": "Heterosporous and terrestrial",
+        "D": "Homosporous and aquatic"
+      },
+      "correct_option": "B",
+      "explanation": "Salvinia is both heterosporous (produces microspores and megaspores) and aquatic (free-floating water fern)."
+    },
+    {
+      "id": "PKQ_592",
+      "question": "Which statement is TRUE about the prothallus of homosporous pteridophytes?",
+      "options": {
+        "A": "It produces only male gametes",
+        "B": "It bears both antheridia and archegonia (bisexual)",
+        "C": "It produces only female gametes",
+        "D": "It does not bear sex organs"
+      },
+      "correct_option": "B",
+      "explanation": "In homosporous pteridophytes, the single type of spore develops into a bisexual prothallus that bears both antheridia (male) and archegonia (female)."
+    },
+    {
+      "id": "PKQ_593",
+      "question": "In heterosporous pteridophytes, which prothallus bears archegonia?",
+      "options": {
+        "A": "The prothallus from microspore",
+        "B": "The prothallus from megaspore",
+        "C": "Both prothalli bear archegonia",
+        "D": "Neither prothallus bears archegonia"
+      },
+      "correct_option": "B",
+      "explanation": "In heterosporous pteridophytes, the megaspore develops into the female gametophyte (prothallus) that bears archegonia (and eggs)."
+    },
+    {
+      "id": "PKQ_594",
+      "question": "In heterosporous pteridophytes, which prothallus bears antheridia?",
+      "options": {
+        "A": "The prothallus from megaspore",
+        "B": "The prothallus from microspore",
+        "C": "Both prothalli bear antheridia",
+        "D": "Neither bears antheridia"
+      },
+      "correct_option": "B",
+      "explanation": "In heterosporous pteridophytes, the microspore develops into the male gametophyte (prothallus) that bears antheridia (and antherozoids)."
+    },
+    {
+      "id": "PKQ_595",
+      "question": "Which pteridophyte is used in rice paddy fields as a biofertilizer?",
+      "options": {
+        "A": "Salvinia",
+        "B": "Marsilea",
+        "C": "Azolla",
+        "D": "Adiantum"
+      },
+      "correct_option": "C",
+      "explanation": "Azolla (a small aquatic fern) is used as a biofertilizer in rice paddy fields because it harbors the nitrogen-fixing cyanobacterium Anabaena azollae in its leaf cavities."
+    },
+    {
+      "id": "PKQ_596",
+      "question": "Pteridophytes are also called 'seedless vascular plants'. This is because they:",
+      "options": {
+        "A": "Have vascular tissue but no seeds",
+        "B": "Have seeds but no vascular tissue",
+        "C": "Have neither seeds nor vascular tissue",
+        "D": "Have both seeds and vascular tissue"
+      },
+      "correct_option": "A",
+      "explanation": "Pteridophytes are called 'seedless vascular plants' because they have vascular tissue (xylem and phloem) like seed plants, but reproduce by spores instead of seeds."
+    },
+    {
+      "id": "PKQ_597",
+      "question": "The evolution of which feature in pteridophytes allowed them to grow taller than bryophytes?",
+      "options": {
+        "A": "Multicellular sex organs",
+        "B": "Vascular tissue (xylem and phloem)",
+        "C": "Spore production",
+        "D": "True leaves"
+      },
+      "correct_option": "B",
+      "explanation": "The evolution of vascular tissue (xylem and phloem) allowed pteridophytes to grow much taller than bryophytes by efficiently transporting water and nutrients to greater heights."
+    },
+    {
+      "id": "PKQ_598",
+      "question": "Which class of pteridophytes contains the true ferns (like Adiantum, Pteris, Dryopteris)?",
+      "options": {
+        "A": "Lycopsida",
+        "B": "Sphenopsida",
+        "C": "Pteropsida",
+        "D": "Psilopsida"
+      },
+      "correct_option": "C",
+      "explanation": "True ferns (Adiantum, Pteris, Dryopteris, Polypodium, etc.) belong to class Pteropsida — the largest and most diverse class of pteridophytes."
+    },
+    {
+      "id": "PKQ_599",
+      "question": "In which period were giant pteridophytes (tree ferns, giant horsetails) dominant?",
+      "options": {
+        "A": "Precambrian",
+        "B": "Carboniferous period (about 350-300 million years ago)",
+        "C": "Cretaceous period",
+        "D": "Paleocene period"
+      },
+      "correct_option": "B",
+      "explanation": "Giant pteridophytes (tree ferns up to 30 m tall, giant horsetails like Calamites, giant lycopsids like Lepidodendron) dominated during the Carboniferous period (about 350-300 MYA), forming vast coal swamp forests."
+    },
+    {
+      "id": "PKQ_600",
+      "question": "The coal we use today was formed from:",
+      "options": {
+        "A": "Ancient marine algae",
+        "B": "Remains of ancient pteridophytes from Carboniferous period",
+        "C": "Ancient gymnosperms",
+        "D": "Ancient animals"
+      },
+      "correct_option": "B",
+      "explanation": "Coal was formed from the remains of ancient pteridophytes — giant tree ferns, horsetails and lycopsids that formed massive swamp forests during the Carboniferous period. Their compressed, partially decomposed remains formed coal over millions of years."
+    },
+    {
+      "id": "PKQ_601",
+      "question": "Which pteridophyte is used as a model organism for studying plant biology?",
+      "options": {
+        "A": "Selaginella",
+        "B": "Ceratopteris (water sprite fern)",
+        "C": "Equisetum",
+        "D": "Lycopodium"
+      },
+      "correct_option": "B",
+      "explanation": "Ceratopteris richardii (a water fern) is used as a model organism for plant biology research — it has a short generation time and is easy to culture in the laboratory."
+    },
+    {
+      "id": "PKQ_602",
+      "question": "The pteridophytes are important in the food chain because:",
+      "options": {
+        "A": "They are exclusively herbivorous",
+        "B": "They form the base of food chains in shady, moist forest habitats",
+        "C": "They are decomposers",
+        "D": "They are not important in food chains"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes, as primary producers through photosynthesis, form the base of food chains in shady, moist forest habitats where they are abundant."
+    },
+    {
+      "id": "PKQ_603",
+      "question": "Selaginella is important in evolutionary studies because it shows:",
+      "options": {
+        "A": "Homospory leading to seed evolution",
+        "B": "Heterospory and endosporic development — forerunners to seed plant features",
+        "C": "No special evolutionary features",
+        "D": "Only vegetative reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "Selaginella is important in evolutionary studies because it shows heterospory and endosporic gametophyte development — features that are forerunners to the seed condition in gymnosperms and angiosperms."
+    },
+    {
+      "id": "PKQ_604",
+      "question": "The sporophyte of pteridophytes compared to that of bryophytes is:",
+      "options": {
+        "A": "Less developed and dependent",
+        "B": "More developed, free-living, independent, differentiated into true roots, stem and leaves with vascular tissue",
+        "C": "Identical in complexity",
+        "D": "Simpler and without vascular tissue"
+      },
+      "correct_option": "B",
+      "explanation": "The pteridophyte sporophyte is far more developed than the bryophyte sporophyte: it is free-living, independent, differentiated into true roots, stem and leaves with vascular tissue (xylem and phloem)."
+    },
+    {
+      "id": "PKQ_605",
+      "question": "In pteridophytes, which structure is equivalent to the prothallus?",
+      "options": {
+        "A": "The frond",
+        "B": "The gametophyte (small, heart-shaped, free-living structure)",
+        "C": "The sporophyte",
+        "D": "The sorus"
+      },
+      "correct_option": "B",
+      "explanation": "The prothallus IS the gametophyte of pteridophytes — a small, heart-shaped, free-living, photosynthetic structure that bears antheridia and archegonia."
+    },
+    {
+      "id": "PKQ_606",
+      "question": "What happens to the prothallus after the young sporophyte becomes established?",
+      "options": {
+        "A": "It continues to grow larger",
+        "B": "It degenerates (dies)",
+        "C": "It becomes part of the sporophyte",
+        "D": "It produces more spores"
+      },
+      "correct_option": "B",
+      "explanation": "After the young sporophyte becomes established and independent, the prothallus (gametophyte) degenerates (dies). The sporophyte takes over as the dominant generation."
+    },
+    {
+      "id": "PKQ_607",
+      "question": "The life cycle of pteridophytes is called 'haplo-diplontic'. This means:",
+      "options": {
+        "A": "Only haploid phase exists",
+        "B": "Both haploid (gametophyte) and diploid (sporophyte) phases are multicellular and free-living, but sporophyte is dominant",
+        "C": "Only diploid phase exists",
+        "D": "Neither phase is multicellular"
+      },
+      "correct_option": "B",
+      "explanation": "Haplo-diplontic life cycle means both haploid (gametophyte/prothallus) and diploid (sporophyte) phases are multicellular and free-living. In pteridophytes, the sporophyte is dominant."
+    },
+    {
+      "id": "PKQ_608",
+      "question": "What is the ploidy of the spores produced by pteridophytes?",
+      "options": {
+        "A": "Diploid (2n)",
+        "B": "Haploid (n)",
+        "C": "Triploid (3n)",
+        "D": "Tetraploid (4n)"
+      },
+      "correct_option": "B",
+      "explanation": "The spores of pteridophytes are haploid (n), produced by meiosis in the sporangia of the diploid (2n) sporophyte."
+    },
+    {
+      "id": "PKQ_609",
+      "question": "What is the ploidy of the prothallus (gametophyte) of pteridophytes?",
+      "options": {
+        "A": "Diploid (2n)",
+        "B": "Haploid (n)",
+        "C": "Triploid (3n)",
+        "D": "Tetraploid (4n)"
+      },
+      "correct_option": "B",
+      "explanation": "The prothallus (gametophyte) of pteridophytes is haploid (n). It is produced by mitotic division from the haploid spore."
+    },
+    {
+      "id": "PKQ_610",
+      "question": "What is the ploidy of the fern plant (sporophyte) that we commonly see?",
+      "options": {
+        "A": "Haploid (n)",
+        "B": "Diploid (2n)",
+        "C": "Triploid (3n)",
+        "D": "Polyploid"
+      },
+      "correct_option": "B",
+      "explanation": "The fern plant (sporophyte) that we commonly see is diploid (2n). It develops from the diploid zygote formed by fertilization."
+    },
+    {
+      "id": "PKQ_611",
+      "question": "Which of the following correctly describes the relationship between bryophytes and pteridophytes?",
+      "options": {
+        "A": "Pteridophytes evolved from bryophytes",
+        "B": "Both have same features",
+        "C": "Both are identical in life cycle",
+        "D": "Bryophytes evolved from pteridophytes"
+      },
+      "correct_option": "A",
+      "explanation": "It is generally accepted that pteridophytes evolved from bryophyte-like ancestors. Pteridophytes show more advanced features (vascular tissue, dominant sporophyte) that likely evolved from bryophyte-like plants."
+    },
+    {
+      "id": "PKQ_612",
+      "question": "Pteridophytes bridge the gap between which two plant groups?",
+      "options": {
+        "A": "Algae and Bryophytes",
+        "B": "Bryophytes and Seed Plants (Gymnosperms/Angiosperms)",
+        "C": "Gymnosperms and Angiosperms",
+        "D": "Algae and Gymnosperms"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes bridge the gap between bryophytes and seed plants. They have vascular tissue (like seed plants) but still need water for fertilization and produce spores (like bryophytes)."
+    },
+    {
+      "id": "PKQ_613",
+      "question": "Which character of pteridophytes is shared with gymnosperms but NOT with bryophytes?",
+      "options": {
+        "A": "Need for water in fertilization",
+        "B": "Vascular tissue (xylem and phloem)",
+        "C": "Dominant gametophyte",
+        "D": "Production of spores"
+      },
+      "correct_option": "B",
+      "explanation": "Vascular tissue (xylem and phloem) is shared between pteridophytes and gymnosperms, but is absent in bryophytes."
+    },
+    {
+      "id": "PKQ_614",
+      "question": "Which character of pteridophytes is shared with bryophytes but NOT with gymnosperms?",
+      "options": {
+        "A": "Vascular tissue",
+        "B": "Production of seeds",
+        "C": "Need for water for fertilization (motile antherozoids)",
+        "D": "Dominant sporophyte"
+      },
+      "correct_option": "C",
+      "explanation": "Both pteridophytes and bryophytes need water for fertilization (their antherozoids are motile and swim to archegonium). Gymnosperms do NOT need water for fertilization (pollen grains are carried by wind)."
+    },
+    {
+      "id": "PKQ_615",
+      "question": "Which feature makes heterosporous pteridophytes more advanced than homosporous ones?",
+      "options": {
+        "A": "They are larger",
+        "B": "They show sexual differentiation in spores and gametophytes — a forerunner to seed evolution",
+        "C": "They reproduce faster",
+        "D": "They have more vascular tissue"
+      },
+      "correct_option": "B",
+      "explanation": "Heterosporous pteridophytes are more advanced because they show sexual differentiation in their spores (microspores → male gametophyte; megaspores → female gametophyte) — this is a forerunner to the seed condition in seed plants."
+    },
+    {
+      "id": "PKQ_616",
+      "question": "The 'seed habit' in plants is said to have been preceded by:",
+      "options": {
+        "A": "Homospory",
+        "B": "Heterospory",
+        "C": "Zoospore production",
+        "D": "Gemmae production"
+      },
+      "correct_option": "B",
+      "explanation": "According to the NCERT text, the seed habit is believed to have been preceded by heterospory. Heterospory led to retention of megaspore within the megasporangium, which is essentially the ovule condition — the beginning of seed evolution."
+    },
+    {
+      "id": "PKQ_617",
+      "question": "Which of the following correctly describes the significance of heterospory in plant evolution?",
+      "options": {
+        "A": "It has no evolutionary significance",
+        "B": "Heterospory is a precursor to seed formation — the megaspore retained in megasporangium is like a seed",
+        "C": "Heterospory led to flower evolution",
+        "D": "Heterospory led to fruit evolution"
+      },
+      "correct_option": "B",
+      "explanation": "Heterospory is evolutionarily significant as a precursor to seed formation. The retention of the megaspore within the megasporangium (as in Selaginella) is homologous to the ovule condition in gymnosperms and angiosperms."
+    },
+    {
+      "id": "PKQ_618",
+      "question": "Which of the following statements about Equisetum is CORRECT?",
+      "options": {
+        "A": "It is a flowering plant",
+        "B": "It has jointed, hollow, ribbed stems with whorled scale-like leaves, and bears spores in strobili",
+        "C": "It produces seeds in cones",
+        "D": "It has large, pinnately compound leaves"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum (horsetail) has jointed, hollow, ribbed stems with whorled scale-like leaves. It bears spores in compact strobili (cones). It is a pteridophyte (no seeds, no flowers)."
+    },
+    {
+      "id": "PKQ_619",
+      "question": "Selaginella shows heterospory. What are the two types of spores it produces?",
+      "options": {
+        "A": "Male spores and female spores of same size",
+        "B": "Microspores (smaller, develop into male gametophyte) and megaspores (larger, develop into female gametophyte)",
+        "C": "Only one type of spore",
+        "D": "Asexual spores and sexual spores"
+      },
+      "correct_option": "B",
+      "explanation": "Selaginella produces microspores (smaller, develop into male gametophyte bearing antheridia) and megaspores (larger, develop into female gametophyte bearing archegonia)."
+    },
+    {
+      "id": "PKQ_620",
+      "question": "Which of the following is correct about Lycopodium (clubmoss)?",
+      "options": {
+        "A": "Heterosporous, forms strobili",
+        "B": "Homosporous, forms strobili, belongs to Lycopsida",
+        "C": "Homosporous, no strobili",
+        "D": "Heterosporous, no strobili"
+      },
+      "correct_option": "B",
+      "explanation": "Lycopodium is homosporous (produces one type of spore), forms strobili (compact cones of sporophylls), and belongs to class Lycopsida."
+    },
+    {
+      "id": "PKQ_621",
+      "question": "In what way is the pteridophyte prothallus (gametophyte) different from the bryophyte gametophyte?",
+      "options": {
+        "A": "Prothallus is larger and more complex",
+        "B": "Prothallus is much reduced, heart-shaped, short-lived; bryophyte gametophyte is dominant and long-lived",
+        "C": "Both are identical",
+        "D": "Prothallus is the dominant generation"
+      },
+      "correct_option": "B",
+      "explanation": "Key difference: Pteridophyte prothallus is much reduced — small (few mm), heart-shaped, short-lived. Bryophyte gametophyte is dominant, relatively large, and long-lived."
+    },
+    {
+      "id": "PKQ_622",
+      "question": "Which feature of the pteridophyte gametophyte (prothallus) is similar to bryophyte gametophyte?",
+      "options": {
+        "A": "It is diploid",
+        "B": "It is photosynthetic, free-living, and bears antheridia and archegonia",
+        "C": "It is the dominant generation",
+        "D": "It lacks sex organs"
+      },
+      "correct_option": "B",
+      "explanation": "Like the bryophyte gametophyte, the pteridophyte prothallus is: photosynthetic, free-living (autotrophic), and bears antheridia and archegonia. Both are haploid."
+    },
+    {
+      "id": "PKQ_623",
+      "question": "Why is water still required for fertilization in pteridophytes despite their terrestrial adaptations?",
+      "options": {
+        "A": "Their roots absorb water needed for fertilization",
+        "B": "Their antherozoids are still flagellated and motile, requiring a film of water to swim to archegonium",
+        "C": "Their spores need water to germinate",
+        "D": "Their leaves require water for photosynthesis only"
+      },
+      "correct_option": "B",
+      "explanation": "Despite terrestrial adaptations (vascular tissue, true leaves), pteridophytes still need water for fertilization because their antherozoids (male gametes) are flagellated and motile — they need a film of water to swim to the archegonium."
+    },
+    {
+      "id": "PKQ_624",
+      "question": "The correct number of classes in pteridophytes according to NCERT is:",
+      "options": {
+        "A": "Two (Lycopsida, Pteropsida)",
+        "B": "Three (Lycopsida, Sphenopsida, Pteropsida)",
+        "C": "Four (Psilopsida, Lycopsida, Sphenopsida, Pteropsida)",
+        "D": "Five"
+      },
+      "correct_option": "C",
+      "explanation": "According to NCERT, pteridophytes are classified into four classes: Psilopsida (Psilotum), Lycopsida (Lycopodium, Selaginella), Sphenopsida (Equisetum), and Pteropsida (ferns like Adiantum, Pteris)."
+    },
+    {
+      "id": "PKQ_625",
+      "question": "The leaf-like structures in Equisetum are:",
+      "options": {
+        "A": "Large, pinnately compound fronds",
+        "B": "Small, scale-like, brownish, whorled at nodes",
+        "C": "Similar to fern fronds",
+        "D": "Absent"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum has small, scale-like, brownish (often reduced) leaves arranged in whorls at each node. The green ribbed stem carries out most of the photosynthesis."
+    },
+    {
+      "id": "PKQ_626",
+      "question": "Fern plants in forests are predominantly found on the forest floor because:",
+      "options": {
+        "A": "They need full sunlight",
+        "B": "They prefer cool, moist, shaded conditions as they need moisture for fertilization",
+        "C": "They compete with trees for light",
+        "D": "They have no roots and need support"
+      },
+      "correct_option": "B",
+      "explanation": "Ferns are found on forest floors because they prefer cool, moist, shaded conditions. The moisture is necessary for fertilization (antherozoids swim to archegonium) and the shade prevents desiccation."
+    },
+    {
+      "id": "PKQ_627",
+      "question": "Which is the INCORRECT pair?",
+      "options": {
+        "A": "Adiantum - Pteropsida",
+        "B": "Equisetum - Sphenopsida",
+        "C": "Selaginella - Lycopsida",
+        "D": "Psilotum - Pteropsida"
+      },
+      "correct_option": "D",
+      "explanation": "Psilotum belongs to Psilopsida (most primitive), NOT Pteropsida. Adiantum is Pteropsida. Equisetum is Sphenopsida. Selaginella is Lycopsida."
+    },
+    {
+      "id": "PKQ_628",
+      "question": "Which structure in the fern sporangium is responsible for spore dispersal by a catapult-like mechanism?",
+      "options": {
+        "A": "Indusium",
+        "B": "Annulus",
+        "C": "Rhizome",
+        "D": "Sori"
+      },
+      "correct_option": "B",
+      "explanation": "The annulus is a ring of specialized hygroscopic cells in the fern sporangium wall. As the sporangium dries, the annulus snaps back (catapult mechanism), forcibly ejecting spores."
+    },
+    {
+      "id": "PKQ_629",
+      "question": "The terms 'microphylls' and 'megaphylls' in pteridophytes refer to:",
+      "options": {
+        "A": "Size of spores",
+        "B": "Size and complexity of leaves — microphylls are small leaves with single unbranched vein; megaphylls are larger with branched veins",
+        "C": "Types of sex organs",
+        "D": "Types of roots"
+      },
+      "correct_option": "B",
+      "explanation": "Microphylls are small leaves with a single unbranched vein (as in Lycopodium, Equisetum, Selaginella). Megaphylls are larger leaves with branched veins (as in ferns). This is an important distinction in pteridophyte classification."
+    },
+    {
+      "id": "PKQ_630",
+      "question": "Lycopodium and Selaginella have microphylls. What does this mean?",
+      "options": {
+        "A": "They have very large leaves",
+        "B": "They have small leaves with a single unbranched vein",
+        "C": "Their leaves produce spores",
+        "D": "Their leaves lack vascular tissue"
+      },
+      "correct_option": "B",
+      "explanation": "Microphylls (as in Lycopodium and Selaginella) are small leaves with a single, unbranched midvein. This is in contrast to the megaphylls (large leaves with branched veins) of true ferns."
+    },
+    {
+      "id": "PKQ_631",
+      "question": "Which group of pteridophytes has megaphylls?",
+      "options": {
+        "A": "Lycopsida (Lycopodium, Selaginella)",
+        "B": "Sphenopsida (Equisetum)",
+        "C": "Pteropsida (true ferns)",
+        "D": "Psilopsida (Psilotum)"
+      },
+      "correct_option": "C",
+      "explanation": "Pteropsida (true ferns) have megaphylls — large leaves with branched vein systems. Lycopsida have microphylls, Sphenopsida have scale-like leaves, and Psilopsida have enations."
+    },
+    {
+      "id": "PKQ_632",
+      "question": "Enations in Psilotum are:",
+      "options": {
+        "A": "True leaves with vascular supply",
+        "B": "Small, scale-like outgrowths of the stem surface without vascular supply",
+        "C": "Reproductive structures",
+        "D": "Root structures"
+      },
+      "correct_option": "B",
+      "explanation": "Enations in Psilotum are small, scale-like outgrowths on the stem surface. They are NOT true leaves because they lack a vascular supply — they are among the simplest leaf-like structures in plants."
+    },
+    {
+      "id": "PKQ_633",
+      "question": "Which of the following is a characteristic of ALL pteridophytes?",
+      "options": {
+        "A": "Heterospory",
+        "B": "Presence of vascular tissue (xylem and phloem)",
+        "C": "Strobili formation",
+        "D": "Circinate vernation"
+      },
+      "correct_option": "B",
+      "explanation": "All pteridophytes share the presence of vascular tissue (xylem and phloem). Heterospory is only in some (Selaginella, Salvinia). Strobili are formed by some (Lycopodium, Equisetum). Circinate vernation is in ferns."
+    },
+    {
+      "id": "PKQ_634",
+      "question": "In pteridophytes, the sporophyte becomes dominant. What is the advantage of this?",
+      "options": {
+        "A": "It allows the plant to reproduce without water",
+        "B": "It allows the plant to grow larger, occupy more habitat, and survive in diverse terrestrial conditions",
+        "C": "It makes reproduction simpler",
+        "D": "It reduces the need for photosynthesis"
+      },
+      "correct_option": "B",
+      "explanation": "A dominant sporophyte allows the plant to grow larger (with vascular tissue), occupy more habitat, have complex differentiated organs (true roots, stems, leaves), and survive in diverse terrestrial conditions — major evolutionary advantages."
+    },
+    {
+      "id": "PKQ_635",
+      "question": "Which process in pteridophytes results in reduction in ploidy level?",
+      "options": {
+        "A": "Fertilization",
+        "B": "Meiosis in sporangia",
+        "C": "Mitosis in gametophyte",
+        "D": "Vegetative reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "Meiosis in the sporangia of the sporophyte reduces the ploidy level from diploid (2n) to haploid (n), producing haploid spores."
+    },
+    {
+      "id": "PKQ_636",
+      "question": "Which process in pteridophytes results in increase in ploidy level?",
+      "options": {
+        "A": "Meiosis",
+        "B": "Vegetative reproduction",
+        "C": "Fertilization (fusion of haploid gametes)",
+        "D": "Spore germination"
+      },
+      "correct_option": "C",
+      "explanation": "Fertilization (fusion of haploid antherozoid and haploid egg) results in increase in ploidy — from haploid (n) to diploid (2n), forming the zygote."
+    },
+    {
+      "id": "PKQ_637",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Selaginella - Homosporous",
+        "B": "Lycopodium - Heterosporous",
+        "C": "Salvinia - Heterosporous",
+        "D": "Adiantum - Heterosporous"
+      },
+      "correct_option": "C",
+      "explanation": "Salvinia is heterosporous. Selaginella is heterosporous (not homosporous). Lycopodium is homosporous. Adiantum is homosporous."
+    },
+    {
+      "id": "PKQ_638",
+      "question": "In pteridophytes, what is the role of rhizoids/roots in the prothallus?",
+      "options": {
+        "A": "Reproduction",
+        "B": "Anchoring the prothallus to substrate and absorbing water and minerals",
+        "C": "Photosynthesis",
+        "D": "Spore production"
+      },
+      "correct_option": "B",
+      "explanation": "The unicellular rhizoids of the pteridophyte prothallus anchor it to the substrate and absorb water and minerals for the prothallus."
+    },
+    {
+      "id": "PKQ_639",
+      "question": "Which of the following correctly identifies an evolutionary trend from bryophytes to pteridophytes?",
+      "options": {
+        "A": "Loss of vascular tissue",
+        "B": "Reduction of sporophyte",
+        "C": "Sporophyte becomes dominant and gains vascular tissue; gametophyte becomes reduced",
+        "D": "Gametophyte becomes larger"
+      },
+      "correct_option": "C",
+      "explanation": "Evolutionary trend from bryophytes to pteridophytes: Sporophyte becomes dominant and free-living (with vascular tissue, true organs), while gametophyte becomes progressively reduced (small prothallus)."
+    },
+    {
+      "id": "PKQ_640",
+      "question": "Which of the following represents the correct summary of pteridophyte characteristics?",
+      "options": {
+        "A": "No vascular tissue, gametophyte dominant, spores produced, needs water for fertilization",
+        "B": "Vascular tissue present, sporophyte dominant, spores produced, needs water for fertilization",
+        "C": "Vascular tissue present, sporophyte dominant, seeds produced, no water for fertilization",
+        "D": "No vascular tissue, gametophyte dominant, seeds produced"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophyte characteristics: vascular tissue present (xylem + phloem), sporophyte is dominant and free-living, reproduce by spores (not seeds), still need water for fertilization (motile antherozoids)."
+    },
+    {
+      "id": "PKQ_641",
+      "question": "The term 'cryptogams' includes which plant groups?",
+      "options": {
+        "A": "Algae, Bryophytes, Pteridophytes",
+        "B": "Gymnosperms and Angiosperms only",
+        "C": "All plants",
+        "D": "Only Angiosperms"
+      },
+      "correct_option": "A",
+      "explanation": "Cryptogams ('hidden reproductive organs') include Algae, Bryophytes and Pteridophytes — plants that do not produce seeds and whose reproductive organs are not prominent."
+    },
+    {
+      "id": "PKQ_642",
+      "question": "The term 'phanerogams' includes which plant groups?",
+      "options": {
+        "A": "Algae and Bryophytes",
+        "B": "Gymnosperms and Angiosperms",
+        "C": "All plant groups",
+        "D": "Pteridophytes only"
+      },
+      "correct_option": "B",
+      "explanation": "Phanerogams ('visible reproductive organs') include Gymnosperms and Angiosperms — seed-producing plants with prominent reproductive structures."
+    },
+    {
+      "id": "PKQ_643",
+      "question": "The first land plants to have differentiated true roots, stem and leaves with vascular tissue were:",
+      "options": {
+        "A": "Bryophytes",
+        "B": "Algae",
+        "C": "Pteridophytes",
+        "D": "Gymnosperms"
+      },
+      "correct_option": "C",
+      "explanation": "Pteridophytes were the first land plants to have differentiated true roots, stem and leaves with vascular tissue (xylem and phloem), representing a major evolutionary advancement."
+    },
+    {
+      "id": "PKQ_644",
+      "question": "Which group of pteridophytes is most related to the origin of gymnosperms?",
+      "options": {
+        "A": "Homosporous ferns",
+        "B": "Heterosporous pteridophytes (like Selaginella)",
+        "C": "Equisetum",
+        "D": "Psilotum"
+      },
+      "correct_option": "B",
+      "explanation": "Heterosporous pteridophytes (like Selaginella) are most related to the origin of gymnosperms because their heterospory and endosporic gametophyte development are forerunners to the seed condition in gymnosperms."
+    },
+    {
+      "id": "PKQ_645",
+      "question": "The large pinnately compound leaves of ferns differ from the microphylls of Lycopodium in that they:",
+      "options": {
+        "A": "Are smaller",
+        "B": "Have no vascular supply",
+        "C": "Are megaphylls with branched veins, evolved differently, considered more advanced",
+        "D": "Are identical in structure"
+      },
+      "correct_option": "C",
+      "explanation": "Fern leaves are megaphylls — large with branched veins, believed to have evolved from a system of branched axes (telome theory). Lycopodium leaves are microphylls — small with single unbranched vein. Megaphylls are more advanced."
+    },
+    {
+      "id": "PKQ_646",
+      "question": "Why does the prothallus (gametophyte) of pteridophytes typically grow in moist habitats?",
+      "options": {
+        "A": "To survive flooding",
+        "B": "Because it lacks cuticle and needs moisture for gamete production and fertilization",
+        "C": "To compete with larger plants",
+        "D": "Because it cannot photosynthesize"
+      },
+      "correct_option": "B",
+      "explanation": "The pteridophyte prothallus grows in moist habitats because it lacks a cuticle (or has a very thin one), making it susceptible to desiccation, and it needs moisture for the motile antherozoids to swim to the archegonium."
+    },
+    {
+      "id": "PKQ_647",
+      "question": "The ecological importance of pteridophytes includes:",
+      "options": {
+        "A": "Only serving as primary producers",
+        "B": "Erosion control, habitat for other organisms, primary producers in forest understory, Azolla as nitrogen fixer",
+        "C": "Only nitrogen fixation",
+        "D": "No ecological importance"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are ecologically important for: erosion control (their roots and rhizomes bind soil), providing habitat for invertebrates and small animals, serving as primary producers in forest understory, and Azolla in nitrogen cycling."
+    },
+    {
+      "id": "PKQ_648",
+      "question": "The megasporangium in Selaginella retains the megaspore. This is significant because:",
+      "options": {
+        "A": "It shows primitive characters",
+        "B": "It is analogous to the ovule condition in seed plants — forerunner to seed evolution",
+        "C": "It allows faster reproduction",
+        "D": "It has no significance"
+      },
+      "correct_option": "B",
+      "explanation": "In Selaginella, the megaspore is sometimes retained within the megasporangium, and the female gametophyte develops endosporically. This is analogous to the ovule in seed plants — the megasporangium is like the nucellus, megaspore is like the megaspore in ovule."
+    },
+    {
+      "id": "PKQ_649",
+      "question": "Which of the following is NOT an example of a pteridophyte?",
+      "options": {
+        "A": "Pteris",
+        "B": "Selaginella",
+        "C": "Funaria",
+        "D": "Equisetum"
+      },
+      "correct_option": "C",
+      "explanation": "Funaria is a moss (bryophyte), not a pteridophyte. Pteris, Selaginella and Equisetum are all pteridophytes."
+    },
+    {
+      "id": "PKQ_650",
+      "question": "What is the complete correct summary of alternation of generations in pteridophytes?",
+      "options": {
+        "A": "Haploid gametophyte dominant → produces spores by meiosis",
+        "B": "Diploid sporophyte (dominant, free-living) → spores (haploid, by meiosis) → prothallus (gametophyte, haploid) → gametes (by mitosis) → zygote (diploid) → new sporophyte",
+        "C": "Both generations are diploid",
+        "D": "There is no alternation of generations in pteridophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Complete alternation in pteridophytes: Diploid sporophyte (dominant, free-living fern plant) → produces haploid spores by meiosis in sporangia → spores germinate → small, free-living, haploid prothallus (gametophyte) → produces gametes by mitosis in antheridia/archegonia → fertilization → diploid zygote → grows into new sporophyte."
+    },
+    {
+      "id": "PKQ_651",
+      "question": "A student finds a small, green, heart-shaped flat structure growing on moist soil near a pond. It has rhizoids underneath and tiny umbrella-like structures. What is this?",
+      "options": {
+        "A": "A liverwort",
+        "B": "A pteridophyte prothallus (gametophyte of a fern)",
+        "C": "A moss protonema",
+        "D": "An algal colony"
+      },
+      "correct_option": "B",
+      "explanation": "A small, green, heart-shaped structure on moist soil with rhizoids and reproductive structures (antheridia and archegonia) is a prothallus — the gametophyte of a fern (pteridophyte)."
+    },
+    {
+      "id": "PKQ_652",
+      "question": "A student finds small brown clusters on the underside of fern fronds. What are these?",
+      "options": {
+        "A": "Gemmae cups",
+        "B": "Sori (clusters of sporangia)",
+        "C": "Prothalli",
+        "D": "Rhizoids"
+      },
+      "correct_option": "B",
+      "explanation": "Small brown clusters on the underside of fern fronds are sori — clusters of sporangia. Each sorus may be covered by a protective indusium."
+    },
+    {
+      "id": "PKQ_653",
+      "question": "Which of the following organisms helped form coal deposits millions of years ago?",
+      "options": {
+        "A": "Modern ferns and mosses",
+        "B": "Ancient giant pteridophytes (tree ferns, giant horsetails, lycopsid trees)",
+        "C": "Ancient gymnosperms",
+        "D": "Ancient angiosperms"
+      },
+      "correct_option": "B",
+      "explanation": "Coal was formed from ancient giant pteridophytes — tree ferns (some 30 m tall), giant horsetails (Calamites), and giant lycopsid trees (Lepidodendron, Sigillaria) that formed vast swamp forests in the Carboniferous period."
+    },
+    {
+      "id": "PKQ_654",
+      "question": "Which of the following correctly describes the sporophyte of a fern?",
+      "options": {
+        "A": "Small, heart-shaped, short-lived, dependent on gametophyte",
+        "B": "Large, complex, free-living, with true roots, stem (rhizome) and leaves (fronds) with vascular tissue",
+        "C": "Differentiated into foot, seta and capsule",
+        "D": "Thalloid and flat"
+      },
+      "correct_option": "B",
+      "explanation": "The fern sporophyte is large, complex, free-living with true roots, horizontal underground stem (rhizome) and large leaves (fronds) with vascular tissue (xylem and phloem) — the dominant generation."
+    },
+    {
+      "id": "PKQ_655",
+      "question": "The presence of xylem and phloem in pteridophytes is significant because it allows:",
+      "options": {
+        "A": "Seed production",
+        "B": "Efficient transport of water, minerals (xylem) and food (phloem) over greater distances, enabling taller growth",
+        "C": "Reproduction without water",
+        "D": "Flower production"
+      },
+      "correct_option": "B",
+      "explanation": "Xylem transports water and minerals from roots to leaves; phloem transports food from leaves to other parts. This efficient vascular system allows pteridophytes to grow much taller and occupy larger areas than non-vascular plants."
+    },
+    {
+      "id": "PKQ_656",
+      "question": "Which is the most advanced feature of pteridophytes compared to bryophytes?",
+      "options": {
+        "A": "They are photosynthetic",
+        "B": "They have well-developed vascular tissue and dominant independent sporophyte",
+        "C": "They reproduce by spores",
+        "D": "They need water for fertilization"
+      },
+      "correct_option": "B",
+      "explanation": "The most advanced features of pteridophytes compared to bryophytes: (1) well-developed vascular tissue (xylem and phloem), (2) dominant and independent sporophyte with true roots, stem and leaves. These represent major evolutionary advancements."
+    },
+    {
+      "id": "PKQ_657",
+      "question": "The rhizome of ferns is described as:",
+      "options": {
+        "A": "An aerial stem",
+        "B": "A horizontal, underground stem from which fronds and roots arise",
+        "C": "A reproductive structure",
+        "D": "A leaf-like structure"
+      },
+      "correct_option": "B",
+      "explanation": "The rhizome of ferns is a horizontal underground stem. Fronds (leaves) grow upward from it and adventitious roots grow downward. The rhizome stores food and helps in perennial growth."
+    },
+    {
+      "id": "PKQ_658",
+      "question": "Which of the following is correctly described as 'haplo-diplontic' with dominant sporophyte?",
+      "options": {
+        "A": "Algae (many species)",
+        "B": "Bryophytes",
+        "C": "Pteridophytes",
+        "D": "All plant groups"
+      },
+      "correct_option": "C",
+      "explanation": "Pteridophytes have a haplo-diplontic life cycle where both haploid gametophyte (prothallus) and diploid sporophyte (fern plant) are multicellular and free-living, but the sporophyte is dominant."
+    },
+    {
+      "id": "PKQ_659",
+      "question": "Which of the following statements about Azolla is CORRECT?",
+      "options": {
+        "A": "It is a green alga used as food",
+        "B": "It is an aquatic fern that harbors nitrogen-fixing Anabaena and is used as biofertilizer",
+        "C": "It is a moss used as packing material",
+        "D": "It is a gymnosperm"
+      },
+      "correct_option": "B",
+      "explanation": "Azolla is an aquatic fern (pteridophyte) that harbors the nitrogen-fixing cyanobacterium Anabaena azollae in its leaf cavities. It is used as a biofertilizer in rice paddies because Anabaena fixes atmospheric nitrogen."
+    },
+    {
+      "id": "PKQ_660",
+      "question": "Select the CORRECT comparison between pteridophytes and seed plants:",
+      "options": {
+        "A": "Both need water for fertilization",
+        "B": "Both produce seeds",
+        "C": "Pteridophytes: spores, need water for fertilization; Seed plants: seeds, no water needed for fertilization",
+        "D": "Pteridophytes: seeds; Seed plants: spores"
+      },
+      "correct_option": "C",
+      "explanation": "Key comparison: Pteridophytes reproduce by spores and need water for fertilization (motile antherozoids). Seed plants reproduce by seeds and do NOT need water for fertilization (pollen grains are transferred by wind/insects)."
+    },
+    {
+      "id": "PKQ_661",
+      "question": "Why is the heterospory of Selaginella considered a forerunner to seed evolution?",
+      "options": {
+        "A": "Because Selaginella produces actual seeds",
+        "B": "Because the retention of megaspore in megasporangium and endosporic female gametophyte development parallels the ovule condition in seed plants",
+        "C": "Because Selaginella evolved into gymnosperms",
+        "D": "No connection between heterospory and seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Selaginella's heterospory is a forerunner to seed evolution because: (1) megaspore retained in megasporangium = parallel to ovule, (2) female gametophyte develops endosporically within megaspore = parallel to embryo sac within ovule, (3) reduced male gametophyte in microspore = parallel to pollen grain."
+    },
+    {
+      "id": "PKQ_662",
+      "question": "In the evolution of plants, which group appears between Bryophytes and Gymnosperms?",
+      "options": {
+        "A": "Algae",
+        "B": "Angiosperms",
+        "C": "Pteridophytes",
+        "D": "Fungi"
+      },
+      "correct_option": "C",
+      "explanation": "Evolutionarily: Algae → Bryophytes → Pteridophytes → Gymnosperms → Angiosperms. Pteridophytes appear between Bryophytes and Gymnosperms."
+    },
+    {
+      "id": "PKQ_663",
+      "question": "Select all correct examples of heterosporous pteridophytes from: Selaginella, Lycopodium, Salvinia, Adiantum, Marsilea",
+      "options": {
+        "A": "Only Lycopodium and Adiantum",
+        "B": "Selaginella, Salvinia and Marsilea",
+        "C": "All of the above",
+        "D": "Only Selaginella"
+      },
+      "correct_option": "B",
+      "explanation": "Heterosporous pteridophytes: Selaginella, Salvinia and Marsilea. Homosporous: Lycopodium and Adiantum (most true ferns)."
+    },
+    {
+      "id": "PKQ_664",
+      "question": "Which of the following is a correct application/use of Selaginella?",
+      "options": {
+        "A": "Used as a biofertilizer",
+        "B": "Used as an ornamental plant (resurrection plant) and in laboratory studies",
+        "C": "Used as peat fuel",
+        "D": "Used as food"
+      },
+      "correct_option": "B",
+      "explanation": "Selaginella lepidophylla is known as the 'resurrection plant' — it curls up when dry and revives when wet. It is used as an ornamental plant and is important in laboratory studies of plant evolution and heterospory."
+    },
+    {
+      "id": "PKQ_665",
+      "question": "Which of the following sets correctly lists all the examples of pteridophytes mentioned in NCERT Chapter 3?",
+      "options": {
+        "A": "Funaria, Marchantia, Sphagnum",
+        "B": "Lycopodium, Selaginella, Equisetum, Pteris, Adiantum",
+        "C": "Cycas, Pinus, Ginkgo",
+        "D": "Porphyra, Laminaria, Sargassum"
+      },
+      "correct_option": "B",
+      "explanation": "NCERT Chapter 3 lists Lycopodium, Selaginella, Equisetum, Pteris and Adiantum as examples of pteridophytes. Funaria/Marchantia/Sphagnum are bryophytes. Cycas/Pinus/Ginkgo are gymnosperms. Porphyra/Laminaria/Sargassum are algae."
+    },
+    {
+      "id": "PKQ_666",
+      "question": "What is the significance of true roots in pteridophytes compared to rhizoids in bryophytes?",
+      "options": {
+        "A": "No significance",
+        "B": "True roots have vascular tissue and root hairs — more efficient absorption and anchorage than simple rhizoids",
+        "C": "Rhizoids are more efficient than true roots",
+        "D": "Both are identical in function"
+      },
+      "correct_option": "B",
+      "explanation": "True roots in pteridophytes have vascular tissue (conducting tissue), root hairs (increased surface area), root cap (protection), and apical meristem — far more efficient for absorption and anchorage than simple, non-vascular rhizoids of bryophytes."
+    },
+    {
+      "id": "PKQ_667",
+      "question": "Which of the following correctly compares the gametophytes of bryophytes and pteridophytes?",
+      "options": {
+        "A": "Bryophyte gametophyte is small and short-lived; pteridophyte gametophyte is large and dominant",
+        "B": "Bryophyte gametophyte is dominant and long-lived; pteridophyte gametophyte (prothallus) is small and short-lived",
+        "C": "Both are identical",
+        "D": "Bryophyte gametophyte is haploid; pteridophyte gametophyte is diploid"
+      },
+      "correct_option": "B",
+      "explanation": "Key comparison: Bryophyte gametophyte is dominant, large, long-lived (the visible plant). Pteridophyte gametophyte (prothallus) is small, inconspicuous, and short-lived. Both are haploid."
+    },
+    {
+      "id": "PKQ_668",
+      "question": "Which of the following correctly describes the evolutionary trend in gametophyte from algae to angiosperms?",
+      "options": {
+        "A": "Gametophyte increases in complexity",
+        "B": "Gametophyte is progressively reduced: algae (may be dominant) → bryophytes (dominant) → pteridophytes (small prothallus) → gymnosperms (few cells) → angiosperms (7-celled embryo sac/3-celled pollen)",
+        "C": "Gametophyte remains constant in all groups",
+        "D": "Gametophyte is absent in all groups"
+      },
+      "correct_option": "B",
+      "explanation": "In plant evolution, the gametophyte is progressively reduced: algae (may be dominant) → bryophytes (dominant gametophyte) → pteridophytes (small prothallus) → gymnosperms (very reduced gametophyte) → angiosperms (extremely reduced: 7-celled embryo sac and 3-celled pollen grain)."
+    },
+    {
+      "id": "PKQ_669",
+      "question": "Why are pteridophytes not found in very arid or extremely dry environments?",
+      "options": {
+        "A": "They lack chlorophyll",
+        "B": "They still need water for fertilization (motile antherozoids) and for the prothallus to survive",
+        "C": "Their vascular tissue cannot handle dry conditions",
+        "D": "They grow too slowly"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are limited to moist environments because: (1) the prothallus (gametophyte) needs moisture to survive (no cuticle or thin cuticle), (2) fertilization requires water for antherozoids to swim."
+    },
+    {
+      "id": "PKQ_670",
+      "question": "Which of the following is the COMPLETE set of features that make pteridophytes more advanced than bryophytes?",
+      "options": {
+        "A": "Only vascular tissue",
+        "B": "Vascular tissue, dominant free-living sporophyte, true roots/stem/leaves, more complex organization",
+        "C": "Only dominant sporophyte",
+        "D": "Only true leaves"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes are more advanced than bryophytes in: (1) vascular tissue (xylem and phloem), (2) dominant, free-living, independent sporophyte, (3) true roots, stem and leaves, (4) more complex organization and larger size."
+    },
+    {
+      "id": "PKQ_671",
+      "question": "Ferns and their allies are often used as indicators of environmental quality because:",
+      "options": {
+        "A": "They are resistant to pollution",
+        "B": "They are sensitive to air quality and environmental changes, serving as bioindicators",
+        "C": "They grow in all environments equally",
+        "D": "They indicate dry conditions"
+      },
+      "correct_option": "B",
+      "explanation": "Ferns and bryophytes are sensitive to air quality (especially sulphur dioxide), humidity and temperature changes — they serve as bioindicators of environmental health."
+    },
+    {
+      "id": "PKQ_672",
+      "question": "The strobilus of Equisetum bears:",
+      "options": {
+        "A": "Seeds",
+        "B": "Only leaves",
+        "C": "Sporangiophores (modified sporophylls) bearing sporangia",
+        "D": "Archegonia and antheridia"
+      },
+      "correct_option": "C",
+      "explanation": "The strobilus of Equisetum bears sporangiophores — shield-shaped, peltate structures that are modified sporophylls. Each sporangiophore bears sporangia on its inner surface."
+    },
+    {
+      "id": "PKQ_673",
+      "question": "Elaters in Equisetum are:",
+      "options": {
+        "A": "Root-like structures",
+        "B": "Hygroscopic bands attached to the spore wall that aid in spore dispersal",
+        "C": "Male gametes",
+        "D": "Female sex organs"
+      },
+      "correct_option": "B",
+      "explanation": "Elaters in Equisetum are hygroscopic (moisture-sensitive) bands attached to the spore wall. They coil and uncoil with changes in humidity, aiding in spore dispersal."
+    },
+    {
+      "id": "PKQ_674",
+      "question": "Which pteridophyte is used for treating kidney problems due to its diuretic properties?",
+      "options": {
+        "A": "Lycopodium",
+        "B": "Equisetum",
+        "C": "Adiantum",
+        "D": "Selaginella"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum (horsetail) has diuretic properties and has been used traditionally for treating kidney problems and urinary tract conditions."
+    },
+    {
+      "id": "PKQ_675",
+      "question": "The most complete description of pteridophyte characteristics includes which of the following?",
+      "options": {
+        "A": "Simple, thalloid, no vascular tissue, dominant gametophyte",
+        "B": "Well-differentiated sporophyte (dominant, free-living) with true roots/stem/leaves and vascular tissue; small, free-living prothallus (gametophyte); spore reproduction; water needed for fertilization",
+        "C": "Seed reproduction, no water needed for fertilization, dominant gametophyte",
+        "D": "Flowers and seeds, dominant sporophyte, no water needed"
+      },
+      "correct_option": "B",
+      "explanation": "Complete pteridophyte characteristics: Well-differentiated, dominant, free-living sporophyte with true roots, stem, leaves and vascular tissue; small free-living prothallus as gametophyte; spores (not seeds) for reproduction; water still needed for fertilization."
+    },
+    {
+      "id": "PKQ_676",
+      "question": "Which of the following is the main difference between spore dispersal in ferns vs Equisetum?",
+      "options": {
+        "A": "Ferns: dispersed by wind from sori with annulus mechanism; Equisetum: dispersed by elaters",
+        "B": "Both are identical in dispersal method",
+        "C": "Ferns: dispersed by water; Equisetum: by wind",
+        "D": "Both are dispersed only by water"
+      },
+      "correct_option": "A",
+      "explanation": "Fern spores are dispersed by wind using the catapult mechanism of the annulus in sporangia. Equisetum spores are dispersed by hygroscopic elaters that coil/uncoil to aid dispersal."
+    },
+    {
+      "id": "PKQ_677",
+      "question": "Which correctly identifies Pteris?",
+      "options": {
+        "A": "A brown alga",
+        "B": "A moss (bryophyte)",
+        "C": "A true fern (pteridophyte, Pteropsida)",
+        "D": "A gymnosperm"
+      },
+      "correct_option": "C",
+      "explanation": "Pteris is a true fern belonging to class Pteropsida of Pteridophyta. It is commonly found in tropical and subtropical regions."
+    },
+    {
+      "id": "PKQ_678",
+      "question": "In the pteridophyte life cycle, which is the correct order?",
+      "options": {
+        "A": "Sporophyte (2n) → Meiosis → Spores (n) → Prothallus (n) → Gametes (n) → Fertilization → Zygote (2n) → Sporophyte (2n)",
+        "B": "Prothallus (2n) → Meiosis → Spores (n) → Sporophyte (n)",
+        "C": "Zygote (n) → Sporophyte (2n) → Spores (2n) → Prothallus (n)",
+        "D": "Spores (2n) → Prothallus (2n) → Gametes (n) → Sporophyte (n)"
+      },
+      "correct_option": "A",
+      "explanation": "Correct pteridophyte life cycle: Diploid sporophyte (2n) → meiosis in sporangia → haploid spores (n) → germinate → haploid prothallus (n) → produces gametes by mitosis → fertilization → diploid zygote (2n) → grows into new sporophyte (2n)."
+    },
+    {
+      "id": "PKQ_679",
+      "question": "Which of the following is NOT true about the prothallus of pteridophytes?",
+      "options": {
+        "A": "It is haploid",
+        "B": "It is free-living and photosynthetic",
+        "C": "It is the dominant generation",
+        "D": "It bears sex organs (antheridia and archegonia)"
+      },
+      "correct_option": "C",
+      "explanation": "The prothallus is NOT the dominant generation in pteridophytes — the sporophyte is dominant. The prothallus (gametophyte) is small, inconspicuous and short-lived."
+    },
+    {
+      "id": "PKQ_680",
+      "question": "The most economically important product obtained from ancient pteridophytes is:",
+      "options": {
+        "A": "Agar",
+        "B": "Algin",
+        "C": "Coal",
+        "D": "Peat"
+      },
+      "correct_option": "C",
+      "explanation": "Coal — formed from the compressed remains of ancient pteridophytes over millions of years — is the most economically important product derived from pteridophytes. It fuels much of human industrial activity."
+    },
+    {
+      "id": "PKQ_681",
+      "question": "Which statement about the dominance of sporophyte in pteridophytes is CORRECT?",
+      "options": {
+        "A": "The prothallus lives longer than the fern plant",
+        "B": "The fern plant (sporophyte) is the large, prominent, free-living plant we see; the prothallus is small and short-lived",
+        "C": "Both are equally large",
+        "D": "The sporophyte is dependent on the prothallus throughout its life"
+      },
+      "correct_option": "B",
+      "explanation": "In pteridophytes, the sporophyte (fern plant) is dominant — it is the large, prominent, free-living plant. The prothallus (gametophyte) is small, inconspicuous and short-lived. The young sporophyte briefly depends on the prothallus, then becomes fully independent."
+    },
+    {
+      "id": "PKQ_682",
+      "question": "Fern spores are dispersed by which agent?",
+      "options": {
+        "A": "Water",
+        "B": "Wind",
+        "C": "Animals",
+        "D": "Insects"
+      },
+      "correct_option": "B",
+      "explanation": "Fern spores are primarily dispersed by wind. The annulus mechanism in the sporangium launches spores into the air, where they are carried by wind currents."
+    },
+    {
+      "id": "PKQ_683",
+      "question": "Which of the following correctly identifies two homosporous and two heterosporous pteridophytes?",
+      "options": {
+        "A": "Homosporous: Lycopodium, Adiantum; Heterosporous: Selaginella, Salvinia",
+        "B": "Homosporous: Selaginella, Salvinia; Heterosporous: Lycopodium, Adiantum",
+        "C": "All are heterosporous",
+        "D": "All are homosporous"
+      },
+      "correct_option": "A",
+      "explanation": "Homosporous: Lycopodium (clubmoss) and Adiantum (maidenhair fern) — produce one type of spore. Heterosporous: Selaginella (spike moss) and Salvinia (water fern) — produce microspores and megaspores."
+    },
+    {
+      "id": "PKQ_684",
+      "question": "What is the summary of evolutionary significance of pteridophytes?",
+      "options": {
+        "A": "No evolutionary significance",
+        "B": "First plants with vascular tissue; dominant sporophyte; heterospory as forerunner to seed; evolutionary link between bryophytes and seed plants",
+        "C": "They evolved from seed plants",
+        "D": "They have no connection to other plant groups"
+      },
+      "correct_option": "B",
+      "explanation": "Evolutionary significance of pteridophytes: (1) first land plants with vascular tissue, (2) dominant, independent sporophyte, (3) true roots, stem, leaves, (4) heterospory as forerunner to seed evolution, (5) evolutionary link between bryophytes and seed plants."
+    },
+    {
+      "id": "PKQ_685",
+      "question": "Which of the following represents the complete list of pteridophyte classes?",
+      "options": {
+        "A": "Bryopsida, Hepaticopsida, Pteropsida",
+        "B": "Psilopsida, Lycopsida, Sphenopsida, Pteropsida",
+        "C": "Lycopsida, Sphenopsida, Pteropsida only",
+        "D": "Only Pteropsida and Lycopsida"
+      },
+      "correct_option": "B",
+      "explanation": "The four classes of pteridophytes are: Psilopsida (Psilotum), Lycopsida (Lycopodium, Selaginella), Sphenopsida (Equisetum), and Pteropsida (Adiantum, Pteris, Dryopteris)."
+    },
+    {
+      "id": "PKQ_686",
+      "question": "Which pteridophyte is known as a 'living fossil' because it closely resembles ancient plant fossils?",
+      "options": {
+        "A": "Adiantum",
+        "B": "Equisetum",
+        "C": "Selaginella",
+        "D": "Lycopodium"
+      },
+      "correct_option": "B",
+      "explanation": "Equisetum is often called a 'living fossil' because it closely resembles ancient Calamites that formed giant forests in the Carboniferous period. Modern Equisetum has changed little from its ancient ancestors."
+    },
+    {
+      "id": "PKQ_687",
+      "question": "The sporophylls in ferns are:",
+      "options": {
+        "A": "Always different from vegetative leaves",
+        "B": "Either the same as vegetative leaves (bearing sori) or slightly modified",
+        "C": "Only modified into cones",
+        "D": "Always separate from vegetative leaves"
+      },
+      "correct_option": "B",
+      "explanation": "In ferns, the sporophylls are typically the same as vegetative leaves — they bear sori on their lower surface. This is different from Lycopodium and Equisetum where sporophylls are compactly arranged in strobili."
+    },
+    {
+      "id": "PKQ_688",
+      "question": "The adventitious roots in ferns arise from:",
+      "options": {
+        "A": "The fronds",
+        "B": "The rhizome (underground horizontal stem)",
+        "C": "The prothallus",
+        "D": "The sporangia"
+      },
+      "correct_option": "B",
+      "explanation": "Adventitious roots in ferns arise from the rhizome (horizontal underground stem). These roots grow downward and anchor the plant while absorbing water and minerals."
+    },
+    {
+      "id": "PKQ_689",
+      "question": "Which of the following is an INCORRECT statement about pteridophytes?",
+      "options": {
+        "A": "They have vascular tissue",
+        "B": "Their sporophyte is dominant",
+        "C": "They reproduce by seeds",
+        "D": "Their leaves are called fronds"
+      },
+      "correct_option": "C",
+      "explanation": "Pteridophytes do NOT reproduce by seeds — they reproduce by spores. Seed production is a feature of seed plants (gymnosperms and angiosperms)."
+    },
+    {
+      "id": "PKQ_690",
+      "question": "What is the evolutionary trend in the requirement for water in fertilization from algae to angiosperms?",
+      "options": {
+        "A": "Requirement for water increases",
+        "B": "Requirement for water decreases and is eliminated: algae (water) → bryophytes (water) → pteridophytes (water) → gymnosperms (pollen, but some need water) → angiosperms (pollen, no water needed)",
+        "C": "No change — all need water",
+        "D": "No change — none need water"
+      },
+      "correct_option": "B",
+      "explanation": "Evolutionary trend: Algae, bryophytes and pteridophytes all need water for fertilization (motile gametes). Gymnosperms introduced pollen (reduced water dependence, though some like Cycas still have motile sperms). Angiosperms have completely non-motile male gametes — no water needed."
+    },
+    {
+      "id": "PKQ_691",
+      "question": "Which of the following correctly pairs a pteridophyte with its habitat?",
+      "options": {
+        "A": "Adiantum - aquatic",
+        "B": "Salvinia - terrestrial",
+        "C": "Equisetum - moist banks of streams and ponds",
+        "D": "Selaginella - deep ocean"
+      },
+      "correct_option": "C",
+      "explanation": "Equisetum (horsetail) is commonly found on moist banks of streams, ponds and other wet places. Adiantum is terrestrial (moist, shady places). Salvinia is aquatic. Selaginella is terrestrial."
+    },
+    {
+      "id": "PKQ_692",
+      "question": "Which of the following is a CORRECT statement about Adiantum (maidenhair fern)?",
+      "options": {
+        "A": "It is heterosporous",
+        "B": "It belongs to Pteropsida, is homosporous, has fan-shaped leaflets and is commonly used ornamentally",
+        "C": "It belongs to Lycopsida",
+        "D": "It forms strobili"
+      },
+      "correct_option": "B",
+      "explanation": "Adiantum belongs to Pteropsida (true ferns), is homosporous, has distinctive fan-shaped (flabellate) leaflets, and is widely used as an ornamental plant."
+    },
+    {
+      "id": "PKQ_693",
+      "question": "The indusium in ferns protects:",
+      "options": {
+        "A": "The rhizome",
+        "B": "The developing sori/sporangia from desiccation and physical damage",
+        "C": "The prothallus",
+        "D": "The antherozoids"
+      },
+      "correct_option": "B",
+      "explanation": "The indusium (a flap of leaf tissue) protects the developing sori and sporangia from desiccation, physical damage and herbivory until the spores are mature and ready for dispersal."
+    },
+    {
+      "id": "PKQ_694",
+      "question": "Complete the table: Which option correctly fills in all blanks for pteridophytes?\nVascular tissue: ___, Dominant generation: ___, Reproduction: ___, Water for fertilization: ___",
+      "options": {
+        "A": "Absent, Gametophyte, Seeds, No",
+        "B": "Present, Sporophyte, Spores, Yes",
+        "C": "Present, Gametophyte, Seeds, No",
+        "D": "Absent, Sporophyte, Spores, Yes"
+      },
+      "correct_option": "B",
+      "explanation": "Pteridophytes: Vascular tissue = Present (xylem and phloem). Dominant generation = Sporophyte (the fern plant). Reproduction = By spores (not seeds). Water for fertilization = Yes (motile antherozoids)."
+    },
+    {
+      "id": "PKQ_695",
+      "question": "Which of the following is a COMPLETE list of examples of pteridophytes given in NCERT?",
+      "options": {
+        "A": "Funaria, Sphagnum, Marchantia",
+        "B": "Lycopodium, Selaginella, Equisetum, Pteris, Adiantum",
+        "C": "Cycas, Pinus, Ginkgo, Ephedra",
+        "D": "Wheat, Rice, Mustard, Pea"
+      },
+      "correct_option": "B",
+      "explanation": "The examples of pteridophytes in NCERT Chapter 3 are: Lycopodium, Selaginella, Equisetum, Pteris, and Adiantum."
+    },
+    {
+      "id": "PKQ_696",
+      "question": "What is the significance of the prothallus being photosynthetic in pteridophytes?",
+      "options": {
+        "A": "It allows the prothallus to be free-living and independent (autotrophic)",
+        "B": "It helps the sporophyte grow",
+        "C": "It has no significance",
+        "D": "It allows spore production"
+      },
+      "correct_option": "A",
+      "explanation": "The prothallus being photosynthetic is significant because it allows it to be free-living and nutritionally independent (autotrophic), unlike the bryophyte sporophyte which is dependent on the gametophyte."
+    },
+    {
+      "id": "PKQ_697",
+      "question": "Which group of plants shows 'haplo-diplontic' life cycle with the gametophyte being dominant?",
+      "options": {
+        "A": "Algae",
+        "B": "Bryophytes",
+        "C": "Pteridophytes",
+        "D": "Gymnosperms"
+      },
+      "correct_option": "B",
+      "explanation": "Bryophytes show haplo-diplontic life cycle with the gametophyte (haploid) being dominant. Both gametophyte and sporophyte are multicellular, but the gametophyte is more prominent."
+    },
+    {
+      "id": "PKQ_698",
+      "question": "Which group of plants shows 'haplo-diplontic' life cycle with the sporophyte being dominant?",
+      "options": {
+        "A": "Bryophytes",
+        "B": "Algae",
+        "C": "Pteridophytes",
+        "D": "None"
+      },
+      "correct_option": "C",
+      "explanation": "Pteridophytes show haplo-diplontic life cycle with the sporophyte (diploid) being dominant. Both gametophyte (prothallus) and sporophyte are multicellular, but the sporophyte is more prominent."
+    },
+    {
+      "id": "PKQ_699",
+      "question": "What did ancient giant pteridophytes look like compared to modern pteridophytes?",
+      "options": {
+        "A": "Identical to modern forms",
+        "B": "Much larger — tree-like forms (tree ferns, giant horsetails, lycopsid trees) forming forests",
+        "C": "Smaller than modern forms",
+        "D": "No ancient pteridophytes existed"
+      },
+      "correct_option": "B",
+      "explanation": "Ancient pteridophytes were much larger than modern ones — they included tree-like forms like tree ferns (up to 30 m), giant horsetails (Calamites, up to 30 m), and giant lycopsid trees (Lepidodendron, Sigillaria) that formed vast coal swamp forests."
+    },
+    {
+      "id": "PKQ_700",
+      "question": "Select the INCORRECT statement about heterospory in pteridophytes:",
+      "options": {
+        "A": "Selaginella and Salvinia are heterosporous",
+        "B": "Microspores develop into male gametophytes",
+        "C": "Megaspores develop into female gametophytes",
+        "D": "Heterospory is a feature of ALL pteridophytes"
+      },
+      "correct_option": "D",
+      "explanation": "Heterospory is NOT a feature of ALL pteridophytes — it is found only in some (Selaginella, Salvinia, Marsilea). Most pteridophytes (including Lycopodium, Adiantum, Pteris, Equisetum) are homosporous."
+    }
+  ]
+}
