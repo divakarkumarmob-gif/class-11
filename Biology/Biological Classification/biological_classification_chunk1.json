@@ -1,0 +1,3909 @@
+{
+  "chapter_name": "Biological Classification",
+  "subject": "Biology",
+  "class": "11",
+  "chunk": 1,
+  "total_questions_in_chunk": 300,
+  "questions": [
+    {
+      "id": "BIO_CH2_001",
+      "topic": "History of Classification",
+      "question": "Who was the earliest scientist to attempt a scientific basis for classification of living organisms?",
+      "options": {
+        "A": "Linnaeus",
+        "B": "Whittaker",
+        "C": "Aristotle",
+        "D": "Darwin"
+      },
+      "correct_option": "C",
+      "explanation": "Aristotle was the earliest to attempt a more scientific basis for classification using simple morphological characters."
+    },
+    {
+      "id": "BIO_CH2_002",
+      "topic": "History of Classification",
+      "question": "Aristotle classified plants into which of the following groups?",
+      "options": {
+        "A": "Trees, shrubs and herbs",
+        "B": "Algae, mosses and ferns",
+        "C": "Angiosperms, gymnosperms and pteridophytes",
+        "D": "Monocots, dicots and gymnosperms"
+      },
+      "correct_option": "A",
+      "explanation": "Aristotle used simple morphological characters to classify plants into trees, shrubs and herbs."
+    },
+    {
+      "id": "BIO_CH2_003",
+      "topic": "History of Classification",
+      "question": "On what basis did Aristotle divide animals into two groups?",
+      "options": {
+        "A": "Presence or absence of backbone",
+        "B": "Presence or absence of red blood",
+        "C": "Aquatic or terrestrial habitat",
+        "D": "Unicellular or multicellular"
+      },
+      "correct_option": "B",
+      "explanation": "Aristotle divided animals into two groups — those which had red blood and those that did not."
+    },
+    {
+      "id": "BIO_CH2_004",
+      "topic": "History of Classification",
+      "question": "The Two Kingdom system of classification was developed during the time of:",
+      "options": {
+        "A": "Aristotle",
+        "B": "Whittaker",
+        "C": "Linnaeus",
+        "D": "Darwin"
+      },
+      "correct_option": "C",
+      "explanation": "In Linnaeus' time a Two Kingdom system of classification with Plantae and Animalia kingdoms was developed."
+    },
+    {
+      "id": "BIO_CH2_005",
+      "topic": "History of Classification",
+      "question": "The Two Kingdom classification consisted of which two kingdoms?",
+      "options": {
+        "A": "Monera and Protista",
+        "B": "Plantae and Animalia",
+        "C": "Fungi and Plantae",
+        "D": "Animalia and Monera"
+      },
+      "correct_option": "B",
+      "explanation": "The Two Kingdom system had Plantae and Animalia kingdoms that included all plants and animals respectively."
+    },
+    {
+      "id": "BIO_CH2_006",
+      "topic": "History of Classification",
+      "question": "Which of the following was NOT a drawback of the Two Kingdom classification?",
+      "options": {
+        "A": "Did not distinguish between eukaryotes and prokaryotes",
+        "B": "Did not distinguish between unicellular and multicellular organisms",
+        "C": "Did not distinguish between photosynthetic and non-photosynthetic organisms",
+        "D": "Did not include animals"
+      },
+      "correct_option": "D",
+      "explanation": "The Two Kingdom system included animals in Animalia. Its drawbacks were: no distinction between eukaryotes/prokaryotes, unicellular/multicellular, and photosynthetic/non-photosynthetic."
+    },
+    {
+      "id": "BIO_CH2_007",
+      "topic": "History of Classification",
+      "question": "Green algae were placed under which kingdom in the Two Kingdom classification?",
+      "options": {
+        "A": "Animalia",
+        "B": "Monera",
+        "C": "Plantae",
+        "D": "Fungi"
+      },
+      "correct_option": "C",
+      "explanation": "The Two Kingdom classification placed photosynthetic organisms like green algae under Plantae, though it could not distinguish them from non-photosynthetic fungi."
+    },
+    {
+      "id": "BIO_CH2_008",
+      "topic": "Five Kingdom Classification",
+      "question": "Who proposed the Five Kingdom Classification?",
+      "options": {
+        "A": "Aristotle",
+        "B": "Linnaeus",
+        "C": "Darwin",
+        "D": "R.H. Whittaker"
+      },
+      "correct_option": "D",
+      "explanation": "R.H. Whittaker (1969) proposed the Five Kingdom Classification."
+    },
+    {
+      "id": "BIO_CH2_009",
+      "topic": "Five Kingdom Classification",
+      "question": "In which year was the Five Kingdom Classification proposed?",
+      "options": {
+        "A": "1892",
+        "B": "1935",
+        "C": "1969",
+        "D": "1971"
+      },
+      "correct_option": "C",
+      "explanation": "R.H. Whittaker proposed the Five Kingdom Classification in 1969."
+    },
+    {
+      "id": "BIO_CH2_010",
+      "topic": "Five Kingdom Classification",
+      "question": "Which of the following is NOT one of the five kingdoms proposed by Whittaker?",
+      "options": {
+        "A": "Monera",
+        "B": "Protista",
+        "C": "Archaebacteria",
+        "D": "Fungi"
+      },
+      "correct_option": "C",
+      "explanation": "Whittaker's five kingdoms are Monera, Protista, Fungi, Plantae and Animalia. Archaebacteria is a subgroup within Monera, not a separate kingdom."
+    },
+    {
+      "id": "BIO_CH2_011",
+      "topic": "Five Kingdom Classification",
+      "question": "Which of the following criteria was NOT used by Whittaker for his Five Kingdom Classification?",
+      "options": {
+        "A": "Cell structure",
+        "B": "Body organisation",
+        "C": "Geographical distribution",
+        "D": "Mode of nutrition"
+      },
+      "correct_option": "C",
+      "explanation": "Whittaker used cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships as criteria, not geographical distribution."
+    },
+    {
+      "id": "BIO_CH2_012",
+      "topic": "Five Kingdom Classification",
+      "question": "The three-domain system divides Kingdom Monera into how many domains?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "The three-domain system divides Kingdom Monera into two domains, leaving the remaining eukaryotic kingdoms in the third domain."
+    },
+    {
+      "id": "BIO_CH2_013",
+      "topic": "Five Kingdom Classification",
+      "question": "The three-domain system results in how many total kingdoms?",
+      "options": {
+        "A": "Five",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Eight"
+      },
+      "correct_option": "B",
+      "explanation": "The three-domain system divides Kingdom Monera into two domains plus the remaining eukaryotic kingdoms, resulting in a six kingdom classification."
+    },
+    {
+      "id": "BIO_CH2_014",
+      "topic": "Five Kingdom Classification",
+      "question": "Earlier classification systems grouped bacteria, blue-green algae and fungi together under 'Plants' on the basis of:",
+      "options": {
+        "A": "Presence of chlorophyll",
+        "B": "Presence of cell wall",
+        "C": "Mode of nutrition",
+        "D": "Aquatic habitat"
+      },
+      "correct_option": "B",
+      "explanation": "The character that unified earlier 'Plants' kingdom was that all organisms included had a cell wall in their cells."
+    },
+    {
+      "id": "BIO_CH2_015",
+      "topic": "Five Kingdom Classification",
+      "question": "What is the cell wall composition in fungi?",
+      "options": {
+        "A": "Cellulose",
+        "B": "Peptidoglycan",
+        "C": "Chitin",
+        "D": "Silica"
+      },
+      "correct_option": "C",
+      "explanation": "Fungi have chitin in their cell walls while green plants have cellulosic cell wall."
+    },
+    {
+      "id": "BIO_CH2_016",
+      "topic": "Five Kingdom Classification",
+      "question": "Which organisms were placed together under algae in earlier classification despite being very different?",
+      "options": {
+        "A": "Amoeba and Paramoecium",
+        "B": "Chlamydomonas and Spirogyra",
+        "C": "Mucor and Rhizopus",
+        "D": "Nostoc and Anabaena"
+      },
+      "correct_option": "B",
+      "explanation": "In earlier classification, unicellular Chlamydomonas and multicellular Spirogyra were placed together under algae."
+    },
+    {
+      "id": "BIO_CH2_017",
+      "topic": "Five Kingdom Classification",
+      "question": "In Whittaker's classification, which kingdom brought together Chlamydomonas, Chlorella, Paramoecium and Amoeba?",
+      "options": {
+        "A": "Monera",
+        "B": "Fungi",
+        "C": "Protista",
+        "D": "Plantae"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Protista brought together Chlamydomonas, Chlorella (earlier in Algae/Plants) with Paramoecium and Amoeba (earlier in Animals)."
+    },
+    {
+      "id": "BIO_CH2_018",
+      "topic": "Five Kingdom Classification",
+      "question": "A classification system that reflects evolutionary relationships is called:",
+      "options": {
+        "A": "Morphological",
+        "B": "Physiological",
+        "C": "Phylogenetic",
+        "D": "Ecological"
+      },
+      "correct_option": "C",
+      "explanation": "A classification based on evolutionary relationships is called phylogenetic classification."
+    },
+    {
+      "id": "BIO_CH2_019",
+      "topic": "Five Kingdom Classification",
+      "question": "What is the cell type of organisms in Kingdom Monera?",
+      "options": {
+        "A": "Eukaryotic",
+        "B": "Prokaryotic",
+        "C": "Both prokaryotic and eukaryotic",
+        "D": "Acellular"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Monera organisms are prokaryotic — they lack a membrane-bound nucleus."
+    },
+    {
+      "id": "BIO_CH2_020",
+      "topic": "Five Kingdom Classification",
+      "question": "Which kingdom has organisms with no cell wall?",
+      "options": {
+        "A": "Monera",
+        "B": "Plantae",
+        "C": "Fungi",
+        "D": "Animalia"
+      },
+      "correct_option": "D",
+      "explanation": "Kingdom Animalia has organisms whose cells lack cell walls."
+    },
+    {
+      "id": "BIO_CH2_021",
+      "topic": "Five Kingdom Classification",
+      "question": "What is the mode of nutrition in Kingdom Plantae?",
+      "options": {
+        "A": "Heterotrophic",
+        "B": "Autotrophic (Photosynthetic)",
+        "C": "Saprophytic",
+        "D": "Parasitic"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Plantae organisms are autotrophic and photosynthetic."
+    },
+    {
+      "id": "BIO_CH2_022",
+      "topic": "Five Kingdom Classification",
+      "question": "Which kingdom has organisms with both autotrophic and heterotrophic modes of nutrition?",
+      "options": {
+        "A": "Plantae",
+        "B": "Animalia",
+        "C": "Monera",
+        "D": "Fungi"
+      },
+      "correct_option": "C",
+      "explanation": "Monera organisms can be autotrophic (chemosynthetic and photosynthetic) and heterotrophic (saprophytic/parasitic)."
+    },
+    {
+      "id": "BIO_CH2_023",
+      "topic": "Five Kingdom Classification",
+      "question": "What is the body organisation of Kingdom Fungi?",
+      "options": {
+        "A": "Cellular",
+        "B": "Tissue/organ",
+        "C": "Multicellular/loose tissue",
+        "D": "Tissue/organ/organ system"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Fungi has multicellular/loose tissue body organisation."
+    },
+    {
+      "id": "BIO_CH2_024",
+      "topic": "Five Kingdom Classification",
+      "question": "Nuclear membrane is absent in which kingdom?",
+      "options": {
+        "A": "Protista",
+        "B": "Fungi",
+        "C": "Monera",
+        "D": "Plantae"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Monera organisms (prokaryotes) lack a nuclear membrane."
+    },
+    {
+      "id": "BIO_CH2_025",
+      "topic": "Five Kingdom Classification",
+      "question": "Which kingdom has holozoic or saprophytic mode of nutrition?",
+      "options": {
+        "A": "Plantae",
+        "B": "Fungi",
+        "C": "Animalia",
+        "D": "Protista"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Animalia has heterotrophic mode of nutrition — holozoic/saprophytic etc."
+    },
+    {
+      "id": "BIO_CH2_026",
+      "topic": "Kingdom Monera",
+      "question": "Which are the sole members of Kingdom Monera?",
+      "options": {
+        "A": "Fungi",
+        "B": "Algae",
+        "C": "Bacteria",
+        "D": "Protozoa"
+      },
+      "correct_option": "C",
+      "explanation": "Bacteria are the sole members of the Kingdom Monera."
+    },
+    {
+      "id": "BIO_CH2_027",
+      "topic": "Kingdom Monera",
+      "question": "Bacteria are the most abundant:",
+      "options": {
+        "A": "Macroorganisms",
+        "B": "Microorganisms",
+        "C": "Multicellular organisms",
+        "D": "Eukaryotes"
+      },
+      "correct_option": "B",
+      "explanation": "Bacteria are the most abundant micro-organisms."
+    },
+    {
+      "id": "BIO_CH2_028",
+      "topic": "Kingdom Monera",
+      "question": "Bacteria that live in extreme habitats like hot springs are called:",
+      "options": {
+        "A": "Halophiles",
+        "B": "Thermoacidophiles",
+        "C": "Methanogens",
+        "D": "Cyanobacteria"
+      },
+      "correct_option": "B",
+      "explanation": "Thermoacidophiles are archaebacteria that live in hot springs."
+    },
+    {
+      "id": "BIO_CH2_029",
+      "topic": "Kingdom Monera",
+      "question": "Which shape of bacteria is spherical?",
+      "options": {
+        "A": "Bacillus",
+        "B": "Vibrio",
+        "C": "Spirillum",
+        "D": "Coccus"
+      },
+      "correct_option": "D",
+      "explanation": "Coccus (pl.: cocci) is the spherical form of bacteria."
+    },
+    {
+      "id": "BIO_CH2_030",
+      "topic": "Kingdom Monera",
+      "question": "Which shape of bacteria is rod-shaped?",
+      "options": {
+        "A": "Coccus",
+        "B": "Bacillus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_option": "B",
+      "explanation": "Bacillus (pl.: bacilli) is the rod-shaped form of bacteria."
+    },
+    {
+      "id": "BIO_CH2_031",
+      "topic": "Kingdom Monera",
+      "question": "Which shape of bacteria is comma-shaped?",
+      "options": {
+        "A": "Coccus",
+        "B": "Bacillus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_option": "C",
+      "explanation": "Vibrio (pl.: vibrio) is the comma-shaped form of bacteria."
+    },
+    {
+      "id": "BIO_CH2_032",
+      "topic": "Kingdom Monera",
+      "question": "Which shape of bacteria is spiral?",
+      "options": {
+        "A": "Coccus",
+        "B": "Bacillus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_option": "D",
+      "explanation": "Spirillum (pl.: spirilla) is the spiral form of bacteria."
+    },
+    {
+      "id": "BIO_CH2_033",
+      "topic": "Kingdom Monera",
+      "question": "Which group of organisms shows the most extensive metabolic diversity?",
+      "options": {
+        "A": "Fungi",
+        "B": "Plants",
+        "C": "Animals",
+        "D": "Bacteria"
+      },
+      "correct_option": "D",
+      "explanation": "Compared to many other organisms, bacteria as a group show the most extensive metabolic diversity."
+    },
+    {
+      "id": "BIO_CH2_034",
+      "topic": "Kingdom Monera",
+      "question": "Bacteria that synthesise their own food from inorganic substrates are called:",
+      "options": {
+        "A": "Heterotrophs",
+        "B": "Autotrophs",
+        "C": "Saprophytes",
+        "D": "Parasites"
+      },
+      "correct_option": "B",
+      "explanation": "Autotrophic bacteria synthesise their own food from inorganic substrates."
+    },
+    {
+      "id": "BIO_CH2_035",
+      "topic": "Kingdom Monera",
+      "question": "The vast majority of bacteria are:",
+      "options": {
+        "A": "Photosynthetic autotrophs",
+        "B": "Chemosynthetic autotrophs",
+        "C": "Heterotrophs",
+        "D": "Symbionts"
+      },
+      "correct_option": "C",
+      "explanation": "The vast majority of bacteria are heterotrophs — they depend on other organisms or dead organic matter for food."
+    },
+    {
+      "id": "BIO_CH2_036",
+      "topic": "Archaebacteria",
+      "question": "Archaebacteria that live in extremely salty areas are called:",
+      "options": {
+        "A": "Thermoacidophiles",
+        "B": "Methanogens",
+        "C": "Halophiles",
+        "D": "Cyanobacteria"
+      },
+      "correct_option": "C",
+      "explanation": "Halophiles are archaebacteria that live in extreme salty areas."
+    },
+    {
+      "id": "BIO_CH2_037",
+      "topic": "Archaebacteria",
+      "question": "Archaebacteria that live in marshy areas are called:",
+      "options": {
+        "A": "Halophiles",
+        "B": "Thermoacidophiles",
+        "C": "Methanogens",
+        "D": "Heterotrophs"
+      },
+      "correct_option": "C",
+      "explanation": "Methanogens are archaebacteria present in marshy areas."
+    },
+    {
+      "id": "BIO_CH2_038",
+      "topic": "Archaebacteria",
+      "question": "What feature allows archaebacteria to survive in extreme conditions?",
+      "options": {
+        "A": "Absence of cell wall",
+        "B": "Different cell wall structure",
+        "C": "Presence of chitin in cell wall",
+        "D": "Presence of cellulose in cell wall"
+      },
+      "correct_option": "B",
+      "explanation": "Archaebacteria differ from other bacteria in having a different cell wall structure, which is responsible for their survival in extreme conditions."
+    },
+    {
+      "id": "BIO_CH2_039",
+      "topic": "Archaebacteria",
+      "question": "Methanogens are present in the gut of which animals?",
+      "options": {
+        "A": "Carnivores",
+        "B": "Ruminants",
+        "C": "Reptiles",
+        "D": "Amphibians"
+      },
+      "correct_option": "B",
+      "explanation": "Methanogens are present in the gut of several ruminant animals such as cows and buffaloes."
+    },
+    {
+      "id": "BIO_CH2_040",
+      "topic": "Archaebacteria",
+      "question": "Methanogens are responsible for the production of which gas from dung of ruminants?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Hydrogen",
+        "C": "Methane (biogas)",
+        "D": "Nitrogen"
+      },
+      "correct_option": "C",
+      "explanation": "Methanogens are responsible for the production of methane (biogas) from the dung of ruminant animals."
+    },
+    {
+      "id": "BIO_CH2_041",
+      "topic": "Eubacteria",
+      "question": "Eubacteria are characterised by the presence of:",
+      "options": {
+        "A": "Flexible cell membrane only",
+        "B": "Rigid cell wall and flagellum (if motile)",
+        "C": "Chitin cell wall",
+        "D": "Nuclear membrane"
+      },
+      "correct_option": "B",
+      "explanation": "Eubacteria are characterised by the presence of a rigid cell wall and if motile, a flagellum."
+    },
+    {
+      "id": "BIO_CH2_042",
+      "topic": "Eubacteria",
+      "question": "Cyanobacteria are also referred to as:",
+      "options": {
+        "A": "Red algae",
+        "B": "Green algae",
+        "C": "Blue-green algae",
+        "D": "Brown algae"
+      },
+      "correct_option": "C",
+      "explanation": "Cyanobacteria are also referred to as blue-green algae."
+    },
+    {
+      "id": "BIO_CH2_043",
+      "topic": "Eubacteria",
+      "question": "Cyanobacteria have which type of chlorophyll similar to green plants?",
+      "options": {
+        "A": "Chlorophyll b",
+        "B": "Chlorophyll c",
+        "C": "Chlorophyll a",
+        "D": "Chlorophyll d"
+      },
+      "correct_option": "C",
+      "explanation": "Cyanobacteria have chlorophyll a similar to green plants and are photosynthetic autotrophs."
+    },
+    {
+      "id": "BIO_CH2_044",
+      "topic": "Eubacteria",
+      "question": "Cyanobacterial colonies are generally surrounded by:",
+      "options": {
+        "A": "Cellulose sheath",
+        "B": "Gelatinous sheath",
+        "C": "Chitin sheath",
+        "D": "Protein sheath"
+      },
+      "correct_option": "B",
+      "explanation": "Cyanobacterial colonies are generally surrounded by gelatinous sheath."
+    },
+    {
+      "id": "BIO_CH2_045",
+      "topic": "Eubacteria",
+      "question": "Cyanobacteria often form blooms in:",
+      "options": {
+        "A": "Clean water bodies",
+        "B": "Desert soils",
+        "C": "Polluted water bodies",
+        "D": "Hot springs"
+      },
+      "correct_option": "C",
+      "explanation": "Cyanobacteria often form blooms in polluted water bodies."
+    },
+    {
+      "id": "BIO_CH2_046",
+      "topic": "Eubacteria",
+      "question": "Specialised cells of cyanobacteria that can fix atmospheric nitrogen are called:",
+      "options": {
+        "A": "Akinetes",
+        "B": "Heterocysts",
+        "C": "Hormogonia",
+        "D": "Endospores"
+      },
+      "correct_option": "B",
+      "explanation": "Some cyanobacteria can fix atmospheric nitrogen in specialised cells called heterocysts."
+    },
+    {
+      "id": "BIO_CH2_047",
+      "topic": "Eubacteria",
+      "question": "Which of the following cyanobacteria can fix atmospheric nitrogen?",
+      "options": {
+        "A": "Chlamydomonas and Spirogyra",
+        "B": "Nostoc and Anabaena",
+        "C": "Amoeba and Paramoecium",
+        "D": "Mucor and Rhizopus"
+      },
+      "correct_option": "B",
+      "explanation": "Nostoc and Anabaena are cyanobacteria that can fix atmospheric nitrogen in heterocysts."
+    },
+    {
+      "id": "BIO_CH2_048",
+      "topic": "Eubacteria",
+      "question": "Chemosynthetic autotrophic bacteria oxidise inorganic substances and use the released energy for:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "ATP production",
+        "C": "Nitrogen fixation",
+        "D": "Reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "Chemosynthetic autotrophic bacteria oxidise inorganic substances and use the released energy for their ATP production."
+    },
+    {
+      "id": "BIO_CH2_049",
+      "topic": "Eubacteria",
+      "question": "Which inorganic substances are oxidised by chemosynthetic autotrophic bacteria?",
+      "options": {
+        "A": "Glucose and fructose",
+        "B": "Nitrates, nitrites and ammonia",
+        "C": "Carbon dioxide and water",
+        "D": "Cellulose and chitin"
+      },
+      "correct_option": "B",
+      "explanation": "Chemosynthetic autotrophic bacteria oxidise various inorganic substances such as nitrates, nitrites and ammonia."
+    },
+    {
+      "id": "BIO_CH2_050",
+      "topic": "Eubacteria",
+      "question": "Chemosynthetic autotrophic bacteria play a great role in recycling which nutrients?",
+      "options": {
+        "A": "Carbon, hydrogen, oxygen and sulfur",
+        "B": "Nitrogen, phosphorous, iron and sulphur",
+        "C": "Potassium, calcium, magnesium and zinc",
+        "D": "Glucose, fructose, sucrose and starch"
+      },
+      "correct_option": "B",
+      "explanation": "They play a great role in recycling nutrients like nitrogen, phosphorous, iron and sulphur."
+    },
+    {
+      "id": "BIO_CH2_051",
+      "topic": "Eubacteria",
+      "question": "Which type of bacteria are most abundant in nature?",
+      "options": {
+        "A": "Chemosynthetic autotrophs",
+        "B": "Photosynthetic autotrophs",
+        "C": "Heterotrophic bacteria",
+        "D": "Halophiles"
+      },
+      "correct_option": "C",
+      "explanation": "Heterotrophic bacteria are most abundant in nature and the majority are important decomposers."
+    },
+    {
+      "id": "BIO_CH2_052",
+      "topic": "Eubacteria",
+      "question": "Which of the following is a useful role of heterotrophic bacteria?",
+      "options": {
+        "A": "Causing diseases",
+        "B": "Making curd from milk",
+        "C": "Forming red tides",
+        "D": "Forming algal blooms"
+      },
+      "correct_option": "B",
+      "explanation": "Heterotrophic bacteria are helpful in making curd from milk, production of antibiotics, fixing nitrogen in legume roots."
+    },
+    {
+      "id": "BIO_CH2_053",
+      "topic": "Eubacteria",
+      "question": "Which of the following diseases is caused by bacteria?",
+      "options": {
+        "A": "Malaria",
+        "B": "Cholera",
+        "C": "Sleeping sickness",
+        "D": "AIDS"
+      },
+      "correct_option": "B",
+      "explanation": "Cholera, typhoid, tetanus, citrus canker are well known diseases caused by different bacteria."
+    },
+    {
+      "id": "BIO_CH2_054",
+      "topic": "Eubacteria",
+      "question": "What is the main mode of reproduction in bacteria?",
+      "options": {
+        "A": "Sexual reproduction",
+        "B": "Budding",
+        "C": "Fission",
+        "D": "Spore formation"
+      },
+      "correct_option": "C",
+      "explanation": "Bacteria reproduce mainly by fission."
+    },
+    {
+      "id": "BIO_CH2_055",
+      "topic": "Eubacteria",
+      "question": "Under unfavourable conditions, bacteria produce:",
+      "options": {
+        "A": "Gametes",
+        "B": "Spores",
+        "C": "Zoospores",
+        "D": "Conidia"
+      },
+      "correct_option": "B",
+      "explanation": "Sometimes, under unfavourable conditions, bacteria produce spores."
+    },
+    {
+      "id": "BIO_CH2_056",
+      "topic": "Eubacteria",
+      "question": "Bacterial sexual reproduction involves:",
+      "options": {
+        "A": "Fusion of gametes",
+        "B": "Primitive type of DNA transfer from one bacterium to another",
+        "C": "Formation of zygospores",
+        "D": "Meiosis"
+      },
+      "correct_option": "B",
+      "explanation": "Bacteria reproduce by a sort of sexual reproduction by adopting a primitive type of DNA transfer from one bacterium to the other."
+    },
+    {
+      "id": "BIO_CH2_057",
+      "topic": "Mycoplasma",
+      "question": "Mycoplasma are organisms that:",
+      "options": {
+        "A": "Have rigid cell walls",
+        "B": "Completely lack a cell wall",
+        "C": "Have cellulose cell walls",
+        "D": "Have chitin cell walls"
+      },
+      "correct_option": "B",
+      "explanation": "Mycoplasma are organisms that completely lack a cell wall."
+    },
+    {
+      "id": "BIO_CH2_058",
+      "topic": "Mycoplasma",
+      "question": "Mycoplasma are:",
+      "options": {
+        "A": "Largest living cells known",
+        "B": "Smallest living cells known",
+        "C": "Medium-sized cells",
+        "D": "Not living cells"
+      },
+      "correct_option": "B",
+      "explanation": "Mycoplasma are the smallest living cells known and can survive without oxygen."
+    },
+    {
+      "id": "BIO_CH2_059",
+      "topic": "Mycoplasma",
+      "question": "Mycoplasma can survive:",
+      "options": {
+        "A": "Only in aerobic conditions",
+        "B": "Only in anaerobic conditions",
+        "C": "Without oxygen",
+        "D": "Only at high temperatures"
+      },
+      "correct_option": "C",
+      "explanation": "Mycoplasma are the smallest living cells known and can survive without oxygen."
+    },
+    {
+      "id": "BIO_CH2_060",
+      "topic": "Mycoplasma",
+      "question": "Many mycoplasma are:",
+      "options": {
+        "A": "Beneficial to animals and plants",
+        "B": "Pathogenic in animals and plants",
+        "C": "Autotrophic",
+        "D": "Nitrogen fixers"
+      },
+      "correct_option": "B",
+      "explanation": "Many mycoplasma are pathogenic in animals and plants."
+    },
+    {
+      "id": "BIO_CH2_061",
+      "topic": "Kingdom Protista",
+      "question": "All single-celled eukaryotes are placed under which kingdom?",
+      "options": {
+        "A": "Monera",
+        "B": "Fungi",
+        "C": "Protista",
+        "D": "Plantae"
+      },
+      "correct_option": "C",
+      "explanation": "All single-celled eukaryotes are placed under Protista."
+    },
+    {
+      "id": "BIO_CH2_062",
+      "topic": "Kingdom Protista",
+      "question": "Members of Protista are primarily:",
+      "options": {
+        "A": "Terrestrial",
+        "B": "Aquatic",
+        "C": "Aerial",
+        "D": "Parasitic"
+      },
+      "correct_option": "B",
+      "explanation": "Members of Protista are primarily aquatic."
+    },
+    {
+      "id": "BIO_CH2_063",
+      "topic": "Kingdom Protista",
+      "question": "Kingdom Protista forms a link between:",
+      "options": {
+        "A": "Bacteria and fungi",
+        "B": "Plants and bacteria",
+        "C": "Plants, animals and fungi",
+        "D": "Fungi and animals"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Protista forms a link with the others dealing with plants, animals and fungi."
+    },
+    {
+      "id": "BIO_CH2_064",
+      "topic": "Kingdom Protista",
+      "question": "How do protists reproduce sexually?",
+      "options": {
+        "A": "By binary fission",
+        "B": "By spore formation",
+        "C": "By cell fusion and zygote formation",
+        "D": "By budding"
+      },
+      "correct_option": "C",
+      "explanation": "Protists reproduce sexually by a process involving cell fusion and zygote formation."
+    },
+    {
+      "id": "BIO_CH2_065",
+      "topic": "Kingdom Protista",
+      "question": "Which of the following groups is included under Protista in the NCERT textbook?",
+      "options": {
+        "A": "Algae, Mosses, Ferns",
+        "B": "Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and Protozoans",
+        "C": "Phycomycetes, Ascomycetes, Basidiomycetes",
+        "D": "Bacteria, Cyanobacteria, Mycoplasma"
+      },
+      "correct_option": "B",
+      "explanation": "Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and Protozoans are included under Protista."
+    },
+    {
+      "id": "BIO_CH2_066",
+      "topic": "Chrysophytes",
+      "question": "Which group includes diatoms and golden algae?",
+      "options": {
+        "A": "Dinoflagellates",
+        "B": "Euglenoids",
+        "C": "Chrysophytes",
+        "D": "Slime moulds"
+      },
+      "correct_option": "C",
+      "explanation": "Chrysophytes include diatoms and golden algae (desmids)."
+    },
+    {
+      "id": "BIO_CH2_067",
+      "topic": "Chrysophytes",
+      "question": "Chrysophytes are found in:",
+      "options": {
+        "A": "Fresh water only",
+        "B": "Marine environments only",
+        "C": "Fresh water as well as marine environments",
+        "D": "Terrestrial habitats only"
+      },
+      "correct_option": "C",
+      "explanation": "Chrysophytes are found in fresh water as well as in marine environments."
+    },
+    {
+      "id": "BIO_CH2_068",
+      "topic": "Chrysophytes",
+      "question": "Chrysophytes are microscopic and float passively in water currents. They are called:",
+      "options": {
+        "A": "Nekton",
+        "B": "Benthos",
+        "C": "Plankton",
+        "D": "Neuston"
+      },
+      "correct_option": "C",
+      "explanation": "Chrysophytes are microscopic and float passively in water currents (plankton)."
+    },
+    {
+      "id": "BIO_CH2_069",
+      "topic": "Chrysophytes",
+      "question": "In diatoms, the cell walls form two thin overlapping shells. The walls are embedded with:",
+      "options": {
+        "A": "Calcium carbonate",
+        "B": "Cellulose",
+        "C": "Silica",
+        "D": "Chitin"
+      },
+      "correct_option": "C",
+      "explanation": "The walls of diatoms are embedded with silica and thus the walls are indestructible."
+    },
+    {
+      "id": "BIO_CH2_070",
+      "topic": "Chrysophytes",
+      "question": "The accumulation of diatom cell wall deposits over billions of years is referred to as:",
+      "options": {
+        "A": "Fossil fuel",
+        "B": "Diatomaceous earth",
+        "C": "Coral reefs",
+        "D": "Limestone"
+      },
+      "correct_option": "B",
+      "explanation": "The accumulation of diatom cell wall deposits over billions of years is referred to as 'diatomaceous earth'."
+    },
+    {
+      "id": "BIO_CH2_071",
+      "topic": "Chrysophytes",
+      "question": "Diatomaceous earth is used in:",
+      "options": {
+        "A": "Making glass",
+        "B": "Polishing and filtration of oils and syrups",
+        "C": "Making cement",
+        "D": "Food production"
+      },
+      "correct_option": "B",
+      "explanation": "Being gritty, diatomaceous earth is used in polishing, filtration of oils and syrups."
+    },
+    {
+      "id": "BIO_CH2_072",
+      "topic": "Chrysophytes",
+      "question": "Diatoms are the chief 'producers' in:",
+      "options": {
+        "A": "Terrestrial ecosystems",
+        "B": "Freshwater lakes",
+        "C": "The oceans",
+        "D": "Soil ecosystems"
+      },
+      "correct_option": "C",
+      "explanation": "Diatoms are the chief 'producers' in the oceans."
+    },
+    {
+      "id": "BIO_CH2_073",
+      "topic": "Dinoflagellates",
+      "question": "Dinoflagellates are mostly:",
+      "options": {
+        "A": "Freshwater and non-photosynthetic",
+        "B": "Marine and photosynthetic",
+        "C": "Terrestrial and heterotrophic",
+        "D": "Parasitic and marine"
+      },
+      "correct_option": "B",
+      "explanation": "Dinoflagellates are mostly marine and photosynthetic."
+    },
+    {
+      "id": "BIO_CH2_074",
+      "topic": "Dinoflagellates",
+      "question": "The color of dinoflagellates depends on:",
+      "options": {
+        "A": "Their shape",
+        "B": "Their habitat",
+        "C": "The main pigments present in their cells",
+        "D": "Their size"
+      },
+      "correct_option": "C",
+      "explanation": "Dinoflagellates appear yellow, green, brown, blue or red depending on the main pigments present in their cells."
+    },
+    {
+      "id": "BIO_CH2_075",
+      "topic": "Dinoflagellates",
+      "question": "The cell wall of dinoflagellates has stiff plates of:",
+      "options": {
+        "A": "Silica",
+        "B": "Chitin",
+        "C": "Cellulose",
+        "D": "Protein"
+      },
+      "correct_option": "C",
+      "explanation": "The cell wall of dinoflagellates has stiff cellulose plates on the outer surface."
+    },
+    {
+      "id": "BIO_CH2_076",
+      "topic": "Dinoflagellates",
+      "question": "Most dinoflagellates have how many flagella?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "Most dinoflagellates have two flagella; one lies longitudinally and the other transversely in a furrow between the wall plates."
+    },
+    {
+      "id": "BIO_CH2_077",
+      "topic": "Dinoflagellates",
+      "question": "Which dinoflagellate causes 'red tides'?",
+      "options": {
+        "A": "Euglena",
+        "B": "Amoeba",
+        "C": "Gonyaulax",
+        "D": "Nostoc"
+      },
+      "correct_option": "C",
+      "explanation": "Red dinoflagellates like Gonyaulax undergo rapid multiplication that makes the sea appear red (red tides)."
+    },
+    {
+      "id": "BIO_CH2_078",
+      "topic": "Dinoflagellates",
+      "question": "What is the effect of red tides on marine ecosystems?",
+      "options": {
+        "A": "Increases fish population",
+        "B": "Toxins released may kill other marine animals such as fishes",
+        "C": "Increases oxygen levels",
+        "D": "Improves water quality"
+      },
+      "correct_option": "B",
+      "explanation": "Toxins released by large numbers of red dinoflagellates may even kill other marine animals such as fishes."
+    },
+    {
+      "id": "BIO_CH2_079",
+      "topic": "Euglenoids",
+      "question": "Majority of euglenoids are found in:",
+      "options": {
+        "A": "Marine water",
+        "B": "Stagnant fresh water",
+        "C": "Hot springs",
+        "D": "Soil"
+      },
+      "correct_option": "B",
+      "explanation": "Majority of euglenoids are fresh water organisms found in stagnant water."
+    },
+    {
+      "id": "BIO_CH2_080",
+      "topic": "Euglenoids",
+      "question": "Instead of a cell wall, euglenoids have a protein-rich layer called:",
+      "options": {
+        "A": "Capsid",
+        "B": "Pellicle",
+        "C": "Cuticle",
+        "D": "Pericarp"
+      },
+      "correct_option": "B",
+      "explanation": "Instead of a cell wall, euglenoids have a protein rich layer called pellicle which makes their body flexible."
+    },
+    {
+      "id": "BIO_CH2_081",
+      "topic": "Euglenoids",
+      "question": "How many flagella do euglenoids have?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "Euglenoids have two flagella — a short and a long one."
+    },
+    {
+      "id": "BIO_CH2_082",
+      "topic": "Euglenoids",
+      "question": "When deprived of sunlight, euglenoids behave like:",
+      "options": {
+        "A": "Autotrophs",
+        "B": "Photosynthetic organisms",
+        "C": "Heterotrophs by predating on other smaller organisms",
+        "D": "Saprophytes"
+      },
+      "correct_option": "C",
+      "explanation": "When deprived of sunlight, euglenoids behave like heterotrophs by predating on other smaller organisms."
+    },
+    {
+      "id": "BIO_CH2_083",
+      "topic": "Euglenoids",
+      "question": "The pigments of euglenoids are identical to those present in:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Fungi",
+        "C": "Higher plants",
+        "D": "Animals"
+      },
+      "correct_option": "C",
+      "explanation": "Interestingly, the pigments of euglenoids are identical to those present in higher plants."
+    },
+    {
+      "id": "BIO_CH2_084",
+      "topic": "Euglenoids",
+      "question": "An example of euglenoid is:",
+      "options": {
+        "A": "Amoeba",
+        "B": "Euglena",
+        "C": "Paramoecium",
+        "D": "Nostoc"
+      },
+      "correct_option": "B",
+      "explanation": "Euglena is an example of euglenoid."
+    },
+    {
+      "id": "BIO_CH2_085",
+      "topic": "Slime Moulds",
+      "question": "Slime moulds are:",
+      "options": {
+        "A": "Autotrophic protists",
+        "B": "Saprophytic protists",
+        "C": "Parasitic protists",
+        "D": "Photosynthetic protists"
+      },
+      "correct_option": "B",
+      "explanation": "Slime moulds are saprophytic protists."
+    },
+    {
+      "id": "BIO_CH2_086",
+      "topic": "Slime Moulds",
+      "question": "The body of slime mould moves along decaying twigs and leaves engulfing:",
+      "options": {
+        "A": "Inorganic material",
+        "B": "Organic material",
+        "C": "Sunlight",
+        "D": "Minerals"
+      },
+      "correct_option": "B",
+      "explanation": "The body of slime mould moves along decaying twigs and leaves engulfing organic material."
+    },
+    {
+      "id": "BIO_CH2_087",
+      "topic": "Slime Moulds",
+      "question": "Under suitable conditions, slime moulds form an aggregation called:",
+      "options": {
+        "A": "Mycelium",
+        "B": "Plasmodium",
+        "C": "Thallus",
+        "D": "Pseudopodium"
+      },
+      "correct_option": "B",
+      "explanation": "Under suitable conditions, slime moulds form an aggregation called plasmodium which may grow and spread over several feet."
+    },
+    {
+      "id": "BIO_CH2_088",
+      "topic": "Slime Moulds",
+      "question": "During unfavourable conditions, slime mould plasmodium forms:",
+      "options": {
+        "A": "Cysts",
+        "B": "Gametes",
+        "C": "Fruiting bodies bearing spores",
+        "D": "Mycelium"
+      },
+      "correct_option": "C",
+      "explanation": "During unfavourable conditions, the plasmodium differentiates and forms fruiting bodies bearing spores at their tips."
+    },
+    {
+      "id": "BIO_CH2_089",
+      "topic": "Slime Moulds",
+      "question": "Spores of slime moulds are dispersed by:",
+      "options": {
+        "A": "Water",
+        "B": "Insects",
+        "C": "Air currents",
+        "D": "Animals"
+      },
+      "correct_option": "C",
+      "explanation": "The spores of slime moulds are dispersed by air currents."
+    },
+    {
+      "id": "BIO_CH2_090",
+      "topic": "Slime Moulds",
+      "question": "Spores of slime moulds possess:",
+      "options": {
+        "A": "No walls",
+        "B": "True walls",
+        "C": "Cellulose walls",
+        "D": "Chitin walls"
+      },
+      "correct_option": "B",
+      "explanation": "The spores of slime moulds possess true walls and are extremely resistant, surviving for many years."
+    },
+    {
+      "id": "BIO_CH2_091",
+      "topic": "Protozoans",
+      "question": "All protozoans are:",
+      "options": {
+        "A": "Autotrophs",
+        "B": "Heterotrophs living as predators or parasites",
+        "C": "Photosynthetic",
+        "D": "Saprophytes"
+      },
+      "correct_option": "B",
+      "explanation": "All protozoans are heterotrophs and live as predators or parasites."
+    },
+    {
+      "id": "BIO_CH2_092",
+      "topic": "Protozoans",
+      "question": "Protozoans are believed to be primitive relatives of:",
+      "options": {
+        "A": "Plants",
+        "B": "Fungi",
+        "C": "Bacteria",
+        "D": "Animals"
+      },
+      "correct_option": "D",
+      "explanation": "Protozoans are believed to be primitive relatives of animals."
+    },
+    {
+      "id": "BIO_CH2_093",
+      "topic": "Protozoans",
+      "question": "How many major groups of protozoans are there?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_option": "C",
+      "explanation": "There are four major groups of protozoans: amoeboid, flagellated, ciliated, and sporozoans."
+    },
+    {
+      "id": "BIO_CH2_094",
+      "topic": "Protozoans",
+      "question": "Amoeboid protozoans move and capture their prey by putting out:",
+      "options": {
+        "A": "Cilia",
+        "B": "Flagella",
+        "C": "Pseudopodia (false feet)",
+        "D": "Tentacles"
+      },
+      "correct_option": "C",
+      "explanation": "Amoeboid protozoans move and capture their prey by putting out pseudopodia (false feet) as in Amoeba."
+    },
+    {
+      "id": "BIO_CH2_095",
+      "topic": "Protozoans",
+      "question": "Marine amoeboid protozoans have on their surface:",
+      "options": {
+        "A": "Cellulose shells",
+        "B": "Silica shells",
+        "C": "Chitin shells",
+        "D": "Protein shells"
+      },
+      "correct_option": "B",
+      "explanation": "Marine amoeboid forms have silica shells on their surface."
+    },
+    {
+      "id": "BIO_CH2_096",
+      "topic": "Protozoans",
+      "question": "Which amoeboid protozoan is a parasite?",
+      "options": {
+        "A": "Amoeba",
+        "B": "Paramoecium",
+        "C": "Entamoeba",
+        "D": "Euglena"
+      },
+      "correct_option": "C",
+      "explanation": "Some amoeboid protozoans such as Entamoeba are parasites."
+    },
+    {
+      "id": "BIO_CH2_097",
+      "topic": "Protozoans",
+      "question": "Trypanosoma is an example of which type of protozoan?",
+      "options": {
+        "A": "Amoeboid",
+        "B": "Flagellated",
+        "C": "Ciliated",
+        "D": "Sporozoan"
+      },
+      "correct_option": "B",
+      "explanation": "Trypanosoma is an example of flagellated protozoan. The parasitic forms cause diseases such as sleeping sickness."
+    },
+    {
+      "id": "BIO_CH2_098",
+      "topic": "Protozoans",
+      "question": "Sleeping sickness is caused by:",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Entamoeba",
+        "C": "Trypanosoma",
+        "D": "Paramoecium"
+      },
+      "correct_option": "C",
+      "explanation": "Parasitic flagellated protozoans like Trypanosoma cause diseases such as sleeping sickness."
+    },
+    {
+      "id": "BIO_CH2_099",
+      "topic": "Protozoans",
+      "question": "Ciliated protozoans are aquatic and actively moving because of the presence of:",
+      "options": {
+        "A": "Flagella",
+        "B": "Pseudopodia",
+        "C": "Thousands of cilia",
+        "D": "Spores"
+      },
+      "correct_option": "C",
+      "explanation": "Ciliated protozoans are aquatic, actively moving organisms because of the presence of thousands of cilia."
+    },
+    {
+      "id": "BIO_CH2_100",
+      "topic": "Protozoans",
+      "question": "Ciliated protozoans have a cavity called gullet that opens to:",
+      "options": {
+        "A": "The inner cytoplasm",
+        "B": "The outside of the cell surface",
+        "C": "The nucleus",
+        "D": "The food vacuole"
+      },
+      "correct_option": "B",
+      "explanation": "Ciliated protozoans have a cavity (gullet) that opens to the outside of the cell surface."
+    },
+    {
+      "id": "BIO_CH2_101",
+      "topic": "Protozoans",
+      "question": "Paramoecium is an example of which type of protozoan?",
+      "options": {
+        "A": "Amoeboid",
+        "B": "Flagellated",
+        "C": "Ciliated",
+        "D": "Sporozoan"
+      },
+      "correct_option": "C",
+      "explanation": "Paramoecium is an example of ciliated protozoan."
+    },
+    {
+      "id": "BIO_CH2_102",
+      "topic": "Protozoans",
+      "question": "Sporozoans have an infectious spore-like stage in their:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Life cycle",
+        "C": "Nucleus",
+        "D": "Cytoplasm"
+      },
+      "correct_option": "B",
+      "explanation": "Sporozoans include diverse organisms that have an infectious spore-like stage in their life cycle."
+    },
+    {
+      "id": "BIO_CH2_103",
+      "topic": "Protozoans",
+      "question": "Plasmodium is the causative organism of:",
+      "options": {
+        "A": "Sleeping sickness",
+        "B": "Amoebic dysentery",
+        "C": "Malaria",
+        "D": "Cholera"
+      },
+      "correct_option": "C",
+      "explanation": "Plasmodium (malarial parasite) causes malaria, a disease which has a staggering effect on human population."
+    },
+    {
+      "id": "BIO_CH2_104",
+      "topic": "Protozoans",
+      "question": "Plasmodium belongs to which group of protozoans?",
+      "options": {
+        "A": "Amoeboid",
+        "B": "Flagellated",
+        "C": "Ciliated",
+        "D": "Sporozoans"
+      },
+      "correct_option": "D",
+      "explanation": "Plasmodium (malarial parasite) is the most notorious sporozoan."
+    },
+    {
+      "id": "BIO_CH2_105",
+      "topic": "Kingdom Fungi",
+      "question": "Kingdom Fungi constitutes a unique kingdom of:",
+      "options": {
+        "A": "Autotrophic organisms",
+        "B": "Heterotrophic organisms",
+        "C": "Photosynthetic organisms",
+        "D": "Prokaryotic organisms"
+      },
+      "correct_option": "B",
+      "explanation": "The fungi constitute a unique kingdom of heterotrophic organisms."
+    },
+    {
+      "id": "BIO_CH2_106",
+      "topic": "Kingdom Fungi",
+      "question": "Fungi prefer to grow in:",
+      "options": {
+        "A": "Cold and dry places",
+        "B": "Warm and humid places",
+        "C": "Aquatic habitats",
+        "D": "Extreme hot conditions"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi prefer to grow in warm and humid places."
+    },
+    {
+      "id": "BIO_CH2_107",
+      "topic": "Kingdom Fungi",
+      "question": "With the exception of yeasts, fungi are:",
+      "options": {
+        "A": "Unicellular",
+        "B": "Filamentous",
+        "C": "Colonial",
+        "D": "Prokaryotic"
+      },
+      "correct_option": "B",
+      "explanation": "With the exception of yeasts which are unicellular, fungi are filamentous."
+    },
+    {
+      "id": "BIO_CH2_108",
+      "topic": "Kingdom Fungi",
+      "question": "The long slender thread-like structures of fungi are called:",
+      "options": {
+        "A": "Mycelium",
+        "B": "Hyphae",
+        "C": "Rhizoids",
+        "D": "Stolon"
+      },
+      "correct_option": "B",
+      "explanation": "The bodies of fungi consist of long, slender thread-like structures called hyphae."
+    },
+    {
+      "id": "BIO_CH2_109",
+      "topic": "Kingdom Fungi",
+      "question": "The network of hyphae in fungi is known as:",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Thallus",
+        "C": "Mycelium",
+        "D": "Fruiting body"
+      },
+      "correct_option": "C",
+      "explanation": "The network of hyphae is known as mycelium."
+    },
+    {
+      "id": "BIO_CH2_110",
+      "topic": "Kingdom Fungi",
+      "question": "Hyphae that are continuous tubes filled with multinucleated cytoplasm are called:",
+      "options": {
+        "A": "Septate hyphae",
+        "B": "Coenocytic hyphae",
+        "C": "Branched hyphae",
+        "D": "Sterile hyphae"
+      },
+      "correct_option": "B",
+      "explanation": "Some hyphae are continuous tubes filled with multinucleated cytoplasm — these are called coenocytic hyphae."
+    },
+    {
+      "id": "BIO_CH2_111",
+      "topic": "Kingdom Fungi",
+      "question": "The cell walls of fungi are composed of:",
+      "options": {
+        "A": "Cellulose and lignin",
+        "B": "Chitin and polysaccharides",
+        "C": "Protein and lipids",
+        "D": "Silica and polysaccharides"
+      },
+      "correct_option": "B",
+      "explanation": "The cell walls of fungi are composed of chitin and polysaccharides."
+    },
+    {
+      "id": "BIO_CH2_112",
+      "topic": "Kingdom Fungi",
+      "question": "Fungi that absorb soluble organic matter from dead substrates are called:",
+      "options": {
+        "A": "Parasites",
+        "B": "Saprophytes",
+        "C": "Symbionts",
+        "D": "Autotrophs"
+      },
+      "correct_option": "B",
+      "explanation": "Most fungi are heterotrophic and absorb soluble organic matter from dead substrates and hence are called saprophytes."
+    },
+    {
+      "id": "BIO_CH2_113",
+      "topic": "Kingdom Fungi",
+      "question": "Fungi that depend on living plants and animals are called:",
+      "options": {
+        "A": "Saprophytes",
+        "B": "Symbionts",
+        "C": "Parasites",
+        "D": "Decomposers"
+      },
+      "correct_option": "C",
+      "explanation": "Fungi that depend on living plants and animals are called parasites."
+    },
+    {
+      "id": "BIO_CH2_114",
+      "topic": "Kingdom Fungi",
+      "question": "When fungi live in association with algae, they are called:",
+      "options": {
+        "A": "Mycorrhiza",
+        "B": "Lichens",
+        "C": "Parasites",
+        "D": "Saprophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi can live as symbionts — in association with algae as lichens and with roots of higher plants as mycorrhiza."
+    },
+    {
+      "id": "BIO_CH2_115",
+      "topic": "Kingdom Fungi",
+      "question": "Fungi living in association with roots of higher plants form:",
+      "options": {
+        "A": "Lichens",
+        "B": "Mycorrhiza",
+        "C": "Thallus",
+        "D": "Fruiting bodies"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi live as symbionts with roots of higher plants as mycorrhiza."
+    },
+    {
+      "id": "BIO_CH2_116",
+      "topic": "Kingdom Fungi",
+      "question": "Vegetative reproduction in fungi takes place by:",
+      "options": {
+        "A": "Fragmentation, fission and budding",
+        "B": "Spore formation only",
+        "C": "Gamete fusion",
+        "D": "Meiosis"
+      },
+      "correct_option": "A",
+      "explanation": "Reproduction in fungi can take place by vegetative means — fragmentation, fission and budding."
+    },
+    {
+      "id": "BIO_CH2_117",
+      "topic": "Kingdom Fungi",
+      "question": "Asexual reproduction in fungi is by spores called:",
+      "options": {
+        "A": "Ascospores and basidiospores",
+        "B": "Conidia or sporangiospores or zoospores",
+        "C": "Oospores and ascospores",
+        "D": "Gametes"
+      },
+      "correct_option": "B",
+      "explanation": "Asexual reproduction in fungi is by spores called conidia or sporangiospores or zoospores."
+    },
+    {
+      "id": "BIO_CH2_118",
+      "topic": "Kingdom Fungi",
+      "question": "Sexual reproduction in fungi is by:",
+      "options": {
+        "A": "Conidia and zoospores",
+        "B": "Binary fission",
+        "C": "Oospores, ascospores and basidiospores",
+        "D": "Sporangiospores"
+      },
+      "correct_option": "C",
+      "explanation": "Sexual reproduction in fungi is by oospores, ascospores and basidiospores."
+    },
+    {
+      "id": "BIO_CH2_119",
+      "topic": "Kingdom Fungi",
+      "question": "The various spores in fungi are produced in distinct structures called:",
+      "options": {
+        "A": "Hyphae",
+        "B": "Mycelium",
+        "C": "Fruiting bodies",
+        "D": "Asci"
+      },
+      "correct_option": "C",
+      "explanation": "The various spores are produced in distinct structures called fruiting bodies."
+    },
+    {
+      "id": "BIO_CH2_120",
+      "topic": "Kingdom Fungi",
+      "question": "Which is the first step of the sexual cycle in fungi?",
+      "options": {
+        "A": "Karyogamy",
+        "B": "Meiosis",
+        "C": "Plasmogamy",
+        "D": "Spore germination"
+      },
+      "correct_option": "C",
+      "explanation": "The first step is plasmogamy — fusion of protoplasms between two motile or non-motile gametes."
+    },
+    {
+      "id": "BIO_CH2_121",
+      "topic": "Kingdom Fungi",
+      "question": "Fusion of two nuclei in the sexual cycle of fungi is called:",
+      "options": {
+        "A": "Plasmogamy",
+        "B": "Karyogamy",
+        "C": "Meiosis",
+        "D": "Budding"
+      },
+      "correct_option": "B",
+      "explanation": "Fusion of two nuclei in the sexual cycle of fungi is called karyogamy."
+    },
+    {
+      "id": "BIO_CH2_122",
+      "topic": "Kingdom Fungi",
+      "question": "After karyogamy in fungi, meiosis in the zygote results in:",
+      "options": {
+        "A": "Diploid spores",
+        "B": "Haploid spores",
+        "C": "Triploid spores",
+        "D": "No spores"
+      },
+      "correct_option": "B",
+      "explanation": "Meiosis in zygote results in haploid spores — this is the third step of the sexual cycle."
+    },
+    {
+      "id": "BIO_CH2_123",
+      "topic": "Kingdom Fungi",
+      "question": "In ascomycetes and basidiomycetes, an intervening dikaryotic stage (n + n) occurs. This condition is called:",
+      "options": {
+        "A": "Dikaryon",
+        "B": "Monokaryon",
+        "C": "Polykaryon",
+        "D": "Heterokaryon"
+      },
+      "correct_option": "A",
+      "explanation": "In ascomycetes and basidiomycetes, an intervening dikaryotic stage (n + n, i.e., two nuclei per cell) occurs; such a condition is called a dikaryon."
+    },
+    {
+      "id": "BIO_CH2_124",
+      "topic": "Kingdom Fungi",
+      "question": "The basis for the division of Kingdom Fungi into various classes is:",
+      "options": {
+        "A": "Habitat only",
+        "B": "Mode of nutrition only",
+        "C": "Morphology of mycelium, mode of spore formation and fruiting bodies",
+        "D": "Colour of hyphae"
+      },
+      "correct_option": "C",
+      "explanation": "The morphology of the mycelium, mode of spore formation and fruiting bodies form the basis for the division of the kingdom into various classes."
+    },
+    {
+      "id": "BIO_CH2_125",
+      "topic": "Phycomycetes",
+      "question": "Members of Phycomycetes are found in:",
+      "options": {
+        "A": "Terrestrial habitats only",
+        "B": "Aquatic habitats and on decaying wood in moist places, or as obligate parasites",
+        "C": "Only in soil",
+        "D": "Extreme hot conditions"
+      },
+      "correct_option": "B",
+      "explanation": "Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants."
+    },
+    {
+      "id": "BIO_CH2_126",
+      "topic": "Phycomycetes",
+      "question": "The mycelium of Phycomycetes is:",
+      "options": {
+        "A": "Septate and branched",
+        "B": "Aseptate and coenocytic",
+        "C": "Septate and unbranched",
+        "D": "Aseptate and uninucleate"
+      },
+      "correct_option": "B",
+      "explanation": "The mycelium of phycomycetes is aseptate and coenocytic."
+    },
+    {
+      "id": "BIO_CH2_127",
+      "topic": "Phycomycetes",
+      "question": "In Phycomycetes, asexual reproduction takes place by:",
+      "options": {
+        "A": "Ascospores",
+        "B": "Basidiospores",
+        "C": "Zoospores (motile) or aplanospores (non-motile)",
+        "D": "Conidia"
+      },
+      "correct_option": "C",
+      "explanation": "In phycomycetes, asexual reproduction takes place by zoospores (motile) or by aplanospores (non-motile)."
+    },
+    {
+      "id": "BIO_CH2_128",
+      "topic": "Phycomycetes",
+      "question": "In Phycomycetes, the sexual spore formed by fusion of two gametes is:",
+      "options": {
+        "A": "Ascospore",
+        "B": "Basidiospore",
+        "C": "Zygospore",
+        "D": "Conidium"
+      },
+      "correct_option": "C",
+      "explanation": "A zygospore is formed by fusion of two gametes in phycomycetes."
+    },
+    {
+      "id": "BIO_CH2_129",
+      "topic": "Phycomycetes",
+      "question": "When gametes in phycomycetes are similar in morphology, this is called:",
+      "options": {
+        "A": "Anisogamous",
+        "B": "Oogamous",
+        "C": "Isogamous",
+        "D": "Heterogamous"
+      },
+      "correct_option": "C",
+      "explanation": "When gametes are similar in morphology, it is called isogamous."
+    },
+    {
+      "id": "BIO_CH2_130",
+      "topic": "Phycomycetes",
+      "question": "Which of the following is an example of Phycomycetes?",
+      "options": {
+        "A": "Penicillium",
+        "B": "Agaricus",
+        "C": "Rhizopus",
+        "D": "Alternaria"
+      },
+      "correct_option": "C",
+      "explanation": "Mucor, Rhizopus (the bread mould) and Albugo (the parasitic fungi on mustard) are examples of phycomycetes."
+    },
+    {
+      "id": "BIO_CH2_131",
+      "topic": "Phycomycetes",
+      "question": "Albugo is a parasitic fungus found on:",
+      "options": {
+        "A": "Wheat",
+        "B": "Mustard",
+        "C": "Rice",
+        "D": "Tomato"
+      },
+      "correct_option": "B",
+      "explanation": "Albugo is the parasitic fungi on mustard and is an example of phycomycetes."
+    },
+    {
+      "id": "BIO_CH2_132",
+      "topic": "Ascomycetes",
+      "question": "Ascomycetes are commonly known as:",
+      "options": {
+        "A": "Club fungi",
+        "B": "Sac fungi",
+        "C": "Imperfect fungi",
+        "D": "Bread moulds"
+      },
+      "correct_option": "B",
+      "explanation": "Ascomycetes are commonly known as sac-fungi."
+    },
+    {
+      "id": "BIO_CH2_133",
+      "topic": "Ascomycetes",
+      "question": "Ascomycetes are mostly:",
+      "options": {
+        "A": "Unicellular",
+        "B": "Multicellular",
+        "C": "Colonial",
+        "D": "Prokaryotic"
+      },
+      "correct_option": "B",
+      "explanation": "Ascomycetes are mostly multicellular (e.g., Penicillium) or rarely unicellular (e.g., yeast/Saccharomyces)."
+    },
+    {
+      "id": "BIO_CH2_134",
+      "topic": "Ascomycetes",
+      "question": "The mycelium of Ascomycetes is:",
+      "options": {
+        "A": "Aseptate and coenocytic",
+        "B": "Branched and septate",
+        "C": "Unbranched and septate",
+        "D": "Aseptate and branched"
+      },
+      "correct_option": "B",
+      "explanation": "The mycelium of ascomycetes is branched and septate."
+    },
+    {
+      "id": "BIO_CH2_135",
+      "topic": "Ascomycetes",
+      "question": "The asexual spores of Ascomycetes are called:",
+      "options": {
+        "A": "Zoospores",
+        "B": "Basidiospores",
+        "C": "Conidia",
+        "D": "Aplanospores"
+      },
+      "correct_option": "C",
+      "explanation": "The asexual spores of ascomycetes are conidia produced exogenously on the special mycelium called conidiophores."
+    },
+    {
+      "id": "BIO_CH2_136",
+      "topic": "Ascomycetes",
+      "question": "Conidia are produced exogenously on special mycelium called:",
+      "options": {
+        "A": "Basidiocarps",
+        "B": "Ascocarps",
+        "C": "Conidiophores",
+        "D": "Sporangia"
+      },
+      "correct_option": "C",
+      "explanation": "Conidia are produced exogenously on the special mycelium called conidiophores."
+    },
+    {
+      "id": "BIO_CH2_137",
+      "topic": "Ascomycetes",
+      "question": "Sexual spores of Ascomycetes are called:",
+      "options": {
+        "A": "Basidiospores",
+        "B": "Conidia",
+        "C": "Ascospores",
+        "D": "Zoospores"
+      },
+      "correct_option": "C",
+      "explanation": "Sexual spores of ascomycetes are called ascospores which are produced endogenously in sac like asci."
+    },
+    {
+      "id": "BIO_CH2_138",
+      "topic": "Ascomycetes",
+      "question": "Ascospores are produced endogenously in sac-like structures called:",
+      "options": {
+        "A": "Basidia",
+        "B": "Asci",
+        "C": "Conidiophores",
+        "D": "Sporangia"
+      },
+      "correct_option": "B",
+      "explanation": "Ascospores are produced endogenously in sac like asci (singular ascus)."
+    },
+    {
+      "id": "BIO_CH2_139",
+      "topic": "Ascomycetes",
+      "question": "Asci are arranged in different types of fruiting bodies called:",
+      "options": {
+        "A": "Basidiocarps",
+        "B": "Ascocarps",
+        "C": "Conidiophores",
+        "D": "Sporangiophores"
+      },
+      "correct_option": "B",
+      "explanation": "Asci are arranged in different types of fruiting bodies called ascocarps."
+    },
+    {
+      "id": "BIO_CH2_140",
+      "topic": "Ascomycetes",
+      "question": "Which organism from Ascomycetes is used extensively in biochemical and genetic work?",
+      "options": {
+        "A": "Penicillium",
+        "B": "Aspergillus",
+        "C": "Neurospora",
+        "D": "Claviceps"
+      },
+      "correct_option": "C",
+      "explanation": "Neurospora is used extensively in biochemical and genetic work."
+    },
+    {
+      "id": "BIO_CH2_141",
+      "topic": "Ascomycetes",
+      "question": "Morels and truffles are examples of which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Basidiomycetes",
+        "C": "Ascomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "C",
+      "explanation": "Many ascomycetes members like morels and truffles are edible and are considered delicacies."
+    },
+    {
+      "id": "BIO_CH2_142",
+      "topic": "Ascomycetes",
+      "question": "Yeast (Saccharomyces) belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "B",
+      "explanation": "Yeast (Saccharomyces) is a unicellular ascomycete."
+    },
+    {
+      "id": "BIO_CH2_143",
+      "topic": "Basidiomycetes",
+      "question": "Commonly known forms of Basidiomycetes are:",
+      "options": {
+        "A": "Bread moulds",
+        "B": "Yeasts",
+        "C": "Mushrooms, bracket fungi or puffballs",
+        "D": "Morels and truffles"
+      },
+      "correct_option": "C",
+      "explanation": "Commonly known forms of basidiomycetes are mushrooms, bracket fungi or puffballs."
+    },
+    {
+      "id": "BIO_CH2_144",
+      "topic": "Basidiomycetes",
+      "question": "Basidiomycetes that live in living plant bodies as parasites are called:",
+      "options": {
+        "A": "Mushrooms",
+        "B": "Bracket fungi",
+        "C": "Rusts and smuts",
+        "D": "Puffballs"
+      },
+      "correct_option": "C",
+      "explanation": "Basidiomycetes grow in soil, on logs and tree stumps and in living plant bodies as parasites, e.g., rusts and smuts."
+    },
+    {
+      "id": "BIO_CH2_145",
+      "topic": "Basidiomycetes",
+      "question": "The mycelium of Basidiomycetes is:",
+      "options": {
+        "A": "Aseptate and coenocytic",
+        "B": "Branched and septate",
+        "C": "Aseptate and branched",
+        "D": "Septate and unbranched"
+      },
+      "correct_option": "B",
+      "explanation": "The mycelium of basidiomycetes is branched and septate."
+    },
+    {
+      "id": "BIO_CH2_146",
+      "topic": "Basidiomycetes",
+      "question": "In Basidiomycetes, plasmogamy is brought about by fusion of:",
+      "options": {
+        "A": "Gametes",
+        "B": "Spores",
+        "C": "Two vegetative or somatic cells of different strains",
+        "D": "Flagellated cells"
+      },
+      "correct_option": "C",
+      "explanation": "In basidiomycetes, sex organs are absent, but plasmogamy is brought about by fusion of two vegetative or somatic cells of different strains or genotypes."
+    },
+    {
+      "id": "BIO_CH2_147",
+      "topic": "Basidiomycetes",
+      "question": "The resultant dikaryotic structure in basidiomycetes ultimately gives rise to:",
+      "options": {
+        "A": "Ascus",
+        "B": "Conidiophore",
+        "C": "Basidium",
+        "D": "Sporangium"
+      },
+      "correct_option": "C",
+      "explanation": "The resultant dikaryotic structure ultimately gives rise to basidium."
+    },
+    {
+      "id": "BIO_CH2_148",
+      "topic": "Basidiomycetes",
+      "question": "Karyogamy and meiosis in basidium produce how many basidiospores?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "Eight",
+        "D": "Sixteen"
+      },
+      "correct_option": "B",
+      "explanation": "Karyogamy and meiosis take place in the basidium producing four basidiospores."
+    },
+    {
+      "id": "BIO_CH2_149",
+      "topic": "Basidiomycetes",
+      "question": "Basidiospores are produced on the basidium:",
+      "options": {
+        "A": "Endogenously",
+        "B": "Exogenously",
+        "C": "Inside the asci",
+        "D": "Inside sporangia"
+      },
+      "correct_option": "B",
+      "explanation": "The basidiospores are exogenously produced on the basidium (pl.: basidia)."
+    },
+    {
+      "id": "BIO_CH2_150",
+      "topic": "Basidiomycetes",
+      "question": "The basidia are arranged in fruiting bodies called:",
+      "options": {
+        "A": "Ascocarps",
+        "B": "Conidiophores",
+        "C": "Basidiocarps",
+        "D": "Sporangia"
+      },
+      "correct_option": "C",
+      "explanation": "The basidia are arranged in fruiting bodies called basidiocarps."
+    },
+    {
+      "id": "BIO_CH2_151",
+      "topic": "Basidiomycetes",
+      "question": "Agaricus (mushroom) belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "C",
+      "explanation": "Agaricus (mushroom) is a common member of basidiomycetes."
+    },
+    {
+      "id": "BIO_CH2_152",
+      "topic": "Basidiomycetes",
+      "question": "Puccinia is an example of:",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "C",
+      "explanation": "Puccinia (rust fungus) is a common member of basidiomycetes."
+    },
+    {
+      "id": "BIO_CH2_153",
+      "topic": "Basidiomycetes",
+      "question": "Ustilago (smut) belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Deuteromycetes",
+        "D": "Basidiomycetes"
+      },
+      "correct_option": "D",
+      "explanation": "Ustilago (smut) is a common member of basidiomycetes."
+    },
+    {
+      "id": "BIO_CH2_154",
+      "topic": "Deuteromycetes",
+      "question": "Deuteromycetes are commonly known as:",
+      "options": {
+        "A": "Sac fungi",
+        "B": "Club fungi",
+        "C": "Imperfect fungi",
+        "D": "Bread moulds"
+      },
+      "correct_option": "C",
+      "explanation": "Deuteromycetes are commonly known as imperfect fungi because only the asexual or vegetative phases of these fungi are known."
+    },
+    {
+      "id": "BIO_CH2_155",
+      "topic": "Deuteromycetes",
+      "question": "Why are Deuteromycetes called 'imperfect fungi'?",
+      "options": {
+        "A": "They have imperfect cell walls",
+        "B": "Only the asexual or vegetative phases are known",
+        "C": "They are all parasitic",
+        "D": "They cannot reproduce"
+      },
+      "correct_option": "B",
+      "explanation": "Deuteromycetes are called imperfect fungi because only the asexual or vegetative phases of these fungi are known."
+    },
+    {
+      "id": "BIO_CH2_156",
+      "topic": "Deuteromycetes",
+      "question": "Deuteromycetes reproduce only by asexual spores known as:",
+      "options": {
+        "A": "Ascospores",
+        "B": "Basidiospores",
+        "C": "Zoospores",
+        "D": "Conidia"
+      },
+      "correct_option": "D",
+      "explanation": "Deuteromycetes reproduce only by asexual spores known as conidia."
+    },
+    {
+      "id": "BIO_CH2_157",
+      "topic": "Deuteromycetes",
+      "question": "The mycelium of Deuteromycetes is:",
+      "options": {
+        "A": "Aseptate and coenocytic",
+        "B": "Septate and branched",
+        "C": "Aseptate and branched",
+        "D": "Non-existent"
+      },
+      "correct_option": "B",
+      "explanation": "The mycelium of deuteromycetes is septate and branched."
+    },
+    {
+      "id": "BIO_CH2_158",
+      "topic": "Deuteromycetes",
+      "question": "A large number of Deuteromycetes are:",
+      "options": {
+        "A": "Photosynthetic",
+        "B": "Parasitic on animals",
+        "C": "Decomposers of litter and help in mineral cycling",
+        "D": "Nitrogen fixers"
+      },
+      "correct_option": "C",
+      "explanation": "A large number of deuteromycetes are decomposers of litter and help in mineral cycling."
+    },
+    {
+      "id": "BIO_CH2_159",
+      "topic": "Deuteromycetes",
+      "question": "Which of the following is an example of Deuteromycetes?",
+      "options": {
+        "A": "Mucor",
+        "B": "Agaricus",
+        "C": "Neurospora",
+        "D": "Alternaria"
+      },
+      "correct_option": "D",
+      "explanation": "Alternaria, Colletotrichum and Trichoderma are examples of deuteromycetes."
+    },
+    {
+      "id": "BIO_CH2_160",
+      "topic": "Kingdom Plantae",
+      "question": "Kingdom Plantae includes all eukaryotic organisms that contain:",
+      "options": {
+        "A": "Chitin",
+        "B": "Chlorophyll",
+        "C": "Silica",
+        "D": "Cellulose only"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Plantae includes all eukaryotic chlorophyll-containing organisms commonly called plants."
+    },
+    {
+      "id": "BIO_CH2_161",
+      "topic": "Kingdom Plantae",
+      "question": "Which of the following is an example of an insectivorous plant?",
+      "options": {
+        "A": "Cuscuta",
+        "B": "Venus fly trap",
+        "C": "Rhizopus",
+        "D": "Nostoc"
+      },
+      "correct_option": "B",
+      "explanation": "Bladderwort and Venus fly trap are examples of insectivorous plants."
+    },
+    {
+      "id": "BIO_CH2_162",
+      "topic": "Kingdom Plantae",
+      "question": "Cuscuta is an example of a plant that is:",
+      "options": {
+        "A": "Insectivorous",
+        "B": "Parasite",
+        "C": "Saprophyte",
+        "D": "Autotroph"
+      },
+      "correct_option": "B",
+      "explanation": "Cuscuta is a parasite — a partially heterotrophic plant."
+    },
+    {
+      "id": "BIO_CH2_163",
+      "topic": "Kingdom Plantae",
+      "question": "The cell wall of plant cells is mainly made of:",
+      "options": {
+        "A": "Chitin",
+        "B": "Silica",
+        "C": "Cellulose",
+        "D": "Peptidoglycan"
+      },
+      "correct_option": "C",
+      "explanation": "The plant cells have an eukaryotic structure with prominent chloroplasts and cell wall mainly made of cellulose."
+    },
+    {
+      "id": "BIO_CH2_164",
+      "topic": "Kingdom Plantae",
+      "question": "Which of the following is NOT included in Kingdom Plantae?",
+      "options": {
+        "A": "Algae",
+        "B": "Bryophytes",
+        "C": "Fungi",
+        "D": "Gymnosperms"
+      },
+      "correct_option": "C",
+      "explanation": "Plantae includes algae, bryophytes, pteridophytes, gymnosperms and angiosperms, but NOT fungi."
+    },
+    {
+      "id": "BIO_CH2_165",
+      "topic": "Kingdom Plantae",
+      "question": "The life cycle of plants has two distinct phases. The phenomenon of alternation of these phases is called:",
+      "options": {
+        "A": "Metamorphosis",
+        "B": "Alternation of generations",
+        "C": "Life cycle",
+        "D": "Hybridisation"
+      },
+      "correct_option": "B",
+      "explanation": "The life cycle of plants alternates between diploid sporophytic and haploid gametophytic phases. This is called alternation of generations."
+    },
+    {
+      "id": "BIO_CH2_166",
+      "topic": "Kingdom Plantae",
+      "question": "The two phases in the life cycle of plants are:",
+      "options": {
+        "A": "Juvenile and adult phase",
+        "B": "Diploid sporophytic and haploid gametophytic",
+        "C": "Vegetative and reproductive",
+        "D": "Aquatic and terrestrial"
+      },
+      "correct_option": "B",
+      "explanation": "Life cycle of plants has two distinct phases – the diploid sporophytic and the haploid gametophytic – that alternate with each other."
+    },
+    {
+      "id": "BIO_CH2_167",
+      "topic": "Kingdom Animalia",
+      "question": "Kingdom Animalia is characterised by organisms that are:",
+      "options": {
+        "A": "Autotrophic eukaryotes with cell walls",
+        "B": "Heterotrophic eukaryotes, multicellular, cells lack cell walls",
+        "C": "Prokaryotes with cell walls",
+        "D": "Unicellular eukaryotes"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Animalia is characterised by heterotrophic eukaryotic organisms that are multicellular and their cells lack cell walls."
+    },
+    {
+      "id": "BIO_CH2_168",
+      "topic": "Kingdom Animalia",
+      "question": "Animals digest their food in:",
+      "options": {
+        "A": "External environment",
+        "B": "Chloroplasts",
+        "C": "An internal cavity",
+        "D": "Cell walls"
+      },
+      "correct_option": "C",
+      "explanation": "Animals digest their food in an internal cavity and store food reserves as glycogen or fat."
+    },
+    {
+      "id": "BIO_CH2_169",
+      "topic": "Kingdom Animalia",
+      "question": "Food is stored in animals as:",
+      "options": {
+        "A": "Starch and cellulose",
+        "B": "Glycogen or fat",
+        "C": "Glucose and sucrose",
+        "D": "Chitin and starch"
+      },
+      "correct_option": "B",
+      "explanation": "Animals store food reserves as glycogen or fat."
+    },
+    {
+      "id": "BIO_CH2_170",
+      "topic": "Kingdom Animalia",
+      "question": "The mode of nutrition in Kingdom Animalia is:",
+      "options": {
+        "A": "Photosynthetic",
+        "B": "Saprophytic",
+        "C": "Holozoic — by ingestion of food",
+        "D": "Chemosynthetic"
+      },
+      "correct_option": "C",
+      "explanation": "The mode of nutrition in Kingdom Animalia is holozoic — by ingestion of food."
+    },
+    {
+      "id": "BIO_CH2_171",
+      "topic": "Kingdom Animalia",
+      "question": "Sexual reproduction in Kingdom Animalia is by:",
+      "options": {
+        "A": "Binary fission",
+        "B": "Spore formation",
+        "C": "Budding",
+        "D": "Copulation of male and female followed by embryological development"
+      },
+      "correct_option": "D",
+      "explanation": "Sexual reproduction in Kingdom Animalia is by copulation of male and female followed by embryological development."
+    },
+    {
+      "id": "BIO_CH2_172",
+      "topic": "Viruses",
+      "question": "The word 'virus' means:",
+      "options": {
+        "A": "Infectious particle",
+        "B": "Venom or poisonous fluid",
+        "C": "Non-living particle",
+        "D": "Crystalline structure"
+      },
+      "correct_option": "B",
+      "explanation": "Virus means venom or poisonous fluid."
+    },
+    {
+      "id": "BIO_CH2_173",
+      "topic": "Viruses",
+      "question": "Viruses did not find a place in classification because they are:",
+      "options": {
+        "A": "Too small",
+        "B": "Not considered truly living, having no cell structure",
+        "C": "Always harmful",
+        "D": "Too large"
+      },
+      "correct_option": "B",
+      "explanation": "Viruses did not find a place in classification since they are not considered truly 'living', as they lack a cell structure."
+    },
+    {
+      "id": "BIO_CH2_174",
+      "topic": "Viruses",
+      "question": "Viruses are non-cellular organisms characterised by having an inert crystalline structure:",
+      "options": {
+        "A": "Inside the living cell",
+        "B": "Outside the living cell",
+        "C": "Only in the nucleus",
+        "D": "Only in the cytoplasm"
+      },
+      "correct_option": "B",
+      "explanation": "Viruses are non-cellular organisms characterised by having an inert crystalline structure outside the living cell."
+    },
+    {
+      "id": "BIO_CH2_175",
+      "topic": "Viruses",
+      "question": "Who recognised certain microbes as the causal organism of the mosaic disease of tobacco in 1892?",
+      "options": {
+        "A": "M.W. Beijerinck",
+        "B": "W.M. Stanley",
+        "C": "Dmitri Ivanowsky",
+        "D": "T.O. Diener"
+      },
+      "correct_option": "C",
+      "explanation": "Dmitri Ivanowsky (1892) recognised certain microbes as causal organism of the mosaic disease of tobacco."
+    },
+    {
+      "id": "BIO_CH2_176",
+      "topic": "Viruses",
+      "question": "Ivanowsky's microbes passed through bacteria-proof filters, indicating they were:",
+      "options": {
+        "A": "Larger than bacteria",
+        "B": "Smaller than bacteria",
+        "C": "Same size as bacteria",
+        "D": "Fungi"
+      },
+      "correct_option": "B",
+      "explanation": "These were found to be smaller than bacteria because they passed through bacteria-proof filters."
+    },
+    {
+      "id": "BIO_CH2_177",
+      "topic": "Viruses",
+      "question": "Who demonstrated that the extract of infected tobacco plants could cause infection in healthy plants and named the new pathogen 'virus'?",
+      "options": {
+        "A": "Dmitri Ivanowsky",
+        "B": "M.W. Beijerinck",
+        "C": "W.M. Stanley",
+        "D": "T.O. Diener"
+      },
+      "correct_option": "B",
+      "explanation": "M.W. Beijerinck (1898) demonstrated this and named the new pathogen 'virus', calling the fluid Contagium vivum fluidum."
+    },
+    {
+      "id": "BIO_CH2_178",
+      "topic": "Viruses",
+      "question": "Beijerinck called the infectious fluid:",
+      "options": {
+        "A": "Virus",
+        "B": "Contagium vivum fluidum",
+        "C": "Viroid",
+        "D": "Capsid"
+      },
+      "correct_option": "B",
+      "explanation": "Beijerinck named the fluid as Contagium vivum fluidum (infectious living fluid)."
+    },
+    {
+      "id": "BIO_CH2_179",
+      "topic": "Viruses",
+      "question": "Who showed that viruses could be crystallised and that crystals consist largely of proteins?",
+      "options": {
+        "A": "Dmitri Ivanowsky",
+        "B": "M.W. Beijerinck",
+        "C": "W.M. Stanley",
+        "D": "T.O. Diener"
+      },
+      "correct_option": "C",
+      "explanation": "W.M. Stanley (1935) showed that viruses could be crystallised and crystals consist largely of proteins."
+    },
+    {
+      "id": "BIO_CH2_180",
+      "topic": "Viruses",
+      "question": "Viruses are:",
+      "options": {
+        "A": "Facultative parasites",
+        "B": "Obligate parasites",
+        "C": "Free-living organisms",
+        "D": "Saprophytes"
+      },
+      "correct_option": "B",
+      "explanation": "Viruses are obligate parasites — they are inert outside their specific host cell."
+    },
+    {
+      "id": "BIO_CH2_181",
+      "topic": "Viruses",
+      "question": "In addition to proteins, viruses contain:",
+      "options": {
+        "A": "Both RNA and DNA",
+        "B": "Either RNA or DNA (never both)",
+        "C": "Only DNA",
+        "D": "Only RNA"
+      },
+      "correct_option": "B",
+      "explanation": "Viruses contain genetic material that could be either RNA or DNA. No virus contains both RNA and DNA."
+    },
+    {
+      "id": "BIO_CH2_182",
+      "topic": "Viruses",
+      "question": "Viruses that infect plants generally have:",
+      "options": {
+        "A": "Double-stranded DNA",
+        "B": "Single-stranded RNA",
+        "C": "Double-stranded RNA",
+        "D": "Single-stranded DNA"
+      },
+      "correct_option": "B",
+      "explanation": "In general, viruses that infect plants have single stranded RNA."
+    },
+    {
+      "id": "BIO_CH2_183",
+      "topic": "Viruses",
+      "question": "Viruses that infect animals have:",
+      "options": {
+        "A": "Only single-stranded RNA",
+        "B": "Either single or double stranded RNA or double stranded DNA",
+        "C": "Only double-stranded DNA",
+        "D": "Both RNA and DNA"
+      },
+      "correct_option": "B",
+      "explanation": "Viruses that infect animals have either single or double stranded RNA or double stranded DNA."
+    },
+    {
+      "id": "BIO_CH2_184",
+      "topic": "Viruses",
+      "question": "Bacteriophages (viruses that infect bacteria) are usually:",
+      "options": {
+        "A": "Single-stranded RNA viruses",
+        "B": "Double-stranded RNA viruses",
+        "C": "Double-stranded DNA viruses",
+        "D": "Single-stranded DNA viruses"
+      },
+      "correct_option": "C",
+      "explanation": "Bacterial viruses or bacteriophages are usually double stranded DNA viruses."
+    },
+    {
+      "id": "BIO_CH2_185",
+      "topic": "Viruses",
+      "question": "The protein coat of a virus is called:",
+      "options": {
+        "A": "Capsomere",
+        "B": "Capsid",
+        "C": "Pellicle",
+        "D": "Envelope"
+      },
+      "correct_option": "B",
+      "explanation": "The protein coat called capsid, made of small subunits called capsomeres, protects the nucleic acid."
+    },
+    {
+      "id": "BIO_CH2_186",
+      "topic": "Viruses",
+      "question": "The small subunits of the capsid are called:",
+      "options": {
+        "A": "Nucleotides",
+        "B": "Prions",
+        "C": "Capsomeres",
+        "D": "Virions"
+      },
+      "correct_option": "C",
+      "explanation": "The protein coat called capsid is made of small subunits called capsomeres."
+    },
+    {
+      "id": "BIO_CH2_187",
+      "topic": "Viruses",
+      "question": "Capsomeres are arranged in which geometric forms?",
+      "options": {
+        "A": "Cubic only",
+        "B": "Helical or polyhedral geometric forms",
+        "C": "Linear forms",
+        "D": "Circular forms only"
+      },
+      "correct_option": "B",
+      "explanation": "Capsomeres are arranged in helical or polyhedral geometric forms."
+    },
+    {
+      "id": "BIO_CH2_188",
+      "topic": "Viruses",
+      "question": "Which of the following diseases is caused by a virus?",
+      "options": {
+        "A": "Cholera",
+        "B": "Typhoid",
+        "C": "Mumps",
+        "D": "Malaria"
+      },
+      "correct_option": "C",
+      "explanation": "Viruses cause diseases like mumps, small pox, herpes and influenza. AIDS in humans is also caused by a virus."
+    },
+    {
+      "id": "BIO_CH2_189",
+      "topic": "Viruses",
+      "question": "AIDS in humans is caused by:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Fungus",
+        "C": "Virus",
+        "D": "Protozoan"
+      },
+      "correct_option": "C",
+      "explanation": "AIDS in humans is also caused by a virus."
+    },
+    {
+      "id": "BIO_CH2_190",
+      "topic": "Viruses",
+      "question": "Which of the following is a plant viral disease symptom?",
+      "options": {
+        "A": "Fever and cough",
+        "B": "Mosaic formation, leaf rolling and curling, yellowing and vein clearing, dwarfing",
+        "C": "Loss of appetite",
+        "D": "Skin rashes"
+      },
+      "correct_option": "B",
+      "explanation": "In plants, viral symptoms can be mosaic formation, leaf rolling and curling, yellowing and vein clearing, dwarfing and stunted growth."
+    },
+    {
+      "id": "BIO_CH2_191",
+      "topic": "Viroids",
+      "question": "Who discovered viroids?",
+      "options": {
+        "A": "Dmitri Ivanowsky",
+        "B": "M.W. Beijerinck",
+        "C": "W.M. Stanley",
+        "D": "T.O. Diener"
+      },
+      "correct_option": "D",
+      "explanation": "In 1971, T.O. Diener discovered viroids."
+    },
+    {
+      "id": "BIO_CH2_192",
+      "topic": "Viroids",
+      "question": "In which year were viroids discovered?",
+      "options": {
+        "A": "1892",
+        "B": "1935",
+        "C": "1969",
+        "D": "1971"
+      },
+      "correct_option": "D",
+      "explanation": "In 1971, T.O. Diener discovered a new infectious agent — viroids."
+    },
+    {
+      "id": "BIO_CH2_193",
+      "topic": "Viroids",
+      "question": "What disease did viroids originally cause that led to their discovery?",
+      "options": {
+        "A": "Mosaic disease of tobacco",
+        "B": "Potato spindle tuber disease",
+        "C": "Citrus canker",
+        "D": "Mad cow disease"
+      },
+      "correct_option": "B",
+      "explanation": "T.O. Diener discovered viroids when studying potato spindle tuber disease."
+    },
+    {
+      "id": "BIO_CH2_194",
+      "topic": "Viroids",
+      "question": "Viroids are smaller than viruses and consist of:",
+      "options": {
+        "A": "DNA with protein coat",
+        "B": "Free RNA without protein coat",
+        "C": "Protein only",
+        "D": "DNA without protein coat"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids are free RNA; they lack the protein coat that is found in viruses."
+    },
+    {
+      "id": "BIO_CH2_195",
+      "topic": "Viroids",
+      "question": "The RNA of viroids is of:",
+      "options": {
+        "A": "High molecular weight",
+        "B": "Low molecular weight",
+        "C": "Very high molecular weight",
+        "D": "Medium molecular weight"
+      },
+      "correct_option": "B",
+      "explanation": "The RNA of the viroid was of low molecular weight."
+    },
+    {
+      "id": "BIO_CH2_196",
+      "topic": "Prions",
+      "question": "Prions consist of:",
+      "options": {
+        "A": "Nucleic acid only",
+        "B": "Nucleic acid and protein",
+        "C": "Abnormally folded protein",
+        "D": "Lipid and protein"
+      },
+      "correct_option": "C",
+      "explanation": "Prions are infectious agents consisting of abnormally folded protein."
+    },
+    {
+      "id": "BIO_CH2_197",
+      "topic": "Prions",
+      "question": "Prions cause which type of diseases?",
+      "options": {
+        "A": "Plant diseases",
+        "B": "Infectious neurological diseases",
+        "C": "Bacterial infections",
+        "D": "Fungal infections"
+      },
+      "correct_option": "B",
+      "explanation": "Prions cause certain infectious neurological diseases."
+    },
+    {
+      "id": "BIO_CH2_198",
+      "topic": "Prions",
+      "question": "Bovine spongiform encephalopathy (BSE) is commonly called:",
+      "options": {
+        "A": "Sleeping sickness",
+        "B": "Mad cow disease",
+        "C": "Citrus canker",
+        "D": "Potato spindle tuber disease"
+      },
+      "correct_option": "B",
+      "explanation": "Bovine spongiform encephalopathy (BSE) is commonly called mad cow disease in cattle."
+    },
+    {
+      "id": "BIO_CH2_199",
+      "topic": "Prions",
+      "question": "What is the human equivalent of mad cow disease (BSE)?",
+      "options": {
+        "A": "AIDS",
+        "B": "Malaria",
+        "C": "Creutzfeldt-Jacob disease (CJD)",
+        "D": "Influenza"
+      },
+      "correct_option": "C",
+      "explanation": "The human analogous variant of BSE is Creutzfeldt–Jacob disease (CJD)."
+    },
+    {
+      "id": "BIO_CH2_200",
+      "topic": "Lichens",
+      "question": "Lichens are symbiotic associations between:",
+      "options": {
+        "A": "Bacteria and fungi",
+        "B": "Algae and fungi",
+        "C": "Algae and mosses",
+        "D": "Bacteria and algae"
+      },
+      "correct_option": "B",
+      "explanation": "Lichens are symbiotic associations i.e. mutually useful associations, between algae and fungi."
+    },
+    {
+      "id": "BIO_CH2_201",
+      "topic": "Lichens",
+      "question": "The algal component in lichens is known as:",
+      "options": {
+        "A": "Mycobiont",
+        "B": "Phycobiont",
+        "C": "Symbiont",
+        "D": "Endobiont"
+      },
+      "correct_option": "B",
+      "explanation": "The algal component in lichens is known as phycobiont."
+    },
+    {
+      "id": "BIO_CH2_202",
+      "topic": "Lichens",
+      "question": "The fungal component in lichens is known as:",
+      "options": {
+        "A": "Phycobiont",
+        "B": "Endobiont",
+        "C": "Mycobiont",
+        "D": "Symbiont"
+      },
+      "correct_option": "C",
+      "explanation": "The fungal component in lichens is known as mycobiont."
+    },
+    {
+      "id": "BIO_CH2_203",
+      "topic": "Lichens",
+      "question": "In lichens, what does the algal component (phycobiont) do?",
+      "options": {
+        "A": "Absorb water and minerals",
+        "B": "Prepare food for fungi",
+        "C": "Provide shelter",
+        "D": "Fix nitrogen"
+      },
+      "correct_option": "B",
+      "explanation": "Algae prepare food for fungi in the lichen association."
+    },
+    {
+      "id": "BIO_CH2_204",
+      "topic": "Lichens",
+      "question": "In lichens, what does the fungal component (mycobiont) do for the algae?",
+      "options": {
+        "A": "Provides food",
+        "B": "Fixes nitrogen",
+        "C": "Provides shelter and absorbs mineral nutrients and water",
+        "D": "Photosynthesis"
+      },
+      "correct_option": "C",
+      "explanation": "Fungi provide shelter and absorb mineral nutrients and water for the algal partner in lichens."
+    },
+    {
+      "id": "BIO_CH2_205",
+      "topic": "Lichens",
+      "question": "Lichens are very good:",
+      "options": {
+        "A": "Nitrogen fixers",
+        "B": "Pollution indicators — they do not grow in polluted areas",
+        "C": "Decomposers",
+        "D": "Food sources for animals"
+      },
+      "correct_option": "B",
+      "explanation": "Lichens are very good pollution indicators — they do not grow in polluted areas."
+    },
+    {
+      "id": "BIO_CH2_206",
+      "topic": "History of Classification",
+      "question": "Early classification of organisms was done instinctively based on the need to use organisms for:",
+      "options": {
+        "A": "Scientific research",
+        "B": "Food, shelter and clothing",
+        "C": "Medical purposes",
+        "D": "Agricultural purposes"
+      },
+      "correct_option": "B",
+      "explanation": "Early classification was done instinctively, borne out of a need to use organisms for food, shelter and clothing."
+    },
+    {
+      "id": "BIO_CH2_207",
+      "topic": "Five Kingdom Classification",
+      "question": "Chlamydomonas and Chlorella were earlier placed in:",
+      "options": {
+        "A": "Animal kingdom",
+        "B": "Algae within Plants",
+        "C": "Fungi",
+        "D": "Monera"
+      },
+      "correct_option": "B",
+      "explanation": "Chlamydomonas and Chlorella were earlier placed in Algae within Plants, and both have cell walls."
+    },
+    {
+      "id": "BIO_CH2_208",
+      "topic": "Five Kingdom Classification",
+      "question": "Paramoecium and Amoeba were earlier placed in:",
+      "options": {
+        "A": "Plant kingdom",
+        "B": "Fungi",
+        "C": "Animal kingdom",
+        "D": "Monera"
+      },
+      "correct_option": "C",
+      "explanation": "Paramoecium and Amoeba were earlier placed in the animal kingdom as they lack cell walls."
+    },
+    {
+      "id": "BIO_CH2_209",
+      "topic": "Kingdom Monera",
+      "question": "How many bacteria are present in a handful of soil?",
+      "options": {
+        "A": "Tens",
+        "B": "Hundreds",
+        "C": "Thousands",
+        "D": "Millions"
+      },
+      "correct_option": "B",
+      "explanation": "Hundreds of bacteria are present in a handful of soil."
+    },
+    {
+      "id": "BIO_CH2_210",
+      "topic": "Kingdom Monera",
+      "question": "Bacteria live in extreme habitats such as:",
+      "options": {
+        "A": "Only hot springs",
+        "B": "Hot springs, deserts, snow and deep oceans",
+        "C": "Only polar ice",
+        "D": "Only deep oceans"
+      },
+      "correct_option": "B",
+      "explanation": "Bacteria also live in extreme habitats such as hot springs, deserts, snow and deep oceans where very few other life forms can survive."
+    },
+    {
+      "id": "BIO_CH2_211",
+      "topic": "Eubacteria",
+      "question": "The spores of zoospores produced in phycomycetes are endogenously produced in:",
+      "options": {
+        "A": "Basidiocarps",
+        "B": "Ascocarps",
+        "C": "Sporangium",
+        "D": "Conidiophores"
+      },
+      "correct_option": "C",
+      "explanation": "In phycomycetes, zoospores and aplanospores are endogenously produced in sporangium."
+    },
+    {
+      "id": "BIO_CH2_212",
+      "topic": "Kingdom Fungi",
+      "question": "Wheat rust is caused by:",
+      "options": {
+        "A": "Penicillium",
+        "B": "Puccinia",
+        "C": "Mucor",
+        "D": "Neurospora"
+      },
+      "correct_option": "B",
+      "explanation": "Wheat rust-causing Puccinia is an important example of a disease-causing fungus."
+    },
+    {
+      "id": "BIO_CH2_213",
+      "topic": "Kingdom Fungi",
+      "question": "Which fungus is the source of antibiotics?",
+      "options": {
+        "A": "Agaricus",
+        "B": "Mucor",
+        "C": "Penicillium",
+        "D": "Rhizopus"
+      },
+      "correct_option": "C",
+      "explanation": "Some fungi are the source of antibiotics, e.g., Penicillium."
+    },
+    {
+      "id": "BIO_CH2_214",
+      "topic": "Kingdom Fungi",
+      "question": "Fungi are cosmopolitan and occur in:",
+      "options": {
+        "A": "Only aquatic environments",
+        "B": "Only soil",
+        "C": "Air, water, soil and on animals and plants",
+        "D": "Only on dead matter"
+      },
+      "correct_option": "C",
+      "explanation": "Fungi are cosmopolitan and occur in air, water, soil and on animals and plants."
+    },
+    {
+      "id": "BIO_CH2_215",
+      "topic": "Kingdom Fungi",
+      "question": "We keep food in the refrigerator to prevent:",
+      "options": {
+        "A": "Chemical reactions",
+        "B": "Physical damage",
+        "C": "Bacterial or fungal infections",
+        "D": "Loss of vitamins"
+      },
+      "correct_option": "C",
+      "explanation": "We keep food in the refrigerator to prevent food from going bad due to bacterial or fungal infections."
+    },
+    {
+      "id": "BIO_CH2_216",
+      "topic": "Viruses",
+      "question": "A virus is described as a:",
+      "options": {
+        "A": "Living cell",
+        "B": "Nucleoprotein where the genetic material is infectious",
+        "C": "Purely protein structure",
+        "D": "Purely nucleic acid structure"
+      },
+      "correct_option": "B",
+      "explanation": "A virus is a nucleoprotein and the genetic material is infectious."
+    },
+    {
+      "id": "BIO_CH2_217",
+      "topic": "Viruses",
+      "question": "Ivanowsky worked on which plant disease in 1892?",
+      "options": {
+        "A": "Potato spindle tuber disease",
+        "B": "Mosaic disease of tobacco",
+        "C": "Citrus canker",
+        "D": "Wheat rust"
+      },
+      "correct_option": "B",
+      "explanation": "Dmitri Ivanowsky (1892) recognised certain microbes as causal organism of the mosaic disease of tobacco."
+    },
+    {
+      "id": "BIO_CH2_218",
+      "topic": "Lichens",
+      "question": "In lichen association, the phycobiont is:",
+      "options": {
+        "A": "Heterotrophic",
+        "B": "Autotrophic",
+        "C": "Parasitic",
+        "D": "Saprophytic"
+      },
+      "correct_option": "B",
+      "explanation": "The algal component (phycobiont) is autotrophic in the lichen association."
+    },
+    {
+      "id": "BIO_CH2_219",
+      "topic": "Lichens",
+      "question": "In lichen association, the mycobiont is:",
+      "options": {
+        "A": "Autotrophic",
+        "B": "Photosynthetic",
+        "C": "Heterotrophic",
+        "D": "Free-living"
+      },
+      "correct_option": "C",
+      "explanation": "The fungal component (mycobiont) is heterotrophic in the lichen association."
+    },
+    {
+      "id": "BIO_CH2_220",
+      "topic": "Five Kingdom Classification",
+      "question": "Which kingdom is NOT present in the Whittaker five kingdom classification?",
+      "options": {
+        "A": "Monera",
+        "B": "Protista",
+        "C": "Virus",
+        "D": "Fungi"
+      },
+      "correct_option": "C",
+      "explanation": "Viruses are not included in Whittaker's five kingdom classification as they are not considered truly living."
+    },
+    {
+      "id": "BIO_CH2_221",
+      "topic": "Kingdom Fungi",
+      "question": "Some hyphae of fungi have cross walls called:",
+      "options": {
+        "A": "Conidiophores",
+        "B": "Septae",
+        "C": "Mycelium",
+        "D": "Rhizoids"
+      },
+      "correct_option": "B",
+      "explanation": "Others have septae or cross walls in their hyphae (as opposed to coenocytic hyphae)."
+    },
+    {
+      "id": "BIO_CH2_222",
+      "topic": "Ascomycetes",
+      "question": "Fungi growing on dung are called:",
+      "options": {
+        "A": "Saprophytes",
+        "B": "Parasites",
+        "C": "Coprophilous",
+        "D": "Decomposers"
+      },
+      "correct_option": "C",
+      "explanation": "Ascomycetes may be coprophilous (growing on dung)."
+    },
+    {
+      "id": "BIO_CH2_223",
+      "topic": "Five Kingdom Classification",
+      "question": "The cell wall of Monera is made of:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Chitin",
+        "C": "Noncellulosic — polysaccharide + amino acid",
+        "D": "Silica"
+      },
+      "correct_option": "C",
+      "explanation": "Monera cell wall is noncellulosic — polysaccharide + amino acid."
+    },
+    {
+      "id": "BIO_CH2_224",
+      "topic": "Kingdom Protista",
+      "question": "The protistan cell body contains a well defined nucleus and other:",
+      "options": {
+        "A": "Prokaryotic organelles",
+        "B": "Membrane-bound organelles",
+        "C": "Non-membrane-bound organelles",
+        "D": "No organelles"
+      },
+      "correct_option": "B",
+      "explanation": "Being eukaryotes, the protistan cell body contains a well defined nucleus and other membrane-bound organelles."
+    },
+    {
+      "id": "BIO_CH2_225",
+      "topic": "Chrysophytes",
+      "question": "In diatoms, the cell walls form two thin overlapping shells that fit together as:",
+      "options": {
+        "A": "A brick and mortar",
+        "B": "A soap box",
+        "C": "A zipper",
+        "D": "A lock and key"
+      },
+      "correct_option": "B",
+      "explanation": "In diatoms the cell walls form two thin overlapping shells, which fit together as in a soap box."
+    },
+    {
+      "id": "BIO_CH2_226",
+      "topic": "Dinoflagellates",
+      "question": "The two flagella of dinoflagellates are oriented:",
+      "options": {
+        "A": "Both longitudinally",
+        "B": "Both transversely",
+        "C": "One longitudinally and the other transversely in a furrow",
+        "D": "Both laterally"
+      },
+      "correct_option": "C",
+      "explanation": "Most dinoflagellates have two flagella; one lies longitudinally and the other transversely in a furrow between the wall plates."
+    },
+    {
+      "id": "BIO_CH2_227",
+      "topic": "Euglenoids",
+      "question": "Pellicle in euglenoids makes their body:",
+      "options": {
+        "A": "Rigid",
+        "B": "Flexible",
+        "C": "Photosynthetic",
+        "D": "Non-motile"
+      },
+      "correct_option": "B",
+      "explanation": "The pellicle is a protein rich layer that makes their body flexible."
+    },
+    {
+      "id": "BIO_CH2_228",
+      "topic": "Protozoans",
+      "question": "Coordinated movement of rows of cilia in ciliated protozoans causes water laden with food to be steered into the:",
+      "options": {
+        "A": "Pseudopodium",
+        "B": "Flagellum",
+        "C": "Gullet",
+        "D": "Nucleus"
+      },
+      "correct_option": "C",
+      "explanation": "The coordinated movement of rows of cilia causes the water laden with food to be steered into the gullet."
+    },
+    {
+      "id": "BIO_CH2_229",
+      "topic": "Basidiomycetes",
+      "question": "In Basidiomycetes, asexual spores are generally:",
+      "options": {
+        "A": "Abundantly produced",
+        "B": "Not found",
+        "C": "Produced by sporangia",
+        "D": "Conidia"
+      },
+      "correct_option": "B",
+      "explanation": "In basidiomycetes, asexual spores are generally not found, but vegetative reproduction by fragmentation is common."
+    },
+    {
+      "id": "BIO_CH2_230",
+      "topic": "Deuteromycetes",
+      "question": "Once perfect (sexual) stages of deuteromycetes were discovered, they were often moved to:",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes and basidiomycetes",
+        "C": "Monera",
+        "D": "Protista"
+      },
+      "correct_option": "B",
+      "explanation": "Once perfect (sexual) stages of members of deuteromycetes were discovered, they were often moved to ascomycetes and basidiomycetes."
+    },
+    {
+      "id": "BIO_CH2_231",
+      "topic": "Kingdom Plantae",
+      "question": "Bladderwort is an example of:",
+      "options": {
+        "A": "Parasitic plant",
+        "B": "Insectivorous plant",
+        "C": "Saprophytic plant",
+        "D": "Completely autotrophic plant"
+      },
+      "correct_option": "B",
+      "explanation": "Bladderwort and Venus fly trap are examples of insectivorous plants — partially heterotrophic."
+    },
+    {
+      "id": "BIO_CH2_232",
+      "topic": "Kingdom Animalia",
+      "question": "Higher forms of animals show elaborate:",
+      "options": {
+        "A": "Photosynthetic mechanism",
+        "B": "Sensory and neuromotor mechanism",
+        "C": "Spore formation",
+        "D": "Nitrogen fixation"
+      },
+      "correct_option": "B",
+      "explanation": "Higher forms of animals show elaborate sensory and neuromotor mechanism."
+    },
+    {
+      "id": "BIO_CH2_233",
+      "topic": "Kingdom Animalia",
+      "question": "Most animals are capable of:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Nitrogen fixation",
+        "C": "Locomotion",
+        "D": "Spore formation"
+      },
+      "correct_option": "C",
+      "explanation": "Most animals are capable of locomotion."
+    },
+    {
+      "id": "BIO_CH2_234",
+      "topic": "Kingdom Animalia",
+      "question": "Animals follow a definite growth pattern and grow into adults with:",
+      "options": {
+        "A": "Unlimited size",
+        "B": "Indefinite shape",
+        "C": "Definite shape and size",
+        "D": "Variable shape"
+      },
+      "correct_option": "C",
+      "explanation": "Animals follow a definite growth pattern and grow into adults that have a definite shape and size."
+    },
+    {
+      "id": "BIO_CH2_235",
+      "topic": "Five Kingdom Classification",
+      "question": "Which kingdom's cell wall has cellulose?",
+      "options": {
+        "A": "Monera",
+        "B": "Fungi",
+        "C": "Plantae",
+        "D": "Animalia"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Plantae has a cell wall mainly made of cellulose."
+    },
+    {
+      "id": "BIO_CH2_236",
+      "topic": "Kingdom Protista",
+      "question": "Some members of Protista have:",
+      "options": {
+        "A": "Cell walls made of cellulose",
+        "B": "Flagella or cilia",
+        "C": "Prokaryotic cell structure",
+        "D": "No nucleus"
+      },
+      "correct_option": "B",
+      "explanation": "Some protists have flagella or cilia for movement."
+    },
+    {
+      "id": "BIO_CH2_237",
+      "topic": "Archaebacteria",
+      "question": "Archaebacteria differ from eubacteria in having:",
+      "options": {
+        "A": "A nucleus",
+        "B": "Mitochondria",
+        "C": "Different cell wall structure",
+        "D": "Cellulose cell wall"
+      },
+      "correct_option": "C",
+      "explanation": "Archaebacteria differ from other bacteria in having a different cell wall structure and this feature is responsible for their survival in extreme conditions."
+    },
+    {
+      "id": "BIO_CH2_238",
+      "topic": "Eubacteria",
+      "question": "Cyanobacteria can be unicellular, colonial or:",
+      "options": {
+        "A": "Multicellular only",
+        "B": "Filamentous",
+        "C": "Eukaryotic",
+        "D": "Non-photosynthetic"
+      },
+      "correct_option": "B",
+      "explanation": "Cyanobacteria are unicellular, colonial or filamentous, freshwater/marine or terrestrial algae."
+    },
+    {
+      "id": "BIO_CH2_239",
+      "topic": "Viruses",
+      "question": "Which virus causes mosaic disease in tobacco plants?",
+      "options": {
+        "A": "Bacteriophage",
+        "B": "HIV",
+        "C": "Tobacco Mosaic Virus (TMV)",
+        "D": "Herpes virus"
+      },
+      "correct_option": "C",
+      "explanation": "Tobacco Mosaic Virus (TMV) causes mosaic disease of tobacco, first studied by Ivanowsky."
+    },
+    {
+      "id": "BIO_CH2_240",
+      "topic": "Five Kingdom Classification",
+      "question": "The body organisation of Protista is:",
+      "options": {
+        "A": "Tissue/organ",
+        "B": "Cellular",
+        "C": "Tissue/organ/organ system",
+        "D": "Multicellular/loose tissue"
+      },
+      "correct_option": "B",
+      "explanation": "Protista has cellular body organisation."
+    },
+    {
+      "id": "BIO_CH2_241",
+      "topic": "Kingdom Fungi",
+      "question": "Phycomycetes include which bread mould?",
+      "options": {
+        "A": "Mucor",
+        "B": "Neurospora",
+        "C": "Agaricus",
+        "D": "Aspergillus"
+      },
+      "correct_option": "A",
+      "explanation": "Mucor and Rhizopus (the bread mould mentioned earlier) are examples of phycomycetes."
+    },
+    {
+      "id": "BIO_CH2_242",
+      "topic": "Ascomycetes",
+      "question": "Aspergillus belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "B",
+      "explanation": "Aspergillus is an example of ascomycetes."
+    },
+    {
+      "id": "BIO_CH2_243",
+      "topic": "Deuteromycetes",
+      "question": "Trichoderma belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "D",
+      "explanation": "Trichoderma is an example of deuteromycetes."
+    },
+    {
+      "id": "BIO_CH2_244",
+      "topic": "Deuteromycetes",
+      "question": "Colletotrichum belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "D",
+      "explanation": "Colletotrichum is an example of deuteromycetes."
+    },
+    {
+      "id": "BIO_CH2_245",
+      "topic": "Phycomycetes",
+      "question": "Anisogamous condition in phycomycetes means the gametes are:",
+      "options": {
+        "A": "Similar in morphology",
+        "B": "Dissimilar in morphology",
+        "C": "Both motile",
+        "D": "Both non-motile"
+      },
+      "correct_option": "B",
+      "explanation": "When gametes are dissimilar in morphology, it is called anisogamous or oogamous."
+    },
+    {
+      "id": "BIO_CH2_246",
+      "topic": "Kingdom Fungi",
+      "question": "The dikaryophase in fungi refers to the phase where cells have:",
+      "options": {
+        "A": "One nucleus per cell (n)",
+        "B": "Two nuclei per cell (n+n)",
+        "C": "Diploid nuclei (2n)",
+        "D": "No nuclei"
+      },
+      "correct_option": "B",
+      "explanation": "The dikaryophase is characterised by two nuclei per cell (n + n), called a dikaryon."
+    },
+    {
+      "id": "BIO_CH2_247",
+      "topic": "Eubacteria",
+      "question": "Bacteria that are helpful in fixing nitrogen in legume roots are:",
+      "options": {
+        "A": "Pathogenic bacteria",
+        "B": "Heterotrophic bacteria",
+        "C": "Halophiles",
+        "D": "Thermoacidophiles"
+      },
+      "correct_option": "B",
+      "explanation": "Heterotrophic bacteria are helpful in making curd from milk, production of antibiotics, fixing nitrogen in legume roots."
+    },
+    {
+      "id": "BIO_CH2_248",
+      "topic": "Eubacteria",
+      "question": "Which disease is caused by bacteria?",
+      "options": {
+        "A": "Malaria",
+        "B": "Tetanus",
+        "C": "Sleeping sickness",
+        "D": "Mumps"
+      },
+      "correct_option": "B",
+      "explanation": "Tetanus is a disease caused by bacteria (along with cholera, typhoid, citrus canker)."
+    },
+    {
+      "id": "BIO_CH2_249",
+      "topic": "Eubacteria",
+      "question": "Citrus canker is caused by:",
+      "options": {
+        "A": "Fungi",
+        "B": "Viruses",
+        "C": "Bacteria",
+        "D": "Protozoans"
+      },
+      "correct_option": "C",
+      "explanation": "Citrus canker is a well-known disease caused by different bacteria."
+    },
+    {
+      "id": "BIO_CH2_250",
+      "topic": "Slime Moulds",
+      "question": "The plasmodium of slime moulds may grow and spread over:",
+      "options": {
+        "A": "A few centimeters",
+        "B": "Several feet",
+        "C": "Several meters",
+        "D": "Only microscopic distances"
+      },
+      "correct_option": "B",
+      "explanation": "The plasmodium may grow and spread over several feet."
+    },
+    {
+      "id": "BIO_CH2_251",
+      "topic": "Five Kingdom Classification",
+      "question": "All prokaryotic organisms were grouped together under which kingdom in Whittaker's classification?",
+      "options": {
+        "A": "Protista",
+        "B": "Fungi",
+        "C": "Monera",
+        "D": "Plantae"
+      },
+      "correct_option": "C",
+      "explanation": "All prokaryotic organisms were grouped together under Kingdom Monera."
+    },
+    {
+      "id": "BIO_CH2_252",
+      "topic": "Five Kingdom Classification",
+      "question": "Unicellular eukaryotic organisms were placed in which kingdom?",
+      "options": {
+        "A": "Monera",
+        "B": "Protista",
+        "C": "Fungi",
+        "D": "Plantae"
+      },
+      "correct_option": "B",
+      "explanation": "Unicellular eukaryotic organisms were placed in Kingdom Protista."
+    },
+    {
+      "id": "BIO_CH2_253",
+      "topic": "Kingdom Monera",
+      "question": "Plural of Coccus is:",
+      "options": {
+        "A": "Cocci",
+        "B": "Coccuses",
+        "C": "Cocci",
+        "D": "Coccae"
+      },
+      "correct_option": "A",
+      "explanation": "The plural of Coccus is cocci."
+    },
+    {
+      "id": "BIO_CH2_254",
+      "topic": "Kingdom Monera",
+      "question": "Plural of Bacillus is:",
+      "options": {
+        "A": "Bacillus",
+        "B": "Bacilli",
+        "C": "Bacillae",
+        "D": "Bacilluses"
+      },
+      "correct_option": "B",
+      "explanation": "The plural of Bacillus is bacilli."
+    },
+    {
+      "id": "BIO_CH2_255",
+      "topic": "Kingdom Monera",
+      "question": "Plural of Spirillum is:",
+      "options": {
+        "A": "Spirillae",
+        "B": "Spirilli",
+        "C": "Spirilla",
+        "D": "Spirillums"
+      },
+      "correct_option": "C",
+      "explanation": "The plural of Spirillum is spirilla."
+    },
+    {
+      "id": "BIO_CH2_256",
+      "topic": "Viruses",
+      "question": "Herpes disease is caused by:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Fungus",
+        "C": "Virus",
+        "D": "Protozoan"
+      },
+      "correct_option": "C",
+      "explanation": "Viruses cause diseases like mumps, small pox, herpes and influenza."
+    },
+    {
+      "id": "BIO_CH2_257",
+      "topic": "Viruses",
+      "question": "Influenza is caused by:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Protozoan",
+        "C": "Fungus",
+        "D": "Virus"
+      },
+      "correct_option": "D",
+      "explanation": "Influenza is one of the diseases caused by viruses."
+    },
+    {
+      "id": "BIO_CH2_258",
+      "topic": "Viruses",
+      "question": "Small pox is caused by:",
+      "options": {
+        "A": "Fungus",
+        "B": "Bacterium",
+        "C": "Virus",
+        "D": "Protozoan"
+      },
+      "correct_option": "C",
+      "explanation": "Small pox is caused by a virus."
+    },
+    {
+      "id": "BIO_CH2_259",
+      "topic": "Chrysophytes",
+      "question": "Diatoms are indestructible because their cell walls are:",
+      "options": {
+        "A": "Made of cellulose",
+        "B": "Made of chitin",
+        "C": "Embedded with silica",
+        "D": "Very thick"
+      },
+      "correct_option": "C",
+      "explanation": "The walls of diatoms are embedded with silica and thus the walls are indestructible."
+    },
+    {
+      "id": "BIO_CH2_260",
+      "topic": "Chrysophytes",
+      "question": "The golden algae are also called:",
+      "options": {
+        "A": "Diatoms",
+        "B": "Desmids",
+        "C": "Dinoflagellates",
+        "D": "Euglenoids"
+      },
+      "correct_option": "B",
+      "explanation": "Chrysophytes include diatoms and golden algae (desmids)."
+    },
+    {
+      "id": "BIO_CH2_261",
+      "topic": "Kingdom Fungi",
+      "question": "White spots on mustard leaves are due to:",
+      "options": {
+        "A": "Viral infection",
+        "B": "Bacterial infection",
+        "C": "A parasitic fungus (Albugo)",
+        "D": "Insect damage"
+      },
+      "correct_option": "C",
+      "explanation": "White spots seen on mustard leaves are due to a parasitic fungus (Albugo)."
+    },
+    {
+      "id": "BIO_CH2_262",
+      "topic": "Kingdom Fungi",
+      "question": "Yeast is used to make:",
+      "options": {
+        "A": "Vinegar and cheese",
+        "B": "Bread and beer",
+        "C": "Antibiotics",
+        "D": "Curd"
+      },
+      "correct_option": "B",
+      "explanation": "Some unicellular fungi, e.g., yeast, are used to make bread and beer."
+    },
+    {
+      "id": "BIO_CH2_263",
+      "topic": "Ascomycetes",
+      "question": "Claviceps belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "B",
+      "explanation": "Claviceps is an example of ascomycetes."
+    },
+    {
+      "id": "BIO_CH2_264",
+      "topic": "Basidiomycetes",
+      "question": "In Basidiomycetes, sexual organs are:",
+      "options": {
+        "A": "Well developed",
+        "B": "Present but small",
+        "C": "Absent",
+        "D": "Only in female"
+      },
+      "correct_option": "C",
+      "explanation": "In basidiomycetes, sex organs are absent, but plasmogamy is brought about by fusion of two vegetative or somatic cells."
+    },
+    {
+      "id": "BIO_CH2_265",
+      "topic": "Viroids",
+      "question": "How do viroids compare to viruses in size?",
+      "options": {
+        "A": "Larger than viruses",
+        "B": "Same size as viruses",
+        "C": "Smaller than viruses",
+        "D": "Much larger than viruses"
+      },
+      "correct_option": "C",
+      "explanation": "Viroids are smaller than viruses — they were discovered as a new infectious agent smaller than viruses."
+    },
+    {
+      "id": "BIO_CH2_266",
+      "topic": "Prions",
+      "question": "Prions are similar in size to:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Fungi",
+        "C": "Viruses",
+        "D": "Cells"
+      },
+      "correct_option": "C",
+      "explanation": "The prion agent was similar in size to viruses."
+    },
+    {
+      "id": "BIO_CH2_267",
+      "topic": "Kingdom Monera",
+      "question": "Photosynthetic autotrophic bacteria include:",
+      "options": {
+        "A": "Methanogens",
+        "B": "Halophiles",
+        "C": "Cyanobacteria",
+        "D": "Heterotrophic bacteria"
+      },
+      "correct_option": "C",
+      "explanation": "Cyanobacteria are photosynthetic autotrophs with chlorophyll a similar to green plants."
+    },
+    {
+      "id": "BIO_CH2_268",
+      "topic": "Kingdom Protista",
+      "question": "Protists reproduce asexually and sexually. Sexual reproduction involves:",
+      "options": {
+        "A": "Spore formation only",
+        "B": "Binary fission only",
+        "C": "Cell fusion and zygote formation",
+        "D": "Budding only"
+      },
+      "correct_option": "C",
+      "explanation": "Protists reproduce asexually and sexually by a process involving cell fusion and zygote formation."
+    },
+    {
+      "id": "BIO_CH2_269",
+      "topic": "Dinoflagellates",
+      "question": "Red tides make the sea appear red because:",
+      "options": {
+        "A": "Red soil from land",
+        "B": "Rapid multiplication of red dinoflagellates like Gonyaulax",
+        "C": "Presence of red algae",
+        "D": "Iron oxide from ocean floor"
+      },
+      "correct_option": "B",
+      "explanation": "Red dinoflagellates like Gonyaulax undergo rapid multiplication that makes the sea appear red (red tides)."
+    },
+    {
+      "id": "BIO_CH2_270",
+      "topic": "Kingdom Fungi",
+      "question": "The plasmogamy step in fungi involves:",
+      "options": {
+        "A": "Fusion of two nuclei",
+        "B": "Meiosis",
+        "C": "Fusion of protoplasms between two motile or non-motile gametes",
+        "D": "Spore germination"
+      },
+      "correct_option": "C",
+      "explanation": "Plasmogamy involves fusion of protoplasms between two motile or non-motile gametes."
+    },
+    {
+      "id": "BIO_CH2_271",
+      "topic": "Five Kingdom Classification",
+      "question": "What is the body organisation of Kingdom Animalia?",
+      "options": {
+        "A": "Cellular",
+        "B": "Multicellular/loose tissue",
+        "C": "Tissue/organ",
+        "D": "Tissue/organ/organ system"
+      },
+      "correct_option": "D",
+      "explanation": "Kingdom Animalia has tissue/organ/organ system body organisation."
+    },
+    {
+      "id": "BIO_CH2_272",
+      "topic": "Five Kingdom Classification",
+      "question": "What is the body organisation of Kingdom Plantae?",
+      "options": {
+        "A": "Cellular only",
+        "B": "Tissue/organ",
+        "C": "Multicellular/loose tissue",
+        "D": "Tissue/organ/organ system"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Plantae has tissue/organ body organisation."
+    },
+    {
+      "id": "BIO_CH2_273",
+      "topic": "Kingdom Monera",
+      "question": "Typhoid is caused by:",
+      "options": {
+        "A": "Virus",
+        "B": "Fungus",
+        "C": "Protozoan",
+        "D": "Bacteria"
+      },
+      "correct_option": "D",
+      "explanation": "Typhoid is a well known disease caused by different bacteria."
+    },
+    {
+      "id": "BIO_CH2_274",
+      "topic": "Euglenoids",
+      "question": "When sunlight is available, Euglenoids are:",
+      "options": {
+        "A": "Heterotrophic",
+        "B": "Photosynthetic (autotrophic)",
+        "C": "Saprophytic",
+        "D": "Parasitic"
+      },
+      "correct_option": "B",
+      "explanation": "Euglenoids are photosynthetic in the presence of sunlight."
+    },
+    {
+      "id": "BIO_CH2_275",
+      "topic": "Slime Moulds",
+      "question": "Slime mould spores are extremely resistant and can survive for:",
+      "options": {
+        "A": "A few hours",
+        "B": "A few days",
+        "C": "A few months",
+        "D": "Many years"
+      },
+      "correct_option": "D",
+      "explanation": "The spores of slime moulds are extremely resistant and survive for many years, even under adverse conditions."
+    },
+    {
+      "id": "BIO_CH2_276",
+      "topic": "Ascomycetes",
+      "question": "Penicillium belongs to which class of fungi?",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "B",
+      "explanation": "Penicillium is an example of ascomycetes (mostly multicellular)."
+    },
+    {
+      "id": "BIO_CH2_277",
+      "topic": "History of Classification",
+      "question": "Classification criteria that were included beyond gross morphology include:",
+      "options": {
+        "A": "Geographic location only",
+        "B": "Cell structure, nature of wall, mode of nutrition, habitat, methods of reproduction, evolutionary relationships",
+        "C": "Size and color only",
+        "D": "Economic importance only"
+      },
+      "correct_option": "B",
+      "explanation": "A need was felt for including other characteristics like cell structure, nature of wall, mode of nutrition, habitat, methods of reproduction, evolutionary relationships, etc."
+    },
+    {
+      "id": "BIO_CH2_278",
+      "topic": "Kingdom Fungi",
+      "question": "Fungi that are saprophytic are called so because they:",
+      "options": {
+        "A": "Are parasites on animals",
+        "B": "Absorb organic matter from dead substrates",
+        "C": "Are photosynthetic",
+        "D": "Fix nitrogen"
+      },
+      "correct_option": "B",
+      "explanation": "Most fungi are heterotrophic and absorb soluble organic matter from dead substrates and hence are called saprophytes."
+    },
+    {
+      "id": "BIO_CH2_279",
+      "topic": "Viruses",
+      "question": "The genetic material of a virus is:",
+      "options": {
+        "A": "Always DNA",
+        "B": "Always RNA",
+        "C": "Either RNA or DNA",
+        "D": "Both RNA and DNA together"
+      },
+      "correct_option": "C",
+      "explanation": "Viruses contain genetic material that could be either RNA or DNA. No virus contains both RNA and DNA."
+    },
+    {
+      "id": "BIO_CH2_280",
+      "topic": "Five Kingdom Classification",
+      "question": "Protista cell wall is:",
+      "options": {
+        "A": "Always absent",
+        "B": "Present in some",
+        "C": "Always present",
+        "D": "Made of chitin"
+      },
+      "correct_option": "B",
+      "explanation": "In Protista, cell wall is present in some members."
+    },
+    {
+      "id": "BIO_CH2_281",
+      "topic": "Archaebacteria",
+      "question": "Which of the following is a type of archaebacteria?",
+      "options": {
+        "A": "Cyanobacteria",
+        "B": "Mycoplasma",
+        "C": "Methanogens",
+        "D": "Eubacteria"
+      },
+      "correct_option": "C",
+      "explanation": "Methanogens are archaebacteria found in marshy areas and gut of ruminants."
+    },
+    {
+      "id": "BIO_CH2_282",
+      "topic": "Five Kingdom Classification",
+      "question": "Which parameter distinguished fungi from green plants in Whittaker's classification?",
+      "options": {
+        "A": "Mode of reproduction",
+        "B": "Cell wall composition — chitin in fungi vs cellulose in plants",
+        "C": "Body size",
+        "D": "Habitat"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi had chitin in their walls while green plants had a cellulosic cell wall — this characteristic distinction led to fungi being placed in a separate kingdom."
+    },
+    {
+      "id": "BIO_CH2_283",
+      "topic": "Lichens",
+      "question": "If you see a lichen in nature, you would:",
+      "options": {
+        "A": "Easily identify it as two organisms",
+        "B": "Never imagine it has two different organisms",
+        "C": "See it as a plant",
+        "D": "See it as a fungus only"
+      },
+      "correct_option": "B",
+      "explanation": "So close is their association that if one saw a lichen in nature, one would never imagine that they had two different organisms within them."
+    },
+    {
+      "id": "BIO_CH2_284",
+      "topic": "Kingdom Fungi",
+      "question": "In which type of fungi does the sexual reproduction result immediately in diploid cells without any dikaryotic stage?",
+      "options": {
+        "A": "All fungi",
+        "B": "Ascomycetes and basidiomycetes",
+        "C": "Some fungi where fusion of two haploid cells immediately results in diploid cells",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "C",
+      "explanation": "In some fungi the fusion of two haploid cells immediately results in diploid cells (2n). However, in ascomycetes and basidiomycetes, an intervening dikaryotic stage occurs."
+    },
+    {
+      "id": "BIO_CH2_285",
+      "topic": "Protozoans",
+      "question": "Amoeboid protozoans can live in:",
+      "options": {
+        "A": "Only fresh water",
+        "B": "Only sea water",
+        "C": "Fresh water, sea water or moist soil",
+        "D": "Only moist soil"
+      },
+      "correct_option": "C",
+      "explanation": "Amoeboid protozoans live in fresh water, sea water or moist soil."
+    },
+    {
+      "id": "BIO_CH2_286",
+      "topic": "Flagellated Protozoans",
+      "question": "Flagellated protozoans are either:",
+      "options": {
+        "A": "Autotrophic or heterotrophic",
+        "B": "Free-living or parasitic",
+        "C": "Aquatic or terrestrial",
+        "D": "Unicellular or multicellular"
+      },
+      "correct_option": "B",
+      "explanation": "The members of the flagellated protozoan group are either free-living or parasitic."
+    },
+    {
+      "id": "BIO_CH2_287",
+      "topic": "Kingdom Protista",
+      "question": "Boundaries of Kingdom Protista are:",
+      "options": {
+        "A": "Very well defined",
+        "B": "Not well defined",
+        "C": "Clearly defined since 1969",
+        "D": "Defined by Aristotle"
+      },
+      "correct_option": "B",
+      "explanation": "All single-celled eukaryotes are placed under Protista, but the boundaries of this kingdom are not well defined."
+    },
+    {
+      "id": "BIO_CH2_288",
+      "topic": "Kingdom Monera",
+      "question": "Bacteria as a group have simple structure but are:",
+      "options": {
+        "A": "Simple in behaviour",
+        "B": "Very complex in behaviour",
+        "C": "Non-functional",
+        "D": "Inactive metabolically"
+      },
+      "correct_option": "B",
+      "explanation": "Though the bacterial structure is very simple, they are very complex in behaviour."
+    },
+    {
+      "id": "BIO_CH2_289",
+      "topic": "Viruses",
+      "question": "Viruses once they infect a cell:",
+      "options": {
+        "A": "Remain dormant",
+        "B": "Take over the machinery of the host cell to replicate themselves, killing the host",
+        "C": "Improve host cell function",
+        "D": "Die immediately"
+      },
+      "correct_option": "B",
+      "explanation": "Once they infect a cell, viruses take over the machinery of the host cell to replicate themselves, killing the host."
+    },
+    {
+      "id": "BIO_CH2_290",
+      "topic": "Viruses",
+      "question": "W.M. Stanley showed that viruses could be crystallised in which year?",
+      "options": {
+        "A": "1892",
+        "B": "1898",
+        "C": "1935",
+        "D": "1969"
+      },
+      "correct_option": "C",
+      "explanation": "W.M. Stanley (1935) showed that viruses could be crystallised and crystals consist largely of proteins."
+    },
+    {
+      "id": "BIO_CH2_291",
+      "topic": "History of Classification",
+      "question": "Plant and animal kingdoms have been a constant under:",
+      "options": {
+        "A": "Only the Two Kingdom system",
+        "B": "Only the Five Kingdom system",
+        "C": "All different classification systems",
+        "D": "Only the Three Kingdom system"
+      },
+      "correct_option": "C",
+      "explanation": "Though plant and animal kingdoms have been a constant under all different systems, the understanding of what groups/organisms be included have been changing."
+    },
+    {
+      "id": "BIO_CH2_292",
+      "topic": "Kingdom Plantae",
+      "question": "Kingdom Plantae also includes which group of organisms?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Algae",
+        "C": "Fungi",
+        "D": "Protists"
+      },
+      "correct_option": "B",
+      "explanation": "Plantae includes algae, bryophytes, pteridophytes, gymnosperms and angiosperms."
+    },
+    {
+      "id": "BIO_CH2_293",
+      "topic": "Kingdom Plantae",
+      "question": "Kingdom Plantae includes:",
+      "options": {
+        "A": "All organisms with chlorophyll",
+        "B": "All eukaryotic chlorophyll-containing organisms",
+        "C": "All prokaryotic chlorophyll-containing organisms",
+        "D": "All organisms with cell walls"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Plantae includes all eukaryotic chlorophyll-containing organisms."
+    },
+    {
+      "id": "BIO_CH2_294",
+      "topic": "Five Kingdom Classification",
+      "question": "Mode of nutrition in Kingdom Fungi is:",
+      "options": {
+        "A": "Autotrophic",
+        "B": "Photosynthetic",
+        "C": "Heterotrophic (saprophytic/parasitic)",
+        "D": "Holozoic"
+      },
+      "correct_option": "C",
+      "explanation": "Kingdom Fungi has heterotrophic mode of nutrition — saprophytic/parasitic."
+    },
+    {
+      "id": "BIO_CH2_295",
+      "topic": "Kingdom Monera",
+      "question": "Which organisms are absent in the Monera kingdom that are present in all other kingdoms?",
+      "options": {
+        "A": "Cell membrane",
+        "B": "Nuclear membrane",
+        "C": "Cytoplasm",
+        "D": "Ribosomes"
+      },
+      "correct_option": "B",
+      "explanation": "Kingdom Monera organisms (prokaryotes) lack a nuclear membrane, which is present in all other kingdoms (eukaryotes)."
+    },
+    {
+      "id": "BIO_CH2_296",
+      "topic": "Chrysophytes",
+      "question": "Most chrysophytes are:",
+      "options": {
+        "A": "Heterotrophic",
+        "B": "Photosynthetic",
+        "C": "Parasitic",
+        "D": "Saprophytic"
+      },
+      "correct_option": "B",
+      "explanation": "Most chrysophytes are photosynthetic."
+    },
+    {
+      "id": "BIO_CH2_297",
+      "topic": "Eubacteria",
+      "question": "Nostoc is an example of which type of organism?",
+      "options": {
+        "A": "Archaebacterium",
+        "B": "Cyanobacterium (eubacterium)",
+        "C": "Mycoplasma",
+        "D": "Slime mould"
+      },
+      "correct_option": "B",
+      "explanation": "Nostoc is a cyanobacterium that can fix atmospheric nitrogen in specialised cells called heterocysts."
+    },
+    {
+      "id": "BIO_CH2_298",
+      "topic": "Kingdom Fungi",
+      "question": "The three steps of sexual cycle in fungi are (in order):",
+      "options": {
+        "A": "Karyogamy → Plasmogamy → Meiosis",
+        "B": "Plasmogamy → Karyogamy → Meiosis",
+        "C": "Meiosis → Plasmogamy → Karyogamy",
+        "D": "Plasmogamy → Meiosis → Karyogamy"
+      },
+      "correct_option": "B",
+      "explanation": "The sexual cycle in fungi involves: (i) Plasmogamy (ii) Karyogamy (iii) Meiosis in zygote."
+    },
+    {
+      "id": "BIO_CH2_299",
+      "topic": "Kingdom Animalia",
+      "question": "Animals depend on plants for food:",
+      "options": {
+        "A": "Never",
+        "B": "Directly or indirectly",
+        "C": "Only directly",
+        "D": "Only indirectly"
+      },
+      "correct_option": "B",
+      "explanation": "Animals directly or indirectly depend on plants for food."
+    },
+    {
+      "id": "BIO_CH2_300",
+      "topic": "Viroids",
+      "question": "What makes viroids different from viruses?",
+      "options": {
+        "A": "Viroids have protein coat, viruses don't",
+        "B": "Viroids are free RNA without protein coat; viruses have a protein coat (capsid)",
+        "C": "Viroids are larger than viruses",
+        "D": "Viroids can infect animals, viruses cannot"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids are free RNA and lack the protein coat found in viruses. This is the key difference."
+    }
+  ]
+}

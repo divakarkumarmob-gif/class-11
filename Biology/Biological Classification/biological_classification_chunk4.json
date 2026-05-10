@@ -1,0 +1,1959 @@
+{
+  "chapter_name": "Biological Classification",
+  "subject": "Biology",
+  "class": "11",
+  "chunk": 4,
+  "total_questions_in_chunk": 250,
+  "questions": [
+    {
+      "id": "BIO_CH2_901",
+      "topic": "History of Classification",
+      "question": "Which of the following classification systems first distinguished prokaryotes from eukaryotes?",
+      "options": {
+        "A": "Two Kingdom (Linnaeus)",
+        "B": "Three Kingdom (Haeckel)",
+        "C": "Four Kingdom (Copeland)",
+        "D": "Five Kingdom (Whittaker)"
+      },
+      "correct_option": "C",
+      "explanation": "Herbert F. Copeland's Four Kingdom system (1956) first separated prokaryotes (Monera) from eukaryotes."
+    },
+    {
+      "id": "BIO_CH2_902",
+      "topic": "Five Kingdom Classification",
+      "question": "Which of the following statements about Whittaker's Five Kingdom system is CORRECT?",
+      "options": {
+        "A": "It places cyanobacteria in Plantae",
+        "B": "It uses cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships",
+        "C": "It places fungi in Plantae",
+        "D": "It has only four kingdoms"
+      },
+      "correct_option": "B",
+      "explanation": "Whittaker used cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships as criteria for his Five Kingdom classification."
+    },
+    {
+      "id": "BIO_CH2_903",
+      "topic": "Kingdom Monera",
+      "question": "The process of nitrogen fixation converts:",
+      "options": {
+        "A": "Nitrate → Ammonia",
+        "B": "Atmospheric N2 → Ammonia (NH3)",
+        "C": "Ammonia → Nitrate",
+        "D": "Nitrite → Nitrate"
+      },
+      "correct_option": "B",
+      "explanation": "Nitrogen fixation converts atmospheric nitrogen gas (N2) into ammonia (NH3) — a form usable by plants."
+    },
+    {
+      "id": "BIO_CH2_904",
+      "topic": "Kingdom Monera",
+      "question": "Which enzyme is responsible for nitrogen fixation in bacteria?",
+      "options": {
+        "A": "Nitrogenase",
+        "B": "Nitrase",
+        "C": "Ammonase",
+        "D": "Nitrokinase"
+      },
+      "correct_option": "A",
+      "explanation": "Nitrogenase enzyme is responsible for nitrogen fixation — it breaks the triple bond of N2 and converts it to NH3. It requires anaerobic conditions and is inhibited by oxygen."
+    },
+    {
+      "id": "BIO_CH2_905",
+      "topic": "Eubacteria",
+      "question": "The heterocysts in cyanobacteria provide which special condition for nitrogen fixation?",
+      "options": {
+        "A": "High oxygen environment",
+        "B": "Anaerobic (low oxygen) microenvironment",
+        "C": "High temperature",
+        "D": "High pH environment"
+      },
+      "correct_option": "B",
+      "explanation": "Heterocysts provide an anaerobic microenvironment (by lacking PSII that produces O2) — this protects nitrogenase from oxygen inactivation."
+    },
+    {
+      "id": "BIO_CH2_906",
+      "topic": "Kingdom Protista",
+      "question": "Which group of Protista is primarily responsible for the 'oxygen budget' of Earth's atmosphere?",
+      "options": {
+        "A": "Protozoans",
+        "B": "Slime moulds",
+        "C": "Marine photosynthetic protists (diatoms, dinoflagellates, green algae)",
+        "D": "Euglenoids only"
+      },
+      "correct_option": "C",
+      "explanation": "Marine photosynthetic protists (especially diatoms and dinoflagellates) contribute approximately 50% of Earth's oxygen through photosynthesis."
+    },
+    {
+      "id": "BIO_CH2_907",
+      "topic": "Kingdom Fungi",
+      "question": "Which of the following correctly describes the life cycle of Rhizopus (bread mould)?",
+      "options": {
+        "A": "Only sexual reproduction",
+        "B": "Asexual (sporangiospores) in favourable conditions; Sexual (zygospore) in unfavourable conditions",
+        "C": "Only asexual reproduction",
+        "D": "Only budding"
+      },
+      "correct_option": "B",
+      "explanation": "Rhizopus reproduces asexually by sporangiospores in favourable conditions and sexually by zygospore formation (fusion of + and - strains) in unfavourable conditions."
+    },
+    {
+      "id": "BIO_CH2_908",
+      "topic": "Viruses",
+      "question": "Which of the following correctly describes a lysogenic bacteriophage?",
+      "options": {
+        "A": "Always kills the host immediately",
+        "B": "Integrates its DNA into host chromosome as prophage — can remain dormant for many generations",
+        "C": "Only replicates in plant cells",
+        "D": "Has only RNA genetic material"
+      },
+      "correct_option": "B",
+      "explanation": "A lysogenic (temperate) bacteriophage integrates its DNA into the host chromosome as prophage — it can remain dormant for many generations before entering the lytic cycle."
+    },
+    {
+      "id": "BIO_CH2_909",
+      "topic": "Lichens",
+      "question": "Which lichen produces the antibiotic usnic acid?",
+      "options": {
+        "A": "Cladonia rangiferina",
+        "B": "Usnea (beard lichens)",
+        "C": "Parmelia",
+        "D": "Cetraria"
+      },
+      "correct_option": "B",
+      "explanation": "Usnea (beard lichens) produces usnic acid — a compound with antibacterial, antifungal, and antiviral properties used in some cosmetics and medicines."
+    },
+    {
+      "id": "BIO_CH2_910",
+      "topic": "Kingdom Monera",
+      "question": "The 'Great Oxidation Event' (~2.4 billion years ago) was caused by:",
+      "options": {
+        "A": "Volcanic eruptions",
+        "B": "Cyanobacterial oxygenic photosynthesis releasing O2 into the atmosphere",
+        "C": "Chemical reactions in the ocean",
+        "D": "Meteorite impacts"
+      },
+      "correct_option": "B",
+      "explanation": "The Great Oxidation Event was caused by cyanobacteria — their oxygenic photosynthesis produced oxygen that transformed Earth's reducing atmosphere to an oxidising one."
+    },
+    {
+      "id": "BIO_CH2_911",
+      "topic": "Kingdom Fungi",
+      "question": "Which of the following is NOT a mode of spore dispersal in fungi?",
+      "options": {
+        "A": "Wind",
+        "B": "Water",
+        "C": "Animals (insects, birds)",
+        "D": "Photosynthesis"
+      },
+      "correct_option": "D",
+      "explanation": "Fungi disperse spores by wind, water, animals (insects, birds), explosive mechanisms — not by photosynthesis, which is irrelevant to spore dispersal."
+    },
+    {
+      "id": "BIO_CH2_912",
+      "topic": "Kingdom Protista",
+      "question": "Which of the following Protista are important in the global silicon cycle?",
+      "options": {
+        "A": "Dinoflagellates",
+        "B": "Diatoms (absorb dissolved silica to make their frustules)",
+        "C": "Euglenoids",
+        "D": "Slime moulds"
+      },
+      "correct_option": "B",
+      "explanation": "Diatoms are central to the global silicon cycle — they absorb dissolved silica from seawater to build their silica frustules (cell walls)."
+    },
+    {
+      "id": "BIO_CH2_913",
+      "topic": "Viroids",
+      "question": "Can viroids replicate in the absence of a host cell?",
+      "options": {
+        "A": "Yes, they are self-replicating",
+        "B": "No, they need host cell RNA polymerase and other factors",
+        "C": "Yes, they use their own enzymes",
+        "D": "Yes, but only at high temperature"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids CANNOT replicate independently — they need the host cell's RNA polymerase and other cellular factors for replication."
+    },
+    {
+      "id": "BIO_CH2_914",
+      "topic": "Kingdom Monera",
+      "question": "Which is the CORRECT sequence in the nitrogen cycle?",
+      "options": {
+        "A": "N2 → NH3 → NO2- → NO3- → N2",
+        "B": "NH3 → N2 → NO3- → NO2-",
+        "C": "NO3- → N2 → NH3 → NO2-",
+        "D": "N2 → NO3- → NH3 → NO2-"
+      },
+      "correct_option": "A",
+      "explanation": "N2 fixation → NH3 (ammonia) → NO2- (nitrification by Nitrosomonas) → NO3- (nitrification by Nitrobacter) → N2 (denitrification by Pseudomonas)."
+    },
+    {
+      "id": "BIO_CH2_915",
+      "topic": "Kingdom Fungi",
+      "question": "In Ascomycetes, which is the correct sequence of sexual reproduction?",
+      "options": {
+        "A": "Plasmogamy → (dikaryon phase) → Karyogamy → Meiosis → Ascospores",
+        "B": "Karyogamy → Plasmogamy → Meiosis",
+        "C": "Meiosis → Plasmogamy → Karyogamy",
+        "D": "Ascospores → Karyogamy → Plasmogamy"
+      },
+      "correct_option": "A",
+      "explanation": "In Ascomycetes: Plasmogamy (cytoplasm fusion) → dikaryotic phase → Karyogamy (nuclear fusion) → Meiosis → 4 or 8 Ascospores in ascus."
+    },
+    {
+      "id": "BIO_CH2_916",
+      "topic": "Kingdom Monera",
+      "question": "How many true kingdoms were ultimately recognised by the Three Domain system?",
+      "options": {
+        "A": "3 domains with 5 kingdoms",
+        "B": "3 domains with 6 kingdoms (2 prokaryotic + 4 eukaryotic)",
+        "C": "3 domains with 3 kingdoms",
+        "D": "2 domains with 5 kingdoms"
+      },
+      "correct_option": "B",
+      "explanation": "The Three Domain system (Woese) has 3 domains: Bacteria, Archaea, Eukarya — with 6 kingdoms: Eubacteria + Archaebacteria + Protista + Fungi + Plantae + Animalia."
+    },
+    {
+      "id": "BIO_CH2_917",
+      "topic": "Kingdom Protista",
+      "question": "Which protist causes 'amoebic liver abscess'?",
+      "options": {
+        "A": "Amoeba proteus",
+        "B": "Entamoeba histolytica (can spread from intestine to liver)",
+        "C": "Naegleria fowleri",
+        "D": "Acanthamoeba"
+      },
+      "correct_option": "B",
+      "explanation": "Entamoeba histolytica can spread through the blood from the intestine to the liver, causing amoebic liver abscess — a serious complication of amoebic dysentery."
+    },
+    {
+      "id": "BIO_CH2_918",
+      "topic": "Kingdom Fungi",
+      "question": "In asexual reproduction of Penicillium, the conidia are produced in:",
+      "options": {
+        "A": "Chains from the tips of conidiophores",
+        "B": "Inside sporangia",
+        "C": "Inside asci",
+        "D": "On basidia"
+      },
+      "correct_option": "A",
+      "explanation": "In Penicillium, conidia are produced in chains (like brushes) from the tips of branched conidiophores — giving it a characteristic brush-like (penicillus) appearance."
+    },
+    {
+      "id": "BIO_CH2_919",
+      "topic": "Viruses",
+      "question": "The CRISPR-Cas system in bacteria is a defence against:",
+      "options": {
+        "A": "Other bacteria",
+        "B": "Viruses (bacteriophages) — it is a bacterial immune memory system",
+        "C": "Fungi",
+        "D": "Protists"
+      },
+      "correct_option": "B",
+      "explanation": "The CRISPR-Cas system is a bacterial adaptive immune memory against bacteriophages — it stores viral DNA sequences and uses them to cut and destroy future infections by the same virus."
+    },
+    {
+      "id": "BIO_CH2_920",
+      "topic": "Kingdom Monera",
+      "question": "Microbial mats are layered communities of microorganisms at the surface of water or sediment. Which organisms typically dominate the photosynthetic layer?",
+      "options": {
+        "A": "Protozoans",
+        "B": "Cyanobacteria",
+        "C": "Fungi",
+        "D": "Heterotrophic bacteria"
+      },
+      "correct_option": "B",
+      "explanation": "Cyanobacteria typically dominate the top photosynthetic layer of microbial mats — they are the primary producers."
+    },
+    {
+      "id": "BIO_CH2_921",
+      "topic": "Kingdom Fungi",
+      "question": "Mold is a common term for which types of fungi?",
+      "options": {
+        "A": "Unicellular yeasts",
+        "B": "Filamentous fungi that grow as visible fuzzy or powdery colonies on surfaces",
+        "C": "Only Basidiomycetes",
+        "D": "Only aquatic fungi"
+      },
+      "correct_option": "B",
+      "explanation": "Molds are filamentous fungi that grow as visible fuzzy, powdery, or wooly colonies — including Penicillium (blue-green), Aspergillus (black), Mucor/Rhizopus (white-grey)."
+    },
+    {
+      "id": "BIO_CH2_922",
+      "topic": "Kingdom Protista",
+      "question": "Which classification CORRECTLY places Euglena?",
+      "options": {
+        "A": "Kingdom Plantae — because it photosynthesises",
+        "B": "Kingdom Animalia — because it moves",
+        "C": "Kingdom Protista — because it is unicellular eukaryote with both plant and animal features",
+        "D": "Kingdom Monera — because it is small"
+      },
+      "correct_option": "C",
+      "explanation": "Euglena is placed in Kingdom Protista — it is a unicellular eukaryote that cannot be placed in either Plantae (no cell wall, can be heterotrophic) or Animalia (has chloroplasts, photosynthetic)."
+    },
+    {
+      "id": "BIO_CH2_923",
+      "topic": "Viroids",
+      "question": "Which technique was critical in T.O. Diener's initial discovery of viroids?",
+      "options": {
+        "A": "X-ray crystallography",
+        "B": "Gel filtration and sedimentation analysis showing the agent was smaller than any known virus",
+        "C": "Electron microscopy",
+        "D": "PCR amplification"
+      },
+      "correct_option": "B",
+      "explanation": "T.O. Diener used gel filtration and sedimentation analysis to show that the potato spindle tuber agent was smaller than any known virus — leading to the viroid concept."
+    },
+    {
+      "id": "BIO_CH2_924",
+      "topic": "Kingdom Monera",
+      "question": "Which statement about E. coli is INCORRECT?",
+      "options": {
+        "A": "It is a gram-negative bacterium",
+        "B": "It normally lives in the human intestine",
+        "C": "All strains cause disease",
+        "D": "It is widely used in biotechnology"
+      },
+      "correct_option": "C",
+      "explanation": "Not ALL E. coli strains cause disease — most are normal, harmless intestinal flora. Only certain pathogenic strains (like O157:H7, ETEC) cause disease."
+    },
+    {
+      "id": "BIO_CH2_925",
+      "topic": "Kingdom Fungi",
+      "question": "What is the role of fungi in a forest ecosystem?",
+      "options": {
+        "A": "Primary producers",
+        "B": "Primary consumers",
+        "C": "Decomposers and mycorrhizal symbionts",
+        "D": "Top predators"
+      },
+      "correct_option": "C",
+      "explanation": "In forest ecosystems, fungi serve as decomposers (breaking down dead organic matter) and as mycorrhizal symbionts (partnering with tree roots for nutrient absorption)."
+    },
+    {
+      "id": "BIO_CH2_926",
+      "topic": "Kingdom Protista",
+      "question": "The 'wood wide web' in forests involves:",
+      "options": {
+        "A": "Tree root connections only",
+        "B": "Mycorrhizal fungal networks connecting tree roots and facilitating nutrient exchange between trees",
+        "C": "Bacterial networks in soil",
+        "D": "Lichen networks on bark"
+      },
+      "correct_option": "B",
+      "explanation": "The 'wood wide web' refers to mycorrhizal fungal networks that connect tree roots — enabling trees to share nutrients (carbon, phosphorus) and chemical signals."
+    },
+    {
+      "id": "BIO_CH2_927",
+      "topic": "Lichens",
+      "question": "Which lichen is used as a food source for humans in Japan and Korea?",
+      "options": {
+        "A": "Usnea",
+        "B": "Umbilicaria (rock tripe) and Gyrophora",
+        "C": "Cladonia",
+        "D": "Roccella"
+      },
+      "correct_option": "B",
+      "explanation": "Umbilicaria (rock tripe) and Gyrophora species are used as food in Japan and Korea — they can be boiled and eaten as a food source."
+    },
+    {
+      "id": "BIO_CH2_928",
+      "topic": "Kingdom Monera",
+      "question": "Spirulina is classified as a cyanobacterium because it is:",
+      "options": {
+        "A": "Eukaryotic and photosynthetic",
+        "B": "Prokaryotic, photosynthetic (oxygenic), and spiral-shaped",
+        "C": "Unicellular heterotroph",
+        "D": "Eukaryotic with chitin wall"
+      },
+      "correct_option": "B",
+      "explanation": "Spirulina (Arthrospira) is a cyanobacterium — prokaryotic (no nuclear membrane), oxygenic photosynthesis, spiral-shaped filaments."
+    },
+    {
+      "id": "BIO_CH2_929",
+      "topic": "Kingdom Fungi",
+      "question": "What is meant by 'obligate biotroph' in the context of plant pathogenic fungi?",
+      "options": {
+        "A": "Fungi that can grow on artificial media",
+        "B": "Fungi that can ONLY grow on living host tissue — cannot be cultured on artificial media",
+        "C": "Fungi that grow only on dead tissue",
+        "D": "Fungi that are free-living in soil"
+      },
+      "correct_option": "B",
+      "explanation": "Obligate biotrophs like powdery mildews (Erysiphe) and rusts (Puccinia) can only grow on living host tissue — they cannot be cultured on artificial media."
+    },
+    {
+      "id": "BIO_CH2_930",
+      "topic": "Kingdom Protista",
+      "question": "Which Protista have contributed to the formation of limestone (calcium carbonate) deposits?",
+      "options": {
+        "A": "Diatoms",
+        "B": "Euglenoids",
+        "C": "Foraminifera",
+        "D": "Dinoflagellates"
+      },
+      "correct_option": "C",
+      "explanation": "Foraminifera with calcium carbonate shells have contributed to massive limestone deposits — the white cliffs of Dover and the Pyramids of Egypt are built from foram-rich limestone."
+    },
+    {
+      "id": "BIO_CH2_931",
+      "topic": "Viruses",
+      "question": "What is a 'virusoid'?",
+      "options": {
+        "A": "A large virus",
+        "B": "A satellite RNA encapsidated in a helper virus particle",
+        "C": "Same as viroid",
+        "D": "A bacterial virus"
+      },
+      "correct_option": "B",
+      "explanation": "A virusoid is a satellite RNA that is encapsidated (enclosed) within the protein coat of a helper virus — unlike viroids which are always naked."
+    },
+    {
+      "id": "BIO_CH2_932",
+      "topic": "Kingdom Monera",
+      "question": "Which of the following is the CORRECT description of cyanobacteria?",
+      "options": {
+        "A": "Eukaryotic, photosynthetic, have chloroplasts",
+        "B": "Prokaryotic, photosynthetic (oxygenic), no chloroplasts, chlorophyll a in thylakoid membranes",
+        "C": "Prokaryotic, heterotrophic, no chlorophyll",
+        "D": "Eukaryotic, heterotrophic, no chloroplasts"
+      },
+      "correct_option": "B",
+      "explanation": "Cyanobacteria are prokaryotic (no membrane-bound nucleus), perform oxygenic photosynthesis, and have chlorophyll a in thylakoid membranes — NOT in chloroplasts."
+    },
+    {
+      "id": "BIO_CH2_933",
+      "topic": "Kingdom Fungi",
+      "question": "What is the significance of the discovery that fungi and animals are more closely related to each other than to plants?",
+      "options": {
+        "A": "It has no significance",
+        "B": "It placed fungi and animals together in a group called 'Opisthokonta' — suggesting a common ancestor",
+        "C": "It means fungi are animals",
+        "D": "It means fungi should be placed in Animalia"
+      },
+      "correct_option": "B",
+      "explanation": "Molecular phylogeny shows fungi and animals form a group called Opisthokonta — suggesting they share a common ancestor more recently than either does with plants."
+    },
+    {
+      "id": "BIO_CH2_934",
+      "topic": "Kingdom Protista",
+      "question": "Which test uses protists (specifically Paramecium) to assess water toxicity?",
+      "options": {
+        "A": "Turbidity test",
+        "B": "Protozoan bioassay — measuring Paramecium survival/behaviour in water samples",
+        "C": "pH test only",
+        "D": "Chemical colour test"
+      },
+      "correct_option": "B",
+      "explanation": "Paramecium and other ciliates are used in bioassays to assess water toxicity — their survival, growth rate, and behaviour indicate water quality."
+    },
+    {
+      "id": "BIO_CH2_935",
+      "topic": "Viroids",
+      "question": "Viroids have which secondary structure?",
+      "options": {
+        "A": "Random coil",
+        "B": "Rod-like structure with extensive intramolecular base pairing",
+        "C": "Double helix",
+        "D": "Globular protein-like structure"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids form a compact rod-like secondary structure due to extensive intramolecular base pairing — this gives them unusual stability."
+    },
+    {
+      "id": "BIO_CH2_936",
+      "topic": "Kingdom Monera",
+      "question": "Which vitamin is produced by gut bacteria and is important for blood clotting?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin D",
+        "C": "Vitamin K (produced by E. coli and other gut bacteria)",
+        "D": "Vitamin A"
+      },
+      "correct_option": "C",
+      "explanation": "Vitamin K is produced by E. coli and other gut bacteria — it is essential for blood clotting."
+    },
+    {
+      "id": "BIO_CH2_937",
+      "topic": "Kingdom Fungi",
+      "question": "Why are some fungi used in 'single-cell protein' (SCP) production?",
+      "options": {
+        "A": "They are photosynthetic",
+        "B": "They can grow rapidly on low-cost substrates (waste materials) and have high protein content",
+        "C": "They fix nitrogen",
+        "D": "They produce antibiotics"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi like Fusarium venenatum are used in SCP production (e.g., Quorn) because they grow rapidly on low-cost carbon substrates and have high protein/fibre content."
+    },
+    {
+      "id": "BIO_CH2_938",
+      "topic": "Kingdom Protista",
+      "question": "Giardia lamblia has an unusual feature — it lacks:",
+      "options": {
+        "A": "Flagella",
+        "B": "Mitochondria (it has mitosomes instead — remnant organelles)",
+        "C": "Nucleus",
+        "D": "Cell membrane"
+      },
+      "correct_option": "B",
+      "explanation": "Giardia lamblia lacks typical mitochondria — it has mitosomes (reduced relict organelles with mitochondrial origin) — making it one of the most primitive eukaryotes."
+    },
+    {
+      "id": "BIO_CH2_939",
+      "topic": "Viruses",
+      "question": "What is 'viral evolution' mainly driven by?",
+      "options": {
+        "A": "Slow mutation like higher organisms",
+        "B": "High mutation rates (especially RNA viruses) plus natural selection by host immune system and antiviral drugs",
+        "C": "Sexual recombination only",
+        "D": "Horizontal gene transfer only"
+      },
+      "correct_option": "B",
+      "explanation": "Viral evolution is driven by high mutation rates (especially RNA viruses lacking proofreading), plus natural selection by host immune responses and antiviral drugs — enabling rapid adaptation."
+    },
+    {
+      "id": "BIO_CH2_940",
+      "topic": "Kingdom Monera",
+      "question": "What is 'bioluminescence' in bacteria?",
+      "options": {
+        "A": "Fluorescence under UV light",
+        "B": "Production of visible light through a luciferase-catalysed chemical reaction using luciferin",
+        "C": "Reflection of light from cell walls",
+        "D": "Absorption of light for photosynthesis"
+      },
+      "correct_option": "B",
+      "explanation": "Bacterial bioluminescence is the production of visible light through luciferase enzyme catalysing oxidation of bacterial luciferin (FMNH2) — resulting in light emission."
+    },
+    {
+      "id": "BIO_CH2_941",
+      "topic": "Kingdom Fungi",
+      "question": "What are 'endophytic fungi'?",
+      "options": {
+        "A": "Fungi that grow only outside plant tissue",
+        "B": "Fungi that live inside plant tissue without causing visible disease — often beneficial",
+        "C": "Fungi that parasitise plant roots",
+        "D": "Fungi that live in soil only"
+      },
+      "correct_option": "B",
+      "explanation": "Endophytic fungi live inside plant tissue (stems, leaves, roots) without causing visible disease — they can enhance plant growth, stress tolerance, and pest resistance."
+    },
+    {
+      "id": "BIO_CH2_942",
+      "topic": "Kingdom Protista",
+      "question": "The discovery of endosymbiosis theory suggests that chloroplasts evolved from:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Engulfed cyanobacteria",
+        "C": "Nuclear DNA",
+        "D": "Flagella"
+      },
+      "correct_option": "B",
+      "explanation": "According to the endosymbiotic theory (Lynn Margulis), chloroplasts evolved from engulfed cyanobacteria — supported by their similar size, double membrane, and circular DNA."
+    },
+    {
+      "id": "BIO_CH2_943",
+      "topic": "Viroids",
+      "question": "Hop stunt viroid (HSVd) affects which important crop?",
+      "options": {
+        "A": "Wheat",
+        "B": "Rice",
+        "C": "Hops, grapevines, cucumbers, and citrus",
+        "D": "Potatoes only"
+      },
+      "correct_option": "C",
+      "explanation": "Hop stunt viroid (HSVd) affects hops (Humulus lupulus), grapevines, cucumbers, and citrus — causing stunting and economic losses in multiple important crops."
+    },
+    {
+      "id": "BIO_CH2_944",
+      "topic": "Kingdom Monera",
+      "question": "Coxiella burnetii causes Q fever and is resistant to disinfectants because it:",
+      "options": {
+        "A": "Has a thick cell wall",
+        "B": "Produces endospore-like small cell variants",
+        "C": "Has a lipid envelope",
+        "D": "Is extremely large"
+      },
+      "correct_option": "B",
+      "explanation": "Coxiella produces endospore-like small cell variants that are highly resistant to heat, desiccation, and disinfectants — making it a concern as a potential bioterrorism agent."
+    },
+    {
+      "id": "BIO_CH2_945",
+      "topic": "Kingdom Fungi",
+      "question": "The 'Zombie ant fungus' (Ophiocordyceps) controls ant behaviour by:",
+      "options": {
+        "A": "Killing the ant immediately",
+        "B": "Invading the ant's brain and manipulating its behaviour before killing it at an ideal location for spore dispersal",
+        "C": "Making ants larger",
+        "D": "Making ants eat more"
+      },
+      "correct_option": "B",
+      "explanation": "Ophiocordyceps unilateralis (zombie ant fungus) invades ants and manipulates their behaviour — making them climb vegetation and bite a leaf at a precise height/orientation before killing them, optimising spore dispersal."
+    },
+    {
+      "id": "BIO_CH2_946",
+      "topic": "Kingdom Protista",
+      "question": "Dinoflagellate toxins (like saxitoxin) are classified as:",
+      "options": {
+        "A": "Only mildly toxic",
+        "B": "Paralytic Shellfish Toxins (PST) — extremely potent neurotoxins",
+        "C": "Beneficial compounds",
+        "D": "Antibiotic compounds"
+      },
+      "correct_option": "B",
+      "explanation": "Saxitoxin and related compounds from dinoflagellates are classified as Paralytic Shellfish Toxins (PST) — they are extremely potent neurotoxins that can cause paralytic shellfish poisoning (PSP)."
+    },
+    {
+      "id": "BIO_CH2_947",
+      "topic": "Prions",
+      "question": "Gerstmann-Sträussler-Scheinker syndrome (GSS) is:",
+      "options": {
+        "A": "A bacterial disease",
+        "B": "A hereditary prion disease with dementia and cerebellar ataxia",
+        "C": "A viral encephalitis",
+        "D": "A fungal brain infection"
+      },
+      "correct_option": "B",
+      "explanation": "GSS is a rare hereditary prion disease — caused by mutations in the PRNP gene, causing progressive dementia, cerebellar ataxia, and death."
+    },
+    {
+      "id": "BIO_CH2_948",
+      "topic": "Kingdom Fungi",
+      "question": "In Basidiomycetes, the 'primary mycelium' is:",
+      "options": {
+        "A": "Diploid",
+        "B": "Haploid — formed from germination of basidiospore",
+        "C": "Dikaryotic",
+        "D": "Aseptate"
+      },
+      "correct_option": "B",
+      "explanation": "The primary mycelium (monokaryotic) in basidiomycetes is haploid — it forms from germination of a haploid basidiospore."
+    },
+    {
+      "id": "BIO_CH2_949",
+      "topic": "Kingdom Monera",
+      "question": "What is 'horizontal gene transfer' in bacteria?",
+      "options": {
+        "A": "Transfer of genes from parent to offspring",
+        "B": "Transfer of genes between bacteria of the same or different species (not via reproduction)",
+        "C": "Gene mutation",
+        "D": "DNA repair"
+      },
+      "correct_option": "B",
+      "explanation": "Horizontal gene transfer (HGT) is the transfer of genes between bacteria by conjugation, transformation, or transduction — not via parent-offspring reproduction. It is a major driver of antibiotic resistance."
+    },
+    {
+      "id": "BIO_CH2_950",
+      "topic": "Kingdom Protista",
+      "question": "The 'toxic algal blooms' in fresh water are mainly caused by:",
+      "options": {
+        "A": "Diatoms",
+        "B": "Cyanobacteria (blue-green algae blooms)",
+        "C": "Dinoflagellates (mainly marine)",
+        "D": "Euglenoids"
+      },
+      "correct_option": "B",
+      "explanation": "Freshwater toxic algal blooms are mainly caused by cyanobacteria (e.g., Microcystis, Anabaena, Cylindrospermopsis) that produce cyanotoxins harmful to humans and animals."
+    },
+    {
+      "id": "BIO_CH2_951",
+      "topic": "History of Classification",
+      "question": "What is 'convergent evolution' and why is it a problem for morphological classification?",
+      "options": {
+        "A": "Similar evolution in same species — not a problem",
+        "B": "Evolution of similar features in unrelated organisms (due to similar environments) — causes incorrect grouping in morphological classification",
+        "C": "Evolution diverging into different species — always correct classification",
+        "D": "Evolution only in plants — no problem"
+      },
+      "correct_option": "B",
+      "explanation": "Convergent evolution is when unrelated organisms evolve similar features due to similar selective pressures. This can cause incorrect groupings in morphological classification — molecular phylogeny overcomes this."
+    },
+    {
+      "id": "BIO_CH2_952",
+      "topic": "Kingdom Fungi",
+      "question": "What is a 'secondary mycelium' (dikaryotic mycelium) in basidiomycetes?",
+      "options": {
+        "A": "Haploid mycelium from spore germination",
+        "B": "Diploid mycelium",
+        "C": "Dikaryotic (n+n) mycelium formed by plasmogamy of two primary mycelia — the dominant vegetative phase",
+        "D": "Asexual mycelium"
+      },
+      "correct_option": "C",
+      "explanation": "The secondary mycelium is the dikaryotic (n+n) mycelium formed after plasmogamy (fusion of two primary haploid mycelia) — it is the dominant vegetative phase in Basidiomycetes."
+    },
+    {
+      "id": "BIO_CH2_953",
+      "topic": "Kingdom Protista",
+      "question": "Which protist is the cause of 'downy mildew' diseases in plants? (Now placed in Protista/Chromista)",
+      "options": {
+        "A": "Diatoms",
+        "B": "Oomycetes like Plasmopara viticola (grape) and Sclerospora (cereals)",
+        "C": "Slime moulds",
+        "D": "Dinoflagellates"
+      },
+      "correct_option": "B",
+      "explanation": "Downy mildew diseases are caused by oomycetes (now placed in Chromista/Protista) like Plasmopara viticola (grapes) and Sclerospora graminicola (cereals)."
+    },
+    {
+      "id": "BIO_CH2_954",
+      "topic": "Viroids",
+      "question": "Which plant diseases can be caused by more than one type of viroid simultaneously?",
+      "options": {
+        "A": "Only potato diseases",
+        "B": "Mixed infections are common in citrus, grapes, and avocado where multiple viroids coexist",
+        "C": "Only coconut diseases",
+        "D": "Only chrysanthemum diseases"
+      },
+      "correct_option": "B",
+      "explanation": "Mixed viroid infections are common in citrus, grapes, and avocado — a single plant can harbour multiple different viroid species simultaneously."
+    },
+    {
+      "id": "BIO_CH2_955",
+      "topic": "Kingdom Monera",
+      "question": "Actinomycetes produce geosmin — a compound that gives:",
+      "options": {
+        "A": "Foul smell to rotting food",
+        "B": "The characteristic earthy smell of soil after rain (petrichor)",
+        "C": "Sweet smell of flowers",
+        "D": "Bitter taste to water"
+      },
+      "correct_option": "B",
+      "explanation": "Geosmin, produced mainly by Streptomyces (actinomycetes), gives the characteristic earthy smell to moist soil after rain — the smell known as 'petrichor'."
+    },
+    {
+      "id": "BIO_CH2_956",
+      "topic": "Kingdom Fungi",
+      "question": "The Indian bread 'idli' and 'dosa' batter is fermented by which microorganism?",
+      "options": {
+        "A": "Saccharomyces cerevisiae (baker's yeast)",
+        "B": "Lactic acid bacteria (Leuconostoc mesenteroides) and wild yeasts",
+        "C": "Penicillium",
+        "D": "Aspergillus"
+      },
+      "correct_option": "B",
+      "explanation": "Idli and dosa batter is fermented by lactic acid bacteria (mainly Leuconostoc mesenteroides) and wild yeasts — not baker's yeast."
+    },
+    {
+      "id": "BIO_CH2_957",
+      "topic": "Kingdom Protista",
+      "question": "Which of the following correctly explains why Plasmodium is called a 'sporozoan'?",
+      "options": {
+        "A": "It forms beautiful spores for reproduction",
+        "B": "It has an infectious spore-like stage (sporozoite) in its life cycle",
+        "C": "It infects spores of other organisms",
+        "D": "It produces spores for dispersal in air"
+      },
+      "correct_option": "B",
+      "explanation": "Plasmodium is called a sporozoan because it has an infectious spore-like stage called sporozoite in its life cycle — the form injected by the mosquito into humans."
+    },
+    {
+      "id": "BIO_CH2_958",
+      "topic": "Viruses",
+      "question": "Viral hemorrhagic fevers (like Ebola, Marburg) are characterised by:",
+      "options": {
+        "A": "Respiratory symptoms only",
+        "B": "Fever and internal/external bleeding due to vascular damage",
+        "C": "Only skin rashes",
+        "D": "Neurological symptoms only"
+      },
+      "correct_option": "B",
+      "explanation": "Viral hemorrhagic fevers are characterised by fever, organ damage, and internal/external bleeding — caused by vascular system damage and impaired clotting."
+    },
+    {
+      "id": "BIO_CH2_959",
+      "topic": "Kingdom Monera",
+      "question": "Which bacterium was the source of the first gene used in genetic engineering?",
+      "options": {
+        "A": "E. coli gene for antibiotic resistance",
+        "B": "S. aureus gene",
+        "C": "The gene for human insulin inserted into E. coli plasmid",
+        "D": "Rhizobium nitrogen fixation gene"
+      },
+      "correct_option": "C",
+      "explanation": "The first major achievement of genetic engineering was inserting the human insulin gene into E. coli — producing recombinant human insulin (Humulin) commercially."
+    },
+    {
+      "id": "BIO_CH2_960",
+      "topic": "Kingdom Fungi",
+      "question": "The 'honey dew' stage in ergot disease refers to:",
+      "options": {
+        "A": "Sweet liquid produced by aphids",
+        "B": "A sticky, sweet liquid (containing Claviceps conidia) exuded by infected grain flowers — spread by insects",
+        "C": "Nectar in flowers",
+        "D": "Sugary excretion by the plant"
+      },
+      "correct_option": "B",
+      "explanation": "In ergot disease, the 'honey dew' stage is when infected flowers exude sticky sweet liquid containing Claviceps conidia — this attracts insects that spread the disease."
+    },
+    {
+      "id": "BIO_CH2_961",
+      "topic": "Kingdom Protista",
+      "question": "Toxoplasma gondii can alter the behaviour of infected rats by:",
+      "options": {
+        "A": "Making them stronger",
+        "B": "Making them attracted to cat odour (reducing fear of cats) — facilitating parasite transfer to cats",
+        "C": "Making them avoid water",
+        "D": "Making them reproduce more"
+      },
+      "correct_option": "B",
+      "explanation": "T. gondii infected rats show reduced fear and even attraction to cat odour — this manipulation facilitates the parasite's transfer to its definitive host (cats) through predation."
+    },
+    {
+      "id": "BIO_CH2_962",
+      "topic": "Prions",
+      "question": "The normal cellular prion protein (PrPC) is found:",
+      "options": {
+        "A": "Only in diseased brain tissue",
+        "B": "On the surface of normal neurons and other cells — it is a normal host protein",
+        "C": "Only in prion-infected tissue",
+        "D": "Only in muscle cells"
+      },
+      "correct_option": "B",
+      "explanation": "PrPC is a normal host protein found on the surface of neurons and many other cells — the disease arises when it misfolds into PrPSc."
+    },
+    {
+      "id": "BIO_CH2_963",
+      "topic": "Kingdom Monera",
+      "question": "Which of the following bacteria produce bioluminescence through quorum sensing?",
+      "options": {
+        "A": "E. coli",
+        "B": "Vibrio fischeri — emits light only when population density is high enough",
+        "C": "Lactobacillus",
+        "D": "Rhizobium"
+      },
+      "correct_option": "B",
+      "explanation": "Vibrio fischeri uses quorum sensing to regulate bioluminescence — light is only produced when bacterial population density reaches a threshold (quorum)."
+    },
+    {
+      "id": "BIO_CH2_964",
+      "topic": "Kingdom Fungi",
+      "question": "The 'wax cap' mushrooms (Hygrocybe) are known as indicators of:",
+      "options": {
+        "A": "Polluted environments",
+        "B": "Ancient, undisturbed, low-nutrient grasslands",
+        "C": "Young plantations",
+        "D": "Urban environments"
+      },
+      "correct_option": "B",
+      "explanation": "Wax cap fungi (Hygrocybe) are indicators of ancient, undisturbed, low-nutrient 'unimproved' grasslands — they are of great conservation value in Europe."
+    },
+    {
+      "id": "BIO_CH2_965",
+      "topic": "Kingdom Protista",
+      "question": "The 'blood films' stained with Giemsa stain are used to detect:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Plasmodium inside red blood cells for malaria diagnosis",
+        "C": "Viruses",
+        "D": "Fungi"
+      },
+      "correct_option": "B",
+      "explanation": "Giemsa stained thick and thin blood smears are the gold standard for malaria diagnosis — they reveal Plasmodium inside red blood cells."
+    },
+    {
+      "id": "BIO_CH2_966",
+      "topic": "Viroids",
+      "question": "The most economically important viroid disease globally in terms of crop loss is:",
+      "options": {
+        "A": "Chrysanthemum stunt",
+        "B": "Potato spindle tuber — affecting potato crops worldwide",
+        "C": "Coconut cadang-cadang — confined to Philippines",
+        "D": "Avocado sunblotch"
+      },
+      "correct_option": "B",
+      "explanation": "Potato spindle tuber viroid disease (PSTVd) is the most economically important globally as potato is a major world crop — it causes significant yield losses."
+    },
+    {
+      "id": "BIO_CH2_967",
+      "topic": "Kingdom Monera",
+      "question": "Which of the following correctly describes the Three Domain system proposed by Carl Woese?",
+      "options": {
+        "A": "Bacteria, Archaea, and Eukarya",
+        "B": "Monera, Protista, and Eukarya",
+        "C": "Prokaryota, Eukaryota, and Viruses",
+        "D": "Bacteria, Virus, and Eukarya"
+      },
+      "correct_option": "A",
+      "explanation": "Carl Woese (1990) proposed the Three Domain classification: Bacteria (eubacteria), Archaea (archaebacteria), and Eukarya (all eukaryotes) — based on 16S/18S rRNA sequencing."
+    },
+    {
+      "id": "BIO_CH2_968",
+      "topic": "Kingdom Fungi",
+      "question": "What is the correct order of taxonomic ranks from highest to lowest for Kingdom Fungi?",
+      "options": {
+        "A": "Kingdom → Phylum → Class → Order → Family → Genus → Species",
+        "B": "Kingdom → Class → Phylum → Order → Family",
+        "C": "Species → Genus → Family → Order",
+        "D": "Kingdom → Order → Class → Phylum → Species"
+      },
+      "correct_option": "A",
+      "explanation": "The correct taxonomic hierarchy: Kingdom → Phylum → Class → Order → Family → Genus → Species (applies to all organisms including fungi)."
+    },
+    {
+      "id": "BIO_CH2_969",
+      "topic": "Kingdom Protista",
+      "question": "Which of the following is a correct match of disease and causative protozoan?",
+      "options": {
+        "A": "Malaria — Trypanosoma",
+        "B": "Sleeping sickness — Plasmodium",
+        "C": "Amoebic dysentery — Entamoeba histolytica",
+        "D": "Kala-azar — Entamoeba"
+      },
+      "correct_option": "C",
+      "explanation": "Correct match: Amoebic dysentery — Entamoeba histolytica. Malaria is caused by Plasmodium; Sleeping sickness by Trypanosoma; Kala-azar by Leishmania."
+    },
+    {
+      "id": "BIO_CH2_970",
+      "topic": "Viruses",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "TMV — DNA virus affecting bacteria",
+        "B": "HIV — RNA virus (retrovirus) causing AIDS",
+        "C": "Bacteriophage T4 — RNA virus",
+        "D": "Influenza — DNA virus"
+      },
+      "correct_option": "B",
+      "explanation": "HIV is an RNA retrovirus causing AIDS. TMV is an RNA virus affecting tobacco plants. Bacteriophage T4 is a DNA virus. Influenza is an RNA virus."
+    },
+    {
+      "id": "BIO_CH2_971",
+      "topic": "Kingdom Monera",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Nostoc — halophile",
+        "B": "Methanobacterium — methanogen in marshy areas and ruminant gut",
+        "C": "Halobacterium — methanogen",
+        "D": "Sulfolobus — methanogen"
+      },
+      "correct_option": "B",
+      "explanation": "Methanobacterium is a methanogen found in marshy areas and the gut of ruminants. Halobacterium is a halophile. Sulfolobus is a thermoacidophile. Nostoc is a cyanobacterium."
+    },
+    {
+      "id": "BIO_CH2_972",
+      "topic": "Kingdom Fungi",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Rhizopus — Ascomycetes",
+        "B": "Saccharomyces — Phycomycetes",
+        "C": "Agaricus — Basidiomycetes",
+        "D": "Alternaria — Phycomycetes"
+      },
+      "correct_option": "C",
+      "explanation": "Agaricus (mushroom) is a Basidiomycete. Rhizopus is a Phycomycete. Saccharomyces (yeast) is an Ascomycete. Alternaria is a Deuteromycete."
+    },
+    {
+      "id": "BIO_CH2_973",
+      "topic": "Kingdom Protista",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Diatoms — cellulose cell wall",
+        "B": "Dinoflagellates — silica cell wall",
+        "C": "Euglenoids — pellicle (protein-rich, no cell wall)",
+        "D": "Slime moulds — chitin cell wall"
+      },
+      "correct_option": "C",
+      "explanation": "Euglenoids have a pellicle (protein-rich layer) instead of a cell wall. Diatoms have silica cell walls. Dinoflagellates have cellulose plates. Slime moulds have no permanent cell wall in vegetative phase."
+    },
+    {
+      "id": "BIO_CH2_974",
+      "topic": "Lichens",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Phycobiont — fungal partner",
+        "B": "Mycobiont — algal partner",
+        "C": "Mycobiont — fungal partner; Phycobiont — algal partner",
+        "D": "Both are same"
+      },
+      "correct_option": "C",
+      "explanation": "In lichens: Mycobiont = fungal partner; Phycobiont = algal partner. This is the correct terminology."
+    },
+    {
+      "id": "BIO_CH2_975",
+      "topic": "Viroids",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Viroids — discovered by Ivanowsky",
+        "B": "Viroids — discovered by T.O. Diener in 1971",
+        "C": "Viroids — have protein coat",
+        "D": "Viroids — contain DNA"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids were discovered by T.O. Diener in 1971 while studying potato spindle tuber disease. They consist of free RNA without protein coat."
+    },
+    {
+      "id": "BIO_CH2_976",
+      "topic": "Kingdom Fungi",
+      "question": "What is the correct sequence of events in the lytic cycle of a bacteriophage?",
+      "options": {
+        "A": "Attachment → Injection → Replication → Assembly → Lysis and Release",
+        "B": "Injection → Attachment → Lysis → Assembly",
+        "C": "Lysis → Attachment → Injection → Replication",
+        "D": "Assembly → Attachment → Injection → Replication → Lysis"
+      },
+      "correct_option": "A",
+      "explanation": "Lytic cycle: Attachment (adsorption) → Injection of DNA → Replication (using host machinery) → Assembly of new phages → Lysis of host → Release of new phage particles."
+    },
+    {
+      "id": "BIO_CH2_977",
+      "topic": "Kingdom Monera",
+      "question": "Which is the CORRECT statement about Mycoplasma?",
+      "options": {
+        "A": "They are eukaryotes",
+        "B": "They have a cell wall made of chitin",
+        "C": "They are the smallest known prokaryotes and completely lack cell wall",
+        "D": "They are photosynthetic"
+      },
+      "correct_option": "C",
+      "explanation": "Mycoplasma are the smallest known prokaryotes that completely lack a cell wall — they belong to Kingdom Monera."
+    },
+    {
+      "id": "BIO_CH2_978",
+      "topic": "Kingdom Protista",
+      "question": "What is the CORRECT statement about Kingdom Protista?",
+      "options": {
+        "A": "All protists are unicellular",
+        "B": "All protists are heterotrophic",
+        "C": "Protists are the most primitive eukaryotes forming a link between other kingdoms",
+        "D": "Protists are prokaryotic"
+      },
+      "correct_option": "C",
+      "explanation": "Protists are the most primitive/simple eukaryotes. They form a link between other kingdoms. Not all are unicellular (slime moulds form multicellular aggregates). They can be autotrophic or heterotrophic."
+    },
+    {
+      "id": "BIO_CH2_979",
+      "topic": "Kingdom Fungi",
+      "question": "Which INCORRECT statement about fungi?",
+      "options": {
+        "A": "Cell walls contain chitin",
+        "B": "They are heterotrophic",
+        "C": "They are autotrophic — photosynthetic like plants",
+        "D": "They reproduce by sexual and asexual spores"
+      },
+      "correct_option": "C",
+      "explanation": "Fungi are NOT autotrophic/photosynthetic — they are heterotrophic (saprophytic or parasitic). All other statements are correct."
+    },
+    {
+      "id": "BIO_CH2_980",
+      "topic": "Viruses",
+      "question": "Which INCORRECT statement about viruses?",
+      "options": {
+        "A": "They are obligate intracellular parasites",
+        "B": "They contain either DNA or RNA but not both",
+        "C": "They can reproduce independently outside the host cell",
+        "D": "They are acellular (non-cellular) organisms"
+      },
+      "correct_option": "C",
+      "explanation": "Viruses CANNOT reproduce independently outside the host cell — they are obligate intracellular parasites that need host cell machinery."
+    },
+    {
+      "id": "BIO_CH2_981",
+      "topic": "Kingdom Monera",
+      "question": "An organism is described: prokaryotic, has rigid cell wall, reproduces by binary fission, found in hot springs. Which group does it belong to?",
+      "options": {
+        "A": "Eubacteria",
+        "B": "Archaebacteria (thermoacidophiles)",
+        "C": "Mycoplasma",
+        "D": "Protista"
+      },
+      "correct_option": "B",
+      "explanation": "An organism in hot springs that is prokaryotic is most likely an archaebacterium — specifically a thermoacidophile adapted to hot, acidic conditions."
+    },
+    {
+      "id": "BIO_CH2_982",
+      "topic": "Kingdom Protista",
+      "question": "An organism is: unicellular, eukaryotic, has pseudopodia, lives in fresh water ponds, engulfs bacteria as food. It is a:",
+      "options": {
+        "A": "Cyanobacterium",
+        "B": "Diatom",
+        "C": "Free-living amoeboid protozoan",
+        "D": "Euglenoid"
+      },
+      "correct_option": "C",
+      "explanation": "This describes a free-living amoeba (like Amoeba proteus) — unicellular eukaryote, pseudopodia for movement and feeding, lives in freshwater ponds."
+    },
+    {
+      "id": "BIO_CH2_983",
+      "topic": "Kingdom Fungi",
+      "question": "An organism: eukaryotic, has septate and branched mycelium, reproduces asexually by conidia, sexual stage unknown. It belongs to:",
+      "options": {
+        "A": "Phycomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correct_option": "D",
+      "explanation": "Septate, branched mycelium + asexual reproduction by conidia + sexual stage unknown = Deuteromycetes (imperfect fungi)."
+    },
+    {
+      "id": "BIO_CH2_984",
+      "topic": "Kingdom Plantae",
+      "question": "An organism: eukaryotic, multicellular, has chlorophyll a and b, cellulosic cell wall, alternation of generations. It belongs to:",
+      "options": {
+        "A": "Kingdom Fungi",
+        "B": "Kingdom Protista",
+        "C": "Kingdom Monera",
+        "D": "Kingdom Plantae"
+      },
+      "correct_option": "D",
+      "explanation": "Eukaryotic, multicellular, chlorophyll a & b, cellulosic cell wall, alternation of generations = Kingdom Plantae."
+    },
+    {
+      "id": "BIO_CH2_985",
+      "topic": "Kingdom Animalia",
+      "question": "An organism: eukaryotic, multicellular, no cell wall, holozoic nutrition, organ systems present. It belongs to:",
+      "options": {
+        "A": "Kingdom Plantae",
+        "B": "Kingdom Fungi",
+        "C": "Kingdom Animalia",
+        "D": "Kingdom Protista"
+      },
+      "correct_option": "C",
+      "explanation": "Eukaryotic, multicellular, no cell wall, holozoic nutrition, organ systems = Kingdom Animalia."
+    },
+    {
+      "id": "BIO_CH2_986",
+      "topic": "Five Kingdom Classification",
+      "question": "ASSERTION (A): Euglena is placed in Kingdom Protista. REASON (R): Euglena is unicellular, eukaryotic, and shows both autotrophic and heterotrophic nutrition.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is NOT the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correct_option": "A",
+      "explanation": "Both assertion and reason are true, and R correctly explains why Euglena is placed in Protista — it is unicellular eukaryote with both autotrophic and heterotrophic nutrition."
+    },
+    {
+      "id": "BIO_CH2_987",
+      "topic": "Kingdom Fungi",
+      "question": "ASSERTION (A): Fungi are not classified under Plantae. REASON (R): Fungi are heterotrophic and have chitin in cell walls, unlike autotrophic plants with cellulosic walls.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is NOT the correct explanation",
+        "C": "A is true but R is false",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both are true and R correctly explains A — fungi are excluded from Plantae because they are heterotrophic with chitin walls (not autotrophic with cellulosic walls)."
+    },
+    {
+      "id": "BIO_CH2_988",
+      "topic": "Viruses",
+      "question": "ASSERTION (A): Viruses are considered non-living outside the host cell. REASON (R): Outside host cells, viruses are inert crystalline structures that cannot metabolise, grow, or reproduce.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both are true and R correctly explains A — viruses are non-living outside cells because they form inert crystals and lack metabolism, growth, and independent reproduction."
+    },
+    {
+      "id": "BIO_CH2_989",
+      "topic": "Kingdom Monera",
+      "question": "ASSERTION (A): Cyanobacteria are placed in Kingdom Monera, not Plantae. REASON (R): Cyanobacteria are prokaryotic (no membrane-bound nucleus) though they are photosynthetic.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both are true and R correctly explains A — despite being photosynthetic, cyanobacteria are placed in Monera because they are prokaryotic."
+    },
+    {
+      "id": "BIO_CH2_990",
+      "topic": "Kingdom Protista",
+      "question": "ASSERTION (A): Slime moulds are included in Kingdom Protista. REASON (R): Slime moulds are eukaryotic, form a plasmodium that moves amoeba-like, and their vegetative cells lack cell walls.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "Both are false",
+        "D": "A is false but R is true"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — slime moulds are in Protista because they are eukaryotic, have amoeba-like vegetative phase without cell walls."
+    },
+    {
+      "id": "BIO_CH2_991",
+      "topic": "Lichens",
+      "question": "ASSERTION (A): Lichens are excellent pollution indicators. REASON (R): Lichens are very sensitive to SO2 and other air pollutants and do not grow in polluted areas.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false and R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — lichens are pollution indicators because they are sensitive to SO2 and other pollutants."
+    },
+    {
+      "id": "BIO_CH2_992",
+      "topic": "Viroids",
+      "question": "ASSERTION (A): Viroids are smaller than viruses. REASON (R): Viroids are free RNA without a protein coat, while viruses have protein coats.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R does NOT correctly explain A",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — viroids are smaller than viruses because they lack the protein coat, consisting only of naked RNA."
+    },
+    {
+      "id": "BIO_CH2_993",
+      "topic": "Kingdom Fungi",
+      "question": "ASSERTION (A): Basidiomycetes are called 'club fungi'. REASON (R): The sexual spores are produced on club-shaped structures called basidia.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — Basidiomycetes are called club fungi because their sexual spores (basidiospores) are produced on club-shaped basidia."
+    },
+    {
+      "id": "BIO_CH2_994",
+      "topic": "Kingdom Monera",
+      "question": "ASSERTION (A): Archaebacteria can survive in extreme conditions. REASON (R): They have a unique cell wall structure different from eubacteria.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R does not explain it",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — archaebacteria survive extreme conditions because their unique cell wall (no peptidoglycan) and membrane lipid structure provide stability."
+    },
+    {
+      "id": "BIO_CH2_995",
+      "topic": "Kingdom Protista",
+      "question": "ASSERTION (A): Dinoflagellates can cause 'red tides'. REASON (R): Red dinoflagellates like Gonyaulax undergo rapid multiplication making the sea appear red and releasing toxins.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — red tides are caused by rapid multiplication of red dinoflagellates like Gonyaulax that release toxins killing marine animals."
+    },
+    {
+      "id": "BIO_CH2_996",
+      "topic": "Five Kingdom Classification",
+      "question": "ASSERTION (A): Whittaker's Five Kingdom Classification is better than the Two Kingdom system. REASON (R): It distinguishes prokaryotes from eukaryotes, separates fungi from plants, and recognises the diversity of single-celled eukaryotes.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R does not correctly explain it",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — Whittaker's system is better because it distinguishes prokaryotes (Monera) from eukaryotes, separates Fungi from Plantae, and recognises Protista."
+    },
+    {
+      "id": "BIO_CH2_997",
+      "topic": "Kingdom Monera",
+      "question": "ASSERTION (A): Mycoplasma are resistant to penicillin. REASON (R): Penicillin works by inhibiting cell wall synthesis, and Mycoplasma lack cell walls.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R does not correctly explain",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — Mycoplasma are naturally resistant to penicillin because they lack the cell wall target that penicillin acts on."
+    },
+    {
+      "id": "BIO_CH2_998",
+      "topic": "Kingdom Fungi",
+      "question": "ASSERTION (A): Deuteromycetes are called 'imperfect fungi'. REASON (R): The sexual (perfect) stage is unknown in these fungi, and they reproduce only by asexual conidia.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — Deuteromycetes are imperfect because only the asexual (imperfect) stage is known; sexual stage is unknown."
+    },
+    {
+      "id": "BIO_CH2_999",
+      "topic": "Viruses",
+      "question": "ASSERTION (A): Antibiotics are not effective against viral infections. REASON (R): Viruses lack the cellular structures (cell wall, ribosomes) that antibiotics target.",
+      "options": {
+        "A": "Both A and R are true and R correctly explains A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both are false"
+      },
+      "correct_option": "A",
+      "explanation": "Both true and R correctly explains A — antibiotics target bacterial cell walls, ribosomes, DNA gyrase etc. — structures absent in viruses."
+    },
+    {
+      "id": "BIO_CH2_1000",
+      "topic": "All Topics - Final Review",
+      "question": "Which of the following is the CORRECT match of organism with its kingdom AND key characteristic?",
+      "options": {
+        "A": "Nostoc — Plantae — photosynthetic, eukaryotic",
+        "B": "Agaricus — Basidiomycetes (Fungi) — fruiting body bears basidiospores on basidia",
+        "C": "Plasmodium — Monera — prokaryotic pathogen",
+        "D": "Puccinia — Protista — causes algal blooms"
+      },
+      "correct_option": "B",
+      "explanation": "Agaricus is correctly placed in Basidiomycetes (Fungi) with fruiting body (basidiocarp) bearing basidiospores on basidia. Nostoc is in Monera (prokaryotic). Plasmodium is in Protista. Puccinia is in Fungi (rust)."
+    },
+    {
+      "id": "BIO_CH2_1001",
+      "topic": "Five Kingdom Classification",
+      "question": "Which of the following features is COMMON to all five kingdoms?",
+      "options": {
+        "A": "Presence of cell wall",
+        "B": "Eukaryotic cell type",
+        "C": "Presence of DNA as genetic material",
+        "D": "Autotrophic nutrition"
+      },
+      "correct_option": "C",
+      "explanation": "DNA as genetic material is common to all five kingdoms. Cell wall is absent in Animalia. Eukaryotic cell type is absent in Monera. Autotrophic nutrition is not in all kingdoms."
+    },
+    {
+      "id": "BIO_CH2_1002",
+      "topic": "Kingdom Monera",
+      "question": "The presence of 70S ribosomes is characteristic of:",
+      "options": {
+        "A": "Eukaryotes only",
+        "B": "Prokaryotes and organelles (mitochondria, chloroplasts) of eukaryotes",
+        "C": "Only bacteria",
+        "D": "Viruses"
+      },
+      "correct_option": "B",
+      "explanation": "70S ribosomes are found in prokaryotes AND in mitochondria and chloroplasts of eukaryotes — supporting the endosymbiotic theory of organelle evolution."
+    },
+    {
+      "id": "BIO_CH2_1003",
+      "topic": "Kingdom Protista",
+      "question": "The alternation of generations in plants may have originated from which protistan ancestor?",
+      "options": {
+        "A": "Protozoans",
+        "B": "Green algae (Chlorophyta) — they show alternation of generations",
+        "C": "Slime moulds",
+        "D": "Diatoms"
+      },
+      "correct_option": "B",
+      "explanation": "Green algae (Chlorophyta) are the ancestors of plants — they show alternation of generations and share chlorophyll a and b, starch storage, and cellulose cell walls with plants."
+    },
+    {
+      "id": "BIO_CH2_1004",
+      "topic": "Kingdom Fungi",
+      "question": "What is the final product when fungi decompose dead organic matter?",
+      "options": {
+        "A": "Complex organic molecules",
+        "B": "Inorganic nutrients (CO2, H2O, mineral salts) — returned to the environment",
+        "C": "Living biomass only",
+        "D": "Petroleum"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi (as decomposers) break down complex organic molecules into inorganic nutrients — CO2, H2O, and mineral salts are returned to the ecosystem, completing nutrient cycles."
+    },
+    {
+      "id": "BIO_CH2_1005",
+      "topic": "Lichens",
+      "question": "What would happen if the algal partner in a lichen were removed?",
+      "options": {
+        "A": "The fungal partner would survive well by itself",
+        "B": "The lichen would disintegrate — the fungal partner would lose its food source and likely die",
+        "C": "The lichen would become more resistant",
+        "D": "The lichen would turn animal"
+      },
+      "correct_option": "B",
+      "explanation": "Without the algal partner (phycobiont), the lichen disintegrates — the fungal partner (mycobiont) loses its photosynthetic food source and typically cannot survive independently."
+    },
+    {
+      "id": "BIO_CH2_1006",
+      "topic": "Kingdom Monera",
+      "question": "If a newly discovered organism has: no nucleus, circular DNA, 70S ribosomes, cell wall with peptidoglycan, reproduces by binary fission — which kingdom?",
+      "options": {
+        "A": "Protista",
+        "B": "Fungi",
+        "C": "Monera",
+        "D": "Plantae"
+      },
+      "correct_option": "C",
+      "explanation": "No nucleus + circular DNA + 70S ribosomes + peptidoglycan cell wall + binary fission = prokaryote = Kingdom Monera."
+    },
+    {
+      "id": "BIO_CH2_1007",
+      "topic": "Viruses",
+      "question": "The 'R0' (basic reproduction number) of a virus represents:",
+      "options": {
+        "A": "The size of the virus",
+        "B": "The average number of new infections caused by one infected person in a fully susceptible population",
+        "C": "The mortality rate of the disease",
+        "D": "The speed at which the virus mutates"
+      },
+      "correct_option": "B",
+      "explanation": "R0 (basic reproduction number) represents the average number of new cases generated by one infected individual in a fully susceptible population — determines epidemic potential."
+    },
+    {
+      "id": "BIO_CH2_1008",
+      "topic": "Kingdom Protista",
+      "question": "Which of the following is the evolutionary significance of sexual reproduction first appearing in Protista?",
+      "options": {
+        "A": "No significance",
+        "B": "It introduced genetic diversity through recombination — a key driver of evolution",
+        "C": "It reduced species diversity",
+        "D": "It allowed only asexual reproduction"
+      },
+      "correct_option": "B",
+      "explanation": "Sexual reproduction (first appearing in protists) introduces genetic diversity through recombination — it is a key driver of evolution and adaptation."
+    },
+    {
+      "id": "BIO_CH2_1009",
+      "topic": "Kingdom Fungi",
+      "question": "What is the economic importance of truffle fungi?",
+      "options": {
+        "A": "They produce antibiotics",
+        "B": "They are among the most expensive foods — prized for unique aroma; cannot be mass cultivated",
+        "C": "They are used as biofertilisers",
+        "D": "They fix nitrogen"
+      },
+      "correct_option": "B",
+      "explanation": "Truffles (Tuber species) are among the most expensive foods in the world — prized for unique aroma and flavour; they cannot be mass cultivated as they are ectomycorrhizal."
+    },
+    {
+      "id": "BIO_CH2_1010",
+      "topic": "Prions",
+      "question": "Why are prion diseases so difficult to diagnose during the patient's lifetime?",
+      "options": {
+        "A": "They are very rare",
+        "B": "They have a very long incubation period (years to decades) and symptoms only appear after significant brain damage",
+        "C": "There are no symptoms",
+        "D": "They are easily confused with bacterial infections"
+      },
+      "correct_option": "B",
+      "explanation": "Prion diseases have very long incubation periods (years to decades) — symptoms only appear after extensive irreversible brain damage. Definitive diagnosis usually requires post-mortem brain biopsy."
+    },
+    {
+      "id": "BIO_CH2_1011",
+      "topic": "Kingdom Monera",
+      "question": "In the context of gut microbiome, bacteria in the human intestine are approximately how many?",
+      "options": {
+        "A": "Thousands",
+        "B": "Millions",
+        "C": "Trillions",
+        "D": "Hundreds"
+      },
+      "correct_option": "C",
+      "explanation": "The human gut contains approximately 38 trillion bacteria — roughly equal to the number of human cells in the body."
+    },
+    {
+      "id": "BIO_CH2_1012",
+      "topic": "Kingdom Fungi",
+      "question": "What is the 'Armillaria ostoyae' in Oregon, USA, considered to be?",
+      "options": {
+        "A": "The smallest fungus",
+        "B": "The largest and oldest known living organism on Earth",
+        "C": "A poisonous mushroom causing deaths",
+        "D": "A fungus producing antibiotics"
+      },
+      "correct_option": "B",
+      "explanation": "The Armillaria ostoyae (honey fungus) in Malheur National Forest, Oregon, is the largest known living organism on Earth — a single individual covering 2,385 acres (965 ha), estimated to be 8,650 years old."
+    },
+    {
+      "id": "BIO_CH2_1013",
+      "topic": "Kingdom Protista",
+      "question": "The study of diatom communities in lake sediments to understand past climate is called:",
+      "options": {
+        "A": "Meteorology",
+        "B": "Diatomology / Paleolimnology",
+        "C": "Geology",
+        "D": "Archaeology"
+      },
+      "correct_option": "B",
+      "explanation": "The study of diatom communities preserved in lake sediments to reconstruct past environmental conditions (palaeoclimate) is part of paleolimnology — diatoms are excellent proxies for past water conditions."
+    },
+    {
+      "id": "BIO_CH2_1014",
+      "topic": "Viroids",
+      "question": "How many nucleotides are found in a typical viroid?",
+      "options": {
+        "A": "1,000 – 10,000",
+        "B": "250 – 400",
+        "C": "10,000 – 100,000",
+        "D": "Only 50"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids are typically 246–401 nucleotides in size — much smaller than the smallest known viruses (which have thousands of nucleotides)."
+    },
+    {
+      "id": "BIO_CH2_1015",
+      "topic": "Kingdom Monera",
+      "question": "The 'Winogradsky column' is a laboratory device used to study:",
+      "options": {
+        "A": "Viral replication",
+        "B": "Microbial communities and their nutrient cycling in stratified sediment",
+        "C": "Fungal growth",
+        "D": "Protozoan movement"
+      },
+      "correct_option": "B",
+      "explanation": "A Winogradsky column is a classic microbiology experiment showing microbial communities stratified by oxygen and light gradients — demonstrating nutrient cycling by various bacteria."
+    },
+    {
+      "id": "BIO_CH2_1016",
+      "topic": "Kingdom Fungi",
+      "question": "Candida biofilms are particularly problematic in medicine because:",
+      "options": {
+        "A": "They are easily treated",
+        "B": "They form on medical devices and are extremely resistant to antifungal drugs",
+        "C": "They produce antibiotics",
+        "D": "They are only superficial"
+      },
+      "correct_option": "B",
+      "explanation": "Candida biofilms on medical devices (catheters, implants) are extremely resistant to antifungal drugs — much more than planktonic (free-floating) Candida cells."
+    },
+    {
+      "id": "BIO_CH2_1017",
+      "topic": "Kingdom Protista",
+      "question": "The 'Plasmodium knowlesi' is significant because it:",
+      "options": {
+        "A": "Infects only birds",
+        "B": "Is the only primate malaria parasite that can naturally infect humans — causing zoonotic malaria",
+        "C": "Produces no symptoms",
+        "D": "Infects only mosquitoes"
+      },
+      "correct_option": "B",
+      "explanation": "Plasmodium knowlesi is a zoonotic malaria parasite — it naturally infects macaque monkeys but is the fifth Plasmodium species causing malaria in humans, particularly in Southeast Asia."
+    },
+    {
+      "id": "BIO_CH2_1018",
+      "topic": "Viruses",
+      "question": "What is 'viral quasi-species'?",
+      "options": {
+        "A": "A single viral strain",
+        "B": "A cloud of closely related but genetically diverse viral variants that exist in an infected host simultaneously",
+        "C": "Two different viral species in same host",
+        "D": "A hybrid between two viruses"
+      },
+      "correct_option": "B",
+      "explanation": "A viral quasi-species is a swarm of closely related but genetically diverse variants (mutants) coexisting in an infected host — common in RNA viruses due to error-prone replication."
+    },
+    {
+      "id": "BIO_CH2_1019",
+      "topic": "Kingdom Monera",
+      "question": "Which of the following bacteria fixes nitrogen free in soil (non-symbiotically) under aerobic conditions?",
+      "options": {
+        "A": "Rhizobium",
+        "B": "Clostridium",
+        "C": "Azotobacter",
+        "D": "Nostoc"
+      },
+      "correct_option": "C",
+      "explanation": "Azotobacter is a free-living aerobic soil bacterium that fixes atmospheric nitrogen non-symbiotically — important for soil fertility."
+    },
+    {
+      "id": "BIO_CH2_1020",
+      "topic": "Kingdom Fungi",
+      "question": "Lovastatin (a cholesterol-lowering drug) was originally derived from:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Plants",
+        "C": "Aspergillus terreus (a fungus)",
+        "D": "Marine algae"
+      },
+      "correct_option": "C",
+      "explanation": "Lovastatin (Mevacor) was originally isolated from Aspergillus terreus — it is the founding member of the statin class of drugs used to lower cholesterol."
+    },
+    {
+      "id": "BIO_CH2_1021",
+      "topic": "Kingdom Protista",
+      "question": "Chlamydomonas is a green alga placed in Kingdom Protista because it is:",
+      "options": {
+        "A": "Multicellular",
+        "B": "Prokaryotic",
+        "C": "Unicellular eukaryote",
+        "D": "Heterotrophic"
+      },
+      "correct_option": "C",
+      "explanation": "Chlamydomonas is placed in Protista (or Plantae in some classifications) primarily because it is unicellular — unicellular eukaryotes go to Protista in Whittaker's system."
+    },
+    {
+      "id": "BIO_CH2_1022",
+      "topic": "Viroids",
+      "question": "Which feature suggests viroids may have originated from the 'RNA World' hypothesis era?",
+      "options": {
+        "A": "They have protein coats",
+        "B": "They are RNA molecules that self-cleave (ribozyme activity) — suggesting RNA was the original genetic material and catalyst",
+        "C": "They contain DNA",
+        "D": "They need proteins to replicate"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids support the 'RNA World' hypothesis — their self-cleaving ribozyme activity suggests RNA can both carry genetic information AND catalyse reactions, as proposed for early life."
+    },
+    {
+      "id": "BIO_CH2_1023",
+      "topic": "Kingdom Monera",
+      "question": "Which bacteria are used in 'bioleaching' to extract metals from ores?",
+      "options": {
+        "A": "Lactic acid bacteria",
+        "B": "Acidithiobacillus thiooxidans and A. ferrooxidans (sulphur-oxidising bacteria)",
+        "C": "Cyanobacteria",
+        "D": "Methanogens"
+      },
+      "correct_option": "B",
+      "explanation": "Acidithiobacillus species oxidise metal sulphides in ores, solubilising metals — this 'bioleaching' is used to extract copper, gold, uranium, and other metals from low-grade ores."
+    },
+    {
+      "id": "BIO_CH2_1024",
+      "topic": "Kingdom Fungi",
+      "question": "What are 'secondary metabolites' of fungi?",
+      "options": {
+        "A": "Primary growth nutrients",
+        "B": "Compounds not essential for basic growth — include antibiotics, toxins, pigments, useful enzymes",
+        "C": "Only toxic compounds",
+        "D": "Only photosynthetic products"
+      },
+      "correct_option": "B",
+      "explanation": "Fungal secondary metabolites are compounds not essential for primary growth — they include antibiotics (penicillin), mycotoxins (aflatoxin), pigments, statins, and other bioactive molecules."
+    },
+    {
+      "id": "BIO_CH2_1025",
+      "topic": "Kingdom Protista",
+      "question": "Which discovery showed that the common ancestor of all eukaryotes likely had a flagellum?",
+      "options": {
+        "A": "Presence of cilia in most eukaryotes",
+        "B": "The discovery that most eukaryotic lineages have or had flagella at some stage — suggesting a flagellate ancestor",
+        "C": "Finding bacteria with flagella",
+        "D": "Studying viruses"
+      },
+      "correct_option": "B",
+      "explanation": "Most eukaryotic lineages have or had flagella (cilia/undulipodia) at some stage — this universal distribution suggests the common ancestor of all eukaryotes was flagellated."
+    },
+    {
+      "id": "BIO_CH2_1026",
+      "topic": "History of Classification",
+      "question": "Which of the following is the CORRECT full classification of Saccharomyces cerevisiae (baker's yeast)?",
+      "options": {
+        "A": "Kingdom Monera → Phylum Eubacteria",
+        "B": "Kingdom Fungi → Phylum Ascomycota → Class Saccharomycetes",
+        "C": "Kingdom Protista → Phylum Euglenozoa",
+        "D": "Kingdom Plantae → Phylum Thallophyta"
+      },
+      "correct_option": "B",
+      "explanation": "Saccharomyces cerevisiae belongs to Kingdom Fungi → Phylum Ascomycota → Class Saccharomycetes — it is the classic baker's/brewer's yeast."
+    },
+    {
+      "id": "BIO_CH2_1027",
+      "topic": "Kingdom Monera",
+      "question": "The 'Streptomyces coelicolor' is important because it:",
+      "options": {
+        "A": "Causes a common disease",
+        "B": "Produces actinorhodin (an antibiotic) and is a model organism for antibiotic biosynthesis research",
+        "C": "Fixes nitrogen",
+        "D": "Is bioluminescent"
+      },
+      "correct_option": "B",
+      "explanation": "Streptomyces coelicolor is a model organism for antibiotic biosynthesis research — it produces actinorhodin and has a fully sequenced genome revealing extensive secondary metabolite gene clusters."
+    },
+    {
+      "id": "BIO_CH2_1028",
+      "topic": "Kingdom Fungi",
+      "question": "What is the significance of fungi in the pharmaceutical industry beyond antibiotics?",
+      "options": {
+        "A": "No significance beyond antibiotics",
+        "B": "Fungi produce many drugs: statins (cholesterol), cyclosporin (immunosuppressant), ergotamine (migraine), griseofulvin (antifungal), and many vitamins",
+        "C": "Only vaccines",
+        "D": "Only vitamins"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi are extremely important pharmaceutically — beyond antibiotics, they produce statins (Aspergillus), cyclosporin (Tolypocladium), ergotamine (Claviceps), griseofulvin (Penicillium), and various vitamins."
+    },
+    {
+      "id": "BIO_CH2_1029",
+      "topic": "Kingdom Protista",
+      "question": "How does Plasmodium evade the host immune system?",
+      "options": {
+        "A": "It hides in the gut",
+        "B": "Antigenic variation — it switches surface antigens to avoid antibody recognition",
+        "C": "It kills all white blood cells",
+        "D": "It leaves the host quickly"
+      },
+      "correct_option": "B",
+      "explanation": "Plasmodium falciparum evades immune system through antigenic variation — it switches its surface proteins (PfEMP1 encoded by var genes) to escape antibody recognition."
+    },
+    {
+      "id": "BIO_CH2_1030",
+      "topic": "Viroids",
+      "question": "What is the estimated number of viroid species currently known?",
+      "options": {
+        "A": "Fewer than 5",
+        "B": "Over 30 species in two families (Pospiviroidae and Avsunviroidae)",
+        "C": "Over 10,000",
+        "D": "Exactly 100"
+      },
+      "correct_option": "B",
+      "explanation": "Currently, over 30 viroid species are known — classified into two families: Pospiviroidae (nuclear viroids) and Avsunviroidae (chloroplastic viroids)."
+    },
+    {
+      "id": "BIO_CH2_1031",
+      "topic": "Kingdom Monera",
+      "question": "Which bacteria are used in the production of amino acids like glutamate?",
+      "options": {
+        "A": "E. coli only",
+        "B": "Corynebacterium glutamicum (produces L-glutamate for MSG)",
+        "C": "Lactobacillus",
+        "D": "Bacillus subtilis only"
+      },
+      "correct_option": "B",
+      "explanation": "Corynebacterium glutamicum is used industrially to produce L-glutamate (MSG — monosodium glutamate) and L-lysine through fermentation."
+    },
+    {
+      "id": "BIO_CH2_1032",
+      "topic": "Kingdom Fungi",
+      "question": "What is the 'Ganoderma lucidum' (Reishi mushroom) traditionally used for?",
+      "options": {
+        "A": "As a food crop",
+        "B": "Traditional medicine in East Asia — believed to enhance immunity and longevity",
+        "C": "As a pesticide",
+        "D": "As a nitrogen fixative"
+      },
+      "correct_option": "B",
+      "explanation": "Ganoderma lucidum (Reishi/Lingzhi mushroom) has been used for over 2,000 years in traditional Chinese and Japanese medicine — believed to enhance immunity, reduce stress, and improve longevity."
+    },
+    {
+      "id": "BIO_CH2_1033",
+      "topic": "Kingdom Protista",
+      "question": "The 'Harmful Algal Bloom' (HAB) problem globally is increasing due to:",
+      "options": {
+        "A": "Decreasing water temperatures",
+        "B": "Eutrophication (nutrient enrichment from fertilisers + sewage) and climate change (warmer water)",
+        "C": "Decreased sunlight",
+        "D": "Increased fish populations"
+      },
+      "correct_option": "B",
+      "explanation": "HABs are increasing globally due to eutrophication (excess nutrients from agricultural runoff and sewage) and climate change (warmer water temperatures favour cyanobacteria/algal growth)."
+    },
+    {
+      "id": "BIO_CH2_1034",
+      "topic": "Viruses",
+      "question": "Which of the following virus discovery timelines is CORRECT?",
+      "options": {
+        "A": "1892: Ivanowsky, 1898: Beijerinck named 'virus', 1935: Stanley crystallised virus",
+        "B": "1898: Ivanowsky, 1892: Beijerinck, 1969: Stanley",
+        "C": "1935: Ivanowsky, 1892: Beijerinck, 1898: Stanley",
+        "D": "1892: Stanley, 1935: Ivanowsky, 1898: Beijerinck"
+      },
+      "correct_option": "A",
+      "explanation": "Correct chronology: 1892 Ivanowsky (discovered tobacco mosaic agent), 1898 Beijerinck (named it 'virus'), 1935 Stanley (crystallised TMV)."
+    },
+    {
+      "id": "BIO_CH2_1035",
+      "topic": "Kingdom Monera",
+      "question": "The bacteria Xanthomonas campestris produces which commercially important polysaccharide?",
+      "options": {
+        "A": "Cellulose",
+        "B": "Xanthan gum — used as thickener in food and industrial applications",
+        "C": "Chitin",
+        "D": "Agar"
+      },
+      "correct_option": "B",
+      "explanation": "Xanthomonas campestris produces xanthan gum — a polysaccharide used as a food thickener/stabiliser (in salad dressings, ice cream) and in oil drilling."
+    },
+    {
+      "id": "BIO_CH2_1036",
+      "topic": "Kingdom Fungi",
+      "question": "What is 'basidium' (pl. basidia) in Basidiomycetes?",
+      "options": {
+        "A": "The vegetative hyphae",
+        "B": "Club-shaped cell on which basidiospores are produced exogenously after karyogamy and meiosis",
+        "C": "The sac containing ascospores",
+        "D": "The asexual reproductive structure"
+      },
+      "correct_option": "B",
+      "explanation": "A basidium is the club-shaped cell in Basidiomycetes on which karyogamy and meiosis occur — producing 4 basidiospores exogenously (on sterigmata)."
+    },
+    {
+      "id": "BIO_CH2_1037",
+      "topic": "Kingdom Protista",
+      "question": "Foraminifera serve as 'index fossils' in geology because:",
+      "options": {
+        "A": "They are beautiful",
+        "B": "Different species existed in specific geological time periods — their fossils precisely date rock strata",
+        "C": "They are very large",
+        "D": "They are common in all rocks"
+      },
+      "correct_option": "B",
+      "explanation": "Foraminifera are excellent index fossils — different species existed during specific geological periods, allowing precise dating of rock strata and in oil exploration."
+    },
+    {
+      "id": "BIO_CH2_1038",
+      "topic": "Viroids",
+      "question": "Which of the following is a CORRECT statement about the two families of viroids?",
+      "options": {
+        "A": "Pospiviroidae replicate in chloroplasts; Avsunviroidae replicate in nucleus",
+        "B": "Pospiviroidae replicate in nucleus; Avsunviroidae replicate in chloroplasts",
+        "C": "Both replicate in the nucleus",
+        "D": "Both replicate in chloroplasts"
+      },
+      "correct_option": "B",
+      "explanation": "Pospiviroidae (like PSTVd) replicate in the nucleus; Avsunviroidae (like ASBVd) replicate in chloroplasts — the two main families of viroids differ in replication site."
+    },
+    {
+      "id": "BIO_CH2_1039",
+      "topic": "Kingdom Monera",
+      "question": "The bacterium Deinococcus radiodurans is famous for being:",
+      "options": {
+        "A": "The smallest bacterium",
+        "B": "The most radiation-resistant organism known — survives doses 3000x lethal to humans",
+        "C": "A nitrogen fixer",
+        "D": "Bioluminescent"
+      },
+      "correct_option": "B",
+      "explanation": "Deinococcus radiodurans ('Conan the Bacterium') is the most radiation-resistant organism known — it can survive doses of radiation 3,000 times lethal to humans by rapidly repairing DNA damage."
+    },
+    {
+      "id": "BIO_CH2_1040",
+      "topic": "Kingdom Fungi",
+      "question": "Which fungi are used in kombucha (fermented tea) production?",
+      "options": {
+        "A": "Only bacteria",
+        "B": "A symbiotic culture of bacteria (mainly Acetobacter) and yeasts (Saccharomyces, Brettanomyces) called SCOBY",
+        "C": "Only Aspergillus",
+        "D": "Cyanobacteria"
+      },
+      "correct_option": "B",
+      "explanation": "Kombucha is produced by a SCOBY (Symbiotic Culture Of Bacteria and Yeast) — yeasts ferment sugars to ethanol and CO2, while bacteria (Acetobacter) oxidise ethanol to acetic acid."
+    },
+    {
+      "id": "BIO_CH2_1041",
+      "topic": "Kingdom Protista",
+      "question": "The 'Archaeplastida' is a supergroup of eukaryotes that includes:",
+      "options": {
+        "A": "Archaea only",
+        "B": "Green algae, red algae, and glaucophytes — organisms with primary plastids from cyanobacterial endosymbiosis",
+        "C": "All protists",
+        "D": "Bacteria and algae"
+      },
+      "correct_option": "B",
+      "explanation": "Archaeplastida includes green algae (Chlorophyta), red algae (Rhodophyta), and glaucophytes — eukaryotes with primary plastids derived from cyanobacterial endosymbiosis, ancestors of all plant chloroplasts."
+    },
+    {
+      "id": "BIO_CH2_1042",
+      "topic": "Viroids",
+      "question": "Why are viroids not considered to be alive?",
+      "options": {
+        "A": "They are too small",
+        "B": "They do not encode any proteins, cannot replicate independently, and lack all features of cellular life",
+        "C": "They are made of RNA not DNA",
+        "D": "They are outside cells"
+      },
+      "correct_option": "B",
+      "explanation": "Viroids are not considered alive because they do not encode proteins, cannot replicate independently (need host enzymes), and lack all features of cellular life."
+    },
+    {
+      "id": "BIO_CH2_1043",
+      "topic": "Kingdom Monera",
+      "question": "The 'Prochlorococcus' is significant because it is:",
+      "options": {
+        "A": "The largest bacterium",
+        "B": "The most abundant photosynthetic organism on Earth — responsible for ~20% of global photosynthesis",
+        "C": "A nitrogen fixer",
+        "D": "A harmful pathogen"
+      },
+      "correct_option": "B",
+      "explanation": "Prochlorococcus is a marine cyanobacterium that is the most abundant photosynthetic organism on Earth — responsible for approximately 20% of the world's photosynthesis."
+    },
+    {
+      "id": "BIO_CH2_1044",
+      "topic": "Kingdom Fungi",
+      "question": "The 'Oregon Grape' (Mahonia aquifolium) produces berberine, an antimicrobial compound. What is interesting about berberine in the context of fungi?",
+      "options": {
+        "A": "It is produced by a fungus that lives in Oregon grape",
+        "B": "It inhibits the same enzymes as some antifungal drugs",
+        "C": "Berberine is produced by the mycorrhizal fungi of Oregon grape",
+        "D": "It is the same compound as penicillin"
+      },
+      "correct_option": "B",
+      "explanation": "Berberine from Oregon grape inhibits similar enzyme targets as some antifungal compounds, making it of interest in antifungal drug research."
+    },
+    {
+      "id": "BIO_CH2_1045",
+      "topic": "Kingdom Protista",
+      "question": "What is the 'wood wide web' more precisely called in mycological research?",
+      "options": {
+        "A": "Internet of Trees",
+        "B": "Common Mycorrhizal Network (CMN)",
+        "C": "Arboreal Fungal Network",
+        "D": "Soil Web System"
+      },
+      "correct_option": "B",
+      "explanation": "The 'wood wide web' is formally called the Common Mycorrhizal Network (CMN) — fungal networks connecting tree roots that enable resource sharing between trees."
+    },
+    {
+      "id": "BIO_CH2_1046",
+      "topic": "Kingdom Monera",
+      "question": "Thiomargarita namibiensis is remarkable because it is:",
+      "options": {
+        "A": "The smallest bacterium",
+        "B": "The largest known bacterium (0.75 mm diameter — visible to the naked eye)",
+        "C": "The most radiation-resistant",
+        "D": "The first discovered bacterium"
+      },
+      "correct_option": "B",
+      "explanation": "Thiomargarita namibiensis ('Sulphur pearl of Namibia') is the largest known bacterium — up to 0.75 mm in diameter, visible to the naked eye, found in ocean sediments off Namibia."
+    },
+    {
+      "id": "BIO_CH2_1047",
+      "topic": "Kingdom Fungi",
+      "question": "What is 'kefir' and how is it made?",
+      "options": {
+        "A": "A fermented milk made by lactic acid bacteria only",
+        "B": "A fermented milk drink made by a symbiotic community of bacteria and yeasts in kefir grains",
+        "C": "A cheese made by Penicillium",
+        "D": "A bread made by Saccharomyces"
+      },
+      "correct_option": "B",
+      "explanation": "Kefir is a fermented milk drink made using kefir grains — a symbiotic community of lactic acid bacteria, acetic acid bacteria, and yeasts embedded in a polysaccharide matrix."
+    },
+    {
+      "id": "BIO_CH2_1048",
+      "topic": "Kingdom Protista",
+      "question": "Which protist supergroup do amoebozoans (including Amoeba, slime moulds) belong to?",
+      "options": {
+        "A": "SAR (Stramenopiles-Alveolata-Rhizaria)",
+        "B": "Amoebozoa",
+        "C": "Archaeplastida",
+        "D": "Opisthokonta"
+      },
+      "correct_option": "B",
+      "explanation": "Amoebozoans (including Amoeba proteus, Entamoeba, and cellular/plasmodial slime moulds) belong to the supergroup Amoebozoa — most closely related to Opisthokonta (Fungi + Animals)."
+    },
+    {
+      "id": "BIO_CH2_1049",
+      "topic": "Viroids",
+      "question": "What is the total genome size of a typical viroid compared to the smallest bacterium?",
+      "options": {
+        "A": "Viroids are similar in size to bacterial genomes",
+        "B": "Viroids (≈300 nucleotides) are about 1/3000th the size of the smallest bacterial genome (≈900,000 bp in Mycoplasma)",
+        "C": "Viroids are larger than bacterial genomes",
+        "D": "Same size"
+      },
+      "correct_option": "B",
+      "explanation": "Viroid genomes (≈250-400 nucleotides) are approximately 1/3000th the size of Mycoplasma genitalium genome (≈580,000 bp) — viroids are the simplest known infectious agents."
+    },
+    {
+      "id": "BIO_CH2_1050",
+      "topic": "All Topics - Grand Summary",
+      "question": "Which of the following COMPLETE statements about classification of life is CORRECT?",
+      "options": {
+        "A": "Viruses are placed in Kingdom Monera because they are smaller than bacteria",
+        "B": "The Five Kingdom system by R.H. Whittaker (1969) places all organisms into Monera, Protista, Fungi, Plantae, and Animalia based on cell type, body organisation, nutrition, reproduction, and phylogeny",
+        "C": "All prokaryotes are in Kingdom Protista",
+        "D": "Fungi are in Kingdom Plantae because they have cell walls"
+      },
+      "correct_option": "B",
+      "explanation": "The complete, accurate statement: Whittaker (1969) proposed Five Kingdoms — Monera, Protista, Fungi, Plantae, Animalia — based on cell type, body organisation, nutrition, reproduction, and phylogenetic relationships. Viruses are not classified in any kingdom."
+    }
+  ]
+}
