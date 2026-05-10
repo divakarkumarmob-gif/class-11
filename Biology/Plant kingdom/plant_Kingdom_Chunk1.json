@@ -1,11 +1,10 @@
 {
   "chapter_name": "Plant Kingdom",
-  "chapter_number": 3,
   "subject": "Biology",
   "class": 11,
-  "source": "NCERT Biology Class 11",
+  "source": "NCERT Biology Class 3",
   "chunk": 1,
-  "topic_covered": "Classification Systems, Algae - General Introduction, Chlorophyceae",
+  "total_question_in_chunk": 300,
   "questions": [
     {
       "id": "PKQ_001",
