@@ -1,0 +1,2108 @@
+{
+  "chapter_name": "The Living World",
+  "subject": "Biology",
+  "topic": "Taxonomic Categories, Hierarchy, Nomenclature — Deep Concept Questions",
+  "chunk": 2,
+  "questions": [
+    {
+      "id": "LW_301",
+      "question": "Panthera tigris and Panthera leo are different because they have different:",
+      "options": {"A": "Genera", "B": "Families", "C": "Specific epithets", "D": "Phyla"},
+      "correct_option": "C",
+      "explanation": "Both belong to the same genus Panthera but have different specific epithets — tigris (tiger) and leo (lion)."
+    },
+    {
+      "id": "LW_302",
+      "question": "In binomial nomenclature, which of the following represents a CORRECT format?",
+      "options": {"A": "mangifera Indica", "B": "Mangifera Indica", "C": "Mangifera indica", "D": "mangifera indica"},
+      "correct_option": "C",
+      "explanation": "Genus starts with capital letter, specific epithet starts with small letter — Mangifera indica is the correct format."
+    },
+    {
+      "id": "LW_303",
+      "question": "Which of the following groups of three organisms all belong to the SAME genus?",
+      "options": {"A": "Lion, tiger, cat", "B": "Lion, tiger, leopard", "C": "Potato, brinjal, mango", "D": "Man, monkey, gorilla"},
+      "correct_option": "B",
+      "explanation": "Lion (Panthera leo), tiger (Panthera tigris) and leopard (Panthera pardus) all belong to genus Panthera."
+    },
+    {
+      "id": "LW_304",
+      "question": "The order Carnivora was named so because its members are primarily:",
+      "options": {"A": "Herbivores", "B": "Carnivores (meat-eaters)", "C": "Omnivores", "D": "Decomposers"},
+      "correct_option": "B",
+      "explanation": "Order Carnivora (from Latin 'carnivore' = meat-eater) includes carnivorous mammals like tigers, cats and dogs. The name reflects the feeding behaviour of its members."
+    },
+    {
+      "id": "LW_305",
+      "question": "Which of the following statements about taxonomic categories is CORRECT?",
+      "options": {"A": "All organisms in the same order must belong to the same family", "B": "All organisms in the same family must belong to the same genus", "C": "All organisms in the same genus must belong to the same family", "D": "All organisms in the same species must belong to the same genus"},
+      "correct_option": "D",
+      "explanation": "All organisms of the same species automatically belong to the same genus, family, order, class, phylum and kingdom. Going up is always fixed; going down has options."
+    },
+    {
+      "id": "LW_306",
+      "question": "The term 'biodiversity' was not in use during early human history. What concept existed instead?",
+      "options": {"A": "Nomenclature", "B": "Classification based on uses of organisms", "C": "Evolutionary studies", "D": "Genetic diversity"},
+      "correct_option": "B",
+      "explanation": "During early human history, there was no concept of 'biodiversity'. The earliest classifications were based on the 'uses' of various organisms for food, clothing and shelter."
+    },
+    {
+      "id": "LW_307",
+      "question": "Why is NCERT Chapter 1 titled 'The Living World' and not 'Classification of Organisms'?",
+      "options": {"A": "Because it only discusses non-living things", "B": "Because it introduces the diversity of life, the need to study it, and the system of classification and nomenclature", "C": "Because it discusses extinct organisms", "D": "Because it focuses on the physical environment"},
+      "correct_option": "B",
+      "explanation": "The chapter introduces the concept of the living world — its diversity, why and how we classify and name organisms — making 'The Living World' a fitting title."
+    },
+    {
+      "id": "LW_308",
+      "question": "The species 'Solanum nigrum' belongs to which genus?",
+      "options": {"A": "Nigrum", "B": "Solanum", "C": "Tuberosum", "D": "Petunia"},
+      "correct_option": "B",
+      "explanation": "Solanum nigrum — the genus is Solanum. Genus Solanum also includes tuberosum (potato) and melongena (brinjal)."
+    },
+    {
+      "id": "LW_309",
+      "question": "Which of the following correctly shows the taxonomic position of housefly in ASCENDING order?",
+      "options": {"A": "Musca domestica → Musca → Muscidae → Diptera → Insecta → Arthropoda", "B": "Arthropoda → Insecta → Diptera → Muscidae → Musca → Musca domestica", "C": "Musca domestica → Diptera → Muscidae → Musca → Insecta → Arthropoda", "D": "Muscidae → Musca → Musca domestica → Insecta → Diptera → Arthropoda"},
+      "correct_option": "A",
+      "explanation": "Ascending order (species to phylum): Species (Musca domestica) → Genus (Musca) → Family (Muscidae) → Order (Diptera) → Class (Insecta) → Phylum (Arthropoda)."
+    },
+    {
+      "id": "LW_310",
+      "question": "Which of the following correctly shows the taxonomic position of man in DESCENDING order?",
+      "options": {"A": "Chordata → Mammalia → Primata → Hominidae → Homo → Homo sapiens", "B": "Homo sapiens → Homo → Hominidae → Primata → Mammalia → Chordata", "C": "Mammalia → Primata → Chordata → Hominidae → Homo → Homo sapiens", "D": "Primata → Mammalia → Chordata → Homo → Hominidae → Homo sapiens"},
+      "correct_option": "A",
+      "explanation": "Descending order (phylum to species): Phylum (Chordata) → Class (Mammalia) → Order (Primata) → Family (Hominidae) → Genus (Homo) → Species (Homo sapiens)."
+    },
+    {
+      "id": "LW_311",
+      "question": "In the biological name 'Homo sapiens', 'Homo' is a/an:",
+      "options": {"A": "Specific epithet", "B": "Genus name", "C": "Family name", "D": "Order name"},
+      "correct_option": "B",
+      "explanation": "In Homo sapiens, 'Homo' is the genus name (starts with capital H) and 'sapiens' is the specific epithet."
+    },
+    {
+      "id": "LW_312",
+      "question": "In the biological name 'Homo sapiens', 'sapiens' is a/an:",
+      "options": {"A": "Genus name", "B": "Family name", "C": "Specific epithet", "D": "Order name"},
+      "correct_option": "C",
+      "explanation": "In Homo sapiens, 'sapiens' is the specific epithet (starts with small s)."
+    },
+    {
+      "id": "LW_313",
+      "question": "According to NCERT, which of the following is the CORRECT way to write a biological name when handwriting?",
+      "options": {"A": "Both words in capital letters", "B": "Both words separately underlined", "C": "Both words in italics", "D": "Both words in bold"},
+      "correct_option": "B",
+      "explanation": "When handwritten, both words in a biological name are separately underlined to indicate their Latin origin. Italics is used only when printed."
+    },
+    {
+      "id": "LW_314",
+      "question": "A student wrote 'Musca Domestica' in a handwritten note. What is the error?",
+      "options": {"A": "Musca should not be capitalised", "B": "'Domestica' should start with a small letter 'd', written as 'domestica'", "C": "The name is not in italics", "D": "Both words should be in capital letters"},
+      "correct_option": "B",
+      "explanation": "The specific epithet always starts with a small letter. 'Domestica' should be 'domestica'. Additionally, in handwriting, words should be underlined, not italicised."
+    },
+    {
+      "id": "LW_315",
+      "question": "Which of the following is TRUE about modern taxonomy?",
+      "options": {"A": "It uses only external morphology", "B": "It is the same as early classification based on uses", "C": "It uses external and internal structure, cell structure, development process and ecological information", "D": "It is based only on DNA sequencing"},
+      "correct_option": "C",
+      "explanation": "Modern taxonomic studies use external and internal structure, along with cell structure, development process and ecological information — not just morphology."
+    },
+    {
+      "id": "LW_316",
+      "question": "If two organisms belong to the same family, they MUST also belong to the same:",
+      "options": {"A": "Species", "B": "Genus", "C": "Order, Class, Phylum and Kingdom", "D": "Specific epithet"},
+      "correct_option": "C",
+      "explanation": "If two organisms share the same family, they automatically share all higher categories — same Order, Class, Phylum and Kingdom — but may differ in genus and species."
+    },
+    {
+      "id": "LW_317",
+      "question": "If two organisms belong to the same genus, they MUST also belong to the same:",
+      "options": {"A": "Species", "B": "Family, Order, Class, Phylum and Kingdom", "C": "Specific epithet", "D": "Sub-species"},
+      "correct_option": "B",
+      "explanation": "If two organisms share the same genus, they automatically share all higher categories — same Family, Order, Class, Phylum and Kingdom — but may differ in species."
+    },
+    {
+      "id": "LW_318",
+      "question": "If two organisms belong to the same species, they MUST also belong to the same:",
+      "options": {"A": "Nothing else is guaranteed", "B": "Only genus", "C": "Genus, Family, Order, Class, Phylum and Kingdom (all higher categories)", "D": "Only family"},
+      "correct_option": "C",
+      "explanation": "Two organisms of the same species automatically share all higher taxonomic categories — same Genus, Family, Order, Class, Phylum and Kingdom."
+    },
+    {
+      "id": "LW_319",
+      "question": "Two organisms belong to different species but the same genus. This means they:",
+      "options": {"A": "Have the same specific epithet but different genera", "B": "Have different specific epithets but the same genus name", "C": "Are completely unrelated", "D": "Belong to different families"},
+      "correct_option": "B",
+      "explanation": "Two organisms of the same genus but different species have the same genus name (first word) but different specific epithets (second word)."
+    },
+    {
+      "id": "LW_320",
+      "question": "The tiger's scientific name is Panthera tigris. The specific epithet 'tigris' refers to:",
+      "options": {"A": "The genus", "B": "The family", "C": "The particular species within genus Panthera", "D": "The order"},
+      "correct_option": "C",
+      "explanation": "'tigris' is the specific epithet that identifies the particular species (tiger) within genus Panthera."
+    },
+    {
+      "id": "LW_321",
+      "question": "Which of the following is NOT one of the universal rules of nomenclature given in NCERT?",
+      "options": {"A": "Biological names are generally in Latin and written in italics", "B": "The first word represents the genus, the second the specific epithet", "C": "Both words are underlined when handwritten or in italics when printed", "D": "The specific epithet starts with a capital letter"},
+      "correct_option": "D",
+      "explanation": "The specific epithet starts with a SMALL letter, not a capital letter. Only the genus name starts with a capital letter."
+    },
+    {
+      "id": "LW_322",
+      "question": "The statement 'classification is not a single step process' means:",
+      "options": {"A": "Classification is done in multiple sessions", "B": "It involves hierarchy of steps, each representing a rank or category", "C": "It requires multiple scientists", "D": "It takes many years to complete"},
+      "correct_option": "B",
+      "explanation": "Classification involves hierarchy of steps in which each step represents a rank or category — from species to kingdom."
+    },
+    {
+      "id": "LW_323",
+      "question": "What does 'Systema Naturae' literally mean?",
+      "options": {"A": "Study of Nature", "B": "System of Nature", "C": "Natural System", "D": "Nature's Classification"},
+      "correct_option": "B",
+      "explanation": "Linnaeus used 'Systema Naturae' as the title of his publication. 'Systema' means 'system' and 'Naturae' means 'of nature' — System of Nature."
+    },
+    {
+      "id": "LW_324",
+      "question": "The Latin word 'systema' means:",
+      "options": {"A": "Systematic study", "B": "Systematic arrangement of organisms", "C": "System of classification", "D": "Scientific system"},
+      "correct_option": "B",
+      "explanation": "The word systematics is derived from the Latin word 'systema' which means systematic arrangement of organisms."
+    },
+    {
+      "id": "LW_325",
+      "question": "Which of the following pairs of organisms are correctly placed in the same ORDER?",
+      "options": {"A": "Man and housefly", "B": "Tiger and monkey", "C": "Tiger and cat", "D": "Man and monkey"},
+      "correct_option": "D",
+      "explanation": "Man (Homo sapiens) and monkey both belong to order Primata. Tiger belongs to order Carnivora. Housefly belongs to order Diptera."
+    },
+    {
+      "id": "LW_326",
+      "question": "Which of the following pairs of organisms are correctly placed in the same FAMILY?",
+      "options": {"A": "Tiger and dog", "B": "Tiger and cat", "C": "Man and dog", "D": "Monkey and cat"},
+      "correct_option": "B",
+      "explanation": "Tiger (genus Panthera) and cat (genus Felis) both belong to family Felidae. Dog belongs to family Canidae."
+    },
+    {
+      "id": "LW_327",
+      "question": "Which of the following organisms belong to the same CLASS as man?",
+      "options": {"A": "Housefly", "B": "Lizard", "C": "Frog", "D": "Tiger"},
+      "correct_option": "D",
+      "explanation": "Man and tiger both belong to class Mammalia. Housefly is in class Insecta, lizard in Reptilia, frog in Amphibia."
+    },
+    {
+      "id": "LW_328",
+      "question": "Which of the following organisms belong to the same CLASS as housefly?",
+      "options": {"A": "Man", "B": "Spider", "C": "Mosquito", "D": "Crab"},
+      "correct_option": "C",
+      "explanation": "Housefly and mosquito are both in class Insecta (phylum Arthropoda). Spider and crab are in different classes of Arthropoda."
+    },
+    {
+      "id": "LW_329",
+      "question": "Why is it said that 'lower the taxa, more are the characteristics that the members share'?",
+      "options": {"A": "Because lower taxa have fewer organisms", "B": "Because organisms in lower taxa are more closely related and hence share more specific characteristics", "C": "Because classification becomes easier at lower levels", "D": "Because lower taxa are studied more thoroughly"},
+      "correct_option": "B",
+      "explanation": "Members of lower taxa (like species) are more closely related and share more specific characteristics. As we go higher (genus, family, etc.), the shared characteristics become fewer and more general."
+    },
+    {
+      "id": "LW_330",
+      "question": "The range of organisms that you see increases when you:",
+      "options": {"A": "Stay in one place", "B": "Increase the area of observation, especially visiting dense forests", "C": "Study only one type of organism", "D": "Look only at microscopic organisms"},
+      "correct_option": "B",
+      "explanation": "If you increase the area that you make observations in, the range and variety of organisms increases. Visiting a dense forest would show many more kinds of organisms."
+    },
+    {
+      "id": "LW_331",
+      "question": "NCERT states that biologists follow universally accepted principles to provide scientific names to known organisms. The scientific name uses which system?",
+      "options": {"A": "Trinomial nomenclature", "B": "Binomial nomenclature", "C": "Mononomial nomenclature", "D": "Polynomial nomenclature"},
+      "correct_option": "B",
+      "explanation": "Biologists follow universally accepted principles and use Binomial nomenclature — a two-word format comprising Generic name and specific epithet."
+    },
+    {
+      "id": "LW_332",
+      "question": "The scientific name 'Panthera leo' — which part of the name tells us about the broader group this organism belongs to?",
+      "options": {"A": "leo (specific epithet)", "B": "Panthera (genus)", "C": "Both equally", "D": "Neither"},
+      "correct_option": "B",
+      "explanation": "The genus name 'Panthera' tells us about the broader group — it shows lion is related to tiger (P. tigris) and leopard (P. pardus) in the same genus."
+    },
+    {
+      "id": "LW_333",
+      "question": "The scientific name 'Panthera leo' — which part of the name tells us about the specific organism within the genus?",
+      "options": {"A": "Panthera (genus)", "B": "leo (specific epithet)", "C": "Both equally", "D": "Neither"},
+      "correct_option": "B",
+      "explanation": "The specific epithet 'leo' identifies this particular species (lion) within the broader genus Panthera."
+    },
+    {
+      "id": "LW_334",
+      "question": "If an organism's scientific name is 'Rosa indica', then 'Rosa' is the:",
+      "options": {"A": "Specific epithet", "B": "Family name", "C": "Genus name", "D": "Order name"},
+      "correct_option": "C",
+      "explanation": "In any binomial name, the first word (capital letter) is the genus name. 'Rosa' is the genus name."
+    },
+    {
+      "id": "LW_335",
+      "question": "If an organism's scientific name is 'Rosa indica', then 'indica' is the:",
+      "options": {"A": "Genus name", "B": "Family name", "C": "Specific epithet", "D": "Order name"},
+      "correct_option": "C",
+      "explanation": "In any binomial name, the second word (small letter) is the specific epithet. 'indica' is the specific epithet."
+    },
+    {
+      "id": "LW_336",
+      "question": "Two organisms have the same genus name 'Solanum'. This means they:",
+      "options": {"A": "Are the same species", "B": "Have the same specific epithet", "C": "Are closely related and belong to the same genus", "D": "Belong to different families"},
+      "correct_option": "C",
+      "explanation": "Two organisms with the same genus name are closely related and belong to the same genus — they share genus, family, order, class, phylum and kingdom."
+    },
+    {
+      "id": "LW_337",
+      "question": "According to NCERT, the most significant observation from studying relationships among organisms was that:",
+      "options": {"A": "All organisms are completely different from each other", "B": "Present-day organisms are related to each other and to all organisms that ever lived on earth", "C": "Humans are superior to all other organisms", "D": "Plants and animals evolved independently"},
+      "correct_option": "B",
+      "explanation": "The recognition that all present-day living organisms are related to each other and to all organisms that ever lived on earth was a revelation that humbled man."
+    },
+    {
+      "id": "LW_338",
+      "question": "The term 'taxa' is the plural of:",
+      "options": {"A": "Taxonomy", "B": "Taxon", "C": "Taxation", "D": "Taxus"},
+      "correct_option": "B",
+      "explanation": "Taxa is the plural of taxon. Taxon (pl.: taxa) represents a unit of classification."
+    },
+    {
+      "id": "LW_339",
+      "question": "Which of the following is the CORRECT statement about Family as compared to Genus?",
+      "options": {"A": "Family has more similarities than genus", "B": "Family has fewer similarities than genus", "C": "Family and genus have the same number of similarities", "D": "Family is below genus in hierarchy"},
+      "correct_option": "B",
+      "explanation": "Family has a group of related genera with STILL LESS number of similarities as compared to genus and species. As we go higher, shared characteristics decrease."
+    },
+    {
+      "id": "LW_340",
+      "question": "Which of the following represents the CORRECT relationship among Phylum, Class and Order?",
+      "options": {"A": "Phylum contains classes; classes contain orders", "B": "Order contains classes; classes contain phyla", "C": "Class contains phyla; phyla contain orders", "D": "Order, class and phylum are at the same level"},
+      "correct_option": "A",
+      "explanation": "In descending order: Phylum → Class → Order. A phylum contains classes and classes contain orders."
+    },
+    {
+      "id": "LW_341",
+      "question": "Cats and dogs share the same order (Carnivora) but belong to different families. This means they share:",
+      "options": {"A": "Same genus", "B": "Same species", "C": "Same order, class, phylum and kingdom but different families", "D": "Different orders and classes"},
+      "correct_option": "C",
+      "explanation": "Cat (Felidae) and dog (Canidae) share order Carnivora, class Mammalia, phylum Chordata and Kingdom Animalia — but belong to different families."
+    },
+    {
+      "id": "LW_342",
+      "question": "Which of the following is a valid scientific name format?",
+      "options": {"A": "Homo Sapiens", "B": "homo sapiens", "C": "Homo sapiens", "D": "HOMO sapiens"},
+      "correct_option": "C",
+      "explanation": "Homo sapiens — genus 'Homo' with capital H, specific epithet 'sapiens' with small s, both in italics — this is the valid format."
+    },
+    {
+      "id": "LW_343",
+      "question": "What makes binomial nomenclature convenient for worldwide use?",
+      "options": {"A": "It uses English words", "B": "It uses a two-word Latin or Latinised format that is universally standardised", "C": "It uses local names", "D": "It uses numbers and letters"},
+      "correct_option": "B",
+      "explanation": "The two-word Latin format under international codes (ICBN, ICZN) makes binomial nomenclature convenient and universally applicable worldwide."
+    },
+    {
+      "id": "LW_344",
+      "question": "Families like Convolvulaceae and Solanaceae are grouped together in order Polymoniales based on:",
+      "options": {"A": "Root characters", "B": "Floral characters", "C": "Stem characters", "D": "Leaf characters"},
+      "correct_option": "B",
+      "explanation": "Plant families Convolvulaceae and Solanaceae are included in the order Polymoniales mainly based on the floral characters."
+    },
+    {
+      "id": "LW_345",
+      "question": "The order that includes families Felidae and Canidae is:",
+      "options": {"A": "Primata", "B": "Diptera", "C": "Carnivora", "D": "Sapindales"},
+      "correct_option": "C",
+      "explanation": "The animal order Carnivora includes families like Felidae and Canidae."
+    },
+    {
+      "id": "LW_346",
+      "question": "How does the sharing of similarities work vertically among organisms according to NCERT?",
+      "options": {"A": "Organisms at the same level share more similarities than organisms at different levels", "B": "Sharing of similarities occurs both horizontally (same level) and vertically (across levels/evolutionary time)", "C": "Only horizontal sharing occurs", "D": "Only vertical sharing occurs"},
+      "correct_option": "B",
+      "explanation": "NCERT states that the biggest spin-off of systematic studies was the recognition of the sharing of similarities among living organisms both horizontally and vertically."
+    },
+    {
+      "id": "LW_347",
+      "question": "The term 'species' in taxonomy refers to a group defined by:",
+      "options": {"A": "Geographic location", "B": "Fundamental similarities among individual organisms", "C": "Economic importance", "D": "Size and colour"},
+      "correct_option": "B",
+      "explanation": "Taxonomic studies consider a group of individual organisms with fundamental similarities as a species."
+    },
+    {
+      "id": "LW_348",
+      "question": "Why cannot organisms be placed in categories without knowledge of their characters?",
+      "options": {"A": "Because characters are used for identification, and identification is needed before classification", "B": "Because characters are economically important", "C": "Because classification requires counting organisms", "D": "Because characters define the habitat"},
+      "correct_option": "A",
+      "explanation": "Knowledge of characters of an individual or group of organisms is the basic requirement for identifying similarities and dissimilarities — which then enables classification."
+    },
+    {
+      "id": "LW_349",
+      "question": "The categories in the taxonomic hierarchy are described as 'distinct biological entities'. This means they are:",
+      "options": {"A": "Based only on appearance (morphology)", "B": "Real biological groups, not just sets of similar-looking organisms", "C": "Man-made artificial divisions", "D": "Based only on size"},
+      "correct_option": "B",
+      "explanation": "Taxonomic groups/categories are distinct biological entities and NOT merely morphological aggregates — they represent real biological relationships."
+    },
+    {
+      "id": "LW_350",
+      "question": "The example of insects having three pairs of jointed legs in NCERT is used to explain:",
+      "options": {"A": "What a species is", "B": "What a kingdom is", "C": "How organisms sharing common features are given a rank or category", "D": "What a family is"},
+      "correct_option": "C",
+      "explanation": "Insects represent a group sharing common features (three pairs of jointed legs) — they were recognisable concrete objects that could be classified and given a rank/category."
+    },
+    {
+      "id": "LW_351",
+      "question": "Which of the following is a member of family Felidae but NOT genus Panthera?",
+      "options": {"A": "Lion", "B": "Tiger", "C": "Cat", "D": "Leopard"},
+      "correct_option": "C",
+      "explanation": "Cat belongs to genus Felis (not Panthera) but is in family Felidae. Lion, tiger and leopard are all in genus Panthera within family Felidae."
+    },
+    {
+      "id": "LW_352",
+      "question": "Which of the following organisms belong to division Gymnospermae?",
+      "options": {"A": "Mango", "B": "Wheat", "C": "Pine tree", "D": "Both mango and wheat"},
+      "correct_option": "C",
+      "explanation": "Mango and wheat both belong to Angiospermae. Pine tree belongs to Gymnospermae. (Note: this tests knowledge BEYOND the table — Gymnospermae is mentioned in NCERT as a division.)"
+    },
+    {
+      "id": "LW_353",
+      "question": "The number of common characters DECREASES as we go from:",
+      "options": {"A": "Kingdom to Species", "B": "Species to Kingdom", "C": "Family to Order", "D": "Genus to Species"},
+      "correct_option": "B",
+      "explanation": "As we go higher from species to kingdom, the number of common characteristics goes on decreasing."
+    },
+    {
+      "id": "LW_354",
+      "question": "The number of common characters INCREASES as we go from:",
+      "options": {"A": "Species to Kingdom", "B": "Phylum to Class", "C": "Kingdom to Species", "D": "Order to Class"},
+      "correct_option": "C",
+      "explanation": "As we go from Kingdom (highest, fewer shared characters) to Species (lowest, more shared characters), the number of common characteristics increases."
+    },
+    {
+      "id": "LW_355",
+      "question": "Members of which taxonomic category share the MAXIMUM number of common characteristics?",
+      "options": {"A": "Kingdom", "B": "Order", "C": "Species", "D": "Phylum"},
+      "correct_option": "C",
+      "explanation": "Species is the lowest taxon. Lower the taxa, more are the characteristics shared. Species members share the maximum characteristics."
+    },
+    {
+      "id": "LW_356",
+      "question": "Members of which taxonomic category share the MINIMUM number of common characteristics?",
+      "options": {"A": "Species", "B": "Genus", "C": "Family", "D": "Kingdom"},
+      "correct_option": "D",
+      "explanation": "Kingdom is the highest taxon. Higher the category, fewer are the characteristics shared. Kingdom members share the minimum characteristics."
+    },
+    {
+      "id": "LW_357",
+      "question": "The phrase 'taxonomic hierarchy' refers to:",
+      "options": {"A": "The most important taxonomic category", "B": "The arrangement of all taxonomic categories in a ranked order from lowest to highest", "C": "Only kingdom and species", "D": "The study of taxonomy"},
+      "correct_option": "B",
+      "explanation": "Taxonomic hierarchy is all categories together constituting a ranked system from species (lowest) to kingdom (highest)."
+    },
+    {
+      "id": "LW_358",
+      "question": "Which of the following is the correct ASCENDING order for Mango taxonomy?",
+      "options": {"A": "Mangifera indica → Mangifera → Anacardiaceae → Sapindales → Dicotyledonae → Angiospermae → Plantae", "B": "Mangifera → Mangifera indica → Anacardiaceae → Sapindales → Dicotyledonae → Angiospermae → Plantae", "C": "Anacardiaceae → Mangifera indica → Mangifera → Sapindales → Plantae → Dicotyledonae → Angiospermae", "D": "Sapindales → Anacardiaceae → Mangifera → Mangifera indica → Dicotyledonae → Angiospermae → Plantae"},
+      "correct_option": "A",
+      "explanation": "Ascending order for mango: Species (Mangifera indica) → Genus (Mangifera) → Family (Anacardiaceae) → Order (Sapindales) → Class (Dicotyledonae) → Division (Angiospermae) → Kingdom (Plantae)."
+    },
+    {
+      "id": "LW_359",
+      "question": "Which of the following is the correct DESCENDING order for wheat taxonomy?",
+      "options": {"A": "Plantae → Angiospermae → Monocotyledonae → Poales → Poaceae → Triticum → Triticum aestivum", "B": "Triticum aestivum → Triticum → Poaceae → Poales → Monocotyledonae → Angiospermae → Plantae", "C": "Poaceae → Poales → Triticum → Triticum aestivum → Monocotyledonae → Angiospermae → Plantae", "D": "Plantae → Monocotyledonae → Angiospermae → Poales → Poaceae → Triticum → Triticum aestivum"},
+      "correct_option": "A",
+      "explanation": "Descending order for wheat: Kingdom (Plantae) → Division (Angiospermae) → Class (Monocotyledonae) → Order (Poales) → Family (Poaceae) → Genus (Triticum) → Species (Triticum aestivum)."
+    },
+    {
+      "id": "LW_360",
+      "question": "Which of the following is the correct DESCENDING order for man?",
+      "options": {"A": "Animalia → Chordata → Mammalia → Primata → Hominidae → Homo → Homo sapiens", "B": "Homo sapiens → Homo → Hominidae → Primata → Mammalia → Chordata → Animalia", "C": "Animalia → Mammalia → Chordata → Primata → Hominidae → Homo → Homo sapiens", "D": "Animalia → Chordata → Primata → Mammalia → Hominidae → Homo → Homo sapiens"},
+      "correct_option": "A",
+      "explanation": "Descending order for man: Kingdom (Animalia) → Phylum (Chordata) → Class (Mammalia) → Order (Primata) → Family (Hominidae) → Genus (Homo) → Species (Homo sapiens)."
+    },
+    {
+      "id": "LW_361",
+      "question": "Which of the following is a valid reason for why taxonomic categories keep changing?",
+      "options": {"A": "Scientists make mistakes and need to correct them", "B": "New organisms are discovered and new scientific data (molecular, genetic) revises our understanding", "C": "Governments change rules", "D": "Organisms evolve very fast"},
+      "correct_option": "B",
+      "explanation": "Classification systems change because new organisms are continuously being identified, and new scientific data revises our understanding of evolutionary relationships."
+    },
+    {
+      "id": "LW_362",
+      "question": "The NCERT exercise asks: 'What different criteria would you choose to classify people that you meet often?' This question is designed to help students understand that:",
+      "options": {"A": "People should be classified like organisms", "B": "Classification is a universal process — even in daily life we group things based on observable characteristics", "C": "People cannot be classified", "D": "Classification requires scientific tools"},
+      "correct_option": "B",
+      "explanation": "This exercise question helps understand that classification is universal — we naturally group things (including people) based on observable characteristics in everyday life."
+    },
+    {
+      "id": "LW_363",
+      "question": "NCERT mentions 'molecular traffic inside a cell'. This refers to:",
+      "options": {"A": "Cars inside cells", "B": "Movement of molecules within a cell — reflecting the complexity of life at the molecular level", "C": "Traffic signals in biology", "D": "Movement of cells through blood vessels"},
+      "correct_option": "B",
+      "explanation": "NCERT uses the metaphor of 'molecular traffic' to describe the movement and interactions of molecules inside a cell, reflecting the complexity of life processes."
+    },
+    {
+      "id": "LW_364",
+      "question": "The aesthetic beauty of living organisms mentioned in NCERT (galloping horse, migrating birds, valley of flowers) is used to emphasize:",
+      "options": {"A": "That biology is only about aesthetics", "B": "That the living world evokes a sense of wonder, inspiring us to study and understand it", "C": "That organisms are only studied for their beauty", "D": "That classification is based on beauty"},
+      "correct_option": "B",
+      "explanation": "The beauty of a galloping horse, migrating birds, valley of flowers or attacking shark evokes awe and a deep sense of wonder — inspiring the study of life."
+    },
+    {
+      "id": "LW_365",
+      "question": "Which of the following is NOT an example of a taxonomic category?",
+      "options": {"A": "Kingdom", "B": "Genus", "C": "Ecosystem", "D": "Family"},
+      "correct_option": "C",
+      "explanation": "Ecosystem is an ecological concept, not a taxonomic category. Kingdom, Genus and Family are all taxonomic categories."
+    },
+    {
+      "id": "LW_366",
+      "question": "The NCERT definition of 'taxonomy' specifically mentions which type of information as essential for modern taxonomic studies?",
+      "options": {"A": "Genetic information only", "B": "Behavioural information only", "C": "External and internal structure, cell structure, development process and ecological information", "D": "Only morphological information"},
+      "correct_option": "C",
+      "explanation": "External and internal structure, along with the structure of cell, development process and ecological information of organisms are essential and form the basis of modern taxonomic studies."
+    },
+    {
+      "id": "LW_367",
+      "question": "According to NCERT, what is the significance of 'ecological information' in taxonomy?",
+      "options": {"A": "It is not important", "B": "It forms part of the essential information for modern taxonomic studies", "C": "It is used only in animal classification", "D": "It is used only in plant classification"},
+      "correct_option": "B",
+      "explanation": "Ecological information of organisms is listed as essential information that forms the basis of modern taxonomic studies."
+    },
+    {
+      "id": "LW_368",
+      "question": "Which of the following is the BEST example showing that a single organism can represent multiple taxa simultaneously?",
+      "options": {"A": "A dog is a mammal, an animal, and Canis lupus familiaris", "B": "A plant has leaves and roots", "C": "A bird has wings and feathers", "D": "A fish lives in water"},
+      "correct_option": "A",
+      "explanation": "A dog simultaneously belongs to species (Canis lupus familiaris), genus (Canis), family (Canidae), order (Carnivora), class (Mammalia), phylum (Chordata) and kingdom (Animalia) — representing multiple taxa at once."
+    },
+    {
+      "id": "LW_369",
+      "question": "What is the relationship between 'identification' and 'nomenclature'?",
+      "options": {"A": "They are the same process", "B": "Nomenclature comes before identification", "C": "Identification must come before nomenclature — we first correctly describe the organism, then name it", "D": "They are independent processes"},
+      "correct_option": "C",
+      "explanation": "Nomenclature or naming is only possible when the organism is described correctly and we know to what organism the name is attached (identification). So identification precedes nomenclature."
+    },
+    {
+      "id": "LW_370",
+      "question": "The ICBN (International Code for Botanical Nomenclature) specifically governs naming of:",
+      "options": {"A": "Animals", "B": "Plants", "C": "Bacteria", "D": "Fungi"},
+      "correct_option": "B",
+      "explanation": "ICBN governs scientific names for plants specifically."
+    },
+    {
+      "id": "LW_371",
+      "question": "The ICZN (International Code of Zoological Nomenclature) specifically governs naming of:",
+      "options": {"A": "Plants", "B": "Animals", "C": "Viruses", "D": "Fungi"},
+      "correct_option": "B",
+      "explanation": "ICZN governs scientific names for animals specifically."
+    },
+    {
+      "id": "LW_372",
+      "question": "According to NCERT, 'systematics' is different from 'taxonomy' because systematics additionally considers:",
+      "options": {"A": "Only morphology", "B": "Only ecology", "C": "Evolutionary relationships between organisms", "D": "Only physiology"},
+      "correct_option": "C",
+      "explanation": "Systematics enlarged the scope of taxonomy to include identification, nomenclature and classification AND also takes into account evolutionary relationships between organisms."
+    },
+    {
+      "id": "LW_373",
+      "question": "Which of the following best describes why Carolus Linnaeus is important in biology?",
+      "options": {"A": "He discovered the cell", "B": "He gave the system of binomial nomenclature that is used by biologists worldwide", "C": "He discovered DNA", "D": "He proposed the theory of evolution"},
+      "correct_option": "B",
+      "explanation": "Carolus Linnaeus gave the binomial naming system using a two-word format — genus and specific epithet — which is practised by biologists all over the world."
+    },
+    {
+      "id": "LW_374",
+      "question": "Gibbon belongs to which order?",
+      "options": {"A": "Carnivora", "B": "Diptera", "C": "Primata", "D": "Sapindales"},
+      "correct_option": "C",
+      "explanation": "Gibbon belongs to order Primata along with monkey and gorilla."
+    },
+    {
+      "id": "LW_375",
+      "question": "Dog belongs to which animal family?",
+      "options": {"A": "Felidae", "B": "Hominidae", "C": "Muscidae", "D": "Canidae"},
+      "correct_option": "D",
+      "explanation": "Dog belongs to family Canidae, which is in order Carnivora along with family Felidae (cats)."
+    },
+    {
+      "id": "LW_376",
+      "question": "Which of the following organisms from NCERT examples is NOT in order Carnivora?",
+      "options": {"A": "Lion", "B": "Tiger", "C": "Dog", "D": "Gorilla"},
+      "correct_option": "D",
+      "explanation": "Gorilla is in order Primata. Lion, tiger and dog are all in order Carnivora."
+    },
+    {
+      "id": "LW_377",
+      "question": "The number of species known and described is approximately 1.7–1.8 million. The actual number of species on earth is:",
+      "options": {"A": "Exactly 1.7–1.8 million", "B": "Less than 1.7 million", "C": "More, as many species still remain unknown", "D": "Exactly 10 million"},
+      "correct_option": "C",
+      "explanation": "1.7–1.8 million is what is known and described. The actual number is more since 'a large number still remains unknown.'"
+    },
+    {
+      "id": "LW_378",
+      "question": "Which of the following is NOT mentioned as a common feature that NCERT uses to define organisms of the same taxon?",
+      "options": {"A": "Fundamental similarities (species)", "B": "Jointed legs (insects)", "C": "Notochord and dorsal hollow neural system (Chordata)", "D": "Wings (all flying organisms)"},
+      "correct_option": "D",
+      "explanation": "NCERT doesn't use 'wings' as a defining feature for a taxon. Species use fundamental similarities, insects use jointed legs, and Chordata uses notochord and dorsal hollow neural system."
+    },
+    {
+      "id": "LW_379",
+      "question": "The botanical name of potato is Solanum tuberosum. Which part of this name would be the same for brinjal (Solanum melongena)?",
+      "options": {"A": "melongena", "B": "tuberosum", "C": "Solanum", "D": "Both tuberosum and Solanum"},
+      "correct_option": "C",
+      "explanation": "Both potato (Solanum tuberosum) and brinjal (Solanum melongena) share the genus name 'Solanum'. Their specific epithets (tuberosum and melongena) are different."
+    },
+    {
+      "id": "LW_380",
+      "question": "NCERT says taxonomic categories are 'distinct biological entities and not merely morphological aggregates'. What does this mean?",
+      "options": {"A": "They are based only on external appearance", "B": "They represent real biological groups with meaningful evolutionary/biological relationships, not just groups with similar looks", "C": "They are based on genetic information only", "D": "They are artificial groupings"},
+      "correct_option": "B",
+      "explanation": "Taxonomic categories are distinct biological entities — they represent real biological relationships and evolutionary connections, not just groups of organisms that look similar."
+    },
+    {
+      "id": "LW_381",
+      "question": "Which of the following best defines 'characterisation' as a process basic to taxonomy?",
+      "options": {"A": "Giving a name to the organism", "B": "Describing the features and characters of the organism in detail", "C": "Grouping organisms into categories", "D": "Studying the evolution of organisms"},
+      "correct_option": "B",
+      "explanation": "Characterisation is the process of describing the features and characters of an organism in detail — one of the four processes basic to taxonomy."
+    },
+    {
+      "id": "LW_382",
+      "question": "The Crafoord Prize received by Ernst Mayr is one of the 'triple crown of biology'. The other two prizes are:",
+      "options": {"A": "Nobel Prize and Darwin Award", "B": "Balzan Prize and International Prize for Biology", "C": "Fields Medal and Darwin Prize", "D": "Linnaeus Award and Mendel Prize"},
+      "correct_option": "B",
+      "explanation": "The three prizes regarded as the triple crown of biology are: Balzan Prize (1983), International Prize for Biology (1994), and Crafoord Prize (1999)."
+    },
+    {
+      "id": "LW_383",
+      "question": "Which of the following is the CORRECT statement about diversity of living organisms?",
+      "options": {"A": "All living organisms are similar to each other", "B": "The range of organisms is amazing — from microscopic to macroscopic, across diverse habitats", "C": "Only animals show diversity", "D": "Diversity is limited to terrestrial habitats"},
+      "correct_option": "B",
+      "explanation": "The range of living types is amazing. They are found in cold mountains, deserts, oceans, fresh water lakes, hot springs — showing amazing diversity of habitats and forms."
+    },
+    {
+      "id": "LW_384",
+      "question": "Which of the following correctly explains why 'classification facilitates study' of living organisms?",
+      "options": {"A": "It reduces the number of organisms to study", "B": "It groups organisms with similar features together making it easier to study many organisms at once", "C": "It eliminates the need for naming organisms", "D": "It focuses only on economically important organisms"},
+      "correct_option": "B",
+      "explanation": "Classification groups organisms with similar characters together — so studying the characteristics of a group gives information about all its members, making it more manageable."
+    },
+    {
+      "id": "LW_385",
+      "question": "If you see a new organism with notochord during embryonic development, you can immediately place it in:",
+      "options": {"A": "Kingdom Plantae", "B": "Phylum Arthropoda", "C": "Phylum Chordata", "D": "Kingdom Fungi"},
+      "correct_option": "C",
+      "explanation": "Presence of notochord (and dorsal hollow neural system) is the defining feature of phylum Chordata."
+    },
+    {
+      "id": "LW_386",
+      "question": "If you see a new organism with three pairs of jointed legs, you can immediately place it in:",
+      "options": {"A": "Phylum Chordata", "B": "Class Insecta (in Phylum Arthropoda)", "C": "Kingdom Plantae", "D": "Order Carnivora"},
+      "correct_option": "B",
+      "explanation": "Three pairs of jointed legs is the defining feature of class Insecta in phylum Arthropoda."
+    },
+    {
+      "id": "LW_387",
+      "question": "The scientific name of a species that was first described by Linnaeus would have which abbreviation after the specific epithet?",
+      "options": {"A": "L.", "B": "Linne.", "C": "Linn.", "D": "Lin."},
+      "correct_option": "C",
+      "explanation": "Species first described by Linnaeus have 'Linn.' as the abbreviated author name after the specific epithet. Example: Mangifera indica Linn."
+    },
+    {
+      "id": "LW_388",
+      "question": "The biological name Mangifera indica Linn. has three parts. What does the third part 'Linn.' represent?",
+      "options": {"A": "The family name", "B": "The author who first described the species (Linnaeus)", "C": "The kingdom", "D": "The language of the name"},
+      "correct_option": "B",
+      "explanation": "'Linn.' is the abbreviated form of Linnaeus — the name of the author who first described this species (Mangifera indica)."
+    },
+    {
+      "id": "LW_389",
+      "question": "If an organism is assigned to phylum Chordata, it automatically belongs to Kingdom:",
+      "options": {"A": "Plantae", "B": "Fungi", "C": "Animalia", "D": "Protista"},
+      "correct_option": "C",
+      "explanation": "All animals belonging to various phyla (including Chordata) are assigned to Kingdom Animalia."
+    },
+    {
+      "id": "LW_390",
+      "question": "If an organism belongs to division Angiospermae, it automatically belongs to Kingdom:",
+      "options": {"A": "Animalia", "B": "Fungi", "C": "Monera", "D": "Plantae"},
+      "correct_option": "D",
+      "explanation": "Kingdom Plantae comprises all plants from various divisions including Angiospermae."
+    },
+    {
+      "id": "LW_391",
+      "question": "Which chapter follows Chapter 1 'The Living World' in NCERT Unit 1?",
+      "options": {"A": "Plant Kingdom", "B": "Animal Kingdom", "C": "Biological Classification", "D": "Cell: The Unit of Life"},
+      "correct_option": "C",
+      "explanation": "Chapter 2 'Biological Classification' follows Chapter 1 'The Living World' in Unit 1 of NCERT Class 11 Biology."
+    },
+    {
+      "id": "LW_392",
+      "question": "Which of the following is a 'specific epithet' among the given options?",
+      "options": {"A": "Panthera", "B": "Mangifera", "C": "Homo", "D": "domestica"},
+      "correct_option": "D",
+      "explanation": "'domestica' (in Musca domestica) is a specific epithet — written in small letters. Panthera, Mangifera and Homo are genus names (written in capital letters)."
+    },
+    {
+      "id": "LW_393",
+      "question": "Which of the following is a 'genus name' among the given options?",
+      "options": {"A": "indica", "B": "sapiens", "C": "aestivum", "D": "Panthera"},
+      "correct_option": "D",
+      "explanation": "'Panthera' is a genus name (starts with capital letter). indica, sapiens and aestivum are all specific epithets (start with small letters)."
+    },
+    {
+      "id": "LW_394",
+      "question": "A student is handwriting the name of mango in a biology exam. Which is CORRECT?",
+      "options": {"A": "Mangifera indica (not underlined)", "B": "Mangifera indica (both words separately underlined)", "C": "MANGIFERA INDICA", "D": "mangifera indica (not underlined)"},
+      "correct_option": "B",
+      "explanation": "When handwritten, both words in a biological name are separately underlined — so Mangifera indica with both words underlined is correct."
+    },
+    {
+      "id": "LW_395",
+      "question": "Which of the following correctly shows the format when a biological name is typed/printed?",
+      "options": {"A": "Mangifera indica (regular format)", "B": "Mangifera indica (italics)", "C": "MANGIFERA INDICA", "D": "Mangifera indica (underlined)"},
+      "correct_option": "B",
+      "explanation": "When printed, biological names are written in italics to indicate their Latin origin."
+    },
+    {
+      "id": "LW_396",
+      "question": "If you compare two organisms from the SAME class but DIFFERENT orders, you would expect them to share:",
+      "options": {"A": "Species, genus, family, order, class, phylum and kingdom", "B": "Only kingdom", "C": "Class, phylum and kingdom (but not order, family, genus or species)", "D": "Only phylum and kingdom"},
+      "correct_option": "C",
+      "explanation": "Two organisms from the same class but different orders share class, phylum and kingdom (all higher categories), but differ in order, family, genus and species."
+    },
+    {
+      "id": "LW_397",
+      "question": "If you compare two organisms from the SAME phylum but DIFFERENT classes, they would share:",
+      "options": {"A": "Species through phylum (everything)", "B": "Only phylum and kingdom", "C": "All categories", "D": "Nothing"},
+      "correct_option": "B",
+      "explanation": "Two organisms from the same phylum but different classes share phylum and kingdom, but differ in class, order, family, genus and species."
+    },
+    {
+      "id": "LW_398",
+      "question": "NCERT states that the scope of systematics was 'later enlarged'. What was included in the enlargement?",
+      "options": {"A": "Genetics and evolution", "B": "Identification, nomenclature and classification", "C": "Ecology and behaviour", "D": "Physiology and biochemistry"},
+      "correct_option": "B",
+      "explanation": "The scope of systematics was later enlarged to include identification, nomenclature and classification, while also taking evolutionary relationships into account."
+    },
+    {
+      "id": "LW_399",
+      "question": "Which of the following organisms does NOT belong to order Primata according to NCERT?",
+      "options": {"A": "Monkey", "B": "Gorilla", "C": "Gibbon", "D": "Man's dog"},
+      "correct_option": "D",
+      "explanation": "Dog belongs to order Carnivora (family Canidae). Monkey, gorilla, gibbon and man (Homo sapiens) all belong to order Primata."
+    },
+    {
+      "id": "LW_400",
+      "question": "Chapter 1 of NCERT Biology Class 11 is considered foundational because it:",
+      "options": {"A": "Covers genetics in detail", "B": "Introduces the concepts of classification, nomenclature and diversity which are used throughout biology", "C": "Covers cellular biology", "D": "Focuses only on plant biology"},
+      "correct_option": "B",
+      "explanation": "Chapter 1 is foundational — it establishes the concepts of diversity, taxonomy, classification and nomenclature that underpin all of biology and are applied in subsequent chapters."
+    },
+    {
+      "id": "LW_401",
+      "question": "The taxonomic hierarchy from NCERT in ascending order — which of the following is at position 4 (counting species as 1)?",
+      "options": {"A": "Genus", "B": "Family", "C": "Order", "D": "Class"},
+      "correct_option": "C",
+      "explanation": "Position 1: Species, 2: Genus, 3: Family, 4: Order, 5: Class, 6: Phylum/Division, 7: Kingdom. Order is at position 4."
+    },
+    {
+      "id": "LW_402",
+      "question": "The taxonomic hierarchy from NCERT in ascending order — which of the following is at position 5 (counting species as 1)?",
+      "options": {"A": "Order", "B": "Family", "C": "Class", "D": "Kingdom"},
+      "correct_option": "C",
+      "explanation": "Position 1: Species, 2: Genus, 3: Family, 4: Order, 5: Class, 6: Phylum/Division, 7: Kingdom. Class is at position 5."
+    },
+    {
+      "id": "LW_403",
+      "question": "According to NCERT, what is the PRACTICAL importance of taxonomy for humans?",
+      "options": {"A": "It helps in predicting the weather", "B": "It is useful in agriculture, forestry, industry and knowing bio-resources and their diversity", "C": "It is only academically important", "D": "It helps in designing buildings"},
+      "correct_option": "B",
+      "explanation": "Taxonomic studies of various species are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their diversity."
+    },
+    {
+      "id": "LW_404",
+      "question": "Ernst Mayr's contribution to the 'definition of a biological species' is significant because:",
+      "options": {"A": "He created a new type of species", "B": "He pioneered the currently accepted definition that is universally used today", "C": "He discovered new species", "D": "He classified all species"},
+      "correct_option": "B",
+      "explanation": "Ernst Mayr pioneered the currently accepted definition of a biological species — his definition is widely used today in understanding what constitutes a species."
+    },
+    {
+      "id": "LW_405",
+      "question": "According to NCERT, which of the following 'evokes awe and a deep sense of wonder'?",
+      "options": {"A": "The classification of organisms", "B": "The beauty of a galloping horse, migrating birds, valley of flowers or the attacking shark", "C": "The naming system of organisms", "D": "The taxonomic hierarchy"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'The beauty of a galloping horse, of the migrating birds, the valley of flowers or the attacking shark evokes awe and a deep sense of wonder.'"
+    },
+    {
+      "id": "LW_406",
+      "question": "In which field does Ernst Mayr's research on 'ornithology' fall?",
+      "options": {"A": "Study of plants", "B": "Study of birds", "C": "Study of fish", "D": "Study of insects"},
+      "correct_option": "B",
+      "explanation": "Ornithology is the study of birds. Ernst Mayr's research included ornithology as one of his many fields."
+    },
+    {
+      "id": "LW_407",
+      "question": "In which field does Ernst Mayr's research on 'zoogeography' fall?",
+      "options": {"A": "Study of animal behaviour", "B": "Study of animal physiology", "C": "Study of the geographical distribution of animals", "D": "Study of animal taxonomy only"},
+      "correct_option": "C",
+      "explanation": "Zoogeography is the study of the geographical distribution of animals — Ernst Mayr's research included this field."
+    },
+    {
+      "id": "LW_408",
+      "question": "How many taxonomic categories are mentioned in NCERT Chapter 1 as common categories?",
+      "options": {"A": "5", "B": "6", "C": "7", "D": "8"},
+      "correct_option": "C",
+      "explanation": "The 7 common taxonomic categories are: Kingdom, Phylum (or Division for plants), Class, Order, Family, Genus and Species."
+    },
+    {
+      "id": "LW_409",
+      "question": "NCERT Figure 1.1 shows taxonomic categories in ascending order. From the BOTTOM of the figure going UP, what is the sequence?",
+      "options": {"A": "Kingdom → Phylum → Class → Order → Family → Genus → Species", "B": "Species → Genus → Family → Order → Class → Phylum → Kingdom", "C": "Species → Family → Genus → Order → Class → Phylum → Kingdom", "D": "Kingdom → Species → Genus → Family → Order → Class → Phylum"},
+      "correct_option": "B",
+      "explanation": "Figure 1.1 shows ascending order from bottom: Species (bottom) → Genus → Family → Order → Class → Phylum or Division → Kingdom (top)."
+    },
+    {
+      "id": "LW_410",
+      "question": "The number of organisms in each taxonomic category — which category has the MOST organisms?",
+      "options": {"A": "Species", "B": "Genus", "C": "Family", "D": "Kingdom"},
+      "correct_option": "D",
+      "explanation": "Kingdom (being the highest and most inclusive category) contains the most organisms. Each kingdom contains all the phyla, classes, orders, families, genera and species within it."
+    },
+    {
+      "id": "LW_411",
+      "question": "The number of organisms in each taxonomic category — which category has the FEWEST organisms (in most cases)?",
+      "options": {"A": "Kingdom", "B": "Phylum", "C": "Order", "D": "Species"},
+      "correct_option": "D",
+      "explanation": "Species (being the lowest and most specific category) typically contains the fewest organisms — just those of one specific kind."
+    },
+    {
+      "id": "LW_412",
+      "question": "NCERT says early classifications were based on 'uses'. What three uses are specifically mentioned?",
+      "options": {"A": "Medicine, hunting, rituals", "B": "Food, clothing and shelter", "C": "Transportation, tools, decoration", "D": "Religion, trade, agriculture"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'human beings needed to find sources for their basic needs of food, clothing and shelter' — these three uses drove early classification."
+    },
+    {
+      "id": "LW_413",
+      "question": "The phrase 'anthropocentric view of biology' means:",
+      "options": {"A": "Biology centred on plants", "B": "Biology centred on animals", "C": "Biology centred on human beings and their needs", "D": "Biology centred on ecology"},
+      "correct_option": "C",
+      "explanation": "Anthropocentric = centred on humans (anthropo = human). An anthropocentric view of biology focuses on organisms primarily from the perspective of human needs and interests."
+    },
+    {
+      "id": "LW_414",
+      "question": "Why did societies with an anthropocentric view of biology register limited progress?",
+      "options": {"A": "They lacked scientific tools", "B": "They focused only on organisms useful to humans, missing the broader diversity and relationships", "C": "They had too many organisms to study", "D": "They could not read or write"},
+      "correct_option": "B",
+      "explanation": "An anthropocentric view limits biology to organisms useful to humans, missing the full diversity of life and its relationships — hence limited progress in biological knowledge."
+    },
+    {
+      "id": "LW_415",
+      "question": "NCERT uses the example of a dog being a mammal and mammals being animals to explain:",
+      "options": {"A": "That dogs and mammals are the same", "B": "That taxa can indicate categories at very different levels within a hierarchy", "C": "That all animals are dogs", "D": "That mammals are the most important taxon"},
+      "correct_option": "B",
+      "explanation": "The example shows that 'animals', 'mammals' and 'dogs' are all taxa but at different levels in the taxonomic hierarchy."
+    },
+    {
+      "id": "LW_416",
+      "question": "NCERT Table 1.1 is titled 'Organisms with their Taxonomic Categories'. How many organisms are listed in this table?",
+      "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+      "correct_option": "C",
+      "explanation": "NCERT Table 1.1 lists 4 organisms: Man (Homo sapiens), Housefly (Musca domestica), Mango (Mangifera indica) and Wheat (Triticum aestivum)."
+    },
+    {
+      "id": "LW_417",
+      "question": "Which of the 4 organisms in NCERT Table 1.1 is an ANIMAL from phylum Arthropoda?",
+      "options": {"A": "Man", "B": "Housefly", "C": "Mango", "D": "Wheat"},
+      "correct_option": "B",
+      "explanation": "Among the 4 organisms in Table 1.1, housefly (Musca domestica) is from phylum Arthropoda."
+    },
+    {
+      "id": "LW_418",
+      "question": "Which of the 4 organisms in NCERT Table 1.1 is an ANIMAL from phylum Chordata?",
+      "options": {"A": "Housefly", "B": "Mango", "C": "Man", "D": "Wheat"},
+      "correct_option": "C",
+      "explanation": "Among the 4 organisms in Table 1.1, man (Homo sapiens) is from phylum Chordata."
+    },
+    {
+      "id": "LW_419",
+      "question": "Which of the 4 organisms in NCERT Table 1.1 are PLANTS?",
+      "options": {"A": "Man and housefly", "B": "Housefly and mango", "C": "Mango and wheat", "D": "Only mango"},
+      "correct_option": "C",
+      "explanation": "Among the 4 organisms in Table 1.1, mango and wheat are plants (both in division Angiospermae, Kingdom Plantae)."
+    },
+    {
+      "id": "LW_420",
+      "question": "Which two organisms in NCERT Table 1.1 belong to the same class?",
+      "options": {"A": "Man and housefly (class Mammalia)", "B": "Man and mango (class Dicotyledonae)", "C": "Mango and wheat (both Angiospermae, different classes)", "D": "None — all four are from different classes"},
+      "correct_option": "D",
+      "explanation": "Man (Mammalia), Housefly (Insecta), Mango (Dicotyledonae) and Wheat (Monocotyledonae) — all four are from different classes. No two organisms in the table share the same class."
+    },
+    {
+      "id": "LW_421",
+      "question": "Which two organisms in NCERT Table 1.1 share the same Division?",
+      "options": {"A": "Man and housefly", "B": "Man and mango", "C": "Mango and wheat (both Angiospermae)", "D": "No two organisms share a division"},
+      "correct_option": "C",
+      "explanation": "Mango (Mangifera indica) and wheat (Triticum aestivum) both belong to division Angiospermae."
+    },
+    {
+      "id": "LW_422",
+      "question": "Which of the following is TRUE about division/phylum in plants vs animals?",
+      "options": {"A": "Plants use Phylum; animals use Division", "B": "Plants use Division; animals use Phylum", "C": "Both plants and animals use Phylum", "D": "Both plants and animals use Division"},
+      "correct_option": "B",
+      "explanation": "In plants, classes are grouped into Division. In animals, classes are grouped into Phylum. Division is the plant equivalent of Phylum."
+    },
+    {
+      "id": "LW_423",
+      "question": "The taxonomic category immediately below Class in the animal kingdom is:",
+      "options": {"A": "Family", "B": "Phylum", "C": "Order", "D": "Kingdom"},
+      "correct_option": "C",
+      "explanation": "The hierarchy is: Class → Order → Family → Genus → Species. Order is immediately below Class."
+    },
+    {
+      "id": "LW_424",
+      "question": "The taxonomic category immediately above Genus in the hierarchy is:",
+      "options": {"A": "Species", "B": "Order", "C": "Family", "D": "Class"},
+      "correct_option": "C",
+      "explanation": "The hierarchy is: Genus → Family → Order. Family is immediately above Genus."
+    },
+    {
+      "id": "LW_425",
+      "question": "The chapter summary of NCERT Chapter 1 states that 'the very range of organisms in terms of size, colour, habitat, physiological and morphological features' makes us seek:",
+      "options": {"A": "Economic value of organisms", "B": "The defining characteristics of living organisms", "C": "The number of organisms", "D": "The geographic distribution"},
+      "correct_option": "B",
+      "explanation": "The summary states: 'the very range of organisms in terms of size, colour, habitat, physiological and morphological features make us seek the defining characteristics of living organisms.'"
+    },
+    {
+      "id": "LW_426",
+      "question": "NCERT Chapter 1 introduces students to taxonomy from which perspective?",
+      "options": {"A": "Economic perspective", "B": "Ecological perspective", "C": "Taxonomist's perspective", "D": "Physiologist's perspective"},
+      "correct_option": "C",
+      "explanation": "The NCERT Unit 1 introduction states that students will get 'a description, including classification, of animals and plants from a taxonomist's perspective.'"
+    },
+    {
+      "id": "LW_427",
+      "question": "According to NCERT, which of the following best describes what 'identification' means in the context of taxonomy?",
+      "options": {"A": "Giving a scientific name to the organism", "B": "Grouping the organism with similar organisms", "C": "Correctly describing the organism and establishing to what organism the name is attached", "D": "Studying the evolution of the organism"},
+      "correct_option": "C",
+      "explanation": "Identification in taxonomy means correctly describing the organism and knowing to what organism the name is attached — it's the recognition of the organism's identity."
+    },
+    {
+      "id": "LW_428",
+      "question": "The need for classification arises because:",
+      "options": {"A": "Scientists want to have complex systems", "B": "There are millions of organisms and it is nearly impossible to study them all without a systematic grouping", "C": "Governments require all organisms to be classified", "D": "Classification is required for naming only"},
+      "correct_option": "B",
+      "explanation": "Since it is nearly impossible to study all the living organisms, it is necessary to devise some means (classification) to make this possible."
+    },
+    {
+      "id": "LW_429",
+      "question": "Why is the study of biodiversity conservation linked to taxonomy?",
+      "options": {"A": "Taxonomy has no link to conservation", "B": "Taxonomy helps identify and describe species — which is essential for knowing what to conserve", "C": "Conservation requires taxonomists to name all organisms", "D": "Taxonomy determines the economic value of organisms"},
+      "correct_option": "B",
+      "explanation": "Taxonomic studies help identify and understand bio-resources and their diversity — this knowledge is fundamental for biodiversity conservation."
+    },
+    {
+      "id": "LW_430",
+      "question": "The specific epithet of lion in its scientific name Panthera leo is:",
+      "options": {"A": "Panthera", "B": "Leo", "C": "leo", "D": "LEO"},
+      "correct_option": "C",
+      "explanation": "The specific epithet is 'leo' — written in small letters. 'Leo' (capital L) would be incorrect; 'Panthera' is the genus."
+    },
+    {
+      "id": "LW_431",
+      "question": "Which of the following is an example of 'vertical sharing of similarities' mentioned in NCERT?",
+      "options": {"A": "Two different species of mango", "B": "All organisms being related to ancient ancestral organisms through evolution", "C": "Two organisms living in the same habitat", "D": "Two organisms of the same colour"},
+      "correct_option": "B",
+      "explanation": "Vertical sharing of similarities refers to similarities across evolutionary time — all present-day organisms are related to organisms that lived in the past, showing vertical (through time) connections."
+    },
+    {
+      "id": "LW_432",
+      "question": "Which of the following is an example of 'horizontal sharing of similarities' mentioned in NCERT?",
+      "options": {"A": "Similarities between ancestors and descendants", "B": "Similarities between organisms living at the same time (same level of evolution)", "C": "Similarities between plants of different ages", "D": "Similarities between fossils and living organisms"},
+      "correct_option": "B",
+      "explanation": "Horizontal sharing refers to similarities among organisms living at the same time — organisms that evolved at the same level sharing common features."
+    },
+    {
+      "id": "LW_433",
+      "question": "NCERT mentions that taxonomy is 'not something new'. This means:",
+      "options": {"A": "Taxonomy was recently invented", "B": "Taxonomy is outdated", "C": "Human interest in classifying and knowing about organisms has existed since early times", "D": "Taxonomy was invented 100 years ago"},
+      "correct_option": "C",
+      "explanation": "Taxonomy is not something new — human beings have always been interested in knowing more about various kinds of organisms, particularly with reference to their own use."
+    },
+    {
+      "id": "LW_434",
+      "question": "Which of the following is NOT a sub-section in Section 1.2 (Taxonomic Categories) of NCERT Chapter 1?",
+      "options": {"A": "1.2.1 Species", "B": "1.2.3 Family", "C": "1.2.6 Phylum", "D": "1.2.8 Domain"},
+      "correct_option": "D",
+      "explanation": "Section 1.2 has sub-sections 1.2.1 (Species) through 1.2.7 (Kingdom). 1.2.8 Domain is not part of NCERT Chapter 1."
+    },
+    {
+      "id": "LW_435",
+      "question": "The section 1.2.5 in NCERT Chapter 1 discusses which taxonomic category?",
+      "options": {"A": "Species", "B": "Genus", "C": "Order", "D": "Class"},
+      "correct_option": "D",
+      "explanation": "Sub-sections: 1.2.1 Species, 1.2.2 Genus, 1.2.3 Family, 1.2.4 Order, 1.2.5 Class, 1.2.6 Phylum, 1.2.7 Kingdom."
+    },
+    {
+      "id": "LW_436",
+      "question": "The section 1.2.1 in NCERT Chapter 1 discusses which taxonomic category?",
+      "options": {"A": "Kingdom", "B": "Class", "C": "Species", "D": "Genus"},
+      "correct_option": "C",
+      "explanation": "Section 1.2.1 discusses Species — the lowest taxonomic category."
+    },
+    {
+      "id": "LW_437",
+      "question": "The section 1.2.7 in NCERT Chapter 1 discusses which taxonomic category?",
+      "options": {"A": "Species", "B": "Family", "C": "Phylum", "D": "Kingdom"},
+      "correct_option": "D",
+      "explanation": "Section 1.2.7 discusses Kingdom — the highest taxonomic category."
+    },
+    {
+      "id": "LW_438",
+      "question": "NCERT mentions that 'systematic and monumental description of life forms' brought in 'out of necessity' detailed systems of:",
+      "options": {"A": "Agriculture and medicine", "B": "Identification, nomenclature and classification", "C": "Genetics and biotechnology", "D": "Ecology and physiology"},
+      "correct_option": "B",
+      "explanation": "Systematic and monumental description of life forms brought in, out of necessity, detailed systems of identification, nomenclature and classification."
+    },
+    {
+      "id": "LW_439",
+      "question": "The concept of 'biodiversity' is connected to which cultural movement according to NCERT?",
+      "options": {"A": "Agricultural revolution", "B": "Industrial revolution", "C": "Conservation of biodiversity", "D": "Scientific revolution"},
+      "correct_option": "C",
+      "explanation": "The revelation that all organisms are related led to cultural movements for conservation of biodiversity."
+    },
+    {
+      "id": "LW_440",
+      "question": "According to NCERT, which of the following best explains why organisms cannot be known only by their local names?",
+      "options": {"A": "Local names are too long", "B": "Local names vary from place to place, even within a country, causing confusion in communication", "C": "Local names are not scientific", "D": "Local names are in non-Latin languages"},
+      "correct_option": "B",
+      "explanation": "Local names vary from place to place, even within a country — this creates confusion when communicating about specific organisms, necessitating standardised nomenclature."
+    },
+    {
+      "id": "LW_441",
+      "question": "Which of the following is CORRECT about how NCERT describes the taxonomic category 'Class'?",
+      "options": {"A": "Class is below Order", "B": "Class includes related orders", "C": "Class is the lowest taxonomic category", "D": "Class includes related genera"},
+      "correct_option": "B",
+      "explanation": "NCERT section 1.2.5 states: 'This category (Class) includes related orders.'"
+    },
+    {
+      "id": "LW_442",
+      "question": "In NCERT's example of Order Primata, which animals specifically are mentioned as belonging to this order?",
+      "options": {"A": "Tiger, cat and dog", "B": "Monkey, gorilla and gibbon", "C": "Fishes, amphibians and reptiles", "D": "Lion, leopard and tiger"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'order Primata comprising monkey, gorilla and gibbon is placed in class Mammalia.'"
+    },
+    {
+      "id": "LW_443",
+      "question": "In NCERT's example of Order Carnivora, which animals specifically are mentioned?",
+      "options": {"A": "Monkey, gorilla and gibbon", "B": "Fishes, amphibians and reptiles", "C": "Tiger, cat and dog", "D": "Lion, leopard and cheetah"},
+      "correct_option": "C",
+      "explanation": "NCERT states: 'order Carnivora that includes animals like tiger, cat and dog.'"
+    },
+    {
+      "id": "LW_444",
+      "question": "What unique feature makes the system of binomial nomenclature globally acceptable?",
+      "options": {"A": "It uses English words", "B": "It is based on a two-word Latin format standardised through international codes", "C": "It was voted for by all scientists", "D": "It changes every year"},
+      "correct_option": "B",
+      "explanation": "The two-word Latin (or Latinised) format, governed by universal international codes (ICBN for plants, ICZN for animals), makes binomial nomenclature globally acceptable."
+    },
+    {
+      "id": "LW_445",
+      "question": "The term 'Primata' (order for monkeys, apes and humans) literally suggests organisms with:",
+      "options": {"A": "Primary colours", "B": "First or primary position (from Latin 'primus' = first)", "C": "Primary sexual characters", "D": "Primary roots"},
+      "correct_option": "B",
+      "explanation": "The order name 'Primata' comes from Latin 'primus' (first), reflecting the traditional view that primates (including humans) occupy a primary or foremost position."
+    },
+    {
+      "id": "LW_446",
+      "question": "NCERT gives the example of 'Alsatians' to show that within a species, there can be further subdivisions called:",
+      "options": {"A": "Genera", "B": "Families", "C": "Breeds or varieties", "D": "Orders"},
+      "correct_option": "C",
+      "explanation": "Alsatian is a breed of dog — within the species Canis lupus familiaris (dog), there are different breeds/varieties like Alsatian, Labrador, etc."
+    },
+    {
+      "id": "LW_447",
+      "question": "Which of the following correctly defines 'Genus' from NCERT?",
+      "options": {"A": "A group of related families", "B": "A group of related species which has more characters in common compared to species of other genera", "C": "A group of related orders", "D": "A single species group"},
+      "correct_option": "B",
+      "explanation": "NCERT defines Genus as 'a group of related species which has more characters in common in comparison to species of other genera.'"
+    },
+    {
+      "id": "LW_448",
+      "question": "Which of the following correctly defines 'Family' from NCERT?",
+      "options": {"A": "A group of related species with the same specific epithet", "B": "A group of related genera with still less number of similarities as compared to genus and species", "C": "A group of related orders sharing the same class", "D": "A single genus group"},
+      "correct_option": "B",
+      "explanation": "NCERT defines Family as 'a group of related genera with still less number of similarities as compared to genus and species.'"
+    },
+    {
+      "id": "LW_449",
+      "question": "Which of the following correctly defines 'Order' from NCERT?",
+      "options": {"A": "A group of related genera", "B": "A group of related classes", "C": "An assemblage of families which exhibit a few similar characters", "D": "A group of related species"},
+      "correct_option": "C",
+      "explanation": "NCERT defines Order as 'the assemblage of families which exhibit a few similar characters.'"
+    },
+    {
+      "id": "LW_450",
+      "question": "Which of the following correctly defines 'Kingdom' from NCERT?",
+      "options": {"A": "The lowest category including only species", "B": "The highest category including all organisms belonging to various phyla (or divisions for plants)", "C": "A group of related classes", "D": "A group of related orders"},
+      "correct_option": "B",
+      "explanation": "Kingdom Animalia includes all animals belonging to various phyla. Kingdom Plantae includes all plants from various divisions — it is the highest category."
+    },
+    {
+      "id": "LW_451",
+      "question": "Which of the following correctly defines 'Species' from NCERT?",
+      "options": {"A": "A group of individual organisms with fundamental similarities", "B": "A group of related genera", "C": "A group of related orders", "D": "A group of related families"},
+      "correct_option": "A",
+      "explanation": "NCERT defines Species as 'a group of individual organisms with fundamental similarities.'"
+    },
+    {
+      "id": "LW_452",
+      "question": "Which of the following correctly defines 'Phylum' from NCERT?",
+      "options": {"A": "A group of related species", "B": "A group of classes comprising organisms with common features like notochord", "C": "A group of related families", "D": "The lowest category of classification"},
+      "correct_option": "B",
+      "explanation": "Phylum groups related classes. For Chordata, it groups classes of animals (fishes, amphibians, reptiles, birds, mammals) based on common features like notochord."
+    },
+    {
+      "id": "LW_453",
+      "question": "According to NCERT, sub-categories in the taxonomic hierarchy are developed to facilitate:",
+      "options": {"A": "Increasing the number of taxa", "B": "More sound and scientific placement of various taxa", "C": "Reducing complexity in classification", "D": "Simplifying nomenclature"},
+      "correct_option": "B",
+      "explanation": "Taxonomists have developed sub-categories in the hierarchy to facilitate more sound and scientific placement of various taxa."
+    },
+    {
+      "id": "LW_454",
+      "question": "The word 'taxonomy' comes from which language?",
+      "options": {"A": "Latin", "B": "Greek ('taxis' = arrangement, 'nomos' = law)", "C": "French", "D": "Sanskrit"},
+      "correct_option": "B",
+      "explanation": "The word 'taxonomy' comes from Greek: 'taxis' (arrangement) + 'nomos' (law/rule). While NCERT doesn't explicitly state this etymology, systematics is linked to the Latin word 'systema'."
+    },
+    {
+      "id": "LW_455",
+      "question": "Man, monkey, gorilla and gibbon all belong to the same order. Which order is this?",
+      "options": {"A": "Carnivora", "B": "Diptera", "C": "Primata", "D": "Sapindales"},
+      "correct_option": "C",
+      "explanation": "Man (Homo sapiens), along with monkey, gorilla and gibbon, all belong to order Primata."
+    },
+    {
+      "id": "LW_456",
+      "question": "Tiger, cat and dog all belong to the same class. Which class is this?",
+      "options": {"A": "Insecta", "B": "Reptilia", "C": "Mammalia", "D": "Aves"},
+      "correct_option": "C",
+      "explanation": "Tiger (Panthera tigris), cat (Felis) and dog (Canis) all belong to class Mammalia."
+    },
+    {
+      "id": "LW_457",
+      "question": "According to NCERT, classification is a process in which anything is grouped based on:",
+      "options": {"A": "Scientific laboratory tests", "B": "Some easily observable characters", "C": "DNA sequences", "D": "Economic importance"},
+      "correct_option": "B",
+      "explanation": "Classification is the process by which anything is grouped into convenient categories based on some easily observable characters."
+    },
+    {
+      "id": "LW_458",
+      "question": "Solanum, Petunia and Datura belong to the same FAMILY. This means they share:",
+      "options": {"A": "The same genus", "B": "The same species", "C": "Family-level similarities (vegetative and reproductive features of Solanaceae)", "D": "The same specific epithet"},
+      "correct_option": "C",
+      "explanation": "Solanum, Petunia and Datura are in family Solanaceae — they share family-level vegetative and reproductive features that unite them in this family."
+    },
+    {
+      "id": "LW_459",
+      "question": "The NCERT statement 'the living world comprises an amazing diversity of living organisms' refers to which concept?",
+      "options": {"A": "Evolution", "B": "Biodiversity", "C": "Taxonomy", "D": "Ecology"},
+      "correct_option": "B",
+      "explanation": "The amazing diversity of living organisms refers to biodiversity — the number and types of organisms on earth."
+    },
+    {
+      "id": "LW_460",
+      "question": "Which of the following is TRUE about phylum Chordata and phylum Arthropoda?",
+      "options": {"A": "They are in the same kingdom (Animalia)", "B": "They are in different kingdoms", "C": "They are in the same class", "D": "They are in the same order"},
+      "correct_option": "A",
+      "explanation": "Both Chordata (e.g., man) and Arthropoda (e.g., housefly) are phyla in Kingdom Animalia."
+    },
+    {
+      "id": "LW_461",
+      "question": "Ernst Mayr is listed in NCERT as one of the 100 greatest scientists of all time. Which field is he most associated with?",
+      "options": {"A": "Chemistry", "B": "Physics", "C": "Evolutionary biology", "D": "Mathematics"},
+      "correct_option": "C",
+      "explanation": "Ernst Mayr was an evolutionary biologist at Harvard University — he is most associated with evolutionary biology."
+    },
+    {
+      "id": "LW_462",
+      "question": "Which of the following best explains the phrase 'the biggest spin-off of such studies' from NCERT?",
+      "options": {"A": "The discovery of new chemicals", "B": "The recognition of sharing of similarities among living organisms both horizontally and vertically", "C": "The development of agricultural practices", "D": "The invention of the microscope"},
+      "correct_option": "B",
+      "explanation": "The biggest spin-off of systematic studies of life forms was the recognition of the sharing of similarities among living organisms both horizontally and vertically."
+    },
+    {
+      "id": "LW_463",
+      "question": "The Balzan Prize received by Ernst Mayr was awarded in which year?",
+      "options": {"A": "1975", "B": "1983", "C": "1994", "D": "1999"},
+      "correct_option": "B",
+      "explanation": "Ernst Mayr was awarded the Balzan Prize in 1983."
+    },
+    {
+      "id": "LW_464",
+      "question": "Which of the following statements is TRUE about the order of taxonomic categories?",
+      "options": {"A": "Family is above Class", "B": "Order is below Genus", "C": "Class is between Order and Phylum", "D": "Kingdom is below Phylum"},
+      "correct_option": "C",
+      "explanation": "The order is: Species → Genus → Family → Order → Class → Phylum → Kingdom. Class is between Order (below) and Phylum (above)."
+    },
+    {
+      "id": "LW_465",
+      "question": "Among the 4 organisms in NCERT Table 1.1, how many are vertebrates?",
+      "options": {"A": "0", "B": "1", "C": "2", "D": "4"},
+      "correct_option": "B",
+      "explanation": "Only Man (Homo sapiens, phylum Chordata, class Mammalia) is a vertebrate among the 4 organisms. Housefly is an invertebrate arthropod, and mango/wheat are plants."
+    },
+    {
+      "id": "LW_466",
+      "question": "Among the 4 organisms in NCERT Table 1.1, how many are invertebrates?",
+      "options": {"A": "0", "B": "1", "C": "2", "D": "3"},
+      "correct_option": "B",
+      "explanation": "Only housefly (Musca domestica, phylum Arthropoda) is an invertebrate animal among the 4 organisms. Man is a vertebrate, mango and wheat are plants."
+    },
+    {
+      "id": "LW_467",
+      "question": "Among the 4 organisms in NCERT Table 1.1, how many are plants?",
+      "options": {"A": "1", "B": "2", "C": "3", "D": "4"},
+      "correct_option": "B",
+      "explanation": "Mango (Mangifera indica) and wheat (Triticum aestivum) are the 2 plants among the 4 organisms in Table 1.1."
+    },
+    {
+      "id": "LW_468",
+      "question": "Among the 4 organisms in NCERT Table 1.1, which belongs to a monocot class?",
+      "options": {"A": "Man", "B": "Housefly", "C": "Mango", "D": "Wheat"},
+      "correct_option": "D",
+      "explanation": "Wheat (Triticum aestivum) belongs to class Monocotyledonae — it is a monocot. Mango is a dicot."
+    },
+    {
+      "id": "LW_469",
+      "question": "Among the 4 organisms in NCERT Table 1.1, which belongs to a dicot class?",
+      "options": {"A": "Wheat", "B": "Mango", "C": "Housefly", "D": "Man"},
+      "correct_option": "B",
+      "explanation": "Mango (Mangifera indica) belongs to class Dicotyledonae — it is a dicot. Wheat is a monocot."
+    },
+    {
+      "id": "LW_470",
+      "question": "The scientific name ensures uniqueness because:",
+      "options": {"A": "Each name can only be used once globally", "B": "The same name has not been used for any other known organism", "C": "Each name is in a different language", "D": "Scientists check every name before publishing"},
+      "correct_option": "B",
+      "explanation": "Scientific names ensure that such a name has not been used for any other known organism — ensuring uniqueness of each organism's name."
+    },
+    {
+      "id": "LW_471",
+      "question": "The phrase 'humbled man' in NCERT refers to:",
+      "options": {"A": "Man becoming less confident", "B": "The realisation that humans are just one species among millions, related to all other organisms", "C": "Man being dominated by animals", "D": "Man losing his scientific abilities"},
+      "correct_option": "B",
+      "explanation": "The revelation that all organisms (including humans) are related to each other and to all organisms that ever lived 'humbled man' — making humans realise they are just one part of the web of life."
+    },
+    {
+      "id": "LW_472",
+      "question": "According to NCERT, what is the practical consequence of recognising that all organisms are related?",
+      "options": {"A": "Scientists stopped studying individual species", "B": "Cultural movements for conservation of biodiversity arose", "C": "New species were created", "D": "Old classification systems were abandoned"},
+      "correct_option": "B",
+      "explanation": "The recognition that all organisms are related 'led to cultural movements for conservation of biodiversity.'"
+    },
+    {
+      "id": "LW_473",
+      "question": "The specific epithet of leopard is 'pardus'. What does this represent?",
+      "options": {"A": "The genus of leopard", "B": "The family of leopard", "C": "The species-specific name for leopard within genus Panthera", "D": "The order of leopard"},
+      "correct_option": "C",
+      "explanation": "'pardus' is the specific epithet (second word, small letter) in Panthera pardus — it identifies the leopard as a specific species within genus Panthera."
+    },
+    {
+      "id": "LW_474",
+      "question": "If a new organism is discovered and named 'Felis indica', then 'Felis' indicates it is related to:",
+      "options": {"A": "Mango (Mangifera indica)", "B": "Cats (genus Felis)", "C": "Humans (genus Homo)", "D": "Flies (genus Musca)"},
+      "correct_option": "B",
+      "explanation": "Genus Felis includes cats — a new organism named 'Felis indica' would be related to cats."
+    },
+    {
+      "id": "LW_475",
+      "question": "The process of 'classification' ultimately helps in:",
+      "options": {"A": "Naming organisms", "B": "Describing organisms", "C": "Making the study of the enormous diversity of life manageable and systematic", "D": "Finding economic uses of organisms"},
+      "correct_option": "C",
+      "explanation": "Classification groups organisms into convenient categories based on similarities, making the study of millions of diverse organisms manageable and systematic."
+    },
+    {
+      "id": "LW_476",
+      "question": "Which of the following is a CORRECT statement about ICBN and ICZN?",
+      "options": {"A": "ICBN is for animals and ICZN is for plants", "B": "Both ICBN and ICZN govern plant naming", "C": "ICBN is for plants and ICZN is for animals", "D": "Both ICBN and ICZN govern animal naming"},
+      "correct_option": "C",
+      "explanation": "ICBN (International Code for Botanical Nomenclature) governs plant naming, while ICZN (International Code of Zoological Nomenclature) governs animal naming."
+    },
+    {
+      "id": "LW_477",
+      "question": "The word 'Botanical' in ICBN refers to:",
+      "options": {"A": "Animals", "B": "Plants", "C": "Bacteria", "D": "Fungi"},
+      "correct_option": "B",
+      "explanation": "'Botanical' refers to plants. ICBN = International Code for Botanical (plant) Nomenclature."
+    },
+    {
+      "id": "LW_478",
+      "question": "The word 'Zoological' in ICZN refers to:",
+      "options": {"A": "Plants", "B": "Animals", "C": "Bacteria", "D": "Viruses"},
+      "correct_option": "B",
+      "explanation": "'Zoological' refers to animals. ICZN = International Code of Zoological (animal) Nomenclature."
+    },
+    {
+      "id": "LW_479",
+      "question": "Which of the following would be considered the 'most specific' identification of an organism?",
+      "options": {"A": "Saying it belongs to Kingdom Animalia", "B": "Saying it belongs to phylum Chordata", "C": "Saying it is class Mammalia", "D": "Saying it is Homo sapiens (full binomial name)"},
+      "correct_option": "D",
+      "explanation": "A full binomial name (genus + specific epithet) like Homo sapiens is the most specific identification — it identifies the exact species."
+    },
+    {
+      "id": "LW_480",
+      "question": "Which of the following would be the LEAST specific identification of an organism?",
+      "options": {"A": "Homo sapiens", "B": "Kingdom Animalia", "C": "Class Mammalia", "D": "Order Primata"},
+      "correct_option": "B",
+      "explanation": "Kingdom Animalia is the least specific — it includes all animals. As we go from kingdom down to species, the identification becomes more and more specific."
+    },
+    {
+      "id": "LW_481",
+      "question": "In the scientific name of housefly 'Musca domestica', what is the genus?",
+      "options": {"A": "domestica", "B": "Diptera", "C": "Musca", "D": "Insecta"},
+      "correct_option": "C",
+      "explanation": "In Musca domestica, 'Musca' (capital M) is the genus name."
+    },
+    {
+      "id": "LW_482",
+      "question": "In the scientific name of wheat 'Triticum aestivum', what is the genus?",
+      "options": {"A": "aestivum", "B": "Poaceae", "C": "Monocotyledonae", "D": "Triticum"},
+      "correct_option": "D",
+      "explanation": "In Triticum aestivum, 'Triticum' (capital T) is the genus name."
+    },
+    {
+      "id": "LW_483",
+      "question": "Which of the following animals from NCERT is in both the same ORDER and same CLASS as man?",
+      "options": {"A": "Tiger (order Carnivora, class Mammalia)", "B": "Housefly (order Diptera, class Insecta)", "C": "Monkey (order Primata, class Mammalia)", "D": "None of the above"},
+      "correct_option": "C",
+      "explanation": "Monkey belongs to order Primata and class Mammalia — the same order and class as man (Homo sapiens). Tiger shares only the class."
+    },
+    {
+      "id": "LW_484",
+      "question": "Which of the following animals from NCERT shares the same CLASS but NOT the same ORDER as man?",
+      "options": {"A": "Monkey", "B": "Gorilla", "C": "Tiger", "D": "Gibbon"},
+      "correct_option": "C",
+      "explanation": "Tiger (class Mammalia, order Carnivora) shares the same class (Mammalia) as man but belongs to a different order (Carnivora vs Primata)."
+    },
+    {
+      "id": "LW_485",
+      "question": "NCERT says 'the scope of systematics was later enlarged to include identification, nomenclature and classification'. What did systematics originally focus on?",
+      "options": {"A": "Only ecology", "B": "Only physiology", "C": "Knowing different kinds of organisms, their diversities and relationships", "D": "Only genetics"},
+      "correct_option": "C",
+      "explanation": "Originally, systematics focused on knowing more about different kinds of organisms, their diversities and the relationships among them — before its scope was enlarged to include identification, nomenclature and classification."
+    },
+    {
+      "id": "LW_486",
+      "question": "Which of the following organisms are DICOTS from NCERT examples?",
+      "options": {"A": "Wheat and rice", "B": "Mango and potato", "C": "Wheat and barley", "D": "Only mango"},
+      "correct_option": "B",
+      "explanation": "Mango (Mangifera indica, class Dicotyledonae) and potato (Solanum tuberosum, class Dicotyledonae) are both dicots."
+    },
+    {
+      "id": "LW_487",
+      "question": "NCERT specifically says 'Biologists follow universally accepted principles'. Why is 'universally accepted' important?",
+      "options": {"A": "It means all biologists agree on everything", "B": "It ensures that scientific names are consistent and understood by biologists worldwide, regardless of country", "C": "It means only university scientists can name organisms", "D": "It means governments accept the names"},
+      "correct_option": "B",
+      "explanation": "'Universally accepted principles' ensures that scientific names are consistent and recognised by biologists worldwide, enabling global scientific communication."
+    },
+    {
+      "id": "LW_488",
+      "question": "Which of the following NCERT examples is used to illustrate that even daily objects can be classified?",
+      "options": {"A": "Organisms are classified in taxonomy", "B": "Dogs, cats, insects — we recognise these groups easily in everyday life", "C": "Mathematical equations are classified", "D": "Chemical elements are classified"},
+      "correct_option": "B",
+      "explanation": "NCERT uses examples of dogs, cats, insects and plants like wheat and mango to show that classification is a natural process we use in everyday life."
+    },
+    {
+      "id": "LW_489",
+      "question": "Ernst Mayr was one of the 100 greatest scientists 'of all time'. He worked at Harvard University for how long?",
+      "options": {"A": "From 1953 to 1975 (22 years at Harvard)", "B": "For 40 years", "C": "For 100 years", "D": "From 1904 to 2004"},
+      "correct_option": "A",
+      "explanation": "Mayr joined Harvard in 1953 and retired in 1975 — he was at Harvard for 22 years (1975 - 1953 = 22)."
+    },
+    {
+      "id": "LW_490",
+      "question": "NCERT says order and other higher taxonomic categories are 'identified based on the aggregates of characters'. What does 'aggregates of characters' mean?",
+      "options": {"A": "A single defining character", "B": "A combination or collection of several characters considered together", "C": "Characters visible only under a microscope", "D": "Characters based only on DNA"},
+      "correct_option": "B",
+      "explanation": "Higher categories like order are identified based on aggregates of characters — a combination of several characteristics considered together, not just one defining feature."
+    },
+    {
+      "id": "LW_491",
+      "question": "If mango (Mangifera indica) and another species Mangifera sylvatica exist, what would they share?",
+      "options": {"A": "Only the kingdom", "B": "The genus (Mangifera) and all higher categories — family, order, class, division, kingdom", "C": "Only the specific epithet", "D": "Nothing"},
+      "correct_option": "B",
+      "explanation": "Two species of the same genus (Mangifera) share the genus name and all higher categories — family (Anacardiaceae), order (Sapindales), class (Dicotyledonae), division (Angiospermae) and kingdom (Plantae)."
+    },
+    {
+      "id": "LW_492",
+      "question": "Chapter 1 summary from NCERT states 'An organism represents/occupies a place or position in the system of classification.' What does this mean?",
+      "options": {"A": "Each organism lives in a specific geographic place", "B": "Each organism has a defined taxonomic position in the hierarchy from species to kingdom", "C": "Each organism occupies a specific ecological niche", "D": "Each organism has a specific position in the food chain"},
+      "correct_option": "B",
+      "explanation": "Each organism has a defined position in the taxonomic classification system — from its species up through genus, family, order, class, phylum/division to kingdom."
+    },
+    {
+      "id": "LW_493",
+      "question": "According to NCERT, which of the following pair is in the same GENUS and FAMILY?",
+      "options": {"A": "Lion and cat (same family, different genus)", "B": "Lion and tiger (same genus Panthera, same family Felidae)", "C": "Dog and cat (same order, different family)", "D": "Man and monkey (same order, different family)"},
+      "correct_option": "B",
+      "explanation": "Lion (Panthera leo) and tiger (Panthera tigris) are in the same genus (Panthera) and same family (Felidae)."
+    },
+    {
+      "id": "LW_494",
+      "question": "According to NCERT, which of the following pair is in the same FAMILY but DIFFERENT genera?",
+      "options": {"A": "Lion and tiger", "B": "Lion and cat", "C": "Dog and monkey", "D": "Man and tiger"},
+      "correct_option": "B",
+      "explanation": "Lion (genus Panthera) and cat (genus Felis) are in the same family (Felidae) but different genera."
+    },
+    {
+      "id": "LW_495",
+      "question": "NCERT mentions 'external ears and body hair' as characteristic features of which class?",
+      "options": {"A": "Reptilia", "B": "Aves", "C": "Mammalia", "D": "Amphibia"},
+      "correct_option": "C",
+      "explanation": "NCERT says: 'if we were to say mammals, you would think of animals with external ears and body hair' — these are characteristic features of class Mammalia."
+    },
+    {
+      "id": "LW_496",
+      "question": "The NCERT example of mammals having external ears and body hair is used to explain which concept?",
+      "options": {"A": "That mammals are superior organisms", "B": "That when we use a taxon's name (like 'mammals'), we associate certain characteristics with it", "C": "That external ears are the only mammal characteristic", "D": "That all animals have body hair"},
+      "correct_option": "B",
+      "explanation": "The example shows that when we use any taxonomic term (like 'mammals'), we associate certain characters with the organisms in that group — this is the power of classification and naming."
+    },
+    {
+      "id": "LW_497",
+      "question": "The NCERT Chapter 1 section 1.1 is titled 'Diversity in the Living World'. What does it primarily discuss?",
+      "options": {"A": "Taxonomic categories and hierarchy", "B": "The variety of organisms, need for standardised naming, and introduction to classification and taxonomy", "C": "Phylum and Kingdom", "D": "Evolution of organisms"},
+      "correct_option": "B",
+      "explanation": "Section 1.1 discusses the variety of organisms, the need for standardised naming (nomenclature), and introduces classification and taxonomy as tools to study biodiversity."
+    },
+    {
+      "id": "LW_498",
+      "question": "NCERT Chapter 1 section 1.2 is titled 'Taxonomic Categories'. What does it primarily discuss?",
+      "options": {"A": "Nomenclature rules only", "B": "The seven levels of taxonomic hierarchy — species, genus, family, order, class, phylum and kingdom", "C": "Only kingdom and species", "D": "Evolution and phylogeny"},
+      "correct_option": "B",
+      "explanation": "Section 1.2 'Taxonomic Categories' discusses the seven main taxonomic categories — Species (1.2.1), Genus (1.2.2), Family (1.2.3), Order (1.2.4), Class (1.2.5), Phylum (1.2.6), Kingdom (1.2.7)."
+    },
+    {
+      "id": "LW_499",
+      "question": "The NCERT exercise question 10 asks students to 'illustrate the taxonomical hierarchy with suitable examples of a plant and an animal'. Based on the chapter, which plant and animal examples are most appropriate?",
+      "options": {"A": "Rose and eagle", "B": "Mango (Mangifera indica) and Man (Homo sapiens) — as used in Table 1.1", "C": "Oak tree and lion", "D": "Wheat and frog"},
+      "correct_option": "B",
+      "explanation": "NCERT Table 1.1 provides complete taxonomic hierarchy for Mango and Man — making them the most appropriate examples for exercise 10."
+    },
+    {
+      "id": "LW_500",
+      "question": "The NCERT exercise question 9 asks to 'define and understand' which five taxonomic terms?",
+      "options": {"A": "Kingdom, Phylum, Order, Genus, Species", "B": "Phylum, Class, Family, Order, Genus", "C": "Kingdom, Class, Family, Genus, Species", "D": "Phylum, Family, Order, Class, Kingdom"},
+      "correct_option": "B",
+      "explanation": "NCERT exercise Q9 asks: Define and understand — (i) Phylum (ii) Class (iii) Family (iv) Order (v) Genus."
+    },
+    {
+      "id": "LW_501",
+      "question": "The concept that 'binomial nomenclature was found convenient' refers to:",
+      "options": {"A": "It has only two rules", "B": "The two-word format is simpler and more practical than using many words to describe an organism", "C": "It is convenient for computers", "D": "It is convenient only for animals"},
+      "correct_option": "B",
+      "explanation": "NCERT says: 'This naming system using a two word format was found convenient.' — using two words (genus + specific epithet) is simpler and more practical than using many words."
+    },
+    {
+      "id": "LW_502",
+      "question": "NCERT uses the example of WHEAT to show that when you hear 'wheat':",
+      "options": {"A": "You think of all cereals", "B": "The picture in your mind will be of wheat plants, not of rice or any other plant", "C": "You think of all flowering plants", "D": "You think of all grasses"},
+      "correct_option": "B",
+      "explanation": "NCERT says: 'if we try to talk of Wheat, the picture in each of our minds will be of wheat plants, not of rice or any other plant' — showing the specificity of classification."
+    },
+    {
+      "id": "LW_503",
+      "question": "The concept shown by the wheat example (that 'wheat' brings a specific plant image, not rice) demonstrates which property of taxonomy?",
+      "options": {"A": "Nomenclature creates confusion", "B": "Classification provides specific, unambiguous identification of organisms", "C": "All grasses are the same", "D": "Names are based on colour"},
+      "correct_option": "B",
+      "explanation": "The wheat example shows that classification and proper naming provide specific, unambiguous identification — the name 'wheat' brings a specific, not a generic, image."
+    },
+    {
+      "id": "LW_504",
+      "question": "NCERT describes the chapter's examples in terms of 'dogs' and 'Alsatians'. These represent taxa at different levels because:",
+      "options": {"A": "'Dogs' is more specific than 'Alsatians'", "B": "'Alsatians' is more specific (a breed) than 'dogs' (a general category/species)", "C": "Both are at the same level", "D": "'Dogs' is a kingdom level category"},
+      "correct_option": "B",
+      "explanation": "'Alsatians' is more specific — a breed within the dog species. 'Dogs' is a more general category. This illustrates that taxa exist at different levels of specificity."
+    },
+    {
+      "id": "LW_505",
+      "question": "According to NCERT, the four organisms in Table 1.1 (man, housefly, mango, wheat) all share ONLY which taxonomic category?",
+      "options": {"A": "Species", "B": "Class", "C": "Phylum", "D": "None — they differ at all levels except being on Earth"},
+      "correct_option": "D",
+      "explanation": "Man and housefly are in Kingdom Animalia. Mango and wheat are in Kingdom Plantae. None of all four share the same kingdom — they differ at all major levels."
+    },
+    {
+      "id": "LW_506",
+      "question": "Among the organisms in NCERT Table 1.1, which two share the SAME kingdom?",
+      "options": {"A": "Man and mango", "B": "Man and housefly (both in Kingdom Animalia)", "C": "Mango and man", "D": "Wheat and man"},
+      "correct_option": "B",
+      "explanation": "Man (Homo sapiens) and housefly (Musca domestica) both belong to Kingdom Animalia. Mango and wheat belong to Kingdom Plantae."
+    },
+    {
+      "id": "LW_507",
+      "question": "Among the organisms in NCERT Table 1.1, which two share the SAME kingdom AND SAME phylum/division?",
+      "options": {"A": "Man and housefly (both Animalia but different phyla)", "B": "Mango and wheat (both Plantae, both Angiospermae)", "C": "Man and mango (different kingdoms)", "D": "Housefly and wheat (different kingdoms)"},
+      "correct_option": "B",
+      "explanation": "Mango and wheat share Kingdom Plantae AND Division Angiospermae — the two highest categories match."
+    },
+    {
+      "id": "LW_508",
+      "question": "NCERT mentions that 'characters of an individual or group of organisms' form the 'basic requirement'. Why are characters essential in taxonomy?",
+      "options": {"A": "To make organisms look attractive", "B": "To identify similarities and dissimilarities that enable placement in taxonomic categories", "C": "To determine economic value", "D": "To study behaviour"},
+      "correct_option": "B",
+      "explanation": "Knowledge of characters helps in identifying similarities and dissimilarities among individuals — which is fundamental to classification and placement in correct taxonomic categories."
+    },
+    {
+      "id": "LW_509",
+      "question": "The NCERT chapter states that 'Nomenclature or naming is only possible when the organism is described correctly'. This means:",
+      "options": {"A": "Names can be given randomly", "B": "First the organism must be correctly described and identified, then named", "C": "Names are given before description", "D": "Description is not needed for naming"},
+      "correct_option": "B",
+      "explanation": "The process is: first correctly describe the organism (characterisation) → identify it → then name it (nomenclature). Description and identification must precede naming."
+    },
+    {
+      "id": "LW_510",
+      "question": "Which of the following pairs from NCERT are in the SAME genus?",
+      "options": {"A": "Solanum tuberosum and Solanum melongena", "B": "Panthera leo and Felis catus", "C": "Homo sapiens and Homo domesticus", "D": "Mangifera indica and Solanum tuberosum"},
+      "correct_option": "A",
+      "explanation": "Solanum tuberosum (potato) and Solanum melongena (brinjal) are in the same genus Solanum. Panthera and Felis are different genera; Felis catus is the cat, different genus from Homo."
+    },
+    {
+      "id": "LW_511",
+      "question": "The statement 'all present-day living organisms are related to each other and also to all organisms that ever lived on this earth' suggests which biological concept?",
+      "options": {"A": "Biodiversity exists", "B": "Common ancestry — all life shares a common origin and evolutionary history", "C": "All organisms are identical", "D": "All organisms live in the same habitat"},
+      "correct_option": "B",
+      "explanation": "The statement reflects the concept of common ancestry — all living organisms, past and present, share an evolutionary history and are related through common ancestors."
+    },
+    {
+      "id": "LW_512",
+      "question": "NCERT Table 1.1 shows 'Biological Name' as a column. For housefly, the biological name is 'Musca domestica'. What does the table show as 'Genus' for housefly?",
+      "options": {"A": "domestica", "B": "Musca", "C": "Muscidae", "D": "Diptera"},
+      "correct_option": "B",
+      "explanation": "In Table 1.1, the Genus of housefly is 'Musca' — separate from the full Biological Name (Musca domestica)."
+    },
+    {
+      "id": "LW_513",
+      "question": "The NCERT text says 'Genera are aggregates of closely related species.' An aggregate means:",
+      "options": {"A": "A single species", "B": "A collection or grouping of closely related species", "C": "Unrelated species", "D": "Species from different families"},
+      "correct_option": "B",
+      "explanation": "An 'aggregate' means a collection or grouping. Genera are aggregates — collections — of closely related species."
+    },
+    {
+      "id": "LW_514",
+      "question": "According to NCERT, what is the fundamental basis for placing an organism in a specific taxonomic category?",
+      "options": {"A": "Geographic location of the organism", "B": "Knowledge of characters of the organism — identifying similarities and dissimilarities", "C": "The economic importance of the organism", "D": "The size of the organism"},
+      "correct_option": "B",
+      "explanation": "The basic requirement is the knowledge of characters of an individual or group of organisms. This helps in identifying similarities and dissimilarities, which forms the basis of classification."
+    },
+    {
+      "id": "LW_515",
+      "question": "If a new plant is discovered and placed in family Solanaceae, we can immediately predict it is in:",
+      "options": {"A": "Order Primata", "B": "Order Polymoniales", "C": "Order Carnivora", "D": "Order Sapindales"},
+      "correct_option": "B",
+      "explanation": "Family Solanaceae belongs to order Polymoniales. If a new plant is in family Solanaceae, it is automatically in order Polymoniales."
+    },
+    {
+      "id": "LW_516",
+      "question": "If a new animal is placed in family Felidae, we can predict it belongs to:",
+      "options": {"A": "Order Primata, class Insecta", "B": "Order Carnivora, class Mammalia, phylum Chordata", "C": "Order Diptera, class Insecta", "D": "Order Sapindales, class Dicotyledonae"},
+      "correct_option": "B",
+      "explanation": "Family Felidae is in order Carnivora, class Mammalia, phylum Chordata. Any new organism in Felidae would belong to all these higher categories."
+    },
+    {
+      "id": "LW_517",
+      "question": "According to NCERT, the word 'species' in taxonomy represents:",
+      "options": {"A": "The highest taxonomic category", "B": "A group of individual organisms with fundamental similarities — the lowest taxonomic category", "C": "A group of related genera", "D": "A group of related families"},
+      "correct_option": "B",
+      "explanation": "Species is defined as 'a group of individual organisms with fundamental similarities' and is the lowest category in taxonomic classification."
+    },
+    {
+      "id": "LW_518",
+      "question": "NCERT Chapter 1 Exercise Q1 asks 'Why are living organisms classified?' The BEST answer from NCERT content is:",
+      "options": {"A": "To satisfy government requirements", "B": "To facilitate the study of kinds and diversity of organisms by grouping them into convenient categories", "C": "To give them Latin names", "D": "To determine their evolutionary history"},
+      "correct_option": "B",
+      "explanation": "Classification is done to facilitate the study of kinds and diversity of organisms. Without classification, studying millions of different organisms would be nearly impossible."
+    },
+    {
+      "id": "LW_519",
+      "question": "NCERT Chapter 1 Exercise Q2 asks 'Why are the classification systems changing every now and then?' The BEST answer is:",
+      "options": {"A": "Scientists get bored with old systems", "B": "New organisms are continuously being discovered and new scientific data (molecular, genetic) revises understanding of evolutionary relationships", "C": "Governments keep changing rules", "D": "International codes keep changing"},
+      "correct_option": "B",
+      "explanation": "Classification systems change because: (1) new organisms are being continuously identified, and (2) new scientific data from molecular/genetic studies revises our understanding of evolutionary relationships."
+    },
+    {
+      "id": "LW_520",
+      "question": "According to NCERT, which of the following correctly represents the relationship between taxonomy, identification, nomenclature and classification?",
+      "options": {"A": "They are four separate sciences", "B": "Characterisation, identification, classification and nomenclature are the four processes basic to taxonomy", "C": "Taxonomy is a subset of systematics only", "D": "Nomenclature is a subset of classification"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'characterisation, identification, classification and nomenclature are the processes that are basic to taxonomy.'"
+    },
+    {
+      "id": "LW_521",
+      "question": "NCERT says 'kingdom Animalia' is the highest category for animals. What is the EQUIVALENT highest category for plants?",
+      "options": {"A": "Phylum Plantae", "B": "Division Angiospermae", "C": "Kingdom Plantae", "D": "Class Dicotyledonae"},
+      "correct_option": "C",
+      "explanation": "Kingdom Plantae is the highest category for plants, equivalent to Kingdom Animalia for animals."
+    },
+    {
+      "id": "LW_522",
+      "question": "What does the term 'specific epithet' mean in the context of binomial nomenclature?",
+      "options": {"A": "The name of the genus", "B": "The second word in the biological name that identifies the particular species within a genus", "C": "The name of the family", "D": "The author's name"},
+      "correct_option": "B",
+      "explanation": "The specific epithet is the second word in a binomial name (small letter, Latin/Latinised) that identifies the particular species within a genus."
+    },
+    {
+      "id": "LW_523",
+      "question": "What does the term 'generic name' mean in the context of binomial nomenclature?",
+      "options": {"A": "The name of the species", "B": "The first word in the biological name that represents the genus (capital letter)", "C": "The name of the family", "D": "The author's name"},
+      "correct_option": "B",
+      "explanation": "The generic name is the first word in a binomial name (capital letter, Latin/Latinised) that represents the genus."
+    },
+    {
+      "id": "LW_524",
+      "question": "Why does NCERT say 'the problem of classification becomes more complex' at higher levels?",
+      "options": {"A": "Because higher categories have fewer organisms", "B": "Because at higher levels, shared characteristics are fewer, making it harder to determine relationships among different taxa at the same level", "C": "Because scientists know less about higher categories", "D": "Because higher categories require microscopes to study"},
+      "correct_option": "B",
+      "explanation": "At higher categories, shared characteristics are fewer and more general — making it more difficult to determine the relationship to other taxa at the same level."
+    },
+    {
+      "id": "LW_525",
+      "question": "NCERT describes living organisms as being found in 'extraordinary habitats'. Which of the following is listed as an extraordinary habitat?",
+      "options": {"A": "Urban cities", "B": "Hot springs", "C": "Agricultural fields", "D": "Gardens"},
+      "correct_option": "B",
+      "explanation": "NCERT lists hot springs as one of the extraordinary habitats where living organisms are found, along with cold mountains, deciduous forests, oceans, fresh water lakes and deserts."
+    },
+    {
+      "id": "LW_526",
+      "question": "The statement 'classification is not a single step process but involves hierarchy of steps' refers to which concept?",
+      "options": {"A": "Binomial nomenclature", "B": "Taxonomic hierarchy", "C": "Species definition", "D": "Ecological classification"},
+      "correct_option": "B",
+      "explanation": "The hierarchical nature of classification — with multiple levels (species, genus, family, order, class, phylum, kingdom) — is the taxonomic hierarchy."
+    },
+    {
+      "id": "LW_527",
+      "question": "Which is the ONLY organism in NCERT Table 1.1 that belongs to class Insecta?",
+      "options": {"A": "Man", "B": "Mango", "C": "Housefly", "D": "Wheat"},
+      "correct_option": "C",
+      "explanation": "Among the four organisms in Table 1.1, only housefly (Musca domestica) belongs to class Insecta."
+    },
+    {
+      "id": "LW_528",
+      "question": "NCERT says that the FIRST word in a biological name should start with a capital letter. This first word represents the:",
+      "options": {"A": "Species", "B": "Family", "C": "Genus", "D": "Order"},
+      "correct_option": "C",
+      "explanation": "The first word in a biological name represents the genus and starts with a capital letter."
+    },
+    {
+      "id": "LW_529",
+      "question": "NCERT says that the SECOND word in a biological name should start with a small letter. This second word represents the:",
+      "options": {"A": "Genus", "B": "Family", "C": "Specific epithet (species)", "D": "Order"},
+      "correct_option": "C",
+      "explanation": "The second word in a biological name represents the specific epithet (species name) and starts with a small letter."
+    },
+    {
+      "id": "LW_530",
+      "question": "According to NCERT, which of the following would be the MOST IMPORTANT thing to know to classify an organism correctly?",
+      "options": {"A": "Its name", "B": "Its geographic location", "C": "Its characters — external and internal structure, cell structure, development and ecological information", "D": "Its economic importance"},
+      "correct_option": "C",
+      "explanation": "Modern taxonomy uses external and internal structure, cell structure, development process and ecological information as essential characters for correct classification."
+    },
+    {
+      "id": "LW_531",
+      "question": "NCERT Chapter 1, Section 1.1 states that the number of described species 'refers to biodiversity'. Biodiversity is thus the measure of:",
+      "options": {"A": "Only genetic diversity", "B": "Only habitat diversity", "C": "The number and types of organisms present on earth", "D": "Only species richness in forests"},
+      "correct_option": "C",
+      "explanation": "NCERT explicitly states: 'This refers to biodiversity or the number and types of organisms present on earth.'"
+    },
+    {
+      "id": "LW_532",
+      "question": "NCERT emphasises that taxonomy studies are 'useful in agriculture'. How?",
+      "options": {"A": "Taxonomy grows crops", "B": "Knowing which species are which and their relationships helps in breeding programs, pest identification, and finding useful bio-resources", "C": "Taxonomy irrigates fields", "D": "Taxonomy is not useful in agriculture"},
+      "correct_option": "B",
+      "explanation": "Taxonomic knowledge of species — identification, relationships — is crucial for agriculture: breeding programs, identifying pests (for control), finding disease-resistant relatives, etc."
+    },
+    {
+      "id": "LW_533",
+      "question": "Which of the following is LEAST related to the content of NCERT Chapter 1 'The Living World'?",
+      "options": {"A": "Binomial nomenclature", "B": "Taxonomic categories", "C": "Mitosis and meiosis", "D": "Biodiversity"},
+      "correct_option": "C",
+      "explanation": "Mitosis and meiosis are topics from cell biology, not discussed in Chapter 1 'The Living World'. Chapter 1 focuses on biodiversity, nomenclature and taxonomic categories."
+    },
+    {
+      "id": "LW_534",
+      "question": "NCERT mentions that 'organisms in the same kind' means organisms of the same:",
+      "options": {"A": "Genus", "B": "Family", "C": "Species", "D": "Kingdom"},
+      "correct_option": "C",
+      "explanation": "NCERT says 'identifying similarities and dissimilarities among the individuals of the same kind of organisms' — 'same kind' refers to the same species."
+    },
+    {
+      "id": "LW_535",
+      "question": "The NCERT Chapter 1 was authored based on a textbook that was 'Reprinted 2026-27'. This means this chapter is a part of:",
+      "options": {"A": "Class 12 Biology NCERT", "B": "Class 10 Biology NCERT", "C": "Class 11 Biology NCERT", "D": "Class 9 Biology NCERT"},
+      "correct_option": "C",
+      "explanation": "Chapter 1 'The Living World' from Unit 1 'Diversity in the Living World' is part of NCERT Class 11 Biology textbook."
+    },
+    {
+      "id": "LW_536",
+      "question": "According to the principles of binomial nomenclature, if someone writes 'Homo Sapiens' (both with capital letters), what rule is being violated?",
+      "options": {"A": "The genus name should be small", "B": "The specific epithet 'Sapiens' should start with a small letter — 'sapiens'", "C": "Both words should be in the same case", "D": "The name should not be in Latin"},
+      "correct_option": "B",
+      "explanation": "Rule 4 of NCERT: 'The first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter.' So 'Sapiens' should be 'sapiens'."
+    },
+    {
+      "id": "LW_537",
+      "question": "The NCERT exercise Q5 gives two versions of the mango name: 'Mangifera Indica' and 'Mangifera indica'. Which is correct and WHY?",
+      "options": {"A": "'Mangifera Indica' is correct because both words start with capitals", "B": "'Mangifera indica' is correct because only the genus starts with capital; specific epithet 'indica' starts with small 'i'", "C": "Both are correct", "D": "Neither is correct"},
+      "correct_option": "B",
+      "explanation": "'Mangifera indica' is correct — Mangifera (genus, capital M) and indica (specific epithet, small i). The version 'Mangifera Indica' violates the rule that specific epithets start with small letters."
+    },
+    {
+      "id": "LW_538",
+      "question": "According to NCERT, 'each name has two components'. What are these two components?",
+      "options": {"A": "Kingdom name and species name", "B": "Generic name and specific epithet", "C": "Family name and genus name", "D": "Author's name and genus name"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'Each name has two components — the Generic name and the specific epithet.'"
+    },
+    {
+      "id": "LW_539",
+      "question": "How many exercise questions are there in NCERT Chapter 1 'The Living World'?",
+      "options": {"A": "5", "B": "8", "C": "10", "D": "15"},
+      "correct_option": "C",
+      "explanation": "NCERT Chapter 1 has 10 exercise questions (Q1 through Q10)."
+    },
+    {
+      "id": "LW_540",
+      "question": "The specific phrase NCERT uses for naming — 'standardise the naming of living organisms' — means making it so that:",
+      "options": {"A": "All organisms have the same name", "B": "A particular organism is known by the same name all over the world", "C": "Names are in the local language", "D": "Only scientists can name organisms"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'there is a need to standardise the naming of living organisms such that a particular organism is known by the same name all over the world.'"
+    },
+    {
+      "id": "LW_541",
+      "question": "NCERT lists four processes basic to taxonomy. In logical order, which comes FIRST?",
+      "options": {"A": "Nomenclature (naming)", "B": "Classification (grouping)", "C": "Characterisation (describing)", "D": "Identification (recognising)"},
+      "correct_option": "C",
+      "explanation": "Logically: first you characterise (describe the organism's features), then identify (recognise what it is), then classify (place in a category), then name (nomenclature). Characterisation comes first."
+    },
+    {
+      "id": "LW_542",
+      "question": "NCERT lists four processes basic to taxonomy. In logical order, which comes LAST?",
+      "options": {"A": "Characterisation", "B": "Identification", "C": "Classification", "D": "Nomenclature"},
+      "correct_option": "D",
+      "explanation": "Logically: characterise → identify → classify → name (nomenclature). Nomenclature is the final step — you can only name something after you've described, identified and classified it."
+    },
+    {
+      "id": "LW_543",
+      "question": "The term 'biologists all over the world' practising binomial nomenclature emphasises which quality of the system?",
+      "options": {"A": "Complexity", "B": "Universality — it is accepted and used worldwide", "C": "Simplicity", "D": "Flexibility"},
+      "correct_option": "B",
+      "explanation": "The fact that 'biologists all over the world' practice it emphasises the universality of binomial nomenclature — it's a truly international system."
+    },
+    {
+      "id": "LW_544",
+      "question": "NCERT says that taxonomy is 'not something new'. What evidence is given for this?",
+      "options": {"A": "Taxonomy was invented in 2000 BC", "B": "Human beings have always been interested in knowing more about various kinds of organisms, particularly with reference to their own use", "C": "Fossils show early humans classified organisms", "D": "Ancient texts contain taxonomic classifications"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'Taxonomy is not something new. Human beings have always been interested in knowing more and more about the various kinds of organisms, particularly with reference to their own use.'"
+    },
+    {
+      "id": "LW_545",
+      "question": "The statement in NCERT 'Genera are aggregates of closely related species' uses the word 'aggregates'. What does this imply about the species within a genus?",
+      "options": {"A": "They are completely unrelated", "B": "They are distantly related", "C": "They are closely related with more characters in common than species of other genera", "D": "They are identical"},
+      "correct_option": "C",
+      "explanation": "Genera being 'aggregates of closely related species' means the species within a genus share more characters in common compared to species of other genera — they are closely related."
+    },
+    {
+      "id": "LW_546",
+      "question": "A student lists these in ascending order: Kingdom → Phylum → Class → Order → Family → Genus → Species. Is this order correct?",
+      "options": {"A": "Yes, this is correct ascending order (broad to specific)", "B": "No, this is descending order (broad to specific, not ascending)", "C": "No, Class and Order are reversed", "D": "No, Genus and Family are reversed"},
+      "correct_option": "B",
+      "explanation": "Kingdom → Phylum → Class → Order → Family → Genus → Species is DESCENDING order (from broadest to most specific). ASCENDING order is Species → Genus → Family → Order → Class → Phylum → Kingdom."
+    },
+    {
+      "id": "LW_547",
+      "question": "NCERT states that in early days, classifications were based on 'uses' of organisms. What does this suggest about the nature of early biology?",
+      "options": {"A": "Early biology was scientifically advanced", "B": "Early biology was anthropocentric — focused on what was useful to humans", "C": "Early biology was based on evolution", "D": "Early biology used microscopes"},
+      "correct_option": "B",
+      "explanation": "Classifications based on 'uses' reflect an anthropocentric (human-centred) approach — organisms were valued and classified based on their utility to humans."
+    },
+    {
+      "id": "LW_548",
+      "question": "NCERT mentions 'sub-categories' in the taxonomic hierarchy. An example of a sub-category would be:",
+      "options": {"A": "Kingdom within Phylum", "B": "Sub-order, Sub-family, Sub-species etc.", "C": "Class within Species", "D": "Kingdom within Species"},
+      "correct_option": "B",
+      "explanation": "Taxonomists have developed sub-categories like Sub-order, Sub-family, Sub-genus, Sub-species etc. to facilitate more precise placement of taxa."
+    },
+    {
+      "id": "LW_549",
+      "question": "Which of the following would be the correct description of the 'taxonomic category' as per NCERT?",
+      "options": {"A": "A random grouping of organisms", "B": "A step in the hierarchy of classification, representing a rank, that is part of the overall taxonomic arrangement", "C": "A single species", "D": "A geographic region of organisms"},
+      "correct_option": "B",
+      "explanation": "NCERT defines taxonomic category as 'a part of overall taxonomic arrangement' — each category represents a rank in the hierarchical classification system."
+    },
+    {
+      "id": "LW_550",
+      "question": "Which of the following best summarises the content of NCERT Chapter 1 'The Living World'?",
+      "options": {"A": "The chapter discusses only the classification of animals", "B": "The chapter introduces biodiversity, the need for classification and nomenclature, and the system of taxonomic hierarchy from species to kingdom", "C": "The chapter focuses only on plant taxonomy", "D": "The chapter discusses only the history of biology"},
+      "correct_option": "B",
+      "explanation": "Chapter 1 covers: the amazing diversity of living organisms (biodiversity), the need for standardised naming (nomenclature), classification and taxonomy, and the seven taxonomic categories (species to kingdom) with their definitions and examples."
+    },
+    {
+      "id": "LW_551",
+      "question": "In which order should these four taxonomic processes occur logically according to NCERT?",
+      "options": {"A": "Nomenclature → Classification → Identification → Characterisation", "B": "Characterisation → Identification → Classification → Nomenclature", "C": "Classification → Nomenclature → Identification → Characterisation", "D": "Identification → Characterisation → Nomenclature → Classification"},
+      "correct_option": "B",
+      "explanation": "The logical order is: first describe (Characterisation) → recognise (Identification) → group (Classification) → name (Nomenclature)."
+    },
+    {
+      "id": "LW_552",
+      "question": "NCERT Chapter 1 says 'since it is nearly impossible to study all the living organisms, it is necessary to devise some means to make this possible. This process is ___'",
+      "options": {"A": "Nomenclature", "B": "Identification", "C": "Classification", "D": "Taxonomy"},
+      "correct_option": "C",
+      "explanation": "NCERT fills the blank with 'classification' — the process of grouping organisms into convenient categories to make their study manageable."
+    },
+    {
+      "id": "LW_553",
+      "question": "According to NCERT, the 'basic requirement' for placing an organism in categories is:",
+      "options": {"A": "Knowledge of its habitat", "B": "Knowledge of its economic value", "C": "Knowledge of characters of the individual or group", "D": "Knowledge of its evolutionary history"},
+      "correct_option": "C",
+      "explanation": "NCERT states: 'The basic requirement is the knowledge of characters of an individual or group of organisms.'"
+    },
+    {
+      "id": "LW_554",
+      "question": "If you know an organism belongs to Kingdom Animalia and Phylum Arthropoda, you can predict it does NOT have:",
+      "options": {"A": "Jointed appendages", "B": "Exoskeleton", "C": "Notochord", "D": "Segmented body"},
+      "correct_option": "C",
+      "explanation": "Notochord is characteristic of Phylum Chordata. Arthropoda members lack a notochord — they have jointed appendages, exoskeleton and segmented body."
+    },
+    {
+      "id": "LW_555",
+      "question": "If you know an organism belongs to Kingdom Animalia and Phylum Chordata, you can predict it has:",
+      "options": {"A": "Three pairs of jointed legs", "B": "Hard exoskeleton", "C": "Notochord (at least during embryonic stage) and dorsal hollow neural system", "D": "Wings"},
+      "correct_option": "C",
+      "explanation": "Notochord and dorsal hollow neural system are the key features of Phylum Chordata mentioned in NCERT."
+    },
+    {
+      "id": "LW_556",
+      "question": "NCERT says that in family Solanaceae, the example genera are Solanum, Petunia and Datura. What is the ORDER this family belongs to?",
+      "options": {"A": "Carnivora", "B": "Primata", "C": "Polymoniales", "D": "Sapindales"},
+      "correct_option": "C",
+      "explanation": "Family Solanaceae belongs to order Polymoniales according to NCERT."
+    },
+    {
+      "id": "LW_557",
+      "question": "NCERT says family Felidae includes genus Panthera and genus Felis. What ORDER does this family belong to?",
+      "options": {"A": "Primata", "B": "Diptera", "C": "Carnivora", "D": "Polymoniales"},
+      "correct_option": "C",
+      "explanation": "Family Felidae belongs to order Carnivora according to NCERT."
+    },
+    {
+      "id": "LW_558",
+      "question": "NCERT says family Canidae belongs to order Carnivora. Which common animal belongs to family Canidae?",
+      "options": {"A": "Cat", "B": "Lion", "C": "Dog", "D": "Monkey"},
+      "correct_option": "C",
+      "explanation": "Dog belongs to family Canidae, which is in order Carnivora. Cats are in Felidae, lions are in Felidae, monkeys are in order Primata."
+    },
+    {
+      "id": "LW_559",
+      "question": "NCERT mentions that class Mammalia includes both order Primata and order Carnivora. What does this tell us?",
+      "options": {"A": "Primates and carnivores are unrelated", "B": "A single class can contain multiple orders with varying characteristics", "C": "Class Mammalia includes only these two orders", "D": "Primates and carnivores are in the same order"},
+      "correct_option": "B",
+      "explanation": "A single class (Mammalia) contains multiple orders (Primata, Carnivora, and many others) — showing that a class is a broader category encompassing diverse orders."
+    },
+    {
+      "id": "LW_560",
+      "question": "How do 'genera' differ from 'species' in terms of shared characteristics?",
+      "options": {"A": "Genera share more characteristics than species", "B": "Species share more characteristics than genera (members of a species are more similar than members of just a genus)", "C": "They share the same number of characteristics", "D": "Genera share all characteristics of species"},
+      "correct_option": "B",
+      "explanation": "Species members share more characteristics (fundamental similarities) than members of just the same genus. As we go from species to genus, fewer characteristics are shared."
+    },
+    {
+      "id": "LW_561",
+      "question": "NCERT Figure 1.1 is described as showing taxonomic categories in 'hierarchical arrangement in ascending order'. What does 'hierarchical' mean?",
+      "options": {"A": "Random arrangement", "B": "Arranged in a graded system with each level having a rank and relationship to other levels", "C": "Alphabetical arrangement", "D": "Arrangement by size"},
+      "correct_option": "B",
+      "explanation": "Hierarchical means arranged in a graded system with ranks — each level (species, genus, family, etc.) has a specific rank and clear relationship to levels above and below it."
+    },
+    {
+      "id": "LW_562",
+      "question": "NCERT mentions that 'as we go higher from species to kingdom, the number of common characteristics goes on decreasing.' This principle is used for which purpose?",
+      "options": {"A": "Determining the economic value of organisms", "B": "Understanding the nature of taxonomic categories — lower = more specific, higher = more general", "C": "Determining habitat preferences", "D": "Understanding genetic diversity"},
+      "correct_option": "B",
+      "explanation": "This principle helps understand the nature of taxonomic categories — lower categories (like species) are more specific with more shared traits, higher categories (like kingdom) are more general with fewer shared traits."
+    },
+    {
+      "id": "LW_563",
+      "question": "According to NCERT, which statement about systematics is TRUE?",
+      "options": {"A": "Systematics does not consider evolutionary relationships", "B": "Systematics is narrower than taxonomy", "C": "Systematics takes into account evolutionary relationships between organisms", "D": "Systematics is the same as nomenclature"},
+      "correct_option": "C",
+      "explanation": "NCERT states: 'Systematics takes into account evolutionary relationships between organisms' — this is what distinguishes it from simple taxonomy."
+    },
+    {
+      "id": "LW_564",
+      "question": "How are organisms in the same FAMILY related to each other compared to organisms in the same GENUS?",
+      "options": {"A": "Family members are more closely related than genus members", "B": "Genus members are more closely related (share more characters) than just family members", "C": "They have the same degree of relationship", "D": "Family members share more characteristics"},
+      "correct_option": "B",
+      "explanation": "The lower the taxonomic level, the more closely related the organisms. Genus is a lower level than family, so genus members share more characteristics and are more closely related."
+    },
+    {
+      "id": "LW_565",
+      "question": "NCERT mentions the concept of 'related genera' within a family. What does 'related genera' mean?",
+      "options": {"A": "Genera that are completely unrelated", "B": "Genera that share some common features and are placed together in the same family due to these shared features", "C": "Genera that are geographically close", "D": "Genera with the same number of species"},
+      "correct_option": "B",
+      "explanation": "Related genera share some common features — specifically vegetative and reproductive features in plants — which is why they are grouped together in the same family."
+    },
+    {
+      "id": "LW_566",
+      "question": "The term 'Species' comes from Latin. In Latin, 'species' means:",
+      "options": {"A": "Kingdom", "B": "Kind or sort", "C": "Genus", "D": "Classification"},
+      "correct_option": "B",
+      "explanation": "In Latin, 'species' means 'kind' or 'sort' — reflecting the taxonomic meaning of a 'kind' of organism with fundamental similarities."
+    },
+    {
+      "id": "LW_567",
+      "question": "NCERT says that in the family Solanaceae, the basis for placing Solanum, Petunia and Datura together includes both 'vegetative and reproductive features'. Which of the following is an example of a REPRODUCTIVE feature?",
+      "options": {"A": "Leaf shape", "B": "Root type", "C": "Stem structure", "D": "Flower structure and fruit type"},
+      "correct_option": "D",
+      "explanation": "Reproductive features include flower structure (number of petals, stamen arrangement, ovary position) and fruit type. Vegetative features include leaf shape, root type, stem structure."
+    },
+    {
+      "id": "LW_568",
+      "question": "NCERT says that 'one should be able to distinguish one species from the other closely related species'. What is the basis of this distinction?",
+      "options": {"A": "Habitat differences", "B": "Distinct morphological differences", "C": "Colour differences only", "D": "Size differences only"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'One should be able to distinguish one species from the other closely related species based on the distinct morphological differences.'"
+    },
+    {
+      "id": "LW_569",
+      "question": "NCERT uses the term 'morphological differences' for species distinction. 'Morphological' refers to:",
+      "options": {"A": "Chemical properties", "B": "Form and structure — the physical appearance of organisms", "C": "Genetic properties", "D": "Behavioural properties"},
+      "correct_option": "B",
+      "explanation": "Morphological refers to the form and structure — the physical appearance of organisms. Morphological differences are differences in visible physical features."
+    },
+    {
+      "id": "LW_570",
+      "question": "The concept of 'fundamental similarities' for defining species in NCERT refers to:",
+      "options": {"A": "Similarities in size and colour", "B": "Basic essential similarities in characters that define what makes these organisms the 'same kind'", "C": "Similarities in habitat", "D": "Similarities in economic importance"},
+      "correct_option": "B",
+      "explanation": "'Fundamental similarities' means basic, essential similarities in characters — the core features that make a group of organisms belong to the same species (the same 'kind')."
+    },
+    {
+      "id": "LW_571",
+      "question": "NCERT mentions that 'Panthera has another specific epithet called tigris'. What does this illustrate?",
+      "options": {"A": "A genus can have only one species", "B": "A genus can have more than one specific epithet (species)", "C": "All species in a genus have the same specific epithet", "D": "Specific epithets are the same across genera"},
+      "correct_option": "B",
+      "explanation": "NCERT says: 'Each genus may have one or more than one specific epithets representing different organisms.' Panthera having both leo (lion) and tigris (tiger) illustrates this."
+    },
+    {
+      "id": "LW_572",
+      "question": "NCERT mentions Solanum includes species like 'nigrum' and 'melongena' besides 'tuberosum'. What does 'nigrum' likely belong to?",
+      "options": {"A": "Family Solanaceae, genus Solanum, species nigrum", "B": "Family Felidae, genus Panthera", "C": "Kingdom Animalia, order Primata", "D": "Division Gymnospermae"},
+      "correct_option": "A",
+      "explanation": "Solanum nigrum (nightshade) belongs to family Solanaceae, genus Solanum, with specific epithet nigrum — just like potato (S. tuberosum) and brinjal (S. melongena)."
+    },
+    {
+      "id": "LW_573",
+      "question": "Ernst Mayr was one of the 100 greatest scientists of all time. His most significant contribution was making which question the central question of evolutionary biology?",
+      "options": {"A": "The origin of life", "B": "The origin of species diversity", "C": "The origin of cells", "D": "The origin of the universe"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'He almost single-handedly made the origin of species diversity the central question of evolutionary biology that it is today.'"
+    },
+    {
+      "id": "LW_574",
+      "question": "NCERT Chapter 1 was reprinted for 2026-27. The content describes Ernst Mayr who lived from:",
+      "options": {"A": "1904 to 2000", "B": "1904 to 2004", "C": "1840 to 1904", "D": "1850 to 1920"},
+      "correct_option": "B",
+      "explanation": "Ernst Mayr lived from 1904 to 2004 (died at age 100) as stated in NCERT."
+    },
+    {
+      "id": "LW_575",
+      "question": "The NCERT text mentions that 'Systematics' derives from Latin 'systema'. Similarly, 'Taxonomy' derives from Greek 'taxis' (arrangement) + 'nomos' (law). Both terms relate to:",
+      "options": {"A": "Random grouping of organisms", "B": "Systematic or arranged classification of organisms according to laws/rules", "C": "Naming of organisms only", "D": "Study of evolution only"},
+      "correct_option": "B",
+      "explanation": "Both 'systematics' (from Latin 'systema' = systematic arrangement) and 'taxonomy' (from Greek taxis + nomos = arrangement + law) relate to the systematic, rule-based classification of organisms."
+    },
+    {
+      "id": "LW_576",
+      "question": "NCERT says that classification helps in 'knowing our bio-resources and their diversity'. 'Bio-resources' refers to:",
+      "options": {"A": "Non-living resources", "B": "Biological resources — living organisms and their products that are useful to humans", "C": "Only agricultural crops", "D": "Only forest timber"},
+      "correct_option": "B",
+      "explanation": "Bio-resources are biological resources — living organisms and their products (medicines, food, timber, etc.) that are useful to humans. Taxonomy helps identify and catalogue these resources."
+    },
+    {
+      "id": "LW_577",
+      "question": "Which of the following is the CORRECT description of why mango and wheat, despite both being Angiosperms, are placed in different classes?",
+      "options": {"A": "They have different flowers", "B": "Mango has two cotyledons (Dicotyledonae) while wheat has one cotyledon (Monocotyledonae)", "C": "They live in different habitats", "D": "They have different scientific names"},
+      "correct_option": "B",
+      "explanation": "Mango is classified as Dicotyledonae (two cotyledons in seed) and wheat as Monocotyledonae (one cotyledon) — this is the primary class-level distinction."
+    },
+    {
+      "id": "LW_578",
+      "question": "NCERT says taxonomy studies are useful in 'forestry'. How?",
+      "options": {"A": "Taxonomy plants forests", "B": "Knowing which tree species are which, their relationships and properties helps in sustainable forest management", "C": "Taxonomy cuts trees", "D": "Taxonomy is not useful in forestry"},
+      "correct_option": "B",
+      "explanation": "Taxonomic knowledge helps identify tree species, understand their ecology and relationships — crucial for sustainable forest management, conservation and use of forest bio-resources."
+    },
+    {
+      "id": "LW_579",
+      "question": "NCERT says taxonomy studies are useful in 'industry'. How?",
+      "options": {"A": "Taxonomy builds factories", "B": "Identifying organisms that produce useful industrial compounds (rubber, dyes, enzymes, medicines) depends on correct taxonomic identification", "C": "Taxonomy designs machines", "D": "Taxonomy is not useful in industry"},
+      "correct_option": "B",
+      "explanation": "Industrial uses of organisms (rubber from Hevea, dyes from plants, enzymes from microbes) require correct taxonomic identification to find, harvest and use the right organisms."
+    },
+    {
+      "id": "LW_580",
+      "question": "Which of the following is the CORRECT full taxonomic classification of Mango in descending order?",
+      "options": {"A": "Plantae → Angiospermae → Dicotyledonae → Sapindales → Anacardiaceae → Mangifera → Mangifera indica", "B": "Animalia → Chordata → Mammalia → Primata → Hominidae → Homo → Homo sapiens", "C": "Plantae → Angiospermae → Monocotyledonae → Poales → Poaceae → Triticum → Triticum aestivum", "D": "Animalia → Arthropoda → Insecta → Diptera → Muscidae → Musca → Musca domestica"},
+      "correct_option": "A",
+      "explanation": "Descending order for Mango: Kingdom (Plantae) → Division (Angiospermae) → Class (Dicotyledonae) → Order (Sapindales) → Family (Anacardiaceae) → Genus (Mangifera) → Species (Mangifera indica)."
+    },
+    {
+      "id": "LW_581",
+      "question": "Which of the following is the CORRECT full taxonomic classification of housefly in descending order?",
+      "options": {"A": "Plantae → Angiospermae → Dicotyledonae → Sapindales → Anacardiaceae → Mangifera → Mangifera indica", "B": "Animalia → Arthropoda → Insecta → Diptera → Muscidae → Musca → Musca domestica", "C": "Animalia → Chordata → Mammalia → Primata → Hominidae → Homo → Homo sapiens", "D": "Plantae → Angiospermae → Monocotyledonae → Poales → Poaceae → Triticum → Triticum aestivum"},
+      "correct_option": "B",
+      "explanation": "Descending order for housefly: Kingdom (Animalia) → Phylum (Arthropoda) → Class (Insecta) → Order (Diptera) → Family (Muscidae) → Genus (Musca) → Species (Musca domestica)."
+    },
+    {
+      "id": "LW_582",
+      "question": "Which of the following is the CORRECT full taxonomic classification of wheat in descending order?",
+      "options": {"A": "Animalia → Chordata → Mammalia → Primata → Hominidae → Homo → Homo sapiens", "B": "Plantae → Angiospermae → Dicotyledonae → Sapindales → Anacardiaceae → Mangifera → Mangifera indica", "C": "Plantae → Angiospermae → Monocotyledonae → Poales → Poaceae → Triticum → Triticum aestivum", "D": "Animalia → Arthropoda → Insecta → Diptera → Muscidae → Musca → Musca domestica"},
+      "correct_option": "C",
+      "explanation": "Descending order for wheat: Kingdom (Plantae) → Division (Angiospermae) → Class (Monocotyledonae) → Order (Poales) → Family (Poaceae) → Genus (Triticum) → Species (Triticum aestivum)."
+    },
+    {
+      "id": "LW_583",
+      "question": "According to NCERT, what is the role of 'external and internal structure' in taxonomy?",
+      "options": {"A": "It is not used in taxonomy", "B": "It forms part of the essential information for modern taxonomic studies", "C": "Only external structure is used", "D": "Only internal structure is used"},
+      "correct_option": "B",
+      "explanation": "NCERT states: 'External and internal structure, along with the structure of cell, development process and ecological information of organisms are essential and form the basis of modern taxonomic studies.'"
+    },
+    {
+      "id": "LW_584",
+      "question": "According to NCERT, what is the role of 'development process' in taxonomy?",
+      "options": {"A": "Development process is not considered", "B": "It is one of the essential elements for modern taxonomic studies", "C": "Only the adult form is studied", "D": "Development is only studied in animals"},
+      "correct_option": "B",
+      "explanation": "Development process is listed as one of the essential pieces of information that forms the basis of modern taxonomic studies — studying how organisms develop from embryo to adult."
+    },
+    {
+      "id": "LW_585",
+      "question": "NCERT mentions that 'insects represent a group of organisms sharing common features like three pairs of jointed legs'. This represents which taxonomic level?",
+      "options": {"A": "Species level", "B": "Family level", "C": "Class level — class Insecta in phylum Arthropoda", "D": "Kingdom level"},
+      "correct_option": "C",
+      "explanation": "Insects with three pairs of jointed legs represent class Insecta in phylum Arthropoda — a class-level grouping based on shared morphological features."
+    },
+    {
+      "id": "LW_586",
+      "question": "NCERT says 'category further denotes rank'. What is the relationship between 'category' and 'rank' in taxonomy?",
+      "options": {"A": "They are completely different concepts", "B": "Each category (like species, genus, family) represents a rank or level in the hierarchical classification system", "C": "Rank is above category", "D": "Category is above rank"},
+      "correct_option": "B",
+      "explanation": "Each taxonomic category (species, genus, family, order, class, phylum, kingdom) represents a rank — a level in the hierarchical classification system."
+    },
+    {
+      "id": "LW_587",
+      "question": "NCERT says 'each rank or taxon represents a unit of classification'. What does this mean?",
+      "options": {"A": "Each taxon is a single organism", "B": "Each rank/taxon is a defined unit or category used as a basis for classification and arrangement of organisms", "C": "Each taxon represents a geographic unit", "D": "Each taxon represents a chemical unit"},
+      "correct_option": "B",
+      "explanation": "Each taxon represents a unit of classification — it's a defined category (species, genus, family, etc.) used to organise and arrange organisms systematically."
+    },
+    {
+      "id": "LW_588",
+      "question": "NCERT mentions both 'vertical' and 'horizontal' sharing of similarities. Ernst Mayr's work on evolutionary relationships relates to which type?",
+      "options": {"A": "Horizontal only", "B": "Vertical only", "C": "Both — evolutionary biology considers relationships both between contemporaneous organisms (horizontal) and across generations (vertical)", "D": "Neither"},
+      "correct_option": "C",
+      "explanation": "Evolutionary biology (Mayr's field) considers relationships both between contemporary organisms (horizontal — what is related to what today) and across generations (vertical — ancestral-descendant relationships through time)."
+    },
+    {
+      "id": "LW_589",
+      "question": "NCERT says that in 'plants, classes with a few similar characters are assigned to a higher category called Division'. This Division is equivalent to which animal category?",
+      "options": {"A": "Class", "B": "Order", "C": "Phylum", "D": "Kingdom"},
+      "correct_option": "C",
+      "explanation": "Division (for plants) is equivalent to Phylum (for animals) — both are the category between Class and Kingdom."
+    },
+    {
+      "id": "LW_590",
+      "question": "NCERT says all categories constitute the 'taxonomic hierarchy'. This hierarchy is useful because it:",
+      "options": {"A": "Creates complexity in biology", "B": "Provides a systematic, organised framework for understanding and studying the relationships and diversity of organisms", "C": "Limits the number of organisms that can be studied", "D": "Requires memorisation of all species names"},
+      "correct_option": "B",
+      "explanation": "The taxonomic hierarchy provides a systematic, organised framework — it shows relationships between organisms at different levels, making the study of vast biodiversity manageable."
+    },
+    {
+      "id": "LW_591",
+      "question": "Which of the following NCERT statements about Kingdom Animalia and Kingdom Plantae is CORRECT?",
+      "options": {"A": "Kingdom Animalia includes all plants", "B": "Kingdom Plantae includes all animals", "C": "Kingdom Animalia includes all animals from various phyla; Kingdom Plantae includes all plants from various divisions", "D": "Both kingdoms include both plants and animals"},
+      "correct_option": "C",
+      "explanation": "NCERT clearly states: Kingdom Animalia includes all animals from various phyla; Kingdom Plantae includes all plants from various divisions. They are distinct kingdoms."
+    },
+    {
+      "id": "LW_592",
+      "question": "NCERT says 'henceforth, we will refer to these two groups as animal and plant kingdoms'. What are these two groups?",
+      "options": {"A": "Insects and plants", "B": "Kingdom Animalia and Kingdom Plantae", "C": "Vertebrates and invertebrates", "D": "Angiosperms and Gymnosperms"},
+      "correct_option": "B",
+      "explanation": "NCERT refers to Kingdom Animalia (all animals) and Kingdom Plantae (all plants) as the two groups referred to as 'animal and plant kingdoms.'"
+    },
+    {
+      "id": "LW_593",
+      "question": "According to NCERT, which process involves 'grouping organisms into convenient categories based on easily observable characters'?",
+      "options": {"A": "Nomenclature", "B": "Identification", "C": "Classification", "D": "Characterisation"},
+      "correct_option": "C",
+      "explanation": "Classification is the process by which anything is grouped into convenient categories based on some easily observable characters."
+    },
+    {
+      "id": "LW_594",
+      "question": "According to NCERT, which process involves 'standardising the naming of living organisms so they are known by the same name all over the world'?",
+      "options": {"A": "Classification", "B": "Identification", "C": "Nomenclature", "D": "Taxonomy"},
+      "correct_option": "C",
+      "explanation": "Nomenclature is the process of standardising the naming of living organisms such that a particular organism is known by the same name all over the world."
+    },
+    {
+      "id": "LW_595",
+      "question": "According to NCERT, which process involves 'correctly describing an organism so we know to what organism the name is attached'?",
+      "options": {"A": "Classification", "B": "Nomenclature", "C": "Taxonomy", "D": "Identification"},
+      "correct_option": "D",
+      "explanation": "Identification is the process of correctly describing the organism and knowing to what organism the name is attached."
+    },
+    {
+      "id": "LW_596",
+      "question": "NCERT states that 'description of any organism should enable the people (in any part of the world) to arrive at the same name'. This property is called:",
+      "options": {"A": "Specificity", "B": "Universality of nomenclature", "C": "Classification", "D": "Identification"},
+      "correct_option": "B",
+      "explanation": "This is the universality of nomenclature — any correct description of an organism anywhere in the world should lead to the same scientific name."
+    },
+    {
+      "id": "LW_597",
+      "question": "NCERT says 'we should remember that as we explore new areas, and even old ones, new organisms are continuously being identified.' This means biodiversity is:",
+      "options": {"A": "Fully known and documented", "B": "Decreasing every year", "C": "Still being discovered — the actual number of species exceeds what is currently known", "D": "Stable and not changing"},
+      "correct_option": "C",
+      "explanation": "Since new organisms are continuously being identified even in known areas, it means biodiversity is still being discovered — the actual number of species exceeds the 1.7–1.8 million currently known."
+    },
+    {
+      "id": "LW_598",
+      "question": "NCERT Chapter 1 is the FIRST chapter of which unit?",
+      "options": {"A": "Unit 2 — Cell Structure and Function", "B": "Unit 1 — Diversity in the Living World", "C": "Unit 3 — Plant Physiology", "D": "Unit 5 — Ecology"},
+      "correct_option": "B",
+      "explanation": "Chapter 1 'The Living World' is the first chapter of Unit 1 'Diversity in the Living World' which includes chapters 1-4."
+    },
+    {
+      "id": "LW_599",
+      "question": "The term 'taxa' (plural of taxon) was first used in NCERT Chapter 1 in the context of which statement?",
+      "options": {"A": "'All taxa form the kingdom'", "B": "'The scientific term for these categories is taxa'", "C": "'Taxa are related to genes'", "D": "'Taxa are found in all habitats'"},
+      "correct_option": "B",
+      "explanation": "NCERT says: 'The scientific term for these (convenient) categories is taxa' — introducing the term taxa in the context of the convenient categories used to study organisms."
+    },
+    {
+      "id": "LW_600",
+      "question": "NCERT Chapter 1 ends with 'Exercises'. The LAST exercise question (Q10) asks students to:",
+      "options": {"A": "Define biodiversity", "B": "Explain binomial nomenclature", "C": "Illustrate the taxonomical hierarchy with suitable examples of a plant and an animal", "D": "Define taxonomy"},
+      "correct_option": "C",
+      "explanation": "NCERT exercise Q10 asks: 'Illustrate the taxonomical hierarchy with suitable examples of a plant and an animal.' — requiring students to apply the full classification hierarchy."
+    }
+  ]
+}
