@@ -1,9 +1,5 @@
 {
   "chapter_name": "Biological Classification",
-  "subject": "Biology",
-  "class": "11",
-  "chunk": 1,
-  "total_questions_in_chunk": 300,
   "questions": [
     {
       "id": "BIO_CH2_001",
