@@ -1,0 +1,3910 @@
+{
+  "chapter_name": "Cell: The Unit of Life",
+  "chapter_number": 8,
+  "subject": "Biology",
+  "class": "XI",
+  "chunk": 1,
+  "total_questions_in_chunk": 300,
+  "questions": [
+    {
+      "id": "CUL_001",
+      "topic": "Introduction to Cell",
+      "question": "Who is considered the basic unit of life?",
+      "options": {
+        "A": "Tissue",
+        "B": "Organ",
+        "C": "Cell",
+        "D": "Organism"
+      },
+      "correct_option": "C",
+      "explanation": "The cell is the fundamental structural and functional unit of all living organisms."
+    },
+    {
+      "id": "CUL_002",
+      "topic": "Introduction to Cell",
+      "question": "Who first saw and described a live cell?",
+      "options": {
+        "A": "Robert Brown",
+        "B": "Antonie Von Leeuwenhoek",
+        "C": "Matthias Schleiden",
+        "D": "Rudolf Virchow"
+      },
+      "correct_option": "B",
+      "explanation": "Antonie Von Leeuwenhoek first saw and described a live cell."
+    },
+    {
+      "id": "CUL_003",
+      "topic": "Introduction to Cell",
+      "question": "Who discovered the nucleus of a cell?",
+      "options": {
+        "A": "Antonie Von Leeuwenhoek",
+        "B": "Theodore Schwann",
+        "C": "Robert Brown",
+        "D": "Matthias Schleiden"
+      },
+      "correct_option": "C",
+      "explanation": "Robert Brown discovered the nucleus of the cell."
+    },
+    {
+      "id": "CUL_004",
+      "topic": "Introduction to Cell",
+      "question": "Organisms composed of a single cell are called:",
+      "options": {
+        "A": "Multicellular",
+        "B": "Unicellular",
+        "C": "Acellular",
+        "D": "Colonial"
+      },
+      "correct_option": "B",
+      "explanation": "Organisms composed of a single cell are called unicellular organisms."
+    },
+    {
+      "id": "CUL_005",
+      "topic": "Introduction to Cell",
+      "question": "Which instrument revealed all the structural details of the cell?",
+      "options": {
+        "A": "Light microscope",
+        "B": "Simple microscope",
+        "C": "Electron microscope",
+        "D": "Compound microscope"
+      },
+      "correct_option": "C",
+      "explanation": "The invention and improvement of the microscope leading to the electron microscope revealed all the structural details of the cell."
+    },
+    {
+      "id": "CUL_006",
+      "topic": "Cell Theory",
+      "question": "In which year did Matthias Schleiden examine plants and propose that all plants are made of cells?",
+      "options": {
+        "A": "1835",
+        "B": "1838",
+        "C": "1839",
+        "D": "1855"
+      },
+      "correct_option": "B",
+      "explanation": "In 1838, Matthias Schleiden, a German botanist, examined a large number of plants and observed that all plants are composed of different kinds of cells."
+    },
+    {
+      "id": "CUL_007",
+      "topic": "Cell Theory",
+      "question": "Matthias Schleiden was a:",
+      "options": {
+        "A": "German Zoologist",
+        "B": "German Botanist",
+        "C": "British Chemist",
+        "D": "French Biologist"
+      },
+      "correct_option": "B",
+      "explanation": "Matthias Schleiden was a German botanist who examined plants and contributed to cell theory."
+    },
+    {
+      "id": "CUL_008",
+      "topic": "Cell Theory",
+      "question": "Theodore Schwann was a:",
+      "options": {
+        "A": "German Botanist",
+        "B": "French Zoologist",
+        "C": "German Zoologist",
+        "D": "British Botanist"
+      },
+      "correct_option": "C",
+      "explanation": "Theodore Schwann (1839) was a German Zoologist who studied different types of animal cells."
+    },
+    {
+      "id": "CUL_009",
+      "topic": "Cell Theory",
+      "question": "Who proposed that the bodies of animals and plants are composed of cells and products of cells?",
+      "options": {
+        "A": "Schleiden only",
+        "B": "Schwann only",
+        "C": "Virchow",
+        "D": "Schwann"
+      },
+      "correct_option": "D",
+      "explanation": "Schwann proposed the hypothesis that the bodies of animals and plants are composed of cells and products of cells, based on his studies."
+    },
+    {
+      "id": "CUL_010",
+      "topic": "Cell Theory",
+      "question": "Who together formulated the cell theory?",
+      "options": {
+        "A": "Schleiden and Virchow",
+        "B": "Schwann and Virchow",
+        "C": "Schleiden and Schwann",
+        "D": "Leeuwenhoek and Brown"
+      },
+      "correct_option": "C",
+      "explanation": "Schleiden and Schwann together formulated the cell theory."
+    },
+    {
+      "id": "CUL_011",
+      "topic": "Cell Theory",
+      "question": "The original cell theory formulated by Schleiden and Schwann did NOT explain:",
+      "options": {
+        "A": "That all plants are made of cells",
+        "B": "That all animals are made of cells",
+        "C": "How new cells are formed",
+        "D": "That cells are units of life"
+      },
+      "correct_option": "C",
+      "explanation": "The original cell theory did not explain as to how new cells were formed."
+    },
+    {
+      "id": "CUL_012",
+      "topic": "Cell Theory",
+      "question": "Rudolf Virchow explained that new cells arise from:",
+      "options": {
+        "A": "Abiotic materials",
+        "B": "Pre-existing cells",
+        "C": "Cell division only in animals",
+        "D": "Spontaneous generation"
+      },
+      "correct_option": "B",
+      "explanation": "Rudolf Virchow (1855) first explained that cells divided and new cells are formed from pre-existing cells (Omnis cellula-e cellula)."
+    },
+    {
+      "id": "CUL_013",
+      "topic": "Cell Theory",
+      "question": "What does the Latin phrase 'Omnis cellula-e cellula' mean?",
+      "options": {
+        "A": "All cells are alive",
+        "B": "All cells arise from pre-existing cells",
+        "C": "Cells are units of life",
+        "D": "All organisms have cells"
+      },
+      "correct_option": "B",
+      "explanation": "'Omnis cellula-e cellula' means all cells arise from pre-existing cells, as stated by Rudolf Virchow."
+    },
+    {
+      "id": "CUL_014",
+      "topic": "Cell Theory",
+      "question": "In which year did Rudolf Virchow modify and complete the cell theory?",
+      "options": {
+        "A": "1838",
+        "B": "1839",
+        "C": "1855",
+        "D": "1831"
+      },
+      "correct_option": "C",
+      "explanation": "Rudolf Virchow in 1855 explained that cells divide and new cells form from pre-existing cells, completing the cell theory."
+    },
+    {
+      "id": "CUL_015",
+      "topic": "Cell Theory",
+      "question": "According to modern cell theory, which of the following is correct?",
+      "options": {
+        "A": "All living organisms have a nucleus",
+        "B": "All cells arise from pre-existing cells",
+        "C": "New cells can arise from abiotic material",
+        "D": "Animal cells have cell walls"
+      },
+      "correct_option": "B",
+      "explanation": "Modern cell theory states: (i) all living organisms are composed of cells, and (ii) all cells arise from pre-existing cells."
+    },
+    {
+      "id": "CUL_016",
+      "topic": "Cell Theory",
+      "question": "Theodore Schwann studied animal cells and reported that cells had a thin outer layer. This layer is now known as:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Nuclear membrane",
+        "D": "Tonoplast"
+      },
+      "correct_option": "B",
+      "explanation": "Schwann studied animal cells and reported that cells had a thin outer layer which is today known as the 'plasma membrane'."
+    },
+    {
+      "id": "CUL_017",
+      "topic": "Cell Theory",
+      "question": "Schwann concluded that cell wall is a unique character of:",
+      "options": {
+        "A": "Animal cells",
+        "B": "Prokaryotic cells",
+        "C": "Plant cells",
+        "D": "Both plant and animal cells"
+      },
+      "correct_option": "C",
+      "explanation": "Schwann concluded, based on his studies on plant tissues, that the presence of cell wall is a unique character of the plant cells."
+    },
+    {
+      "id": "CUL_018",
+      "topic": "Overview of Cell",
+      "question": "The onion cell has a distinct cell wall as its outer boundary. Just within it is the:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Cell membrane",
+        "D": "Vacuole"
+      },
+      "correct_option": "C",
+      "explanation": "The onion cell, a typical plant cell, has a distinct cell wall as its outer boundary and just within it is the cell membrane."
+    },
+    {
+      "id": "CUL_019",
+      "topic": "Overview of Cell",
+      "question": "The nucleus contains chromosomes which in turn contain the genetic material:",
+      "options": {
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Protein",
+        "D": "Lipid"
+      },
+      "correct_option": "B",
+      "explanation": "The nucleus contains the chromosomes which in turn contain the genetic material, DNA."
+    },
+    {
+      "id": "CUL_020",
+      "topic": "Overview of Cell",
+      "question": "Cells that have membrane-bound nuclei are called:",
+      "options": {
+        "A": "Prokaryotic",
+        "B": "Eukaryotic",
+        "C": "Unicellular",
+        "D": "Multicellular"
+      },
+      "correct_option": "B",
+      "explanation": "Cells that have membrane-bound nuclei are called eukaryotic."
+    },
+    {
+      "id": "CUL_021",
+      "topic": "Overview of Cell",
+      "question": "Cells that lack a membrane-bound nucleus are called:",
+      "options": {
+        "A": "Eukaryotic",
+        "B": "Prokaryotic",
+        "C": "Acellular",
+        "D": "Colonial"
+      },
+      "correct_option": "B",
+      "explanation": "Cells that lack a membrane-bound nucleus are called prokaryotic."
+    },
+    {
+      "id": "CUL_022",
+      "topic": "Overview of Cell",
+      "question": "The semi-fluid matrix that occupies the volume of the cell in both prokaryotic and eukaryotic cells is called:",
+      "options": {
+        "A": "Nucleoplasm",
+        "B": "Cytosol",
+        "C": "Cytoplasm",
+        "D": "Matrix"
+      },
+      "correct_option": "C",
+      "explanation": "In both prokaryotic and eukaryotic cells, a semi-fluid matrix called cytoplasm occupies the volume of the cell."
+    },
+    {
+      "id": "CUL_023",
+      "topic": "Overview of Cell",
+      "question": "The cytoplasm is the main arena of cellular activities in:",
+      "options": {
+        "A": "Only plant cells",
+        "B": "Only animal cells",
+        "C": "Both plant and animal cells",
+        "D": "Only prokaryotic cells"
+      },
+      "correct_option": "C",
+      "explanation": "The cytoplasm is the main arena of cellular activities in both the plant and animal cells."
+    },
+    {
+      "id": "CUL_024",
+      "topic": "Overview of Cell",
+      "question": "Which of the following organelles are NOT found in prokaryotic cells?",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Mitochondria",
+        "C": "Cell membrane",
+        "D": "DNA"
+      },
+      "correct_option": "B",
+      "explanation": "Prokaryotic cells lack membrane-bound organelles like mitochondria, golgi complex, lysosomes, etc. Only ribosomes are found in both."
+    },
+    {
+      "id": "CUL_025",
+      "topic": "Overview of Cell",
+      "question": "Which organelle is found in all cells — both eukaryotic and prokaryotic?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Golgi complex",
+        "C": "Ribosomes",
+        "D": "Endoplasmic reticulum"
+      },
+      "correct_option": "C",
+      "explanation": "Ribosomes are non-membrane-bound organelles found in all cells – both eukaryotic as well as prokaryotic."
+    },
+    {
+      "id": "CUL_026",
+      "topic": "Overview of Cell",
+      "question": "Within eukaryotic cells, ribosomes are found in which organelles?",
+      "options": {
+        "A": "Mitochondria and Golgi",
+        "B": "Chloroplasts and Mitochondria",
+        "C": "Lysosomes and Vacuoles",
+        "D": "Nucleus and ER"
+      },
+      "correct_option": "B",
+      "explanation": "Within the cell, ribosomes are found not only in the cytoplasm but also within two organelles – chloroplasts (in plants) and mitochondria and on rough ER."
+    },
+    {
+      "id": "CUL_027",
+      "topic": "Overview of Cell",
+      "question": "Which non-membrane-bound organelle is found in animal cells and helps in cell division?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Centrosome",
+        "C": "Centriole",
+        "D": "Both B and C"
+      },
+      "correct_option": "D",
+      "explanation": "Animal cells contain another non-membrane-bound organelle called centrosome which contains centrioles and helps in cell division."
+    },
+    {
+      "id": "CUL_028",
+      "topic": "Overview of Cell",
+      "question": "The smallest cells known are:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Viruses",
+        "C": "Mycoplasmas",
+        "D": "RBCs"
+      },
+      "correct_option": "C",
+      "explanation": "Mycoplasmas are the smallest cells, only 0.3 µm in length."
+    },
+    {
+      "id": "CUL_029",
+      "topic": "Overview of Cell",
+      "question": "The largest isolated single cell is:",
+      "options": {
+        "A": "Human nerve cell",
+        "B": "Egg of an ostrich",
+        "C": "Human RBC",
+        "D": "Amoeba"
+      },
+      "correct_option": "B",
+      "explanation": "The largest isolated single cell is the egg of an ostrich."
+    },
+    {
+      "id": "CUL_030",
+      "topic": "Overview of Cell",
+      "question": "Human red blood cells are about how many micrometres in diameter?",
+      "options": {
+        "A": "3.5 µm",
+        "B": "5.0 µm",
+        "C": "7.0 µm",
+        "D": "10.0 µm"
+      },
+      "correct_option": "C",
+      "explanation": "Among multicellular organisms, human red blood cells are about 7.0 µm in diameter."
+    },
+    {
+      "id": "CUL_031",
+      "topic": "Overview of Cell",
+      "question": "Which cells are some of the longest cells in the human body?",
+      "options": {
+        "A": "Muscle cells",
+        "B": "Red blood cells",
+        "C": "Nerve cells",
+        "D": "Epithelial cells"
+      },
+      "correct_option": "C",
+      "explanation": "Nerve cells are some of the longest cells."
+    },
+    {
+      "id": "CUL_032",
+      "topic": "Overview of Cell",
+      "question": "Bacteria could be __ µm in length:",
+      "options": {
+        "A": "0.1 to 0.3",
+        "B": "3 to 5",
+        "C": "10 to 20",
+        "D": "0.5 to 1"
+      },
+      "correct_option": "B",
+      "explanation": "Bacteria could be 3 to 5 µm in length."
+    },
+    {
+      "id": "CUL_033",
+      "topic": "Prokaryotic Cells",
+      "question": "Which of the following is NOT a prokaryotic organism?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Blue-green algae",
+        "C": "Mycoplasma",
+        "D": "Amoeba"
+      },
+      "correct_option": "D",
+      "explanation": "Amoeba is a eukaryotic organism. Prokaryotes include bacteria, blue-green algae, mycoplasma, and PPLO."
+    },
+    {
+      "id": "CUL_034",
+      "topic": "Prokaryotic Cells",
+      "question": "PPLO stands for:",
+      "options": {
+        "A": "Pleuro Pneumonia Like Organisms",
+        "B": "Plasma Protein Like Organelle",
+        "C": "Prokaryotic Polar Like Organism",
+        "D": "Pleural Pneumonia Lytic Organism"
+      },
+      "correct_option": "A",
+      "explanation": "PPLO stands for Pleuro Pneumonia Like Organisms."
+    },
+    {
+      "id": "CUL_035",
+      "topic": "Prokaryotic Cells",
+      "question": "Prokaryotic cells are generally __ than eukaryotic cells:",
+      "options": {
+        "A": "Larger and slower to multiply",
+        "B": "Smaller and multiply more rapidly",
+        "C": "Larger and multiply more rapidly",
+        "D": "Same size but multiply slower"
+      },
+      "correct_option": "B",
+      "explanation": "Prokaryotic cells are generally smaller and multiply more rapidly than the eukaryotic cells."
+    },
+    {
+      "id": "CUL_036",
+      "topic": "Prokaryotic Cells",
+      "question": "The rod-like shape of bacteria is called:",
+      "options": {
+        "A": "Coccus",
+        "B": "Vibrio",
+        "C": "Bacillus",
+        "D": "Spirillum"
+      },
+      "correct_option": "C",
+      "explanation": "The four basic shapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (comma shaped) and spirillum (spiral)."
+    },
+    {
+      "id": "CUL_037",
+      "topic": "Prokaryotic Cells",
+      "question": "Spherical bacteria are called:",
+      "options": {
+        "A": "Bacillus",
+        "B": "Coccus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_option": "B",
+      "explanation": "Coccus refers to spherical-shaped bacteria."
+    },
+    {
+      "id": "CUL_038",
+      "topic": "Prokaryotic Cells",
+      "question": "Comma-shaped bacteria are called:",
+      "options": {
+        "A": "Bacillus",
+        "B": "Coccus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_option": "C",
+      "explanation": "Vibrio refers to comma-shaped bacteria."
+    },
+    {
+      "id": "CUL_039",
+      "topic": "Prokaryotic Cells",
+      "question": "Spiral-shaped bacteria are called:",
+      "options": {
+        "A": "Bacillus",
+        "B": "Coccus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_option": "D",
+      "explanation": "Spirillum refers to spiral-shaped bacteria."
+    },
+    {
+      "id": "CUL_040",
+      "topic": "Prokaryotic Cells",
+      "question": "In prokaryotes, there is no well-defined nucleus. The genetic material is:",
+      "options": {
+        "A": "Enclosed within nuclear membrane",
+        "B": "Basically naked, not enveloped by nuclear membrane",
+        "C": "Wrapped in histones",
+        "D": "Found only in mitochondria"
+      },
+      "correct_option": "B",
+      "explanation": "In prokaryotes, the genetic material is basically naked, not enveloped by a nuclear membrane."
+    },
+    {
+      "id": "CUL_041",
+      "topic": "Prokaryotic Cells",
+      "question": "Plasmids are:",
+      "options": {
+        "A": "Large linear DNA in prokaryotes",
+        "B": "Small circular DNA outside genomic DNA in bacteria",
+        "C": "RNA molecules in prokaryotes",
+        "D": "Membrane-bound structures in bacteria"
+      },
+      "correct_option": "B",
+      "explanation": "Many bacteria have small circular DNA outside the genomic DNA. These smaller DNA are called plasmids."
+    },
+    {
+      "id": "CUL_042",
+      "topic": "Prokaryotic Cells",
+      "question": "Plasmid DNA confers which unique phenotypic character to bacteria?",
+      "options": {
+        "A": "Motility",
+        "B": "Resistance to antibiotics",
+        "C": "Photosynthesis",
+        "D": "Spore formation"
+      },
+      "correct_option": "B",
+      "explanation": "Plasmid DNA confers certain unique phenotypic characters to bacteria. One such character is resistance to antibiotics."
+    },
+    {
+      "id": "CUL_043",
+      "topic": "Prokaryotic Cells",
+      "question": "The cell wall of most prokaryotes (except mycoplasma) surrounds the:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Cell membrane",
+        "D": "Ribosome"
+      },
+      "correct_option": "C",
+      "explanation": "All prokaryotes have a cell wall surrounding the cell membrane except in mycoplasma."
+    },
+    {
+      "id": "CUL_044",
+      "topic": "Prokaryotic Cells",
+      "question": "A specialised differentiated form of cell membrane called mesosome is characteristic of:",
+      "options": {
+        "A": "Eukaryotes",
+        "B": "Prokaryotes",
+        "C": "Both",
+        "D": "Only plants"
+      },
+      "correct_option": "B",
+      "explanation": "A specialised differentiated form of cell membrane called mesosome is the characteristic of prokaryotes."
+    },
+    {
+      "id": "CUL_045",
+      "topic": "Cell Envelope",
+      "question": "The cell envelope of prokaryotes consists of how many layers?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "C",
+      "explanation": "The cell envelope consists of a tightly bound three-layered structure: the outermost glycocalyx, the cell wall, and then the plasma membrane."
+    },
+    {
+      "id": "CUL_046",
+      "topic": "Cell Envelope",
+      "question": "The outermost layer of the prokaryotic cell envelope is:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Glycocalyx",
+        "D": "Capsule"
+      },
+      "correct_option": "C",
+      "explanation": "The cell envelope consists of the outermost glycocalyx, followed by the cell wall, and then the plasma membrane."
+    },
+    {
+      "id": "CUL_047",
+      "topic": "Cell Envelope",
+      "question": "Bacteria that take up the gram stain are called:",
+      "options": {
+        "A": "Gram negative",
+        "B": "Gram positive",
+        "C": "Gram neutral",
+        "D": "Gram resistant"
+      },
+      "correct_option": "B",
+      "explanation": "Bacteria that take up the gram stain are Gram positive and those that do not are called Gram negative bacteria."
+    },
+    {
+      "id": "CUL_048",
+      "topic": "Cell Envelope",
+      "question": "A loose sheath of glycocalyx in some bacteria is called:",
+      "options": {
+        "A": "Capsule",
+        "B": "Slime layer",
+        "C": "Fimbriae",
+        "D": "Pili"
+      },
+      "correct_option": "B",
+      "explanation": "Glycocalyx could be a loose sheath called the slime layer in some bacteria."
+    },
+    {
+      "id": "CUL_049",
+      "topic": "Cell Envelope",
+      "question": "A thick and tough glycocalyx in some bacteria is called:",
+      "options": {
+        "A": "Slime layer",
+        "B": "Pili",
+        "C": "Capsule",
+        "D": "Fimbriae"
+      },
+      "correct_option": "C",
+      "explanation": "In some bacteria, the glycocalyx may be thick and tough, called the capsule."
+    },
+    {
+      "id": "CUL_050",
+      "topic": "Cell Envelope",
+      "question": "The cell wall of bacteria:",
+      "options": {
+        "A": "Determines the shape of the cell and provides structural support",
+        "B": "Is involved in protein synthesis",
+        "C": "Contains DNA",
+        "D": "Is made of phospholipids"
+      },
+      "correct_option": "A",
+      "explanation": "The cell wall determines the shape of the cell and provides a strong structural support to prevent the bacterium from bursting or collapsing."
+    },
+    {
+      "id": "CUL_051",
+      "topic": "Cell Envelope",
+      "question": "The plasma membrane of prokaryotes is:",
+      "options": {
+        "A": "Freely permeable to all molecules",
+        "B": "Selectively permeable in nature",
+        "C": "Impermeable to all substances",
+        "D": "Structurally different from eukaryotes"
+      },
+      "correct_option": "B",
+      "explanation": "The plasma membrane is selectively permeable in nature and interacts with the outside world. This membrane is similar structurally to that of the eukaryotes."
+    },
+    {
+      "id": "CUL_052",
+      "topic": "Mesosome",
+      "question": "Mesosomes are formed by extensions of:",
+      "options": {
+        "A": "Nuclear membrane",
+        "B": "Cell wall",
+        "C": "Plasma membrane",
+        "D": "Glycocalyx"
+      },
+      "correct_option": "C",
+      "explanation": "The mesosome is formed by the extensions of plasma membrane into the cell."
+    },
+    {
+      "id": "CUL_053",
+      "topic": "Mesosome",
+      "question": "Mesosomes are in the form of:",
+      "options": {
+        "A": "Vesicles, tubules, and lamellae",
+        "B": "Granules and filaments",
+        "C": "Discs and sacs",
+        "D": "Fibrils and threads"
+      },
+      "correct_option": "A",
+      "explanation": "The extensions (mesosomes) are in the form of vesicles, tubules and lamellae."
+    },
+    {
+      "id": "CUL_054",
+      "topic": "Mesosome",
+      "question": "Which of the following is NOT a function of mesosomes?",
+      "options": {
+        "A": "Cell wall formation",
+        "B": "DNA replication",
+        "C": "Protein synthesis",
+        "D": "Respiration"
+      },
+      "correct_option": "C",
+      "explanation": "Mesosomes help in cell wall formation, DNA replication, distribution to daughter cells, respiration, secretion, and increasing surface area. Protein synthesis is done by ribosomes."
+    },
+    {
+      "id": "CUL_055",
+      "topic": "Mesosome",
+      "question": "Mesosomes help to increase the __ of the plasma membrane:",
+      "options": {
+        "A": "Thickness",
+        "B": "Surface area",
+        "C": "Permeability",
+        "D": "Fluidity"
+      },
+      "correct_option": "B",
+      "explanation": "Mesosomes help in respiration, secretion processes, to increase the surface area of the plasma membrane and enzymatic content."
+    },
+    {
+      "id": "CUL_056",
+      "topic": "Prokaryotic Cells",
+      "question": "In some prokaryotes like cyanobacteria, membranous extensions into the cytoplasm containing pigments are called:",
+      "options": {
+        "A": "Mesosomes",
+        "B": "Chromatophores",
+        "C": "Thylakoids",
+        "D": "Grana"
+      },
+      "correct_option": "B",
+      "explanation": "In some prokaryotes like cyanobacteria, there are other membranous extensions into the cytoplasm called chromatophores which contain pigments."
+    },
+    {
+      "id": "CUL_057",
+      "topic": "Flagella",
+      "question": "Motile bacteria have thin filamentous extensions from their cell wall called:",
+      "options": {
+        "A": "Pili",
+        "B": "Fimbriae",
+        "C": "Flagella",
+        "D": "Cilia"
+      },
+      "correct_option": "C",
+      "explanation": "If motile, bacteria have thin filamentous extensions from their cell wall called flagella."
+    },
+    {
+      "id": "CUL_058",
+      "topic": "Flagella",
+      "question": "The bacterial flagellum is composed of how many parts?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_option": "B",
+      "explanation": "Bacterial flagellum is composed of three parts – filament, hook and basal body."
+    },
+    {
+      "id": "CUL_059",
+      "topic": "Flagella",
+      "question": "The longest part of the bacterial flagellum that extends from cell surface to outside is the:",
+      "options": {
+        "A": "Hook",
+        "B": "Basal body",
+        "C": "Filament",
+        "D": "Axoneme"
+      },
+      "correct_option": "C",
+      "explanation": "The filament is the longest portion and extends from the cell surface to the outside."
+    },
+    {
+      "id": "CUL_060",
+      "topic": "Pili and Fimbriae",
+      "question": "Pili and Fimbriae are surface structures of bacteria that:",
+      "options": {
+        "A": "Help in motility",
+        "B": "Do NOT play a role in motility",
+        "C": "Are involved in DNA replication",
+        "D": "Help in protein synthesis"
+      },
+      "correct_option": "B",
+      "explanation": "Pili and Fimbriae are also surface structures of the bacteria but do not play a role in motility."
+    },
+    {
+      "id": "CUL_061",
+      "topic": "Pili and Fimbriae",
+      "question": "Pili are:",
+      "options": {
+        "A": "Small bristle-like fibres made of carbohydrates",
+        "B": "Elongated tubular structures made of a special protein",
+        "C": "Flagella-like structures involved in motility",
+        "D": "Membranous extensions of the plasma membrane"
+      },
+      "correct_option": "B",
+      "explanation": "The pili are elongated tubular structures made of a special protein."
+    },
+    {
+      "id": "CUL_062",
+      "topic": "Pili and Fimbriae",
+      "question": "Fimbriae are:",
+      "options": {
+        "A": "Elongated tubular structures",
+        "B": "Small bristle-like fibres sprouting out of the cell",
+        "C": "Flagella involved in motility",
+        "D": "Membranous sacs"
+      },
+      "correct_option": "B",
+      "explanation": "The fimbriae are small bristle-like fibres sprouting out of the cell."
+    },
+    {
+      "id": "CUL_063",
+      "topic": "Pili and Fimbriae",
+      "question": "In some bacteria, fimbriae are known to help:",
+      "options": {
+        "A": "In DNA replication",
+        "B": "Attach bacteria to rocks and host tissues",
+        "C": "In protein synthesis",
+        "D": "In motility"
+      },
+      "correct_option": "B",
+      "explanation": "In some bacteria, fimbriae are known to help attach the bacteria to rocks in streams and also to the host tissues."
+    },
+    {
+      "id": "CUL_064",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "In prokaryotes, ribosomes are associated with the:",
+      "options": {
+        "A": "Nuclear membrane",
+        "B": "Plasma membrane",
+        "C": "Cell wall",
+        "D": "Endoplasmic reticulum"
+      },
+      "correct_option": "B",
+      "explanation": "In prokaryotes, ribosomes are associated with the plasma membrane of the cell."
+    },
+    {
+      "id": "CUL_065",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "Prokaryotic ribosomes are of which type?",
+      "options": {
+        "A": "80S",
+        "B": "70S",
+        "C": "60S",
+        "D": "50S"
+      },
+      "correct_option": "B",
+      "explanation": "Prokaryotic ribosomes are 70S, made of 50S and 30S subunits."
+    },
+    {
+      "id": "CUL_066",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "Prokaryotic ribosomes are made of which two subunits?",
+      "options": {
+        "A": "60S and 40S",
+        "B": "50S and 30S",
+        "C": "80S and 60S",
+        "D": "70S and 50S"
+      },
+      "correct_option": "B",
+      "explanation": "Prokaryotic ribosomes are made of two subunits - 50S and 30S units which when present together form 70S prokaryotic ribosomes."
+    },
+    {
+      "id": "CUL_067",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "Ribosomes are the site of:",
+      "options": {
+        "A": "DNA replication",
+        "B": "Protein synthesis",
+        "C": "Lipid synthesis",
+        "D": "Carbohydrate synthesis"
+      },
+      "correct_option": "B",
+      "explanation": "Ribosomes are the site of protein synthesis."
+    },
+    {
+      "id": "CUL_068",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "Several ribosomes attached to a single mRNA form a chain called:",
+      "options": {
+        "A": "Polysome or polyribosome",
+        "B": "Monosome",
+        "C": "Disome",
+        "D": "Ribosomal cluster"
+      },
+      "correct_option": "A",
+      "explanation": "Several ribosomes may attach to a single mRNA and form a chain called polyribosomes or polysome."
+    },
+    {
+      "id": "CUL_069",
+      "topic": "Inclusion Bodies",
+      "question": "Reserve material in prokaryotic cells is stored in the cytoplasm as:",
+      "options": {
+        "A": "Membrane-bound vesicles",
+        "B": "Inclusion bodies",
+        "C": "Vacuoles",
+        "D": "Lysosomes"
+      },
+      "correct_option": "B",
+      "explanation": "Reserve material in prokaryotic cells are stored in the cytoplasm in the form of inclusion bodies."
+    },
+    {
+      "id": "CUL_070",
+      "topic": "Inclusion Bodies",
+      "question": "Inclusion bodies in prokaryotes are:",
+      "options": {
+        "A": "Membrane-bound organelles",
+        "B": "Not bound by any membrane system",
+        "C": "Surrounded by double membrane",
+        "D": "Enclosed in nuclear envelope"
+      },
+      "correct_option": "B",
+      "explanation": "Inclusion bodies are not bound by any membrane system and lie free in the cytoplasm."
+    },
+    {
+      "id": "CUL_071",
+      "topic": "Inclusion Bodies",
+      "question": "Gas vacuoles are found in which bacteria?",
+      "options": {
+        "A": "Gram-positive bacteria only",
+        "B": "Blue-green and purple and green photosynthetic bacteria",
+        "C": "All bacteria",
+        "D": "Only in spirillum"
+      },
+      "correct_option": "B",
+      "explanation": "Gas vacuoles are found in blue-green and purple and green photosynthetic bacteria."
+    },
+    {
+      "id": "CUL_072",
+      "topic": "Eukaryotic Cells",
+      "question": "Eukaryotes include:",
+      "options": {
+        "A": "Bacteria and fungi",
+        "B": "Blue-green algae and plants",
+        "C": "All protists, plants, animals and fungi",
+        "D": "Mycoplasma and PPLO"
+      },
+      "correct_option": "C",
+      "explanation": "The eukaryotes include all the protists, plants, animals and fungi."
+    },
+    {
+      "id": "CUL_073",
+      "topic": "Eukaryotic Cells",
+      "question": "Eukaryotic cells have extensive compartmentalization of cytoplasm through:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Membrane-bound organelles",
+        "C": "Inclusion bodies",
+        "D": "Plasmids"
+      },
+      "correct_option": "B",
+      "explanation": "In eukaryotic cells there is an extensive compartmentalization of cytoplasm through the presence of membrane-bound organelles."
+    },
+    {
+      "id": "CUL_074",
+      "topic": "Eukaryotic Cells",
+      "question": "Genetic material in eukaryotes is organised into:",
+      "options": {
+        "A": "Plasmids",
+        "B": "Naked DNA",
+        "C": "Chromosomes",
+        "D": "Nucleoids"
+      },
+      "correct_option": "C",
+      "explanation": "Their genetic material is organised into chromosomes."
+    },
+    {
+      "id": "CUL_075",
+      "topic": "Eukaryotic Cells",
+      "question": "Which structures are present in plant cells but absent in animal cells?",
+      "options": {
+        "A": "Mitochondria, ribosomes",
+        "B": "Cell walls, plastids, and large central vacuole",
+        "C": "Golgi apparatus and ER",
+        "D": "Nucleus and cytoplasm"
+      },
+      "correct_option": "B",
+      "explanation": "Plant cells possess cell walls, plastids and a large central vacuole which are absent in animal cells."
+    },
+    {
+      "id": "CUL_076",
+      "topic": "Eukaryotic Cells",
+      "question": "Centrioles are present in animal cells but absent in:",
+      "options": {
+        "A": "Fungi",
+        "B": "Almost all plant cells",
+        "C": "Bacteria",
+        "D": "Protists"
+      },
+      "correct_option": "B",
+      "explanation": "Animal cells have centrioles which are absent in almost all plant cells."
+    },
+    {
+      "id": "CUL_077",
+      "topic": "Cell Membrane",
+      "question": "The detailed structure of the cell membrane was studied after the advent of the electron microscope in the:",
+      "options": {
+        "A": "1930s",
+        "B": "1940s",
+        "C": "1950s",
+        "D": "1960s"
+      },
+      "correct_option": "C",
+      "explanation": "The detailed structure of the membrane was studied only after the advent of the electron microscope in the 1950s."
+    },
+    {
+      "id": "CUL_078",
+      "topic": "Cell Membrane",
+      "question": "The cell membrane is mainly composed of:",
+      "options": {
+        "A": "Carbohydrates and proteins",
+        "B": "Lipids and proteins",
+        "C": "Nucleic acids and lipids",
+        "D": "Proteins only"
+      },
+      "correct_option": "B",
+      "explanation": "These studies showed that the cell membrane is mainly composed of lipids and proteins."
+    },
+    {
+      "id": "CUL_079",
+      "topic": "Cell Membrane",
+      "question": "The major lipids in the cell membrane are arranged in:",
+      "options": {
+        "A": "A monolayer",
+        "B": "A bilayer",
+        "C": "A trilayer",
+        "D": "Random arrangement"
+      },
+      "correct_option": "B",
+      "explanation": "The major lipids are phospholipids that are arranged in a bilayer."
+    },
+    {
+      "id": "CUL_080",
+      "topic": "Cell Membrane",
+      "question": "In the cell membrane, the polar heads of phospholipids face:",
+      "options": {
+        "A": "The inner part",
+        "B": "The outer sides",
+        "C": "Both inner and outer but randomly",
+        "D": "Towards each other in the middle"
+      },
+      "correct_option": "B",
+      "explanation": "The lipids are arranged within the membrane with the polar head towards the outer sides and the hydrophobic tails towards the inner part."
+    },
+    {
+      "id": "CUL_081",
+      "topic": "Cell Membrane",
+      "question": "The hydrophobic tails in the phospholipid bilayer face:",
+      "options": {
+        "A": "The outer sides",
+        "B": "The inner part",
+        "C": "The aqueous environment",
+        "D": "Randomly"
+      },
+      "correct_option": "B",
+      "explanation": "The hydrophobic tails face towards the inner part, which ensures that the nonpolar tail of saturated hydrocarbons is protected from the aqueous environment."
+    },
+    {
+      "id": "CUL_082",
+      "topic": "Cell Membrane",
+      "question": "In addition to phospholipids, membrane also contains:",
+      "options": {
+        "A": "Starch",
+        "B": "Glycogen",
+        "C": "Cholesterol",
+        "D": "Cellulose"
+      },
+      "correct_option": "C",
+      "explanation": "In addition to phospholipids, membrane also contains cholesterol."
+    },
+    {
+      "id": "CUL_083",
+      "topic": "Cell Membrane",
+      "question": "The membrane of human erythrocyte has approximately what percentage of protein?",
+      "options": {
+        "A": "30%",
+        "B": "40%",
+        "C": "52%",
+        "D": "60%"
+      },
+      "correct_option": "C",
+      "explanation": "The membrane of the erythrocyte has approximately 52 per cent protein and 40 per cent lipids."
+    },
+    {
+      "id": "CUL_084",
+      "topic": "Cell Membrane",
+      "question": "Membrane proteins that lie on the surface of the membrane are called:",
+      "options": {
+        "A": "Integral proteins",
+        "B": "Peripheral proteins",
+        "C": "Intrinsic proteins",
+        "D": "Transmembrane proteins"
+      },
+      "correct_option": "B",
+      "explanation": "Peripheral proteins lie on the surface of membrane while the integral proteins are partially or totally buried in the membrane."
+    },
+    {
+      "id": "CUL_085",
+      "topic": "Cell Membrane",
+      "question": "Membrane proteins that are partially or totally buried in the membrane are called:",
+      "options": {
+        "A": "Peripheral proteins",
+        "B": "Extrinsic proteins",
+        "C": "Integral proteins",
+        "D": "Surface proteins"
+      },
+      "correct_option": "C",
+      "explanation": "Integral proteins are partially or totally buried in the membrane."
+    },
+    {
+      "id": "CUL_086",
+      "topic": "Fluid Mosaic Model",
+      "question": "The fluid mosaic model of cell membrane was proposed by:",
+      "options": {
+        "A": "Schleiden and Schwann",
+        "B": "Singer and Nicolson",
+        "C": "Watson and Crick",
+        "D": "Virchow and Brown"
+      },
+      "correct_option": "B",
+      "explanation": "An improved model of the structure of cell membrane was proposed by Singer and Nicolson (1972) widely accepted as fluid mosaic model."
+    },
+    {
+      "id": "CUL_087",
+      "topic": "Fluid Mosaic Model",
+      "question": "In which year was the fluid mosaic model proposed?",
+      "options": {
+        "A": "1950",
+        "B": "1962",
+        "C": "1972",
+        "D": "1980"
+      },
+      "correct_option": "C",
+      "explanation": "Singer and Nicolson proposed the fluid mosaic model in 1972."
+    },
+    {
+      "id": "CUL_088",
+      "topic": "Fluid Mosaic Model",
+      "question": "According to the fluid mosaic model, the quasi-fluid nature of lipid enables:",
+      "options": {
+        "A": "Vertical movement of proteins",
+        "B": "Lateral movement of proteins within the bilayer",
+        "C": "Rotation of the entire membrane",
+        "D": "Fusion of membranes"
+      },
+      "correct_option": "B",
+      "explanation": "According to the fluid mosaic model, the quasi-fluid nature of lipid enables lateral movement of proteins within the overall bilayer."
+    },
+    {
+      "id": "CUL_089",
+      "topic": "Fluid Mosaic Model",
+      "question": "The ability of proteins to move within the membrane is measured as its:",
+      "options": {
+        "A": "Viscosity",
+        "B": "Permeability",
+        "C": "Fluidity",
+        "D": "Elasticity"
+      },
+      "correct_option": "C",
+      "explanation": "The ability to move within the membrane is measured as its fluidity."
+    },
+    {
+      "id": "CUL_090",
+      "topic": "Cell Membrane Transport",
+      "question": "Movement of molecules across the plasma membrane without energy is called:",
+      "options": {
+        "A": "Active transport",
+        "B": "Passive transport",
+        "C": "Endocytosis",
+        "D": "Exocytosis"
+      },
+      "correct_option": "B",
+      "explanation": "Many molecules can move briefly across the membrane without any requirement of energy and this is called the passive transport."
+    },
+    {
+      "id": "CUL_091",
+      "topic": "Cell Membrane Transport",
+      "question": "Neutral solutes move across the membrane by the process of:",
+      "options": {
+        "A": "Active transport",
+        "B": "Osmosis",
+        "C": "Simple diffusion",
+        "D": "Facilitated diffusion"
+      },
+      "correct_option": "C",
+      "explanation": "Neutral solutes may move across the membrane by the process of simple diffusion along the concentration gradient."
+    },
+    {
+      "id": "CUL_092",
+      "topic": "Cell Membrane Transport",
+      "question": "Movement of water by diffusion is called:",
+      "options": {
+        "A": "Active transport",
+        "B": "Osmosis",
+        "C": "Simple diffusion",
+        "D": "Facilitated diffusion"
+      },
+      "correct_option": "B",
+      "explanation": "Water may also move across this membrane from higher to lower concentration. Movement of water by diffusion is called osmosis."
+    },
+    {
+      "id": "CUL_093",
+      "topic": "Cell Membrane Transport",
+      "question": "Polar molecules require __ to be transported across the membrane:",
+      "options": {
+        "A": "Energy (ATP)",
+        "B": "A carrier protein",
+        "C": "Ion channels",
+        "D": "Vesicles"
+      },
+      "correct_option": "B",
+      "explanation": "As the polar molecules cannot pass through the nonpolar lipid bilayer, they require a carrier protein of the membrane to facilitate their transport across the membrane."
+    },
+    {
+      "id": "CUL_094",
+      "topic": "Cell Membrane Transport",
+      "question": "Transport of molecules from lower to higher concentration is called:",
+      "options": {
+        "A": "Passive transport",
+        "B": "Simple diffusion",
+        "C": "Active transport",
+        "D": "Osmosis"
+      },
+      "correct_option": "C",
+      "explanation": "A few ions or molecules are transported against their concentration gradient (lower to higher) which is energy-dependent and called active transport."
+    },
+    {
+      "id": "CUL_095",
+      "topic": "Cell Membrane Transport",
+      "question": "Which energy currency is utilized in active transport?",
+      "options": {
+        "A": "GTP",
+        "B": "ADP",
+        "C": "ATP",
+        "D": "NADPH"
+      },
+      "correct_option": "C",
+      "explanation": "Active transport is an energy-dependent process, in which ATP is utilised."
+    },
+    {
+      "id": "CUL_096",
+      "topic": "Cell Membrane Transport",
+      "question": "Na+/K+ Pump is an example of:",
+      "options": {
+        "A": "Passive transport",
+        "B": "Simple diffusion",
+        "C": "Osmosis",
+        "D": "Active transport"
+      },
+      "correct_option": "D",
+      "explanation": "Active transport, e.g., Na+/K+ Pump, is energy-dependent and transports molecules against concentration gradient."
+    },
+    {
+      "id": "CUL_097",
+      "topic": "Cell Wall",
+      "question": "Cell wall is a non-living rigid structure found in:",
+      "options": {
+        "A": "Only plants",
+        "B": "Fungi and plants",
+        "C": "Animals and plants",
+        "D": "All eukaryotes"
+      },
+      "correct_option": "B",
+      "explanation": "A non-living rigid structure called the cell wall forms an outer covering for the plasma membrane of fungi and plants."
+    },
+    {
+      "id": "CUL_098",
+      "topic": "Cell Wall",
+      "question": "Which of the following is NOT a function of the cell wall?",
+      "options": {
+        "A": "Gives shape to the cell",
+        "B": "Protects from mechanical damage",
+        "C": "Site of protein synthesis",
+        "D": "Provides barrier to undesirable macromolecules"
+      },
+      "correct_option": "C",
+      "explanation": "Cell wall gives shape, protects from damage and infection, helps in cell-to-cell interaction, and provides barrier to macromolecules. Protein synthesis occurs at ribosomes."
+    },
+    {
+      "id": "CUL_099",
+      "topic": "Cell Wall",
+      "question": "The cell wall of algae is made of:",
+      "options": {
+        "A": "Cellulose only",
+        "B": "Cellulose, galactans, mannans and minerals like calcium carbonate",
+        "C": "Chitin",
+        "D": "Peptidoglycan"
+      },
+      "correct_option": "B",
+      "explanation": "Algae have cell wall, made of cellulose, galactans, mannans and minerals like calcium carbonate."
+    },
+    {
+      "id": "CUL_100",
+      "topic": "Cell Wall",
+      "question": "In other plants (non-algae), the cell wall consists of:",
+      "options": {
+        "A": "Chitin and proteins",
+        "B": "Cellulose, hemicellulose, pectins and proteins",
+        "C": "Peptidoglycan",
+        "D": "Calcium carbonate only"
+      },
+      "correct_option": "B",
+      "explanation": "In other plants, the cell wall consists of cellulose, hemicellulose, pectins and proteins."
+    },
+    {
+      "id": "CUL_101",
+      "topic": "Cell Wall",
+      "question": "The primary wall of a young plant cell:",
+      "options": {
+        "A": "Is incapable of growth",
+        "B": "Is capable of growth",
+        "C": "Is formed on the inner side",
+        "D": "Is made of lignin"
+      },
+      "correct_option": "B",
+      "explanation": "The cell wall of a young plant cell, the primary wall is capable of growth, which gradually diminishes as the cell matures."
+    },
+    {
+      "id": "CUL_102",
+      "topic": "Cell Wall",
+      "question": "The secondary wall is formed on the __ side of the cell:",
+      "options": {
+        "A": "Outer",
+        "B": "Inner (towards membrane)",
+        "C": "Both sides",
+        "D": "Middle lamella"
+      },
+      "correct_option": "B",
+      "explanation": "The secondary wall is formed on the inner (towards membrane) side of the cell."
+    },
+    {
+      "id": "CUL_103",
+      "topic": "Cell Wall",
+      "question": "The middle lamella is mainly composed of:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Calcium pectate",
+        "C": "Hemicellulose",
+        "D": "Lignin"
+      },
+      "correct_option": "B",
+      "explanation": "The middle lamella is a layer mainly of calcium pectate which holds or glues the different neighbouring cells together."
+    },
+    {
+      "id": "CUL_104",
+      "topic": "Cell Wall",
+      "question": "Plasmodesmata connect the cytoplasm of:",
+      "options": {
+        "A": "Nucleus with cytoplasm",
+        "B": "Neighbouring cells",
+        "C": "Organelles with cytoplasm",
+        "D": "Cell with environment"
+      },
+      "correct_option": "B",
+      "explanation": "The cell wall and middle lamellae may be traversed by plasmodesmata which connect the cytoplasm of neighbouring cells."
+    },
+    {
+      "id": "CUL_105",
+      "topic": "Endomembrane System",
+      "question": "The endomembrane system includes:",
+      "options": {
+        "A": "ER, Golgi complex, mitochondria and vacuoles",
+        "B": "ER, Golgi complex, lysosomes and vacuoles",
+        "C": "Mitochondria, chloroplasts and peroxisomes",
+        "D": "Ribosomes, ER, and nucleus"
+      },
+      "correct_option": "B",
+      "explanation": "The endomembrane system includes endoplasmic reticulum (ER), golgi complex, lysosomes and vacuoles."
+    },
+    {
+      "id": "CUL_106",
+      "topic": "Endomembrane System",
+      "question": "Which of the following is NOT part of the endomembrane system?",
+      "options": {
+        "A": "Endoplasmic reticulum",
+        "B": "Golgi complex",
+        "C": "Mitochondria",
+        "D": "Lysosomes"
+      },
+      "correct_option": "C",
+      "explanation": "Since the functions of the mitochondria, chloroplast and peroxisomes are not coordinated with the endomembrane components, these are not considered part of the endomembrane system."
+    },
+    {
+      "id": "CUL_107",
+      "topic": "Endoplasmic Reticulum",
+      "question": "The endoplasmic reticulum is a network of tiny tubular structures scattered in:",
+      "options": {
+        "A": "The nucleus",
+        "B": "The cytoplasm",
+        "C": "The cell wall",
+        "D": "The mitochondria"
+      },
+      "correct_option": "B",
+      "explanation": "The endoplasmic reticulum (ER) is a network or reticulum of tiny tubular structures scattered in the cytoplasm."
+    },
+    {
+      "id": "CUL_108",
+      "topic": "Endoplasmic Reticulum",
+      "question": "ER divides the intracellular space into which two compartments?",
+      "options": {
+        "A": "Nuclear and cytoplasmic",
+        "B": "Luminal and extra luminal",
+        "C": "Inner and outer",
+        "D": "Matrix and lumen"
+      },
+      "correct_option": "B",
+      "explanation": "ER divides the intracellular space into two distinct compartments, i.e., luminal (inside ER) and extra luminal (cytoplasm) compartments."
+    },
+    {
+      "id": "CUL_109",
+      "topic": "Endoplasmic Reticulum",
+      "question": "Endoplasmic reticulum bearing ribosomes on their surface is called:",
+      "options": {
+        "A": "Smooth endoplasmic reticulum (SER)",
+        "B": "Rough endoplasmic reticulum (RER)",
+        "C": "Agranular ER",
+        "D": "Tubular ER"
+      },
+      "correct_option": "B",
+      "explanation": "The endoplasmic reticulum bearing ribosomes on their surface is called rough endoplasmic reticulum (RER)."
+    },
+    {
+      "id": "CUL_110",
+      "topic": "Endoplasmic Reticulum",
+      "question": "Endoplasmic reticulum without ribosomes is called:",
+      "options": {
+        "A": "Rough endoplasmic reticulum",
+        "B": "Granular ER",
+        "C": "Smooth endoplasmic reticulum (SER)",
+        "D": "Cisternae ER"
+      },
+      "correct_option": "C",
+      "explanation": "In the absence of ribosomes they appear smooth and are called smooth endoplasmic reticulum (SER)."
+    },
+    {
+      "id": "CUL_111",
+      "topic": "Endoplasmic Reticulum",
+      "question": "RER is frequently observed in cells actively involved in:",
+      "options": {
+        "A": "Lipid synthesis",
+        "B": "Protein synthesis and secretion",
+        "C": "Carbohydrate synthesis",
+        "D": "Energy production"
+      },
+      "correct_option": "B",
+      "explanation": "RER is frequently observed in the cells actively involved in protein synthesis and secretion."
+    },
+    {
+      "id": "CUL_112",
+      "topic": "Endoplasmic Reticulum",
+      "question": "RER is extensive and continuous with:",
+      "options": {
+        "A": "Inner membrane of nucleus",
+        "B": "Outer membrane of nucleus",
+        "C": "Plasma membrane",
+        "D": "Golgi apparatus"
+      },
+      "correct_option": "B",
+      "explanation": "RER is extensive and continuous with the outer membrane of the nucleus."
+    },
+    {
+      "id": "CUL_113",
+      "topic": "Endoplasmic Reticulum",
+      "question": "The smooth endoplasmic reticulum is the major site for synthesis of:",
+      "options": {
+        "A": "Proteins",
+        "B": "DNA",
+        "C": "Lipid",
+        "D": "Carbohydrates"
+      },
+      "correct_option": "C",
+      "explanation": "The smooth endoplasmic reticulum is the major site for synthesis of lipid."
+    },
+    {
+      "id": "CUL_114",
+      "topic": "Endoplasmic Reticulum",
+      "question": "In animal cells, lipid-like steroidal hormones are synthesized in:",
+      "options": {
+        "A": "RER",
+        "B": "SER",
+        "C": "Golgi apparatus",
+        "D": "Mitochondria"
+      },
+      "correct_option": "B",
+      "explanation": "In animal cells lipid-like steroidal hormones are synthesised in SER."
+    },
+    {
+      "id": "CUL_115",
+      "topic": "Golgi Apparatus",
+      "question": "Who first observed densely stained reticular structures near the nucleus (later named Golgi bodies)?",
+      "options": {
+        "A": "Schleiden",
+        "B": "Camillo Golgi",
+        "C": "Robert Brown",
+        "D": "George Palade"
+      },
+      "correct_option": "B",
+      "explanation": "Camillo Golgi (1898) first observed densely stained reticular structures near the nucleus. These were later named Golgi bodies after him."
+    },
+    {
+      "id": "CUL_116",
+      "topic": "Golgi Apparatus",
+      "question": "In which year did Camillo Golgi first observe the Golgi bodies?",
+      "options": {
+        "A": "1838",
+        "B": "1855",
+        "C": "1898",
+        "D": "1953"
+      },
+      "correct_option": "C",
+      "explanation": "Camillo Golgi (1898) first observed densely stained reticular structures near the nucleus."
+    },
+    {
+      "id": "CUL_117",
+      "topic": "Golgi Apparatus",
+      "question": "Golgi bodies consist of many flat, disc-shaped sacs called:",
+      "options": {
+        "A": "Thylakoids",
+        "B": "Cisternae",
+        "C": "Grana",
+        "D": "Cristae"
+      },
+      "correct_option": "B",
+      "explanation": "Golgi bodies consist of many flat, disc-shaped sacs or cisternae of 0.5µm to 1.0µm diameter."
+    },
+    {
+      "id": "CUL_118",
+      "topic": "Golgi Apparatus",
+      "question": "The diameter of Golgi cisternae is:",
+      "options": {
+        "A": "0.1µm to 0.5µm",
+        "B": "0.5µm to 1.0µm",
+        "C": "1.0µm to 2.0µm",
+        "D": "2.0µm to 5.0µm"
+      },
+      "correct_option": "B",
+      "explanation": "Golgi cisternae are 0.5µm to 1.0µm in diameter."
+    },
+    {
+      "id": "CUL_119",
+      "topic": "Golgi Apparatus",
+      "question": "The convex face of the Golgi apparatus near the nucleus is called:",
+      "options": {
+        "A": "Trans face",
+        "B": "Cis face",
+        "C": "Maturing face",
+        "D": "Secretory face"
+      },
+      "correct_option": "B",
+      "explanation": "The Golgi cisternae are concentrically arranged near the nucleus with distinct convex cis or the forming face."
+    },
+    {
+      "id": "CUL_120",
+      "topic": "Golgi Apparatus",
+      "question": "The concave face of the Golgi apparatus is called:",
+      "options": {
+        "A": "Cis face",
+        "B": "Forming face",
+        "C": "Trans face",
+        "D": "Entry face"
+      },
+      "correct_option": "C",
+      "explanation": "The concave face is called trans or the maturing face."
+    },
+    {
+      "id": "CUL_121",
+      "topic": "Golgi Apparatus",
+      "question": "The principal function of the Golgi apparatus is:",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "Lipid synthesis",
+        "C": "Packaging materials for delivery to intracellular targets or secretion",
+        "D": "Energy production"
+      },
+      "correct_option": "C",
+      "explanation": "The golgi apparatus principally performs the function of packaging materials, to be delivered either to the intracellular targets or secreted outside the cell."
+    },
+    {
+      "id": "CUL_122",
+      "topic": "Golgi Apparatus",
+      "question": "Materials to be packaged from ER fuse with the __ face of the golgi apparatus:",
+      "options": {
+        "A": "Trans face",
+        "B": "Cis face",
+        "C": "Maturing face",
+        "D": "Secretory face"
+      },
+      "correct_option": "B",
+      "explanation": "Materials to be packaged in the form of vesicles from the ER fuse with the cis face of the golgi apparatus and move towards the maturing face."
+    },
+    {
+      "id": "CUL_123",
+      "topic": "Golgi Apparatus",
+      "question": "Proteins synthesized by ribosomes on ER are modified in the cisternae of Golgi before being released from its:",
+      "options": {
+        "A": "Cis face",
+        "B": "Trans face",
+        "C": "Forming face",
+        "D": "Entry face"
+      },
+      "correct_option": "B",
+      "explanation": "A number of proteins synthesised by ribosomes on the endoplasmic reticulum are modified in the cisternae of the golgi apparatus before they are released from its trans face."
+    },
+    {
+      "id": "CUL_124",
+      "topic": "Golgi Apparatus",
+      "question": "Golgi apparatus is the important site of formation of:",
+      "options": {
+        "A": "DNA and RNA",
+        "B": "Glycoproteins and glycolipids",
+        "C": "Steroidal hormones",
+        "D": "ATP"
+      },
+      "correct_option": "B",
+      "explanation": "Golgi apparatus is the important site of formation of glycoproteins and glycolipids."
+    },
+    {
+      "id": "CUL_125",
+      "topic": "Lysosomes",
+      "question": "Lysosomes are formed by the process of packaging in the:",
+      "options": {
+        "A": "Endoplasmic reticulum",
+        "B": "Mitochondria",
+        "C": "Golgi apparatus",
+        "D": "Nucleus"
+      },
+      "correct_option": "C",
+      "explanation": "Lysosomes are membrane-bound vesicular structures formed by the process of packaging in the golgi apparatus."
+    },
+    {
+      "id": "CUL_126",
+      "topic": "Lysosomes",
+      "question": "Lysosomes contain which types of enzymes?",
+      "options": {
+        "A": "Kinases and ligases",
+        "B": "Hydrolytic enzymes (hydrolases)",
+        "C": "Oxidases and reductases",
+        "D": "Polymerases"
+      },
+      "correct_option": "B",
+      "explanation": "The isolated lysosomal vesicles have been found to be very rich in almost all types of hydrolytic enzymes (hydrolases – lipases, proteases, carbohydrases)."
+    },
+    {
+      "id": "CUL_127",
+      "topic": "Lysosomes",
+      "question": "Lysosomal enzymes are optimally active at:",
+      "options": {
+        "A": "Neutral pH",
+        "B": "Alkaline pH",
+        "C": "Acidic pH",
+        "D": "Any pH"
+      },
+      "correct_option": "C",
+      "explanation": "Lysosomal enzymes are optimally active at the acidic pH."
+    },
+    {
+      "id": "CUL_128",
+      "topic": "Lysosomes",
+      "question": "Lysosomal enzymes are capable of digesting:",
+      "options": {
+        "A": "Only proteins",
+        "B": "Only lipids",
+        "C": "Carbohydrates, proteins, lipids and nucleic acids",
+        "D": "Only carbohydrates"
+      },
+      "correct_option": "C",
+      "explanation": "These enzymes are capable of digesting carbohydrates, proteins, lipids and nucleic acids."
+    },
+    {
+      "id": "CUL_129",
+      "topic": "Vacuoles",
+      "question": "The vacuole is a membrane-bound space found in the:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Mitochondria",
+        "D": "ER"
+      },
+      "correct_option": "B",
+      "explanation": "The vacuole is the membrane-bound space found in the cytoplasm."
+    },
+    {
+      "id": "CUL_130",
+      "topic": "Vacuoles",
+      "question": "The single membrane that bounds the vacuole is called:",
+      "options": {
+        "A": "Plasma membrane",
+        "B": "Nuclear membrane",
+        "C": "Tonoplast",
+        "D": "Mesosomes"
+      },
+      "correct_option": "C",
+      "explanation": "The vacuole is bound by a single membrane called tonoplast."
+    },
+    {
+      "id": "CUL_131",
+      "topic": "Vacuoles",
+      "question": "In plant cells, vacuoles can occupy up to what percentage of the cell volume?",
+      "options": {
+        "A": "50%",
+        "B": "70%",
+        "C": "80%",
+        "D": "90%"
+      },
+      "correct_option": "D",
+      "explanation": "In plant cells the vacuoles can occupy up to 90 per cent of the volume of the cell."
+    },
+    {
+      "id": "CUL_132",
+      "topic": "Vacuoles",
+      "question": "In plants, the tonoplast facilitates transport of ions into the vacuole against concentration gradient, hence their concentration is:",
+      "options": {
+        "A": "Lower in vacuole than cytoplasm",
+        "B": "Equal in vacuole and cytoplasm",
+        "C": "Higher in vacuole than cytoplasm",
+        "D": "Negligible in vacuole"
+      },
+      "correct_option": "C",
+      "explanation": "In plants, the tonoplast facilitates the transport of a number of ions and other materials against concentration gradients into the vacuole, hence their concentration is significantly higher in the vacuole than in the cytoplasm."
+    },
+    {
+      "id": "CUL_133",
+      "topic": "Vacuoles",
+      "question": "In Amoeba, the contractile vacuole is important for:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Osmoregulation and excretion",
+        "C": "Digestion of food",
+        "D": "Locomotion"
+      },
+      "correct_option": "B",
+      "explanation": "In Amoeba, the contractile vacuole is important for osmoregulation and excretion."
+    },
+    {
+      "id": "CUL_134",
+      "topic": "Vacuoles",
+      "question": "Food vacuoles in protists are formed by:",
+      "options": {
+        "A": "Exocytosis",
+        "B": "Engulfing food particles",
+        "C": "Fission",
+        "D": "Budding"
+      },
+      "correct_option": "B",
+      "explanation": "In many cells, as in protists, food vacuoles are formed by engulfing the food particles."
+    },
+    {
+      "id": "CUL_135",
+      "topic": "Mitochondria",
+      "question": "Mitochondria are the sites of:",
+      "options": {
+        "A": "Anaerobic respiration",
+        "B": "Aerobic respiration",
+        "C": "Photosynthesis",
+        "D": "Protein synthesis"
+      },
+      "correct_option": "B",
+      "explanation": "Mitochondria are the sites of aerobic respiration."
+    },
+    {
+      "id": "CUL_136",
+      "topic": "Mitochondria",
+      "question": "Mitochondria are called the 'power houses' of the cell because they:",
+      "options": {
+        "A": "Are very large",
+        "B": "Produce cellular energy in the form of ATP",
+        "C": "Control cell division",
+        "D": "Store genetic information"
+      },
+      "correct_option": "B",
+      "explanation": "Mitochondria produce cellular energy in the form of ATP, hence they are called 'power houses' of the cell."
+    },
+    {
+      "id": "CUL_137",
+      "topic": "Mitochondria",
+      "question": "The typical shape of mitochondria is:",
+      "options": {
+        "A": "Disc-shaped",
+        "B": "Spherical",
+        "C": "Sausage-shaped or cylindrical",
+        "D": "Star-shaped"
+      },
+      "correct_option": "C",
+      "explanation": "Typically mitochondrion is sausage-shaped or cylindrical."
+    },
+    {
+      "id": "CUL_138",
+      "topic": "Mitochondria",
+      "question": "The average diameter of a mitochondrion is:",
+      "options": {
+        "A": "0.1 µm",
+        "B": "0.5 µm",
+        "C": "1.0 µm",
+        "D": "5.0 µm"
+      },
+      "correct_option": "B",
+      "explanation": "Mitochondria typically have a diameter of 0.2-1.0 µm (average 0.5 µm) and length 1.0-4.1 µm."
+    },
+    {
+      "id": "CUL_139",
+      "topic": "Mitochondria",
+      "question": "Each mitochondrion is a:",
+      "options": {
+        "A": "Single membrane-bound structure",
+        "B": "Double membrane-bound structure",
+        "C": "Non-membrane-bound structure",
+        "D": "Triple membrane-bound structure"
+      },
+      "correct_option": "B",
+      "explanation": "Each mitochondrion is a double membrane-bound structure."
+    },
+    {
+      "id": "CUL_140",
+      "topic": "Mitochondria",
+      "question": "The inner compartment of mitochondria is filled with a dense homogeneous substance called:",
+      "options": {
+        "A": "Stroma",
+        "B": "Matrix",
+        "C": "Lumen",
+        "D": "Nucleoplasm"
+      },
+      "correct_option": "B",
+      "explanation": "The inner compartment is filled with a dense homogeneous substance called the matrix."
+    },
+    {
+      "id": "CUL_141",
+      "topic": "Mitochondria",
+      "question": "The infoldings of the inner membrane of mitochondria are called:",
+      "options": {
+        "A": "Grana",
+        "B": "Thylakoids",
+        "C": "Cristae",
+        "D": "Cisternae"
+      },
+      "correct_option": "C",
+      "explanation": "The inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix."
+    },
+    {
+      "id": "CUL_142",
+      "topic": "Mitochondria",
+      "question": "The function of cristae is to:",
+      "options": {
+        "A": "Store lipids",
+        "B": "Increase surface area",
+        "C": "Contain DNA",
+        "D": "Store glycogen"
+      },
+      "correct_option": "B",
+      "explanation": "The cristae increase the surface area."
+    },
+    {
+      "id": "CUL_143",
+      "topic": "Mitochondria",
+      "question": "The mitochondrial matrix possesses:",
+      "options": {
+        "A": "Linear DNA, RNA, and 80S ribosomes",
+        "B": "Single circular DNA, RNA, and 70S ribosomes",
+        "C": "Plasmids only",
+        "D": "Histones and chromatin"
+      },
+      "correct_option": "B",
+      "explanation": "The matrix possesses single circular DNA molecule, a few RNA molecules, ribosomes (70S) and the components required for the synthesis of proteins."
+    },
+    {
+      "id": "CUL_144",
+      "topic": "Mitochondria",
+      "question": "Mitochondria divide by:",
+      "options": {
+        "A": "Budding",
+        "B": "Mitosis",
+        "C": "Fission",
+        "D": "Meiosis"
+      },
+      "correct_option": "C",
+      "explanation": "The mitochondria divide by fission."
+    },
+    {
+      "id": "CUL_145",
+      "topic": "Plastids",
+      "question": "Plastids are found in:",
+      "options": {
+        "A": "All plant cells only",
+        "B": "All plant cells and in euglenoides",
+        "C": "All eukaryotic cells",
+        "D": "Animal cells only"
+      },
+      "correct_option": "B",
+      "explanation": "Plastids are found in all plant cells and in euglenoides."
+    },
+    {
+      "id": "CUL_146",
+      "topic": "Plastids",
+      "question": "Plastids bearing chlorophyll and carotenoid pigments are called:",
+      "options": {
+        "A": "Chromoplasts",
+        "B": "Leucoplasts",
+        "C": "Chloroplasts",
+        "D": "Amyloplasts"
+      },
+      "correct_option": "C",
+      "explanation": "The chloroplasts contain chlorophyll and carotenoid pigments which are responsible for trapping light energy essential for photosynthesis."
+    },
+    {
+      "id": "CUL_147",
+      "topic": "Plastids",
+      "question": "Chromoplasts contain fat-soluble carotenoid pigments that impart __ colour to plants:",
+      "options": {
+        "A": "Green",
+        "B": "Blue or violet",
+        "C": "Yellow, orange or red",
+        "D": "Black or brown"
+      },
+      "correct_option": "C",
+      "explanation": "In the chromoplasts, fat-soluble carotenoid pigments like carotene, xanthophylls and others are present. This gives the part of the plant a yellow, orange or red colour."
+    },
+    {
+      "id": "CUL_148",
+      "topic": "Plastids",
+      "question": "Colourless plastids with stored nutrients are called:",
+      "options": {
+        "A": "Chloroplasts",
+        "B": "Chromoplasts",
+        "C": "Leucoplasts",
+        "D": "Elaioplasts"
+      },
+      "correct_option": "C",
+      "explanation": "The leucoplasts are the colourless plastids of varied shapes and sizes with stored nutrients."
+    },
+    {
+      "id": "CUL_149",
+      "topic": "Plastids",
+      "question": "Amyloplasts store:",
+      "options": {
+        "A": "Oils and fats",
+        "B": "Proteins",
+        "C": "Carbohydrates (starch)",
+        "D": "Pigments"
+      },
+      "correct_option": "C",
+      "explanation": "Amyloplasts store carbohydrates (starch), e.g., potato."
+    },
+    {
+      "id": "CUL_150",
+      "topic": "Plastids",
+      "question": "Elaioplasts store:",
+      "options": {
+        "A": "Starch",
+        "B": "Oils and fats",
+        "C": "Proteins",
+        "D": "Pigments"
+      },
+      "correct_option": "B",
+      "explanation": "Elaioplasts store oils and fats."
+    },
+    {
+      "id": "CUL_151",
+      "topic": "Plastids",
+      "question": "Aleuroplasts store:",
+      "options": {
+        "A": "Starch",
+        "B": "Fats",
+        "C": "Proteins",
+        "D": "Pigments"
+      },
+      "correct_option": "C",
+      "explanation": "The aleuroplasts store proteins."
+    },
+    {
+      "id": "CUL_152",
+      "topic": "Chloroplasts",
+      "question": "Majority of chloroplasts of green plants are found in:",
+      "options": {
+        "A": "Root cells",
+        "B": "Stem cells",
+        "C": "Mesophyll cells of leaves",
+        "D": "Guard cells"
+      },
+      "correct_option": "C",
+      "explanation": "Majority of the chloroplasts of the green plants are found in the mesophyll cells of the leaves."
+    },
+    {
+      "id": "CUL_153",
+      "topic": "Chloroplasts",
+      "question": "Chloroplasts are which membrane-bound structure?",
+      "options": {
+        "A": "Single membrane-bound",
+        "B": "Double membrane-bound",
+        "C": "Non-membrane-bound",
+        "D": "Triple membrane-bound"
+      },
+      "correct_option": "B",
+      "explanation": "Like mitochondria, the chloroplasts are also double membrane-bound."
+    },
+    {
+      "id": "CUL_154",
+      "topic": "Chloroplasts",
+      "question": "The space limited by the inner membrane of the chloroplast is called:",
+      "options": {
+        "A": "Lumen",
+        "B": "Matrix",
+        "C": "Stroma",
+        "D": "Granum"
+      },
+      "correct_option": "C",
+      "explanation": "The space limited by the inner membrane of the chloroplast is called the stroma."
+    },
+    {
+      "id": "CUL_155",
+      "topic": "Chloroplasts",
+      "question": "Organized flattened membranous sacs present in the stroma of chloroplasts are called:",
+      "options": {
+        "A": "Grana",
+        "B": "Cristae",
+        "C": "Thylakoids",
+        "D": "Cisternae"
+      },
+      "correct_option": "C",
+      "explanation": "A number of organised flattened membranous sacs called the thylakoids, are present in the stroma."
+    },
+    {
+      "id": "CUL_156",
+      "topic": "Chloroplasts",
+      "question": "Thylakoids arranged in stacks like piles of coins are called:",
+      "options": {
+        "A": "Stroma",
+        "B": "Cristae",
+        "C": "Grana",
+        "D": "Cisternae"
+      },
+      "correct_option": "C",
+      "explanation": "Thylakoids are arranged in stacks like the piles of coins called grana (singular: granum)."
+    },
+    {
+      "id": "CUL_157",
+      "topic": "Chloroplasts",
+      "question": "Flat membranous tubules connecting thylakoids of different grana are called:",
+      "options": {
+        "A": "Cristae",
+        "B": "Stroma lamellae",
+        "C": "Tonoplast",
+        "D": "Plasmodesmata"
+      },
+      "correct_option": "B",
+      "explanation": "There are flat membranous tubules called the stroma lamellae connecting the thylakoids of the different grana."
+    },
+    {
+      "id": "CUL_158",
+      "topic": "Chloroplasts",
+      "question": "The membrane of thylakoids encloses a space called:",
+      "options": {
+        "A": "Stroma",
+        "B": "Matrix",
+        "C": "Lumen",
+        "D": "Granum"
+      },
+      "correct_option": "C",
+      "explanation": "The membrane of the thylakoids enclose a space called a lumen."
+    },
+    {
+      "id": "CUL_159",
+      "topic": "Chloroplasts",
+      "question": "The stroma of chloroplast contains enzymes required for synthesis of:",
+      "options": {
+        "A": "Only carbohydrates",
+        "B": "Only proteins",
+        "C": "Carbohydrates and proteins",
+        "D": "Lipids only"
+      },
+      "correct_option": "C",
+      "explanation": "The stroma of the chloroplast contains enzymes required for the synthesis of carbohydrates and proteins."
+    },
+    {
+      "id": "CUL_160",
+      "topic": "Chloroplasts",
+      "question": "Chlorophyll pigments are present in the:",
+      "options": {
+        "A": "Stroma",
+        "B": "Thylakoids",
+        "C": "Outer membrane",
+        "D": "Inner membrane"
+      },
+      "correct_option": "B",
+      "explanation": "Chlorophyll pigments are present in the thylakoids."
+    },
+    {
+      "id": "CUL_161",
+      "topic": "Chloroplasts",
+      "question": "The ribosomes of chloroplasts are __ than the cytoplasmic ribosomes:",
+      "options": {
+        "A": "Larger (80S vs 70S)",
+        "B": "Smaller (70S vs 80S)",
+        "C": "Same size",
+        "D": "Larger (90S vs 80S)"
+      },
+      "correct_option": "B",
+      "explanation": "The ribosomes of the chloroplasts are smaller (70S) than the cytoplasmic ribosomes (80S)."
+    },
+    {
+      "id": "CUL_162",
+      "topic": "Chloroplasts",
+      "question": "The number of chloroplasts per cell in Chlamydomonas (a green alga) is:",
+      "options": {
+        "A": "1",
+        "B": "5",
+        "C": "20",
+        "D": "40"
+      },
+      "correct_option": "A",
+      "explanation": "Their number varies from 1 per cell of the Chlamydomonas, a green alga to 20-40 per cell in the mesophyll."
+    },
+    {
+      "id": "CUL_163",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "Ribosomes were first observed under the electron microscope as dense particles by:",
+      "options": {
+        "A": "Camillo Golgi",
+        "B": "George Palade",
+        "C": "Robert Brown",
+        "D": "Singer"
+      },
+      "correct_option": "B",
+      "explanation": "Ribosomes are the granular structures first observed under the electron microscope as dense particles by George Palade (1953)."
+    },
+    {
+      "id": "CUL_164",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "In which year did George Palade first observe ribosomes?",
+      "options": {
+        "A": "1838",
+        "B": "1898",
+        "C": "1953",
+        "D": "1972"
+      },
+      "correct_option": "C",
+      "explanation": "George Palade (1953) first observed ribosomes as dense particles under electron microscope."
+    },
+    {
+      "id": "CUL_165",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "Ribosomes are composed of:",
+      "options": {
+        "A": "DNA and proteins",
+        "B": "RNA and lipids",
+        "C": "Ribonucleic acid (RNA) and proteins",
+        "D": "Only proteins"
+      },
+      "correct_option": "C",
+      "explanation": "They are composed of ribonucleic acid (RNA) and proteins and are not surrounded by any membrane."
+    },
+    {
+      "id": "CUL_166",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "Eukaryotic ribosomes are:",
+      "options": {
+        "A": "70S",
+        "B": "80S",
+        "C": "60S",
+        "D": "50S"
+      },
+      "correct_option": "B",
+      "explanation": "The eukaryotic ribosomes are 80S while the prokaryotic ribosomes are 70S."
+    },
+    {
+      "id": "CUL_167",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "The two subunits of 80S ribosomes are:",
+      "options": {
+        "A": "50S and 30S",
+        "B": "70S and 10S",
+        "C": "60S and 40S",
+        "D": "55S and 25S"
+      },
+      "correct_option": "C",
+      "explanation": "The two subunits of 80S ribosomes are 60S and 40S."
+    },
+    {
+      "id": "CUL_168",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "'S' in ribosome classification stands for:",
+      "options": {
+        "A": "Size coefficient",
+        "B": "Svedberg's Unit",
+        "C": "Specific gravity",
+        "D": "Speed coefficient"
+      },
+      "correct_option": "B",
+      "explanation": "Here 'S' (Svedberg's Unit) stands for the sedimentation coefficient; it is indirectly a measure of density and size."
+    },
+    {
+      "id": "CUL_169",
+      "topic": "Cytoskeleton",
+      "question": "The cytoskeleton consists of:",
+      "options": {
+        "A": "Microtubules, microfilaments and intermediate filaments",
+        "B": "Ribosomes and ER",
+        "C": "Golgi and vesicles",
+        "D": "DNA and proteins"
+      },
+      "correct_option": "A",
+      "explanation": "An elaborate network of filamentous proteinaceous structures consisting of microtubules, microfilaments and intermediate filaments present in the cytoplasm is collectively referred to as the cytoskeleton."
+    },
+    {
+      "id": "CUL_170",
+      "topic": "Cytoskeleton",
+      "question": "Functions of cytoskeleton include:",
+      "options": {
+        "A": "Only protein synthesis",
+        "B": "Mechanical support, motility, maintenance of shape",
+        "C": "Only locomotion",
+        "D": "Only energy production"
+      },
+      "correct_option": "B",
+      "explanation": "The cytoskeleton in a cell are involved in many functions such as mechanical support, motility, maintenance of the shape of the cell."
+    },
+    {
+      "id": "CUL_171",
+      "topic": "Cilia and Flagella",
+      "question": "Cilia and flagella are hair-like outgrowths of the:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Cell membrane",
+        "C": "Nuclear membrane",
+        "D": "Endoplasmic reticulum"
+      },
+      "correct_option": "B",
+      "explanation": "Cilia (sing.: cilium) and flagella (sing.: flagellum) are hair-like outgrowths of the cell membrane."
+    },
+    {
+      "id": "CUL_172",
+      "topic": "Cilia and Flagella",
+      "question": "Cilia work like oars causing movement of:",
+      "options": {
+        "A": "Only the surrounding fluid",
+        "B": "Either the cell or the surrounding fluid",
+        "C": "Only the cell",
+        "D": "Only organelles inside the cell"
+      },
+      "correct_option": "B",
+      "explanation": "Cilia are small structures which work like oars, causing the movement of either the cell or the surrounding fluid."
+    },
+    {
+      "id": "CUL_173",
+      "topic": "Cilia and Flagella",
+      "question": "Compared to cilia, flagella are:",
+      "options": {
+        "A": "Shorter",
+        "B": "Same size",
+        "C": "Comparatively longer",
+        "D": "Much thinner"
+      },
+      "correct_option": "C",
+      "explanation": "Flagella are comparatively longer and responsible for cell movement."
+    },
+    {
+      "id": "CUL_174",
+      "topic": "Cilia and Flagella",
+      "question": "The core of a cilium or flagellum is called:",
+      "options": {
+        "A": "Cortex",
+        "B": "Axoneme",
+        "C": "Basal body",
+        "D": "Matrix"
+      },
+      "correct_option": "B",
+      "explanation": "Their core called the axoneme, possesses a number of microtubules running parallel to the long axis."
+    },
+    {
+      "id": "CUL_175",
+      "topic": "Cilia and Flagella",
+      "question": "The arrangement of axonemal microtubules in cilia/flagella is referred to as the:",
+      "options": {
+        "A": "7+2 array",
+        "B": "9+2 array",
+        "C": "11+2 array",
+        "D": "9+0 array"
+      },
+      "correct_option": "B",
+      "explanation": "The axoneme usually has nine doublets of radially arranged peripheral microtubules, and a pair of centrally located microtubules. Such an arrangement is referred to as the 9+2 array."
+    },
+    {
+      "id": "CUL_176",
+      "topic": "Cilia and Flagella",
+      "question": "The central tubules in cilia/flagella are connected by:",
+      "options": {
+        "A": "Radial spokes",
+        "B": "Bridges",
+        "C": "Linkers",
+        "D": "Filaments"
+      },
+      "correct_option": "B",
+      "explanation": "The central tubules are connected by bridges and is also enclosed by a central sheath."
+    },
+    {
+      "id": "CUL_177",
+      "topic": "Cilia and Flagella",
+      "question": "The central sheath of cilia is connected to one of the tubules of each peripheral doublet by:",
+      "options": {
+        "A": "Bridges",
+        "B": "Radial spokes",
+        "C": "Linkers",
+        "D": "Axonemes"
+      },
+      "correct_option": "B",
+      "explanation": "The central sheath is connected to one of the tubules of each peripheral doublets by a radial spoke. Thus, there are nine radial spokes."
+    },
+    {
+      "id": "CUL_178",
+      "topic": "Cilia and Flagella",
+      "question": "Both the cilium and flagellum emerge from centriole-like structures called:",
+      "options": {
+        "A": "Centrosomes",
+        "B": "Basal bodies",
+        "C": "Kinetochores",
+        "D": "Axonemes"
+      },
+      "correct_option": "B",
+      "explanation": "Both the cilium and flagellum emerge from centriole-like structure called the basal bodies."
+    },
+    {
+      "id": "CUL_179",
+      "topic": "Centrosome and Centrioles",
+      "question": "A centrosome usually contains how many cylindrical structures called centrioles?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "Centrosome is an organelle usually containing two cylindrical structures called centrioles."
+    },
+    {
+      "id": "CUL_180",
+      "topic": "Centrosome and Centrioles",
+      "question": "The two centrioles in a centrosome lie __ to each other:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "At 45 degrees",
+        "D": "In the same plane"
+      },
+      "correct_option": "B",
+      "explanation": "Both the centrioles in a centrosome lie perpendicular to each other in which each has an organisation like the cartwheel."
+    },
+    {
+      "id": "CUL_181",
+      "topic": "Centrosome and Centrioles",
+      "question": "Centrioles are made up of nine evenly spaced peripheral fibrils of:",
+      "options": {
+        "A": "Actin protein",
+        "B": "Tubulin protein",
+        "C": "Myosin protein",
+        "D": "Collagen protein"
+      },
+      "correct_option": "B",
+      "explanation": "Centrioles are made up of nine evenly spaced peripheral fibrils of tubulin protein. Each of the peripheral fibril is a triplet."
+    },
+    {
+      "id": "CUL_182",
+      "topic": "Centrosome and Centrioles",
+      "question": "Each peripheral fibril of a centriole is a:",
+      "options": {
+        "A": "Singlet",
+        "B": "Doublet",
+        "C": "Triplet",
+        "D": "Quadruplet"
+      },
+      "correct_option": "C",
+      "explanation": "Each of the peripheral fibril is a triplet. The adjacent triplets are also linked."
+    },
+    {
+      "id": "CUL_183",
+      "topic": "Centrosome and Centrioles",
+      "question": "The central part of the proximal region of the centriole is called:",
+      "options": {
+        "A": "Axoneme",
+        "B": "Hub",
+        "C": "Spoke",
+        "D": "Basal body"
+      },
+      "correct_option": "B",
+      "explanation": "The central part of the proximal region of the centriole is also proteinaceous and called the hub, which is connected with tubules of the peripheral triplets by radial spokes made of protein."
+    },
+    {
+      "id": "CUL_184",
+      "topic": "Centrosome and Centrioles",
+      "question": "During cell division in animal cells, centrioles form the:",
+      "options": {
+        "A": "Cell plate",
+        "B": "Spindle apparatus",
+        "C": "Nuclear membrane",
+        "D": "Cell wall"
+      },
+      "correct_option": "B",
+      "explanation": "The centrioles form the basal body of cilia or flagella, and spindle fibres that give rise to spindle apparatus during cell division in animal cells."
+    },
+    {
+      "id": "CUL_185",
+      "topic": "Nucleus",
+      "question": "Nucleus as a cell organelle was first described by Robert Brown in:",
+      "options": {
+        "A": "1800",
+        "B": "1831",
+        "C": "1838",
+        "D": "1855"
+      },
+      "correct_option": "B",
+      "explanation": "Nucleus as a cell organelle was first described by Robert Brown as early as 1831."
+    },
+    {
+      "id": "CUL_186",
+      "topic": "Nucleus",
+      "question": "The material of the nucleus stained by basic dyes was given the name 'chromatin' by:",
+      "options": {
+        "A": "Brown",
+        "B": "Virchow",
+        "C": "Flemming",
+        "D": "Schleiden"
+      },
+      "correct_option": "C",
+      "explanation": "Later the material of the nucleus stained by the basic dyes was given the name chromatin by Flemming."
+    },
+    {
+      "id": "CUL_187",
+      "topic": "Nucleus",
+      "question": "The interphase nucleus has highly extended nucleoprotein fibres called:",
+      "options": {
+        "A": "Chromosomes",
+        "B": "Chromatin",
+        "C": "Nucleolus",
+        "D": "Histones"
+      },
+      "correct_option": "B",
+      "explanation": "The interphase nucleus has highly extended and elaborate nucleoprotein fibres called chromatin, nuclear matrix and one or more spherical bodies called nucleoli."
+    },
+    {
+      "id": "CUL_188",
+      "topic": "Nucleus",
+      "question": "The nuclear envelope consists of __ parallel membranes with a space called perinuclear space between them:",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "The nuclear envelope consists of two parallel membranes with a space between (10 to 50 nm) called the perinuclear space."
+    },
+    {
+      "id": "CUL_189",
+      "topic": "Nucleus",
+      "question": "The perinuclear space is:",
+      "options": {
+        "A": "10 to 30 nm",
+        "B": "10 to 50 nm",
+        "C": "50 to 100 nm",
+        "D": "100 to 200 nm"
+      },
+      "correct_option": "B",
+      "explanation": "The nuclear envelope consists of two parallel membranes with a space between (10 to 50 nm) called the perinuclear space."
+    },
+    {
+      "id": "CUL_190",
+      "topic": "Nucleus",
+      "question": "The outer membrane of nuclear envelope usually remains continuous with:",
+      "options": {
+        "A": "Plasma membrane",
+        "B": "Endoplasmic reticulum",
+        "C": "Golgi apparatus",
+        "D": "Mitochondrial membrane"
+      },
+      "correct_option": "B",
+      "explanation": "The outer membrane usually remains continuous with the endoplasmic reticulum and also bears ribosomes on it."
+    },
+    {
+      "id": "CUL_191",
+      "topic": "Nucleus",
+      "question": "Nuclear pores are formed by the fusion of the:",
+      "options": {
+        "A": "Two membranes of nuclear envelope",
+        "B": "Plasma membrane with nuclear membrane",
+        "C": "ER with nucleus",
+        "D": "Inner membrane only"
+      },
+      "correct_option": "A",
+      "explanation": "At a number of places the nuclear envelope is interrupted by minute pores, which are formed by the fusion of its two membranes."
+    },
+    {
+      "id": "CUL_192",
+      "topic": "Nucleus",
+      "question": "Nuclear pores serve as passages for movement of:",
+      "options": {
+        "A": "Only RNA",
+        "B": "Only proteins",
+        "C": "RNA and protein molecules in both directions",
+        "D": "DNA only"
+      },
+      "correct_option": "C",
+      "explanation": "These nuclear pores are the passages through which movement of RNA and protein molecules takes place in both directions between the nucleus and the cytoplasm."
+    },
+    {
+      "id": "CUL_193",
+      "topic": "Nucleus",
+      "question": "Normally there is how many nucleus per cell?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "One",
+        "D": "Variable"
+      },
+      "correct_option": "C",
+      "explanation": "Normally, there is only one nucleus per cell, variations in the number of nuclei are also frequently observed."
+    },
+    {
+      "id": "CUL_194",
+      "topic": "Nucleus",
+      "question": "Which mature cells lack nucleus?",
+      "options": {
+        "A": "Nerve cells",
+        "B": "Erythrocytes of many mammals and sieve tube cells of vascular plants",
+        "C": "Muscle cells",
+        "D": "Liver cells"
+      },
+      "correct_option": "B",
+      "explanation": "Some mature cells even lack nucleus, e.g., erythrocytes of many mammals and sieve tube cells of vascular plants."
+    },
+    {
+      "id": "CUL_195",
+      "topic": "Nucleus",
+      "question": "The nucleoli are:",
+      "options": {
+        "A": "Membrane-bound spherical structures",
+        "B": "Non-membrane-bound spherical structures",
+        "C": "Double membrane-bound",
+        "D": "Found only in prokaryotes"
+      },
+      "correct_option": "B",
+      "explanation": "The content of nucleolus is continuous with the rest of the nucleoplasm as it is not a membrane-bound structure."
+    },
+    {
+      "id": "CUL_196",
+      "topic": "Nucleus",
+      "question": "Nucleolus is a site for active synthesis of:",
+      "options": {
+        "A": "DNA",
+        "B": "Ribosomal RNA",
+        "C": "mRNA",
+        "D": "Proteins"
+      },
+      "correct_option": "B",
+      "explanation": "It (nucleolus) is a site for active ribosomal RNA synthesis."
+    },
+    {
+      "id": "CUL_197",
+      "topic": "Nucleus",
+      "question": "Larger and more numerous nucleoli are present in cells actively carrying out:",
+      "options": {
+        "A": "Cell division",
+        "B": "Photosynthesis",
+        "C": "Protein synthesis",
+        "D": "Lipid synthesis"
+      },
+      "correct_option": "C",
+      "explanation": "Larger and more numerous nucleoli are present in cells actively carrying out protein synthesis."
+    },
+    {
+      "id": "CUL_198",
+      "topic": "Chromosomes",
+      "question": "Chromatin contains:",
+      "options": {
+        "A": "DNA only",
+        "B": "DNA, histones, non-histone proteins, and RNA",
+        "C": "RNA only",
+        "D": "Proteins only"
+      },
+      "correct_option": "B",
+      "explanation": "Chromatin contains DNA and some basic proteins called histones, some non-histone proteins and also RNA."
+    },
+    {
+      "id": "CUL_199",
+      "topic": "Chromosomes",
+      "question": "A single human cell has approximately how long a thread of DNA distributed among 46 chromosomes?",
+      "options": {
+        "A": "One metre",
+        "B": "Two metres",
+        "C": "Five metres",
+        "D": "Ten metres"
+      },
+      "correct_option": "B",
+      "explanation": "A single human cell has approximately two metre long thread of DNA distributed among its forty six (twenty three pairs) chromosomes."
+    },
+    {
+      "id": "CUL_200",
+      "topic": "Chromosomes",
+      "question": "The primary constriction of a chromosome is called the:",
+      "options": {
+        "A": "Satellite",
+        "B": "Kinetochore",
+        "C": "Centromere",
+        "D": "Chromatid"
+      },
+      "correct_option": "C",
+      "explanation": "Every chromosome essentially has a primary constriction or the centromere on the sides of which disc shaped structures called kinetochores are present."
+    },
+    {
+      "id": "CUL_201",
+      "topic": "Chromosomes",
+      "question": "Disc-shaped structures present on the sides of the centromere are called:",
+      "options": {
+        "A": "Satellites",
+        "B": "Kinetochores",
+        "C": "Histones",
+        "D": "Nucleosomes"
+      },
+      "correct_option": "B",
+      "explanation": "Disc-shaped structures called kinetochores are present on the sides of the centromere."
+    },
+    {
+      "id": "CUL_202",
+      "topic": "Chromosomes",
+      "question": "The centromere holds together the:",
+      "options": {
+        "A": "Two chromatids of a chromosome",
+        "B": "Two chromosomes",
+        "C": "Sister chromosomes",
+        "D": "Homologous chromosomes"
+      },
+      "correct_option": "A",
+      "explanation": "Centromere holds two chromatids of a chromosome."
+    },
+    {
+      "id": "CUL_203",
+      "topic": "Chromosomes",
+      "question": "A chromosome with the centromere in the middle, forming two equal arms, is called:",
+      "options": {
+        "A": "Acrocentric",
+        "B": "Sub-metacentric",
+        "C": "Metacentric",
+        "D": "Telocentric"
+      },
+      "correct_option": "C",
+      "explanation": "The metacentric chromosome has middle centromere forming two equal arms of the chromosome."
+    },
+    {
+      "id": "CUL_204",
+      "topic": "Chromosomes",
+      "question": "A chromosome with centromere slightly away from the middle, resulting in one shorter and one longer arm, is called:",
+      "options": {
+        "A": "Metacentric",
+        "B": "Sub-metacentric",
+        "C": "Acrocentric",
+        "D": "Telocentric"
+      },
+      "correct_option": "B",
+      "explanation": "The sub-metacentric chromosome has centromere slightly away from the middle of the chromosome resulting into one shorter arm and one longer arm."
+    },
+    {
+      "id": "CUL_205",
+      "topic": "Chromosomes",
+      "question": "A chromosome with centromere close to its end, forming one extremely short and one very long arm, is called:",
+      "options": {
+        "A": "Metacentric",
+        "B": "Sub-metacentric",
+        "C": "Acrocentric",
+        "D": "Telocentric"
+      },
+      "correct_option": "C",
+      "explanation": "In case of acrocentric chromosome the centromere is situated close to its end forming one extremely short and one very long arm."
+    },
+    {
+      "id": "CUL_206",
+      "topic": "Chromosomes",
+      "question": "A chromosome with a terminal centromere is called:",
+      "options": {
+        "A": "Metacentric",
+        "B": "Sub-metacentric",
+        "C": "Acrocentric",
+        "D": "Telocentric"
+      },
+      "correct_option": "D",
+      "explanation": "The telocentric chromosome has a terminal centromere."
+    },
+    {
+      "id": "CUL_207",
+      "topic": "Chromosomes",
+      "question": "A small fragment that appears when chromosomes have non-staining secondary constrictions at constant locations is called:",
+      "options": {
+        "A": "Kinetochore",
+        "B": "Satellite",
+        "C": "Centromere",
+        "D": "Chromatid"
+      },
+      "correct_option": "B",
+      "explanation": "Sometimes a few chromosomes have non-staining secondary constrictions at a constant location. This gives the appearance of a small fragment called the satellite."
+    },
+    {
+      "id": "CUL_208",
+      "topic": "Microbodies",
+      "question": "Microbodies are membrane-bound minute vesicles that contain:",
+      "options": {
+        "A": "Pigments",
+        "B": "Various enzymes",
+        "C": "DNA",
+        "D": "RNA"
+      },
+      "correct_option": "B",
+      "explanation": "Many membrane-bound minute vesicles called microbodies that contain various enzymes, are present in both plant and animal cells."
+    },
+    {
+      "id": "CUL_209",
+      "topic": "Microbodies",
+      "question": "Microbodies are found in:",
+      "options": {
+        "A": "Only plant cells",
+        "B": "Only animal cells",
+        "C": "Both plant and animal cells",
+        "D": "Only prokaryotes"
+      },
+      "correct_option": "C",
+      "explanation": "Many membrane-bound minute vesicles called microbodies are present in both plant and animal cells."
+    },
+    {
+      "id": "CUL_210",
+      "topic": "Overview of Cell",
+      "question": "Which cellular membrane is selectively permeable?",
+      "options": {
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Middle lamella",
+        "D": "Tonoplast only"
+      },
+      "correct_option": "B",
+      "explanation": "One of the most important functions of the plasma membrane is the transport of molecules across it. The membrane is selectively permeable."
+    },
+    {
+      "id": "CUL_211",
+      "topic": "Prokaryotic Cells",
+      "question": "Nuclear membrane is found in:",
+      "options": {
+        "A": "Prokaryotes",
+        "B": "Eukaryotes",
+        "C": "Both",
+        "D": "Neither"
+      },
+      "correct_option": "B",
+      "explanation": "Nuclear membrane is found in eukaryotes. Prokaryotes lack a nuclear membrane."
+    },
+    {
+      "id": "CUL_212",
+      "topic": "Cell Theory",
+      "question": "Which of the following statements is part of cell theory as understood today?",
+      "options": {
+        "A": "All cells have nucleus",
+        "B": "Cells arise from abiotic material",
+        "C": "All living organisms are composed of cells and products of cells",
+        "D": "Only plants are made of cells"
+      },
+      "correct_option": "C",
+      "explanation": "Cell theory states: (i) all living organisms are composed of cells and products of cells, and (ii) all cells arise from pre-existing cells."
+    },
+    {
+      "id": "CUL_213",
+      "topic": "Eukaryotic Cells",
+      "question": "The endomembrane system components have functions that are:",
+      "options": {
+        "A": "Independent of each other",
+        "B": "Coordinated",
+        "C": "Opposite to each other",
+        "D": "Unrelated"
+      },
+      "correct_option": "B",
+      "explanation": "Many membranous organelles are considered together as an endomembrane system because their functions are coordinated."
+    },
+    {
+      "id": "CUL_214",
+      "topic": "Cell Membrane",
+      "question": "The fluid mosaic model explains why the membrane can perform functions like:",
+      "options": {
+        "A": "Cell growth, secretion, endocytosis, cell division",
+        "B": "Protein synthesis only",
+        "C": "DNA replication",
+        "D": "Energy production"
+      },
+      "correct_option": "A",
+      "explanation": "The fluid nature of the membrane is important from the point of view of functions like cell growth, formation of intercellular junctions, secretion, endocytosis, cell division etc."
+    },
+    {
+      "id": "CUL_215",
+      "topic": "Prokaryotic Cells",
+      "question": "In prokaryotes, the single chromosome is:",
+      "options": {
+        "A": "Linear",
+        "B": "Circular",
+        "C": "Spiral",
+        "D": "Attached to nuclear membrane"
+      },
+      "correct_option": "B",
+      "explanation": "In addition to the genomic DNA (the single chromosome/circular DNA), many bacteria have small circular DNA outside the genomic DNA."
+    },
+    {
+      "id": "CUL_216",
+      "topic": "Mitochondria",
+      "question": "The two aqueous compartments of mitochondria are:",
+      "options": {
+        "A": "Matrix and stroma",
+        "B": "Outer compartment and inner compartment",
+        "C": "Lumen and matrix",
+        "D": "Granum and stroma"
+      },
+      "correct_option": "B",
+      "explanation": "The two membranes divide the mitochondrial lumen distinctly into two aqueous compartments, i.e., the outer compartment and the inner compartment."
+    },
+    {
+      "id": "CUL_217",
+      "topic": "Golgi Apparatus",
+      "question": "The Golgi apparatus remains in close association with the endoplasmic reticulum because:",
+      "options": {
+        "A": "Both are made of same membrane",
+        "B": "Vesicles from ER fuse with cis face of Golgi",
+        "C": "Both synthesize proteins",
+        "D": "Both are in nucleus"
+      },
+      "correct_option": "B",
+      "explanation": "Materials to be packaged in the form of vesicles from the ER fuse with the cis face of the golgi apparatus, which explains why the golgi apparatus remains in close association with the endoplasmic reticulum."
+    },
+    {
+      "id": "CUL_218",
+      "topic": "Vacuoles",
+      "question": "What does the vacuole contain?",
+      "options": {
+        "A": "Only water",
+        "B": "Water, sap, excretory products and other materials not useful for the cell",
+        "C": "Only enzymes",
+        "D": "Only pigments"
+      },
+      "correct_option": "B",
+      "explanation": "The vacuole contains water, sap, excretory product and other materials not useful for the cell."
+    },
+    {
+      "id": "CUL_219",
+      "topic": "Plastids",
+      "question": "Based on the type of pigments, plastids can be classified into how many types?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_option": "B",
+      "explanation": "Based on the type of pigments plastids can be classified into chloroplasts, chromoplasts and leucoplasts — three types."
+    },
+    {
+      "id": "CUL_220",
+      "topic": "Chloroplasts",
+      "question": "In chloroplasts, the inner chloroplast membrane is:",
+      "options": {
+        "A": "More permeable than outer",
+        "B": "Relatively less permeable",
+        "C": "Equally permeable to outer",
+        "D": "Impermeable to everything"
+      },
+      "correct_option": "B",
+      "explanation": "Of the two membranes, the inner chloroplast membrane is relatively less permeable."
+    },
+    {
+      "id": "CUL_221",
+      "topic": "Prokaryotic Cells",
+      "question": "Which statement about prokaryotic cells is INCORRECT?",
+      "options": {
+        "A": "They have a cell wall",
+        "B": "They have ribosomes",
+        "C": "They have membrane-bound nucleus",
+        "D": "They may have plasmids"
+      },
+      "correct_option": "C",
+      "explanation": "Prokaryotic cells do NOT have a membrane-bound nucleus. They lack nuclear envelope."
+    },
+    {
+      "id": "CUL_222",
+      "topic": "Cell Membrane",
+      "question": "Simple diffusion occurs along the:",
+      "options": {
+        "A": "Against concentration gradient",
+        "B": "Along concentration gradient (from higher to lower)",
+        "C": "Independent of concentration",
+        "D": "Only through protein channels"
+      },
+      "correct_option": "B",
+      "explanation": "Neutral solutes may move across the membrane by the process of simple diffusion along the concentration gradient, i.e., from higher concentration to the lower."
+    },
+    {
+      "id": "CUL_223",
+      "topic": "Nucleus",
+      "question": "During cell division, cells show structured chromosomes in place of the nucleus. During interphase there is:",
+      "options": {
+        "A": "Condensed chromatin",
+        "B": "Loose and indistinct network of nucleoprotein fibres (chromatin)",
+        "C": "No chromatin",
+        "D": "Only nucleolus"
+      },
+      "correct_option": "B",
+      "explanation": "The interphase nucleus has a loose and indistinct network of nucleoprotein fibres called chromatin."
+    },
+    {
+      "id": "CUL_224",
+      "topic": "Eukaryotic Cells",
+      "question": "A typical eukaryotic cell consists of:",
+      "options": {
+        "A": "Cell membrane, nucleus, and cytoplasm",
+        "B": "Cell wall, nucleus, and plasmids",
+        "C": "Only nucleus and cytoplasm",
+        "D": "Cell membrane and ribosomes only"
+      },
+      "correct_option": "A",
+      "explanation": "A typical eukaryotic cell consists of a cell membrane, nucleus and cytoplasm."
+    },
+    {
+      "id": "CUL_225",
+      "topic": "Endomembrane System",
+      "question": "Why are mitochondria, chloroplasts, and peroxisomes NOT considered part of the endomembrane system?",
+      "options": {
+        "A": "They are too small",
+        "B": "Their functions are not coordinated with ER, Golgi, lysosomes and vacuoles",
+        "C": "They lack membranes",
+        "D": "They are only in plant cells"
+      },
+      "correct_option": "B",
+      "explanation": "Since the functions of the mitochondria, chloroplast and peroxisomes are not coordinated with the above components, these are not considered as part of the endomembrane system."
+    },
+    {
+      "id": "CUL_226",
+      "topic": "Cell Membrane",
+      "question": "In the phospholipid bilayer, which part is protected from the aqueous environment?",
+      "options": {
+        "A": "Polar heads",
+        "B": "Nonpolar tail of saturated hydrocarbons",
+        "C": "Cholesterol",
+        "D": "Peripheral proteins"
+      },
+      "correct_option": "B",
+      "explanation": "The arrangement ensures that the nonpolar tail of saturated hydrocarbons is protected from the aqueous environment."
+    },
+    {
+      "id": "CUL_227",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "Prokaryotic ribosomes are about __ by __ in size:",
+      "options": {
+        "A": "5nm by 10nm",
+        "B": "15nm by 20nm",
+        "C": "20nm by 30nm",
+        "D": "10nm by 15nm"
+      },
+      "correct_option": "B",
+      "explanation": "In prokaryotes, ribosomes are about 15 nm by 20 nm in size."
+    },
+    {
+      "id": "CUL_228",
+      "topic": "Cilia and Flagella",
+      "question": "Prokaryotic flagella are __ from eukaryotic flagella:",
+      "options": {
+        "A": "Structurally similar",
+        "B": "Structurally different",
+        "C": "Identical",
+        "D": "Larger"
+      },
+      "correct_option": "B",
+      "explanation": "The prokaryotic bacteria also possess flagella but these are structurally different from that of the eukaryotic flagella."
+    },
+    {
+      "id": "CUL_229",
+      "topic": "Cell Wall",
+      "question": "Which function of the cell wall involves cell communication?",
+      "options": {
+        "A": "Gives shape to cell",
+        "B": "Helps in cell-to-cell interaction",
+        "C": "Provides mechanical strength",
+        "D": "Acts as barrier to macromolecules"
+      },
+      "correct_option": "B",
+      "explanation": "Cell wall also helps in cell-to-cell interaction and provides barrier to undesirable macromolecules."
+    },
+    {
+      "id": "CUL_230",
+      "topic": "Inclusion Bodies",
+      "question": "Which is an example of an inclusion body in prokaryotes?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Phosphate granules",
+        "C": "Ribosomes",
+        "D": "Vacuoles"
+      },
+      "correct_option": "B",
+      "explanation": "Inclusion bodies include phosphate granules, cyanophycean granules and glycogen granules."
+    },
+    {
+      "id": "CUL_231",
+      "topic": "Eukaryotic Cells",
+      "question": "Eukaryotic cells possess a variety of complex locomotory and __ structures:",
+      "options": {
+        "A": "Photosynthetic",
+        "B": "Cytoskeletal",
+        "C": "Nuclear",
+        "D": "Secretory"
+      },
+      "correct_option": "B",
+      "explanation": "In addition, eukaryotic cells have a variety of complex locomotory and cytoskeletal structures."
+    },
+    {
+      "id": "CUL_232",
+      "topic": "Plastids",
+      "question": "Potato is an example where amyloplasts store:",
+      "options": {
+        "A": "Fats",
+        "B": "Proteins",
+        "C": "Starch",
+        "D": "Pigments"
+      },
+      "correct_option": "C",
+      "explanation": "Amyloplasts store carbohydrates (starch), e.g., potato."
+    },
+    {
+      "id": "CUL_233",
+      "topic": "Chloroplasts",
+      "question": "Chloroplasts are lens-shaped, oval, spherical, discoid or even ribbon-like organelles having variable length of:",
+      "options": {
+        "A": "1-3 µm",
+        "B": "5-10 µm",
+        "C": "10-20 µm",
+        "D": "20-40 µm"
+      },
+      "correct_option": "B",
+      "explanation": "These are lens-shaped, oval, spherical, discoid or even ribbon-like organelles having variable length (5-10µm) and width (2-4µm)."
+    },
+    {
+      "id": "CUL_234",
+      "topic": "Chloroplasts",
+      "question": "The width of chloroplasts is:",
+      "options": {
+        "A": "1-2 µm",
+        "B": "2-4 µm",
+        "C": "5-10 µm",
+        "D": "10-20 µm"
+      },
+      "correct_option": "B",
+      "explanation": "Chloroplasts have variable length (5-10µm) and width (2-4µm)."
+    },
+    {
+      "id": "CUL_235",
+      "topic": "Chloroplasts",
+      "question": "Number of chloroplasts per cell in the mesophyll is:",
+      "options": {
+        "A": "1-5",
+        "B": "5-10",
+        "C": "20-40",
+        "D": "40-80"
+      },
+      "correct_option": "C",
+      "explanation": "Their number varies from 1 per cell of the Chlamydomonas, a green alga to 20-40 per cell in the mesophyll."
+    },
+    {
+      "id": "CUL_236",
+      "topic": "Nucleus",
+      "question": "Which process occurs in the nucleus?",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "Lipid synthesis",
+        "C": "Heredity control",
+        "D": "Energy production"
+      },
+      "correct_option": "C",
+      "explanation": "The nucleus not only controls the activities of organelles but also plays a major role in heredity."
+    },
+    {
+      "id": "CUL_237",
+      "topic": "Cell Membrane",
+      "question": "The ratio of protein and lipid in cell membrane varies in different cell types. This is because:",
+      "options": {
+        "A": "All cells are identical",
+        "B": "Different cells have different types and amounts of membrane proteins",
+        "C": "Lipid composition never changes",
+        "D": "Proteins are absent in some membranes"
+      },
+      "correct_option": "B",
+      "explanation": "Later, biochemical investigation clearly revealed that the cell membranes also possess protein and carbohydrate. The ratio of protein and lipid varies considerably in different cell types."
+    },
+    {
+      "id": "CUL_238",
+      "topic": "Cell Theory",
+      "question": "The cell theory created the concept that:",
+      "options": {
+        "A": "All cells are identical",
+        "B": "Integrity of cellular organisation is necessary for life",
+        "C": "Cells can arise from non-living matter",
+        "D": "All organisms have same number of cells"
+      },
+      "correct_option": "B",
+      "explanation": "Cell theory also created a sense of mystery around living phenomena — the requirement of integrity of cellular organisation for living phenomena to be demonstrated or observed."
+    },
+    {
+      "id": "CUL_239",
+      "topic": "Overview of Cell",
+      "question": "Various chemical reactions occur in the cytoplasm to keep the cell in the:",
+      "options": {
+        "A": "Dormant state",
+        "B": "Living state",
+        "C": "Reproductive state",
+        "D": "Dead state"
+      },
+      "correct_option": "B",
+      "explanation": "Various chemical reactions occur in the cytoplasm to keep the cell in the 'living state'."
+    },
+    {
+      "id": "CUL_240",
+      "topic": "Prokaryotic Cells",
+      "question": "What makes the organisation of prokaryotic cells fundamentally similar despite their wide variety of shapes and functions?",
+      "options": {
+        "A": "All have nucleus",
+        "B": "All have similar cell envelopes and basic structure",
+        "C": "All are same size",
+        "D": "All have mitochondria"
+      },
+      "correct_option": "B",
+      "explanation": "The organisation of the prokaryotic cell is fundamentally similar even though prokaryotes exhibit a wide variety of shapes and functions."
+    },
+    {
+      "id": "CUL_241",
+      "topic": "Cell Membrane",
+      "question": "In which type of transport does a carrier protein facilitate movement of polar molecules across the membrane?",
+      "options": {
+        "A": "Active transport",
+        "B": "Simple diffusion",
+        "C": "Facilitated diffusion",
+        "D": "Osmosis"
+      },
+      "correct_option": "C",
+      "explanation": "Polar molecules require a carrier protein of the membrane to facilitate their transport across the membrane — this is facilitated diffusion."
+    },
+    {
+      "id": "CUL_242",
+      "topic": "Golgi Apparatus",
+      "question": "The cis and trans faces of the Golgi organelle are:",
+      "options": {
+        "A": "Identical and connected",
+        "B": "Entirely different but interconnected",
+        "C": "Identical and disconnected",
+        "D": "Different and not connected"
+      },
+      "correct_option": "B",
+      "explanation": "The cis and the trans faces of the organelle are entirely different, but interconnected."
+    },
+    {
+      "id": "CUL_243",
+      "topic": "Mitochondria",
+      "question": "The number of mitochondria per cell is variable depending on:",
+      "options": {
+        "A": "Cell size only",
+        "B": "Physiological activity of the cells",
+        "C": "Type of organism only",
+        "D": "Age of the cell only"
+      },
+      "correct_option": "B",
+      "explanation": "The number of mitochondria per cell is variable depending on the physiological activity of the cells."
+    },
+    {
+      "id": "CUL_244",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "Ribosomes are __ by any membrane:",
+      "options": {
+        "A": "Surrounded",
+        "B": "Not surrounded",
+        "C": "Enclosed",
+        "D": "Bound"
+      },
+      "correct_option": "B",
+      "explanation": "Ribosomes are composed of ribonucleic acid (RNA) and proteins and are not surrounded by any membrane."
+    },
+    {
+      "id": "CUL_245",
+      "topic": "Eukaryotic Cells",
+      "question": "Eukaryotic cells possess an organised nucleus with:",
+      "options": {
+        "A": "No membrane",
+        "B": "Nuclear envelope",
+        "C": "Cell wall",
+        "D": "Plasma membrane only"
+      },
+      "correct_option": "B",
+      "explanation": "Eukaryotic cells possess an organised nucleus with a nuclear envelope."
+    },
+    {
+      "id": "CUL_246",
+      "topic": "Centrosome and Centrioles",
+      "question": "Centrosomes are surrounded by amorphous:",
+      "options": {
+        "A": "Cytoplasmic material",
+        "B": "Pericentriolar materials",
+        "C": "Nuclear material",
+        "D": "Membranous material"
+      },
+      "correct_option": "B",
+      "explanation": "Centrioles are surrounded by amorphous pericentriolar materials."
+    },
+    {
+      "id": "CUL_247",
+      "topic": "Cell Membrane",
+      "question": "Chemical studies on cell membrane, especially in human RBCs, enabled scientists to deduce the possible structure of:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Nuclear membrane",
+        "C": "Plasma membrane",
+        "D": "Tonoplast"
+      },
+      "correct_option": "C",
+      "explanation": "Chemical studies on the cell membrane, especially in human red blood cells (RBCs), enabled the scientists to deduce the possible structure of plasma membrane."
+    },
+    {
+      "id": "CUL_248",
+      "topic": "Prokaryotic Cells",
+      "question": "Which character distinguishes plant cells from prokaryotes at the organelle level?",
+      "options": {
+        "A": "Plant cells have ribosomes, prokaryotes don't",
+        "B": "Plant cells have membrane-bound organelles, prokaryotes don't",
+        "C": "Plant cells have DNA, prokaryotes don't",
+        "D": "Plant cells have cell wall, prokaryotes don't"
+      },
+      "correct_option": "B",
+      "explanation": "Eukaryotic cells (including plants) have extensive compartmentalisation through membrane-bound organelles, while prokaryotes lack such membrane-bound organelles."
+    },
+    {
+      "id": "CUL_249",
+      "topic": "Cell Theory",
+      "question": "Virchow modified the hypothesis of Schleiden and Schwann to give the cell theory a __ shape:",
+      "options": {
+        "A": "Preliminary",
+        "B": "Draft",
+        "C": "Final",
+        "D": "Revised draft"
+      },
+      "correct_option": "C",
+      "explanation": "He (Virchow) modified the hypothesis of Schleiden and Schwann to give the cell theory a final shape."
+    },
+    {
+      "id": "CUL_250",
+      "topic": "Overview of Cell",
+      "question": "The shape of a cell may vary with:",
+      "options": {
+        "A": "The age of the organism",
+        "B": "The function the cell performs",
+        "C": "The size of the organism",
+        "D": "The temperature of the environment"
+      },
+      "correct_option": "B",
+      "explanation": "The shape of the cell may vary with the function they perform."
+    },
+    {
+      "id": "CUL_251",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "The ribosomes of a polysome translate the mRNA into:",
+      "options": {
+        "A": "DNA",
+        "B": "Proteins",
+        "C": "RNA",
+        "D": "Lipids"
+      },
+      "correct_option": "B",
+      "explanation": "The ribosomes of a polysome translate the mRNA into proteins."
+    },
+    {
+      "id": "CUL_252",
+      "topic": "Lysosomes",
+      "question": "Which enzymes are found in lysosomes?",
+      "options": {
+        "A": "Only lipases",
+        "B": "Only proteases",
+        "C": "Lipases, proteases, and carbohydrases",
+        "D": "Only carbohydrases"
+      },
+      "correct_option": "C",
+      "explanation": "The isolated lysosomal vesicles have been found to be very rich in almost all types of hydrolytic enzymes (hydrolases – lipases, proteases, carbohydrases)."
+    },
+    {
+      "id": "CUL_253",
+      "topic": "Nucleus",
+      "question": "In eukaryotes, the outer membrane of nuclear envelope:",
+      "options": {
+        "A": "Has no ribosomes",
+        "B": "Remains continuous with ER and bears ribosomes",
+        "C": "Is impermeable",
+        "D": "Has no pores"
+      },
+      "correct_option": "B",
+      "explanation": "The outer membrane usually remains continuous with the endoplasmic reticulum and also bears ribosomes on it."
+    },
+    {
+      "id": "CUL_254",
+      "topic": "Plastids",
+      "question": "Plastids are large and therefore:",
+      "options": {
+        "A": "Cannot be seen under light microscope",
+        "B": "Are easily observed under the microscope",
+        "C": "Require electron microscope",
+        "D": "Are not visible at all"
+      },
+      "correct_option": "B",
+      "explanation": "These (plastids) are easily observed under the microscope as they are large."
+    },
+    {
+      "id": "CUL_255",
+      "topic": "Cell Membrane",
+      "question": "Which molecules can move across the plasma membrane by simple diffusion?",
+      "options": {
+        "A": "Polar molecules",
+        "B": "Charged ions",
+        "C": "Neutral solutes",
+        "D": "Large proteins"
+      },
+      "correct_option": "C",
+      "explanation": "Neutral solutes may move across the membrane by the process of simple diffusion along the concentration gradient."
+    },
+    {
+      "id": "CUL_256",
+      "topic": "Prokaryotic Cells",
+      "question": "In bacteria, unique phenotypic characters from plasmid DNA include:",
+      "options": {
+        "A": "Flagella production",
+        "B": "Antibiotic resistance",
+        "C": "Photosynthesis ability",
+        "D": "Sporulation"
+      },
+      "correct_option": "B",
+      "explanation": "The plasmid DNA confers certain unique phenotypic characters to such bacteria. One such character is resistance to antibiotics."
+    },
+    {
+      "id": "CUL_257",
+      "topic": "Chromosomes",
+      "question": "Chromosomes are visible only in:",
+      "options": {
+        "A": "Interphase",
+        "B": "Dividing cells",
+        "C": "Resting cells",
+        "D": "Dead cells"
+      },
+      "correct_option": "B",
+      "explanation": "Every chromosome (visible only in dividing cells) essentially has a primary constriction or the centromere."
+    },
+    {
+      "id": "CUL_258",
+      "topic": "Cell Wall",
+      "question": "Which organelle contains plasmodesmata for intercellular connection?",
+      "options": {
+        "A": "Tonoplast and middle lamella",
+        "B": "Cell wall and middle lamellae",
+        "C": "Plasma membrane only",
+        "D": "ER and Golgi"
+      },
+      "correct_option": "B",
+      "explanation": "The cell wall and middle lamellae may be traversed by plasmodesmata which connect the cytoplasm of neighbouring cells."
+    },
+    {
+      "id": "CUL_259",
+      "topic": "Chloroplasts",
+      "question": "The stroma of chloroplast contains small, double-stranded circular DNA molecules and:",
+      "options": {
+        "A": "80S ribosomes",
+        "B": "70S ribosomes",
+        "C": "No ribosomes",
+        "D": "75S ribosomes"
+      },
+      "correct_option": "B",
+      "explanation": "The stroma also contains small, double-stranded circular DNA molecules and ribosomes. The ribosomes of the chloroplasts are smaller (70S)."
+    },
+    {
+      "id": "CUL_260",
+      "topic": "Mitochondria",
+      "question": "Mitochondria possess their own DNA, RNA, and ribosomes, suggesting they may have been:",
+      "options": {
+        "A": "Derived from nucleus",
+        "B": "Once free-living prokaryotic organisms (endosymbiont theory)",
+        "C": "Formed from ER",
+        "D": "Formed from lysosomes"
+      },
+      "correct_option": "B",
+      "explanation": "The matrix possesses single circular DNA molecule, a few RNA molecules, ribosomes (70S). These features suggest evolutionary origin from prokaryotes (endosymbiont theory)."
+    },
+    {
+      "id": "CUL_261",
+      "topic": "Cell Membrane",
+      "question": "The percentage of lipids in human erythrocyte membrane is approximately:",
+      "options": {
+        "A": "20%",
+        "B": "30%",
+        "C": "40%",
+        "D": "60%"
+      },
+      "correct_option": "C",
+      "explanation": "The membrane of the erythrocyte has approximately 52 per cent protein and 40 per cent lipids."
+    },
+    {
+      "id": "CUL_262",
+      "topic": "Cytoskeleton",
+      "question": "The cytoskeleton is present in the:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Vacuoles",
+        "D": "Mitochondria"
+      },
+      "correct_option": "B",
+      "explanation": "An elaborate network of filamentous proteinaceous structures is present in the cytoplasm, collectively referred to as the cytoskeleton."
+    },
+    {
+      "id": "CUL_263",
+      "topic": "Overview of Cell",
+      "question": "What was emphasised by the cell theory?",
+      "options": {
+        "A": "Diversity of life forms",
+        "B": "Unity underlying diversity — cellular organisation of all life",
+        "C": "Only plants have cells",
+        "D": "Cells vary in structure"
+      },
+      "correct_option": "B",
+      "explanation": "It is the cell theory that emphasised the unity underlying this diversity of forms, i.e., the cellular organisation of all life forms."
+    },
+    {
+      "id": "CUL_264",
+      "topic": "Eukaryotic Cells",
+      "question": "Plant cells have __ which help them withstand turgor pressure:",
+      "options": {
+        "A": "Centrioles",
+        "B": "Centrosomes",
+        "C": "Cell walls",
+        "D": "Mitochondria"
+      },
+      "correct_option": "C",
+      "explanation": "Plant cells have cell walls which give shape and provide structural support. The cell wall helps the plant cell withstand osmotic pressure (turgor)."
+    },
+    {
+      "id": "CUL_265",
+      "topic": "Ribosomes - Eukaryotic",
+      "question": "The 'S' value is a measure of density and size and is determined by:",
+      "options": {
+        "A": "Chromatography",
+        "B": "Sedimentation coefficient",
+        "C": "Electrophoresis",
+        "D": "Microscopy"
+      },
+      "correct_option": "B",
+      "explanation": "'S' (Svedberg's Unit) stands for the sedimentation coefficient; it is indirectly a measure of density and size."
+    },
+    {
+      "id": "CUL_266",
+      "topic": "Centrosome and Centrioles",
+      "question": "The hub of centrioles is connected with tubules of peripheral triplets by:",
+      "options": {
+        "A": "Axoneme",
+        "B": "Radial spokes",
+        "C": "Bridges",
+        "D": "Linkers"
+      },
+      "correct_option": "B",
+      "explanation": "The hub is connected with tubules of the peripheral triplets by radial spokes made of protein."
+    },
+    {
+      "id": "CUL_267",
+      "topic": "Nucleus",
+      "question": "The nucleoplasm contains nucleolus and:",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Chromatin",
+        "C": "Lipids",
+        "D": "Golgi"
+      },
+      "correct_option": "B",
+      "explanation": "The nuclear matrix or the nucleoplasm contains nucleolus and chromatin."
+    },
+    {
+      "id": "CUL_268",
+      "topic": "Cell Membrane Transport",
+      "question": "Which process does NOT require energy?",
+      "options": {
+        "A": "Active transport",
+        "B": "Na+/K+ pump",
+        "C": "Osmosis",
+        "D": "Endocytosis"
+      },
+      "correct_option": "C",
+      "explanation": "Osmosis is the movement of water by diffusion, which is passive and does not require energy."
+    },
+    {
+      "id": "CUL_269",
+      "topic": "Prokaryotic Cells",
+      "question": "Plasmid DNA is used in biotechnology to monitor:",
+      "options": {
+        "A": "Cell division",
+        "B": "Bacterial transformation with foreign DNA",
+        "C": "Protein synthesis",
+        "D": "Membrane structure"
+      },
+      "correct_option": "B",
+      "explanation": "This plasmid DNA is used to monitor bacterial transformation with foreign DNA."
+    },
+    {
+      "id": "CUL_270",
+      "topic": "Golgi Apparatus",
+      "question": "Golgi cisternae are stacked:",
+      "options": {
+        "A": "Randomly",
+        "B": "Parallel to each other",
+        "C": "In a circular arrangement",
+        "D": "In a helical pattern"
+      },
+      "correct_option": "B",
+      "explanation": "These (cisternae) are stacked parallel to each other."
+    },
+    {
+      "id": "CUL_271",
+      "topic": "Chloroplasts",
+      "question": "Intergranal thylakoids are another name for:",
+      "options": {
+        "A": "Stroma lamellae",
+        "B": "Grana",
+        "C": "Lumen",
+        "D": "Thylakoids in grana"
+      },
+      "correct_option": "A",
+      "explanation": "Thylakoids are arranged in stacks called grana or the intergranal thylakoids. Stroma lamellae connect thylakoids of different grana."
+    },
+    {
+      "id": "CUL_272",
+      "topic": "Eukaryotic Cells",
+      "question": "Large central vacuole is present in:",
+      "options": {
+        "A": "Animal cells",
+        "B": "Prokaryotic cells",
+        "C": "Plant cells",
+        "D": "Bacterial cells"
+      },
+      "correct_option": "C",
+      "explanation": "Plant cells possess cell walls, plastids and a large central vacuole which are absent in animal cells."
+    },
+    {
+      "id": "CUL_273",
+      "topic": "Prokaryotic Cells",
+      "question": "Bacteria can be classified into Gram positive and Gram negative based on differences in:",
+      "options": {
+        "A": "Their size",
+        "B": "Cell envelopes and response to staining procedure",
+        "C": "Flagella presence",
+        "D": "DNA content"
+      },
+      "correct_option": "B",
+      "explanation": "Bacteria can be classified into two groups on the basis of the differences in the cell envelopes and the manner in which they respond to the staining procedure developed by Gram."
+    },
+    {
+      "id": "CUL_274",
+      "topic": "Cell Wall",
+      "question": "The middle lamella holds neighbouring cells together like:",
+      "options": {
+        "A": "A wall",
+        "B": "Glue",
+        "C": "A bridge",
+        "D": "A filter"
+      },
+      "correct_option": "B",
+      "explanation": "The middle lamella is a layer mainly of calcium pectate which holds or glues the different neighbouring cells together."
+    },
+    {
+      "id": "CUL_275",
+      "topic": "Mitochondria",
+      "question": "The outer membrane of mitochondria forms:",
+      "options": {
+        "A": "Cristae",
+        "B": "Matrix",
+        "C": "Continuous limiting boundary of the organelle",
+        "D": "Inner compartment"
+      },
+      "correct_option": "C",
+      "explanation": "The outer membrane forms the continuous limiting boundary of the organelle."
+    },
+    {
+      "id": "CUL_276",
+      "topic": "Cell Membrane",
+      "question": "The fluid mosaic model is also known as:",
+      "options": {
+        "A": "Unit membrane model",
+        "B": "Fluid bilayer model",
+        "C": "Singer-Nicolson model",
+        "D": "Lipid monolayer model"
+      },
+      "correct_option": "C",
+      "explanation": "The model was proposed by Singer and Nicolson (1972), hence also known as Singer-Nicolson model or fluid mosaic model."
+    },
+    {
+      "id": "CUL_277",
+      "topic": "Chloroplasts",
+      "question": "Chloroplasts contain double-stranded circular DNA in their:",
+      "options": {
+        "A": "Thylakoids",
+        "B": "Grana",
+        "C": "Stroma",
+        "D": "Outer membrane"
+      },
+      "correct_option": "C",
+      "explanation": "The stroma of the chloroplast contains enzymes required for the synthesis of carbohydrates and proteins. It also contains small, double-stranded circular DNA molecules and ribosomes."
+    },
+    {
+      "id": "CUL_278",
+      "topic": "Nucleus",
+      "question": "Sieve tube cells of vascular plants are mature cells that:",
+      "options": {
+        "A": "Have multiple nuclei",
+        "B": "Lack a nucleus",
+        "C": "Have very large nuclei",
+        "D": "Have nuclei at periphery"
+      },
+      "correct_option": "B",
+      "explanation": "Some mature cells even lack nucleus, e.g., erythrocytes of many mammals and sieve tube cells of vascular plants."
+    },
+    {
+      "id": "CUL_279",
+      "topic": "Chromosomes",
+      "question": "Human cells have how many pairs of chromosomes?",
+      "options": {
+        "A": "22 pairs",
+        "B": "23 pairs",
+        "C": "24 pairs",
+        "D": "46 pairs"
+      },
+      "correct_option": "B",
+      "explanation": "A single human cell has approximately two metre long thread of DNA distributed among its forty six (twenty three pairs) chromosomes."
+    },
+    {
+      "id": "CUL_280",
+      "topic": "Eukaryotic Cells",
+      "question": "Which organelle is common in eukaryotes but NOT considered part of endomembrane system?",
+      "options": {
+        "A": "Golgi complex",
+        "B": "Lysosomes",
+        "C": "Peroxisomes",
+        "D": "Vacuoles"
+      },
+      "correct_option": "C",
+      "explanation": "Peroxisomes, along with mitochondria and chloroplasts, are not considered part of the endomembrane system because their functions are not coordinated with ER, Golgi, lysosomes and vacuoles."
+    },
+    {
+      "id": "CUL_281",
+      "topic": "Overview of Cell",
+      "question": "Cells differ greatly in their shape. They may be:",
+      "options": {
+        "A": "Only disc-like or spherical",
+        "B": "Disc-like, polygonal, columnar, cuboid, thread-like, or irregular",
+        "C": "Only elongated",
+        "D": "Only rectangular"
+      },
+      "correct_option": "B",
+      "explanation": "Cells also vary greatly in their shape. They may be disc-like, polygonal, columnar, cuboid, thread-like, or even irregular."
+    },
+    {
+      "id": "CUL_282",
+      "topic": "Prokaryotic Cells",
+      "question": "Which of the following is found only in eukaryotes and NOT in prokaryotes?",
+      "options": {
+        "A": "Ribosomes",
+        "B": "DNA",
+        "C": "Golgi apparatus",
+        "D": "Cell membrane"
+      },
+      "correct_option": "C",
+      "explanation": "Prokaryotic cells lack membrane-bound organelles like Golgi apparatus. They only have ribosomes (non-membrane-bound) among organelle-like structures."
+    },
+    {
+      "id": "CUL_283",
+      "topic": "Lysosomes",
+      "question": "Lysosomes are also called 'suicide bags' because they:",
+      "options": {
+        "A": "Produce energy",
+        "B": "Contain hydrolytic enzymes that can digest the cell itself",
+        "C": "Are involved in cell division",
+        "D": "Synthesize proteins"
+      },
+      "correct_option": "B",
+      "explanation": "Lysosomes contain hydrolytic enzymes that are capable of digesting carbohydrates, proteins, lipids and nucleic acids, hence can destroy the cell itself — earning them the name 'suicide bags'."
+    },
+    {
+      "id": "CUL_284",
+      "topic": "Cell Membrane Transport",
+      "question": "Osmosis is specifically the movement of:",
+      "options": {
+        "A": "All molecules from high to low concentration",
+        "B": "Water by diffusion",
+        "C": "Ions against concentration gradient",
+        "D": "Proteins across membrane"
+      },
+      "correct_option": "B",
+      "explanation": "Movement of water by diffusion is called osmosis."
+    },
+    {
+      "id": "CUL_285",
+      "topic": "Introduction to Cell",
+      "question": "Anything less than a complete structure of a cell does not ensure:",
+      "options": {
+        "A": "Reproduction",
+        "B": "Independent living",
+        "C": "Protein synthesis",
+        "D": "Metabolism"
+      },
+      "correct_option": "B",
+      "explanation": "Anything less than a complete structure of a cell does not ensure independent living. Hence, cell is the fundamental structural and functional unit."
+    },
+    {
+      "id": "CUL_286",
+      "topic": "Golgi Apparatus",
+      "question": "Where are the Golgi cisternae concentrically arranged?",
+      "options": {
+        "A": "Near the plasma membrane",
+        "B": "Near the nucleus",
+        "C": "In the vacuoles",
+        "D": "In the mitochondria"
+      },
+      "correct_option": "B",
+      "explanation": "The Golgi cisternae are concentrically arranged near the nucleus with distinct convex cis or the forming face and concave trans or the maturing face."
+    },
+    {
+      "id": "CUL_287",
+      "topic": "Cilia and Flagella",
+      "question": "The peripheral doublets of cilia/flagella axoneme are interconnected by:",
+      "options": {
+        "A": "Radial spokes",
+        "B": "Bridges",
+        "C": "Linkers",
+        "D": "Axonemal proteins"
+      },
+      "correct_option": "C",
+      "explanation": "The peripheral doublets are also interconnected by linkers."
+    },
+    {
+      "id": "CUL_288",
+      "topic": "Mitochondria",
+      "question": "The length of mitochondria is:",
+      "options": {
+        "A": "0.1 to 0.5 µm",
+        "B": "1.0 to 4.1 µm",
+        "C": "5 to 10 µm",
+        "D": "10 to 20 µm"
+      },
+      "correct_option": "B",
+      "explanation": "Mitochondria typically have a diameter of 0.2-1.0µm (average 0.5µm) and length 1.0-4.1µm."
+    },
+    {
+      "id": "CUL_289",
+      "topic": "Nucleus",
+      "question": "The nuclear matrix is also called:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Nucleoplasm",
+        "C": "Nucleolus",
+        "D": "Chromatin"
+      },
+      "correct_option": "B",
+      "explanation": "The nuclear matrix or the nucleoplasm contains nucleolus and chromatin."
+    },
+    {
+      "id": "CUL_290",
+      "topic": "Vacuoles",
+      "question": "In Amoeba, the contractile vacuole helps in:",
+      "options": {
+        "A": "Digestion",
+        "B": "Osmoregulation and excretion",
+        "C": "Photosynthesis",
+        "D": "Cell division"
+      },
+      "correct_option": "B",
+      "explanation": "In Amoeba, the contractile vacuole is important for osmoregulation and excretion."
+    },
+    {
+      "id": "CUL_291",
+      "topic": "Endoplasmic Reticulum",
+      "question": "The ER divides the intracellular space into how many compartments?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "ER divides the intracellular space into two distinct compartments — luminal (inside ER) and extra luminal (cytoplasm) compartments."
+    },
+    {
+      "id": "CUL_292",
+      "topic": "Golgi Apparatus",
+      "question": "Materials released from the trans face of Golgi include:",
+      "options": {
+        "A": "Unmodified proteins",
+        "B": "Proteins modified in the Golgi cisternae",
+        "C": "Lipids only",
+        "D": "RNA"
+      },
+      "correct_option": "B",
+      "explanation": "A number of proteins synthesised by ribosomes on the endoplasmic reticulum are modified in the cisternae of the golgi apparatus before they are released from its trans face."
+    },
+    {
+      "id": "CUL_293",
+      "topic": "Cell Theory",
+      "question": "Theodore Schwann (1839) studied different types of animal cells and concluded:",
+      "options": {
+        "A": "All animal cells have cell walls",
+        "B": "Animals and plants are composed of cells",
+        "C": "Cells arise spontaneously",
+        "D": "Only plants have cells"
+      },
+      "correct_option": "B",
+      "explanation": "Schwann proposed the hypothesis that the bodies of animals and plants are composed of cells and products of cells."
+    },
+    {
+      "id": "CUL_294",
+      "topic": "Ribosomes - Prokaryotic",
+      "question": "Prokaryotic 70S ribosome is made of:",
+      "options": {
+        "A": "50S + 30S subunits",
+        "B": "60S + 40S subunits",
+        "C": "60S + 30S subunits",
+        "D": "40S + 30S subunits"
+      },
+      "correct_option": "A",
+      "explanation": "Prokaryotic ribosomes are 70S, made of 50S and 30S subunits. (Note: 50+30 ≠ 70 because S values are not additive — they depend on shape and density.)"
+    },
+    {
+      "id": "CUL_295",
+      "topic": "Chloroplasts",
+      "question": "The stroma lamellae connect thylakoids of:",
+      "options": {
+        "A": "Same granum",
+        "B": "Different grana",
+        "C": "Stroma and grana",
+        "D": "Outer and inner membranes"
+      },
+      "correct_option": "B",
+      "explanation": "Flat membranous tubules called the stroma lamellae connecting the thylakoids of the different grana."
+    },
+    {
+      "id": "CUL_296",
+      "topic": "Cell Membrane",
+      "question": "The term 'selectively permeable' for the plasma membrane means:",
+      "options": {
+        "A": "It allows all molecules to pass",
+        "B": "It allows no molecules to pass",
+        "C": "It allows only selected molecules to pass",
+        "D": "It changes permeability randomly"
+      },
+      "correct_option": "C",
+      "explanation": "The membrane is selectively permeable to some molecules present on either side of it — meaning it controls which molecules can pass through."
+    },
+    {
+      "id": "CUL_297",
+      "topic": "Mitochondria",
+      "question": "The ribosomes in mitochondrial matrix are:",
+      "options": {
+        "A": "80S",
+        "B": "70S",
+        "C": "60S",
+        "D": "50S"
+      },
+      "correct_option": "B",
+      "explanation": "The matrix possesses single circular DNA molecule, a few RNA molecules, ribosomes (70S) and the components required for the synthesis of proteins."
+    },
+    {
+      "id": "CUL_298",
+      "topic": "Cilia and Flagella",
+      "question": "Cilia/flagella are covered with:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Nuclear membrane",
+        "D": "Glycocalyx"
+      },
+      "correct_option": "B",
+      "explanation": "The electron microscopic study shows that cilia/flagella are covered with plasma membrane."
+    },
+    {
+      "id": "CUL_299",
+      "topic": "Introduction to Cell",
+      "question": "Unicellular organisms are capable of:",
+      "options": {
+        "A": "Independent existence only",
+        "B": "Independent existence and performing essential functions of life",
+        "C": "Performing essential functions only",
+        "D": "None of the above"
+      },
+      "correct_option": "B",
+      "explanation": "Unicellular organisms are capable of (i) independent existence and (ii) performing the essential functions of life."
+    },
+    {
+      "id": "CUL_300",
+      "topic": "Centrosome and Centrioles",
+      "question": "The adjacent triplets in centrioles are:",
+      "options": {
+        "A": "Not connected",
+        "B": "Linked to each other",
+        "C": "Connected by central sheath",
+        "D": "Separated by bridges"
+      },
+      "correct_option": "B",
+      "explanation": "Each of the peripheral fibril is a triplet. The adjacent triplets are also linked."
+    }
+  ]
+}
