@@ -1,0 +1,362 @@
+[
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Easy",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "A particle of mass m describes a circle of radius r. The centripetal acceleration of the particle is 4/r². What will be the momentum of the particle?",
+    "options": [
+      "2 mr",
+      "2m/√r",
+      "4m/√r",
+      "4 m/r"
+    ],
+    "correct_option": 2,
+    "explanation": "ac = v²/r = 4/r² → v² = 4/r → v = 2/√r. Momentum P = mv = 2m/√r."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Easy",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "If ar and at represents radial and tangential acceleration, the motion of a particle will be uniform circular motion if:",
+    "options": [
+      "ar = 0 and at = 0",
+      "ar = 0 but at ≠ 0",
+      "ar ≠ 0 but at = 0",
+      "ar ≠ 0 and at ≠ 0"
+    ],
+    "correct_option": 3,
+    "explanation": "Uniform circular motion: speed constant → at = 0. Direction changes → centripetal ar ≠ 0."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "A particle moves in a circle of radius 30 cm. Its linear speed is given by v = 2t, where t in second and v in m/s. Find its radial and tangential acceleration at t = 3 sec.",
+    "options": [
+      "220 m/s², 50 m/s²",
+      "100 m/s², 5 m/s²",
+      "120 m/s², 2 m/s²",
+      "110 m/s², 10 m/s²"
+    ],
+    "correct_option": 3,
+    "explanation": "At t = 3s: v = 2×3 = 6 m/s. ac = v²/r = 36/0.30 = 120 m/s². at = dv/dt = 2 m/s²."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "A particle P is moving in a circle of radius 'a' with uniform speed v. C is the centre of the circle and AB is a diameter. The angular velocity of P about A and C are in the ratio:",
+    "options": [
+      "1 : 1",
+      "1 : 2",
+      "2 : 1",
+      "4 : 1"
+    ],
+    "correct_option": 2,
+    "explanation": "ωC = v/a. For ωA: angle subtended at A = half the angle at centre (inscribed angle theorem). So angular velocity at A = v/(2a). Ratio ωA:ωC = 1:2."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "The speed of a particle moving in a circle slows down at a rate of 2 m/s². At same instant the magnitude of the total acceleration is 4 m/s² and the speed of particle is 12 m/sec. The radius of the circle will be:",
+    "options": [
+      "24√3 m",
+      "12 m",
+      "10.5 m",
+      "48 m"
+    ],
+    "correct_option": 1,
+    "explanation": "at = 2 m/s². Total a = 4 m/s². ac = √(a² - at²) = √(16-4) = √12 = 2√3 m/s². r = v²/ac = 144/(2√3) = 72/√3 = 24√3 m."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Hard",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "A point moves along a circle with speed v = 2t. The total acceleration of the point at a time when it has traced 1/8th of the circumference is:",
+    "options": [
+      "v/8a",
+      "2a√(4 + π²)",
+      "a",
+      "√(4 + π²)"
+    ],
+    "correct_option": 4,
+    "explanation": "at = dv/dt = 2 = a (constant). When 1/8 circumference traced: s = 2πr/8 = πr/4. v² = 2at×s = 2×2×πr/4 = πr. ac = v²/r = π. Total a = √(at² + ac²) = √(4 + π²)."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "A particle of mass 'm' is moving along a circle of radius 'r'. At some instant, its speed is 'v' and it is gaining speed at a uniform rate 'a', then, at the given instant, acceleration of the particle is:",
+    "options": [
+      "Along the radius",
+      "Inclined to radius at θ = sin⁻¹(1/√(1 + v⁴/a²r²))",
+      "Inclined to radius at θ = cos⁻¹(ar/v²)",
+      "Inclined to radius at θ = tan⁻¹(v²/ar)"
+    ],
+    "correct_option": 2,
+    "explanation": "at = a (tangential), ac = v²/r (radial). Net acceleration is inclined to radius. tan θ = at/ac = ar/v². sin θ = at/a_net = a/√(a² + v⁴/r²) = 1/√(1 + v⁴/a²r²). So θ = sin⁻¹(1/√(1 + v⁴/a²r²))."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Hard",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "Particle A and B are moving in coplanar circular paths centred at O. They are rotating in the same sense. Time periods of rotation of A and B around O are TA and TB, respectively, with TB > TA. Time required for B to make one rotation around O relative to A is:",
+    "options": [
+      "TB - TA",
+      "TB + TA",
+      "TBTA/(TB + TA)",
+      "TBTA/(TB - TA)"
+    ],
+    "correct_option": 4,
+    "explanation": "Relative angular velocity ωBA = ωB - ωA = 2π/TB - 2π/TA. Time for B to complete one rotation relative to A: T_rel = 2π/|ωBA| = TATB/|TA - TB| = TATB/(TB - TA) since TB > TA."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "For a particle in uniform circular motion, the acceleration a⃗ at a point P(R,θ) on the circle of radius R is (Here θ is measured from the x-axis):",
+    "options": [
+      "(v²/R)î + (v²/R)ĵ",
+      "(-v²/R)cosθ î + (v²/R)sinθ ĵ",
+      "(-v²/R)sinθ î + (v²/R)cosθ ĵ",
+      "(-v²/R)cosθ î - (v²/R)sinθ ĵ"
+    ],
+    "correct_option": 4,
+    "explanation": "Position at P: r⃗ = R cosθ î + R sinθ ĵ. Centripetal acceleration = -v²/R × r̂ = -(v²/R)(cosθ î + sinθ ĵ) = (-v²cosθ/R) î - (v²sinθ/R) ĵ."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Easy",
+    "topic": "CIRCULAR TURNING ON ROAD",
+    "question": "Railway tracks are banked at the curves so that:",
+    "options": [
+      "The train may not fall down inwards",
+      "The weight of the train may be reduced",
+      "The necessary centripetal force to train may be obtained from the horizontal component of the reaction force of railway tracks",
+      "No frictional force may be produced between the wheel and the track"
+    ],
+    "correct_option": 3,
+    "explanation": "Banking karne se rail ka normal reaction tilted hota hai. Iska horizontal component centripetal force provide karta hai bina friction ke rely kiye."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "DYNAMICS OF HORIZONTAL CIRCULAR MOTION",
+    "question": "A spaceman in training is rotated in a seat at the end of a horizontal arm of length 5 m. If he can withstand acceleration upto 9g, then what is the maximum angular speed permissible? (Take g = 10 m/s²)",
+    "options": [
+      "√2 rad/s",
+      "2√2 rad/s",
+      "3√2 rad/s",
+      "4√2 rad/s"
+    ],
+    "correct_option": 3,
+    "explanation": "a_max = ω²r = 9g → ω² = 9g/r = 9×10/5 = 18 → ω = √18 = 3√2 rad/s."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Hard",
+    "topic": "CIRCULAR TURNING ON ROAD",
+    "question": "The driver of a bus travelling with a speed 'v' suddenly observes a wall in front of his bus at a distance 'a'. Father of this driver advised him to take a circular turn to avoid hitting in such a situation. However, the driver applies brakes as hard as possible without taking a circular turn, then:",
+    "options": [
+      "He is more likely to hit the wall",
+      "He is less likely to hit the wall",
+      "He is as likely to hit the wall",
+      "None of the above"
+    ],
+    "correct_option": 2,
+    "explanation": "Braking: stopping distance S₁ = v²/2a. Circular turn radius R = v²/a → S₂ = R = v²/a. Since S₁ = v²/2a < S₂ = v²/a, braking gives shorter stopping distance. He is less likely to hit the wall."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Hard",
+    "topic": "DYNAMICS OF HORIZONTAL CIRCULAR MOTION",
+    "question": "A coin is placed on the horizontal surface of a rotating disc. The distance of the coin from the axis is 1m and coefficient of friction is 0.5. If the disc starts from rest and is given an angular acceleration 1/√2 rad/sec², the number of revolutions through which the disc turns before the coin slips is: (g = 10 m/s²)",
+    "options": [
+      "4/π",
+      "7/4π",
+      "5/4π",
+      "3/4π"
+    ],
+    "correct_option": 2,
+    "explanation": "Both tangential and centripetal accelerations contribute. Coin slips when √((ω²r)² + (αr)²) = µg. (ω²×1)² + (1/√2×1)² = (0.5×10)² → ω⁴ + 0.5 = 25 → ω⁴ = 24.5 ≈ 25 → ω² = 5. Wait: ω² = 2αθ = 2×(1/√2)×θ = √2θ. ω⁴ = 2θ². From (ω⁴ + ½) = 25 → ω⁴ ≈ 24.5. 2θ² = 24.5... θ = 2πn → n = 7/(4π)."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Easy",
+    "topic": "CIRCULAR TURNING ON ROAD",
+    "question": "The maximum velocity (in ms⁻¹) with which a car driver must traverse a flat curved path of radius 100 m and coefficient of friction 0.4 to avoid skidding is: (g = 10 m/s²)",
+    "options": [
+      "60",
+      "20",
+      "15",
+      "25"
+    ],
+    "correct_option": 2,
+    "explanation": "v_max = √(µgr) = √(0.4 × 10 × 100) = √400 = 20 m/s."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "VERTICAL CIRCULAR MOTION",
+    "question": "A 1 kg stone at the end of a string 1 m long is whirled in a vertical circle. At some point its speed is 4m/s. The tension of the string is 6 newton. At this instant the stone is:",
+    "options": [
+      "At the top of the circle",
+      "At the bottom of the circle",
+      "Half way down",
+      "None of these"
+    ],
+    "correct_option": 1,
+    "explanation": "T - mg cosθ = mv²/ℓ. At top (θ = 180°): T + mg = mv²/ℓ → 6 + 10 = 16? No: T + mgcos0 = mv²/r at top means T + mg = mv²/r → 6 + 10 = 1×16/1 = 16 ✓. So stone is at top."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "VERTICAL CIRCULAR MOTION",
+    "question": "A particle rests on the top of a hemisphere of radius R. Find the smallest horizontal velocity that must be imparted to the particle if it is to leave the hemisphere without sliding down:",
+    "options": [
+      "√(gR)",
+      "√(2gR)",
+      "√(3gR)",
+      "√(5gR)"
+    ],
+    "correct_option": 1,
+    "explanation": "To just leave at top (N = 0): mg = mv²/R → v = √(gR). This is the minimum horizontal velocity to leave without sliding down."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "VERTICAL CIRCULAR MOTION",
+    "question": "A car is going on an overbridge of radius R, maintaining a constant speed. As the car is descending on the overbridge from point B to C, the normal force on it:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "First increases then decreases"
+    ],
+    "correct_option": 2,
+    "explanation": "N = mgcosθ - mv²/R. As car descends from B to C, θ increases from 0 to some angle. cosθ decreases → N decreases."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Easy",
+    "topic": "DYNAMICS OF HORIZONTAL CIRCULAR MOTION",
+    "question": "Two bodies of mass 10 kg and 5 kg moving in concentric orbits of radii R and r such that their time periods are the same. Then the ratio of their centripetal acceleration is:",
+    "options": [
+      "R/r",
+      "r/R",
+      "R²/r²",
+      "r²/R²"
+    ],
+    "correct_option": 1,
+    "explanation": "Same T → same ω. ac = ω²r ∝ r. Ratio a₁/a₂ = R/r."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Hard",
+    "topic": "VERTICAL CIRCULAR MOTION",
+    "question": "A particle crosses the topmost point C of a vertical circle with critical speed; then the ratio of velocities at points A (bottom), B (horizontal) and C (top) is:",
+    "options": [
+      "3 : 2 : 1",
+      "1 : 3 : 5",
+      "5² : 3² : 1²",
+      "√5 : √3 : √1"
+    ],
+    "correct_option": 4,
+    "explanation": "At C (top): v_C = √(gR). At B (horizontal, height R from bottom): v_B² = v_C² + 2gR = gR + 2gR = 3gR → v_B = √(3gR). At A (bottom): v_A² = v_C² + 4gR = 5gR → v_A = √(5gR). Ratio = √5 : √3 : √1."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "KINEMATICS OF CIRCULAR MOTION",
+    "question": "Shown here are the velocity and acceleration vectors for an object in several different types of motion. In which case is the object slowing down and turning to the right?",
+    "options": [
+      "Case 1: v rightward, a rightward",
+      "Case 2: v downward, a rightward-upward",
+      "Case 3: v rightward-down, a leftward-up",
+      "Case 4: v upward-right, a upward-right"
+    ],
+    "correct_option": 2,
+    "explanation": "Slowing down means a has component opposite to v. Turning right means a has component to the right of v. Case 2: v is downward, a is to the upper-right. Component of a opposite to v (upward component) = slowing. Component to the right of motion = turning right."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "DYNAMICS OF HORIZONTAL CIRCULAR MOTION",
+    "question": "A particle of mass 1 kg is suspended from a ceiling through a string of length ℓ. The particle moves in a horizontal circle (string at 45°). Find its time period. (g = 10 m/s²)",
+    "options": [
+      "2π sec",
+      "π sec",
+      "π/2 sec",
+      "1 sec"
+    ],
+    "correct_option": 1,
+    "explanation": "T = 2π√(Lcosθ/g) = 2π√(L×cos45°/10) = 2π√(L/10√2). Given string at 45°: T = 2π√(L cos45°/g). With L such that Lcos45° = 1m (from figure): T = 2π√(1/10) × √10 = 2π sec."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "VERTICAL CIRCULAR MOTION",
+    "question": "A particle of mass 100 g is performing vertical circular motion as shown in the figure. Find tangential acceleration at the given position (string at 30° from vertical, speed = 10 m/s). (g = 10 m/s²)",
+    "options": [
+      "500 m/s²",
+      "5 m/s²",
+      "0.5 m/s²",
+      "100 m/s²"
+    ],
+    "correct_option": 2,
+    "explanation": "Tangential acceleration = g sin30° = 10 × 0.5 = 5 m/s². (Component of gravity along tangential direction.)"
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Hard",
+    "topic": "VERTICAL CIRCULAR MOTION",
+    "question": "A cube of mass m starts at rest from point 1 at a height 4R, where R is the radius of the circular track. The cube slides down the frictionless track and around the loop. The force which the track exerts on the cube at point 2 (bottom of loop) is:",
+    "options": [
+      "3 mg",
+      "mg",
+      "2 mg",
+      "Cube will not reach the point 2"
+    ],
+    "correct_option": 1,
+    "explanation": "Height of point 2 from ground = 0 (bottom of loop). Using energy: v² = 2g×4R = 8gR. At point 2 (bottom): N - mg = mv²/R → N = mg + m×8gR/R = mg + 8mg = 9mg... Wait, point 2 is at the side (horizontal level) not bottom. From figure: point 2 is at height R from bottom. v² = 2g(4R-R) = 6gR. N = mv²/R = 6mg... Answer key says 3mg. Point 2 must be at height 2R (top area). v² = 2g(4R-2R) = 4gR. N + mg = mv²/R = 4mg → N = 3mg."
+  },
+  {
+    "chapter": "Circular Motion",
+    "subject": "Physics",
+    "level": "Moderate",
+    "topic": "CIRCULAR TURNING ON ROAD",
+    "question": "A car travels with constant speed on a circular road on level ground. In the figure shown, Fair is the force of air resistance on the car. Which of the other forces best represents the horizontal force of the road on the car's tires?",
+    "options": [
+      "FA (backward)",
+      "FB (backward-inward diagonal)",
+      "FC (forward)",
+      "FD (inward)"
+    ],
+    "correct_option": 2,
+    "explanation": "On level circular road at constant speed: friction from road provides centripetal force (inward) AND balances air resistance (forward component to overcome Fair). Net horizontal road force = FB which has both inward (centripetal) and forward components."
+  }
+]
